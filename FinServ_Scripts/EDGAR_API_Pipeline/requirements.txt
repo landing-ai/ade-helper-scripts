@@ -1,0 +1,6 @@
+requests>=2.31.0
+pandas>=2.0.0
+pathlib2>=2.3.7
+weasyprint>=61.0
+selenium>=4.0.0
+webdriver-manager>=3.8.0 
