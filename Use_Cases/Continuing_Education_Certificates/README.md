@@ -4,6 +4,8 @@
 
 This repository demonstrates how to extract structured information from CME (Continuing Medical Education) certificates using [LandingAI's Agentic Document Extraction (ADE)](https://docs.landing.ai/ade/ade-overview) service via the `agentic_doc` Python package.
 
+Try the Visual Playground at [Agentic Document Extraction Playground](https://va.landing.ai/demo/doc-extraction)
+
 ## 📌 What This Notebook Does
 
 - Parses PDF and image files (`.pdf`, `.png`, `.jpg`, `.jpeg`) using the LandingAI ADE API
@@ -25,6 +27,7 @@ Install dependencies:
 
 ```bash
 pip install agentic-doc
+```
 
 ### API Key
 
