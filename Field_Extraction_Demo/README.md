@@ -20,12 +20,14 @@ Create a `.env` file in the project root:
 VISION_AGENT_API_KEY=your_api_key_here
 
 ## 🗂️ Folder Structure
-.
-├── field_extraction_notebook.ipynb
-├── input_folder/        # PDF, PNG, JPG, JPEG files to process
-├── results_folder/      # Markdown & JSON outputs
-├── groundings_folder/   # Extraction grounding visuals
-└── .env                 # API key (not committed)
+
+    .
+    ├── field_extraction_notebook.ipynb   # Main notebook
+    ├── input_folder/                     # PDF, PNG, JPG, JPEG files to process
+    ├── results_folder/                   # Markdown & JSON outputs
+    ├── groundings_folder/                # Extraction grounding visuals
+    └── .env                              # API key (not committed)
+
 
 ## 📝 Notebook Workflow
 
