@@ -1,0 +1,39 @@
+{
+  "type": "object",
+  "title": "Continuing Medical Education",
+  "properties": {
+    "recipient_name": {
+      "type": "string",
+      "description": "Full name of the individual who received the certificate. Only the name. Remove any prefixes such as Mr. Mrs. or Dr. Also remove any credentials that may appear after the name such as BS, MD, DDS, RN"
+    },
+    "issuing_org": {
+      "type": "string",
+      "description": "Full name of the organization issuing the certificate."
+    },
+    "activity_title": {
+      "type": "string",
+      "description": "Title of the CME activity or material completed by the recipient."
+    },
+    "date_awarded": {
+      "type": "string",
+      "format": "YYYY-MM-DD",
+      "description": "Date when the certificate or credit was awarded."
+    },
+    "credit_awarded": {
+      "type": "string",
+      "description": "Amount and type of CME credit awarded to the recipient."
+    },
+    "credit_numeric": {
+      "type": "number",
+      "description": "Amount of CME credit awarded."
+    },
+    "ama_pra_cat1": {
+      "type": "boolean",
+      "description": "True if the CME credits awarded qualify for AMA PRA Category 1."
+    },
+    "ama_pra_cat2": {
+      "type": "boolean",
+      "description": "True if the CME credits awarded qualify for AMA PRA Category 2."
+    }
+  }
+}
