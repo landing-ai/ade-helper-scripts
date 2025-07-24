@@ -61,6 +61,7 @@ class CME(BaseModel):
     credit_numeric: float
     ama_pra_cat1: bool
     ama_pra_cat2: bool
+```
 
 ## 📤 Output
 
