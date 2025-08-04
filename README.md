@@ -2,6 +2,10 @@
 
 This repository contains helper scripts, pipelines, and demo applications built around [LandingAI’s Agentic Document Extraction (ADE)](https://docs.landing.ai/ade/ade-overview). The goal is to showcase **document understanding workflows** across different domains (financial filings, CME certificates, batch processing apps) and make them reproducible for internal and partner teams.
 
+## ⚠️ Disclaimer
+All sample helper scripts are provided **“as is”** for use with Agentic Document Extraction (ADE).  
+No warranty is expressed or implied, and no support is provided.
+
 ---
 
 ## 📁 Repository Structure
