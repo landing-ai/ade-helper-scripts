@@ -41,6 +41,14 @@ ade-helper-script/
     - Downloads 10-Ks directly from the SEC EDGAR API.  
     - Prepares filings for ADE processing and downstream analysis.  
 
+## 🌐 Deployment on AWS (Optional)
+
+For production, you can extend these workflows into a **serverless, event-driven pipeline**:
+- **S3** – upload documents to trigger processing.  
+- **Lambda** – run ADE parsing logic.  
+- **OpenSearch** – store and query embeddings at scale.  
+- **Bedrock (Claude, Titan)** – perform LLM-based RAG Q&A.  
+
 ---
 
 ### 2. **Workflows**
