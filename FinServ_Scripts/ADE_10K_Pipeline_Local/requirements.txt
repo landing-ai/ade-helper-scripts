@@ -1,0 +1,31 @@
+# Core libraries
+openai==1.35.10
+chromadb==0.5.5
+python-dotenv==1.0.1
+jupyterlab==4.2.5
+pillow==10.4.0
+pypdfium2==4.30.0
+
+# LandingAI ADE SDK
+agentic-doc==0.3.1
+
+# ADE dependencies (pinned for reproducibility)
+boto3==1.34.156
+google-api-python-client==2.133.0
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+httpx==0.27.2
+jsonschema==4.23.0
+opencv-python-headless==4.10.0.84
+pillow-heif==0.16.0
+protobuf==5.27.3
+pydantic==2.8.2
+pydantic-settings==2.5.2
+pymupdf==1.24.7
+pypdf==4.3.1
+requests==2.32.3
+structlog==24.4.0
+tenacity==9.0.0
+tqdm==4.66.5
+types-jsonschema==4.23.0.20240813
+typing_extensions==4.12.2
