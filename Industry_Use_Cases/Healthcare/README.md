@@ -1,49 +1,42 @@
 # Agentic Document Extraction in Healthcare
 
-Leverage LandingAI’s **Agentic Document Extraction** (ADE), a powerful suite of agentic vision APIs, to streamline diverse healthcare workflows—without the need for templates.
+Leverage LandingAI’s **Agentic Document Extraction** (ADE) to streamline diverse healthcare workflows—without the need for templates.
+
+ADE accurately extracts data from charts, tables, and complex visual layouts across type-written, hand-written, scanned and photogprahed documents. ADE provides visual grounding so that every extract field is linked back to its source to ensure traceability and trust.
+
+LandingAI is HIPAA compliant, ensuring that we have the necessary administrative, physical, and technical safeguards in place to protect sensitive Protected Health Information (PHI) for our customers in the healthcare industry. 
 
 ---
 
-## Why ADE for Healthcare
+##  Core Benefits of ADE in Healthcare  Workflows
 
-LandingAI’s ADE enables rapid deployment with reliable, template‑free document processing. Its visual grounding ensures traceability and trust. :contentReference[oaicite:0]{index=0}
+- **Accelerate Time‑Sensitive Workflows**  
+  Automate extraction from claims, lab reports, and medical forms, improving turnaround for approvals, reimbursements, and diagnostics.  
+
+- **Enhance Accuracy & Compliance**  
+  Reduce errors and ensures traceability—vital for audit-readiness and HIPAA compliance - with visual grounding and consistent field mapping.
+
+- **Boost Patient Experience**  
+  Shorten wait times, reduce manual errors, and free up staff for patient‑facing care by automating intake and documentation.
+
+- **Deploy Without Templates or Layout-Specific Model Training**  
+  ADE handles varied and complex document types (even low-quality scans) out of the box, requiring no template setup or model tuning.
 
 ---
 
 ## Key Use Cases
 
-### 1. **Claims & EOB Extraction**  
-- **Document types:** CMS‑1500, UB‑04, Explanation of Benefits (EOBs), billing statements  
-- **Benefits:** Speeds up claims processing, reduces errors, enhances revenue cycle management, enables faster reimbursements, better denial handling, and financial forecasting :contentReference[oaicite:1]{index=1}
-
-### 2. **Patient Intake & Medical Forms**  
+### 1. **Patient Intake & Medical Forms**  
 - **Document types:** Intake forms, IDs, insurance cards, consent forms  
-- **Benefits:** Digitizes and accelerates patient onboarding, improves data accuracy, shortens wait times, reduces admin costs, and boosts patient satisfaction :contentReference[oaicite:2]{index=2}
+- **Benefits:** Digitizes and accelerates patient onboarding, improves data accuracy, shortens wait times, reduces admin costs, and boosts patient satisfaction.
 
-### 3. **Lab Report & Diagnostic Extraction**  
+### 2. **Lab Report & Diagnostic Extraction**  
 - **Document types:** Lab PDFs, radiology reports, pathology summaries  
-- **Benefits:** Enables fast extraction and analysis of diagnostic data, supports clinical decision-making, improves reporting speed, enhances patient outcomes, and reduces manual workload :contentReference[oaicite:3]{index=3}
+- **Benefits:** Enables fast extraction and analysis of diagnostic data, supports clinical decision-making, improves reporting speed, enhances patient outcomes, and reduces manual workload.
+- **Starter Code and Demos Available:**
+-- Extract blood test values from lab reports. 
 
-### 4. **Prior Authorization Documents**  
+### 3. **Prior Authorization Documents**  
 - **Document types:** Clinical notes, referrals, forms, test results  
-- **Benefits:** Automates authorization workflows, speeds approvals, ensures compliance, decreases denials, lowers administrative costs, and accelerates patient access to care :contentReference[oaicite:4]{index=4}
-
----
-
-##  Additional Advantages
-
-- **Zero-template deployment:** Handle diverse document formats without custom templates :contentReference[oaicite:5]{index=5}  
-- **Visual Grounding & Traceability:** Every extracted field is linked back to its source (e.g., bounding box coordinates), building trust and transparency :contentReference[oaicite:6]{index=6}  
-- **Efficiency & Validation:** ADE outperforms conventional extractors—used to power RAG chatbots and QA systems at point of care, with instant, validated responses :contentReference[oaicite:7]{index=7}
-
----
-
-## Summary Table
-
-| Use Case                   | Document Types                         | Primary Benefits                                               |
-|----------------------------|----------------------------------------|----------------------------------------------------------------|
-| Claims & EOB Extraction    | CMS-1500, UB-04, EOBs, billing forms    | Faster reimbursements, accurate forecasting, error reduction   |
-| Patient Intake & Forms     | Intake forms, IDs, consent, insurance   | Improved accuracy, lower admin load, enhanced patient experience |
-| Lab & Diagnostic Extraction| Lab PDFs, radiology, pathology          | Faster analysis, better clinical decisions, reduced manual effort |
-| Prior Authorization Docs   | Clinical notes, referrals, test results | Quicker approvals, increased compliance, reduced denials       |
+- **Benefits:** Automates authorization workflows, speeds approvals, ensures compliance, decreases denials, lowers administrative costs, and accelerates patient access to care.
 
