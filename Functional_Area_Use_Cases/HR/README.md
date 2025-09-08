@@ -6,17 +6,17 @@ Human Resources teams manage a wide variety of employee-related documents—from
 
 ## Core Benefits of ADE in Corporate HR Workflows
 
-- **Accelerate Talent Processes**  
-  From resume screening to offer generation, ADE extracts key information quickly and feeds downstream systems for faster hiring and onboarding.
+- **Streamline Employee Onboarding**  
+  ADE automatically extracts critical information from onboarding documents like I‑9s, W‑4s, and background checks—reducing manual data entry, speeding up the hiring process, and improving compliance.
 
-- **Ensure Compliance & Auditability**  
-  With built-in visual grounding, ADE links every extracted data point to its source—ensuring traceable and compliant handling of sensitive employee documents.
+- **Accelerate Talent Acquisition**  
+  By parsing resumes and applications for skills, education, and experience, ADE enables faster candidate screening and seamless population of applicant tracking systems (ATS).
 
-- **Streamline Employee Lifecycle Management**  
-  Automate processing of forms and records throughout the employee journey—from application to exit—reducing manual effort and turnaround time.
+- **Support Compliance & Employee Development**  
+  ADE makes it easy to track continuing education requirements by extracting key training data (e.g. course names, CEU hours, license renewal dates), supporting both regulatory compliance and career development initiatives.
 
-- **Boost HRIS Data Quality**  
-  Reduce data entry errors by populating your Human Resource Information System (HRIS) or payroll platform with validated document data.
+- **Enable AI-Powered Employee Self-Service**  
+  When paired with Retrieval-Augmented Generation (RAG) systems, ADE transforms policy documents into structured, retrievable knowledge—fueling chatbots that provide instant, consistent, and trustworthy answers to HR questions around benefits, leave, policies, and more.
 
 ---
 
@@ -30,18 +30,10 @@ Human Resources teams manage a wide variety of employee-related documents—from
 - **Document Types:** Resumes, cover letters, job applications  
 - **Benefits:** Extracts skills, experience, education, and contact information to support faster candidate screening and ATS population.
 
-### 3. Benefits & Enrollment Forms  
-- **Document Types:** Health insurance forms, enrollment packets, beneficiary declarations  
-- **Benefits:** Digitizes and validates elections, supports payroll deductions, and ensures timely enrollment.
+### 3. Continuing Education & Training Record Management
+- **Document Types:** Certificates of completion, course transcripts, CEU reports, license renewal forms
+- **Benefits:** Enables HR teams to track compliance with continuing education requirements, automate professional license management, and support employee development reporting.
 
-### 4. Performance Reviews & Feedback Documents  
-- **Document Types:** Evaluation forms, self-assessments, manager feedback  
-- **Benefits:** Structures review cycles by extracting scores, goals, and performance notes to enable analytics and compliance tracking.
-
-### 5. HR Compliance & Policy Acknowledgment  
-- **Document Types:** Signed handbooks, training certifications, consent forms  
-- **Benefits:** Tracks policy acknowledgments, training completions, and maintains audit-ready records.
-
-### 6. Offboarding & Exit Documentation  
-- **Document Types:** Resignation letters, exit checklists, COBRA notices  
-- **Benefits:** Automates archiving, tracks compliance steps, and ensures timely benefit transitions.
+### 4. HR Policy Chatbots  
+- **Document Types:** Employee handbooks, benefits guides, PTO policies, DEI statements, compliance manuals  
+- **Benefits:** Reduces HR ticket volume, ensures consistency in communication, and enhances employee self-service with knowledgable chatbots to provide instant, accurate, and grounded answers to employee questions about policies, benefits, or procedures. 

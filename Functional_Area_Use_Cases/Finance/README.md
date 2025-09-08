@@ -31,4 +31,17 @@ In every industry, finance teams are inundated with unstructured documents—ven
 - **Benefits:** Extracts key terms (amount, delivery window, payment terms) for automated reconciliation against invoices or deliveries.
 
 ### 3. Expense Report Processing  
-- **Document Types:** Receipts, reimbursement forms, trave
+- **Document Types:** Receipts, reimbursement forms, travel invoices  
+- **Benefits:** Categorizes spend by department, flags out-of-policy expenses, and reduces time to reimbursement.
+
+### 4. Financial Statement Analysis  
+- **Document Types:** Balance sheets, income statements, bank statements  
+- **Benefits:** Extracts structured fields for reporting, variance analysis, and credit risk assessments.
+
+### 5. Tax Form Extraction  
+- **Document Types:** W‑9s, 1099s, VAT invoices, IRS Form 941  
+- **Benefits:** Automates data extraction for compliance filings and internal tax reporting.
+
+### 6. Audit & Compliance Preparation  
+- **Document Types:** Journal entry support, control documentation, prior audit reports  
+- **Benefits:** Enables structured retrieval and traceability of key financial records for internal and external audits.
