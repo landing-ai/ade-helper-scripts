@@ -1,0 +1,6 @@
+agentic-doc
+snowflake-connector-python
+pydantic
+python-dotenv
+notebook
+ipykernel
