@@ -61,7 +61,7 @@ from loader import Loader
 from metrics import Metrics
 from doc_utils import get_doc_pages
 from row_builder import rows_from_doc
-from sf_utils import ensure_formats_and_stages
+from sf_utils import ensure_formats_and_stages, put_original_to_raw_stage
 
 def run_pipeline_streaming(
     files: Iterable[str],
@@ -104,6 +104,8 @@ def run_pipeline_streaming(
         t_parse0 = time.perf_counter()
         doc = parse([fp], extraction_model=schema_cls)[0]
         parse_latency = time.perf_counter() - t_parse0
+
+        put_original_to_raw_stage(fp, settings, loader.conn)
 
         sent_at = datetime.now(timezone.utc)
         pages = get_doc_pages(doc)
