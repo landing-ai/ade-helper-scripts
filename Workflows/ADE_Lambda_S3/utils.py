@@ -69,7 +69,9 @@ def setup_aws_environment() -> Tuple[Dict, Dict, str, Any]:
         print(f"✅ AWS Environment configured")
         print(f"   Profile: {settings.aws_profile}")
         print(f"   Region: {session.region_name}")
-        print(f"   Account: {account_id}")
+        # Mask account ID for security
+        masked_account = account_id[:4] + "X" * (len(account_id) - 8) + account_id[-4:] if len(account_id) > 8 else "XXXXXXXXXXXX"
+        print(f"   Account: {masked_account}")
         
     except ClientError as e:
         error_code = e.response.get('Error', {}).get('Code', '')
