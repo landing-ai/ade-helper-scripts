@@ -89,7 +89,9 @@ test-*.docx
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
+# Allow demo notebooks
+!ADE_Lambda_Demo.ipynb
+!S3_Trigger_Setup.ipynb
 
 # MacOS
 .DS_Store
