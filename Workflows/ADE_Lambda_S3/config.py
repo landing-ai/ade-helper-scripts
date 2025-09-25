@@ -59,7 +59,27 @@ def get_settings() -> Settings:
     Get settings instance with environment variables loaded.
     Loads from .env file if it exists, otherwise uses environment variables.
     """
-    env_file = ".env" if Path(".env").exists() else None
+    # Force reload of dotenv to ensure fresh values
+    from dotenv import load_dotenv
+    
+    # Look for .env in current directory first, then parent directories
+    current_dir = Path.cwd()
+    env_file = None
+    
+    # Check current directory
+    if (current_dir / ".env").exists():
+        env_file = current_dir / ".env"
+    # Check parent directory (in case running from Workflows/ADE_Lambda_S3)
+    elif (current_dir.parent / ".env").exists():
+        env_file = current_dir.parent / ".env"
+    # Check grandparent directory
+    elif (current_dir.parent.parent / ".env").exists():
+        env_file = current_dir.parent.parent / ".env"
+    
+    # Explicitly load the .env file
+    if env_file:
+        load_dotenv(env_file, override=True)
+    
     return Settings(_env_file=env_file)
 
 # ===========================

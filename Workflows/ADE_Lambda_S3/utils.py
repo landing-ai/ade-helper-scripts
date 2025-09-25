@@ -36,39 +36,45 @@ def setup_aws_environment() -> Tuple[Dict, Dict, str, Any]:
     settings = get_settings()
     
     # Create session with profile if specified
+    # IMPORTANT: Force our settings region, not the profile's default
     if settings.aws_profile and settings.aws_profile != "default":
         session = boto3.Session(
             profile_name=settings.aws_profile,
-            region_name=settings.aws_region
+            region_name=settings.aws_region  # Force our region from .env
         )
     else:
         session = boto3.Session(region_name=settings.aws_region)
     
-    # Initialize clients
+    # Ensure the region is correctly set
+    session._session.set_config_variable('region', settings.aws_region)
+    
+    # Initialize clients with forced region
     # Create config with extended timeout for Lambda client
     lambda_config = Config(
         read_timeout=900,  # 15 minutes (max Lambda timeout)
         connect_timeout=60,
-        retries={'max_attempts': 0}
+        retries={'max_attempts': 0},
+        region_name=settings.aws_region  # Force region in config
     )
     
+    # Force region for all clients
     clients = {
-        's3': session.client('s3'),
-        'lambda': session.client('lambda', config=lambda_config),  # Extended timeout for Lambda
-        'ecr': session.client('ecr'),
-        'iam': session.client('iam'),
-        'logs': session.client('logs')
+        's3': session.client('s3', region_name=settings.aws_region),
+        'lambda': session.client('lambda', region_name=settings.aws_region, config=lambda_config),
+        'ecr': session.client('ecr', region_name=settings.aws_region),
+        'iam': session.client('iam', region_name=settings.aws_region),
+        'logs': session.client('logs', region_name=settings.aws_region)
     }
     
     # Get account ID and verify credentials
     try:
-        sts = session.client('sts')
+        sts = session.client('sts', region_name=settings.aws_region)
         identity = sts.get_caller_identity()
         account_id = identity['Account']
         
         print(f"✅ AWS Environment configured")
         print(f"   Profile: {settings.aws_profile}")
-        print(f"   Region: {session.region_name}")
+        print(f"   Region: {settings.aws_region}")  # Use settings region instead of session
         # Mask account ID for security
         masked_account = account_id[:4] + "X" * (len(account_id) - 8) + account_id[-4:] if len(account_id) > 8 else "XXXXXXXXXXXX"
         print(f"   Account: {masked_account}")
@@ -129,9 +135,28 @@ def setup_s3_trigger(s3_client, lambda_client, bucket_name: str, function_name: 
                      folder: str = "invoices/") -> bool:
     """Configure S3 event trigger for Lambda."""
     try:
-        # Get Lambda function ARN
+        # Check bucket region
+        bucket_location = s3_client.get_bucket_location(Bucket=bucket_name)
+        bucket_region = bucket_location.get('LocationConstraint', 'us-east-1')
+        # us-east-1 returns None as LocationConstraint
+        if bucket_region is None:
+            bucket_region = 'us-east-1'
+            
+        # Get Lambda function ARN and region
         response = lambda_client.get_function(FunctionName=function_name)
         function_arn = response['Configuration']['FunctionArn']
+        function_region = function_arn.split(':')[3]
+        
+        # Check region compatibility
+        if bucket_region != function_region:
+            print(f"⚠️  Region mismatch detected!")
+            print(f"   S3 Bucket region: {bucket_region}")
+            print(f"   Lambda function region: {function_region}")
+            print(f"\n❌ S3 event notifications require the bucket and Lambda function to be in the same region.")
+            print(f"\n💡 Solutions:")
+            print(f"   1. Deploy Lambda in {bucket_region} region, OR")
+            print(f"   2. Create a new S3 bucket in {function_region} region")
+            return False
         
         # Add S3 permission to Lambda
         statement_id = f"s3-trigger-{folder.replace('/', '-')}"
