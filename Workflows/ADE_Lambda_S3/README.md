@@ -123,7 +123,7 @@ CMD ["handler.lambda_handler"]
 #!/bin/bash
 
 # 1. Build Docker image locally
-ocker build --platform linux/arm64 -t ${FUNCTION_NAME}:latest .
+Docker build --platform linux/arm64 -t ${FUNCTION_NAME}:latest .
 
 # 2. Authenticate Docker to ECR
 aws ecr get-login-password --region ${AWS_REGION} \
