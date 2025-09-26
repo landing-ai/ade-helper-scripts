@@ -1,0 +1,27 @@
+File,Invoice #,Date,Customer,Supplier,Subtotal,Tax,Total,Currency,Line Items,Status
+invoice_1.pdf,INV33543191,2020-07-29,Abaxys Tech LLC,Zoom Video Communications Inc.,$149.90,-,-,USD,1,PAID
+invoice_10.pdf,1000110140,2025-05-15,ANDREA KROPP,Sheraton Tucson Hotel & Suites,-,-,-,USD,10,
+invoice_11.pdf,2071221,2021-08-30,Souhail Martesse,DollarFulfillment,-,-,"$1,800.87",USD,1,
+invoice_12.pdf,11828454,,ANDREA KROPP,Condor Flugdienst GmbH,-,-,"$2,579.96",USD,7,
+invoice_13.pdf,812,2021-12-02,SAGAR ASIA PRIVATE LIMITED,KANDHAN METAL COMPANY,"$5,102,920.00","$918,525.60","$6,021,446.00",INR,1,
+invoice_14.pdf,40458946,2019-02-23,"Gnr-Grupo Novo Rock, Lda",Thomann GmbH,-,-,$77.24,EUR,5,
+invoice_15.pdf,0000329003,2019-04-04,Nazish,Jade E-Services Pakistan Private Limited,$147.00,-,$147.00,PKR,1,
+invoice_16.pdf,1,2023-03-20,Mansoer Walizada,Walmart,"$1,529.94",$110.92,"$1,640.86",USD,1,PAID
+invoice_17.pdf,2014/00355,2014-12-10,Sandip Patil,Variant Technologies,"$2,800.00",-,"$2,800.00",,1,
+invoice_18.pdf,00000116271,2020-02-10,"Meridian Venture Services, LLC","Howard Custom Transfers, Inc.",$270.00,-,-,USD,2,PAID
+invoice_19.pdf,1457274,2024-08-31,Andrea Kropp,Harvest Hosts,$159.00,$13.83,$172.83,USD,2,PAID
+invoice_2.pdf,0001131,2020-01-29,Real Property Management,Roofing Renovations INC,"$2,650.00",-,"$2,650.00",USD,1,
+invoice_20.pdf,6DC1AEAF-0023,2024-05-26,Andrea Kropp,Posit Software PBC,$14.14,$1.14,$14.14,USD,2,
+invoice_21.pdf,8E8C6122-0016,2024-07-01,Andrea Kropp,Midjourney Inc,$30.00,$2.61,$32.61,USD,1,
+invoice_22.pdf,1009748,2018-08-21,Andrea Kropp,"Brainless Tees, Inc.",$279.00,$23.44,-,,4,PAID
+invoice_23.pdf,IY04370868,2024-05-06,,Alamy Inc,$45.00,$4.50,$49.50,USD,1,PAID
+invoice_24.pdf,F 247120,2025-08-11,Mrs Andrea Kropp,Frankfurt Airport Marriott Hotel,$168.01,$12.99,-,EUR,4,
+invoice_25.pdf,O-0023-14214,2024-05-27,ANDREA KROPP,OILSTOP,$210.32,$17.87,$228.19,,12,PAID
+invoice_26.pdf,2990,2024-08-08,Karl & Andrea Kropp,Three 60 Decks,"$33,650.80","$2,927.62",-,,4,PAID
+invoice_27.pdf,TRX5FPX4C-20,2025-03-02,Meridian Venture Services LLC,Amazon Advertising LLC,$103.93,-,$103.93,USD,3,
+invoice_3.pdf,52255,2022-10-03,Leo Vincent,"CUSTOM ELECTRIC & PLUMBING, INC.","$1,550.00",-,"$1,550.00",,3,
+invoice_4.pdf,138277,2022-01-24,NELSON INDUSTRIAL FABRICATORS,A.E. Blake Sales Ltd.,"$2,743.07",$356.60,"$3,099.67",CAD,3,
+invoice_5.pdf,2197,2023-04-01,"Leo Charles Vincent Abaxys Tech, LLC",The Nussbaum Center for Entrepreneurship,$346.00,-,$346.00,USD,2,
+invoice_6.pdf,301236,2024-04-26,Andrea Kropp,FROMUTH,$60.00,$6.96,$86.96,USD,3,
+invoice_7.pdf,D33Y350102708514,2023-03-27,Manjula Kannan,Reliance Retail Ltd,"$48,304.24","$8,694.76","$56,999.00",,1,
+invoice_9.pdf,FCL233308,2021-05-26,Leo Charles Vincent,Freshworks Inc.,$10.00,-,-,USD,1,PAID

@@ -1,0 +1,157 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.*
+!.env.template
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+pip-selfcheck.json
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# AWS and deployment
+*.pem
+*.key
+.aws/
+aws-exports.js
+
+# Docker
+*.log
+.dockerignore
+docker-compose.override.yml
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+*.cover
+.hypothesis/
+test-results/
+coverage.xml
+*.coveragerc
+
+# Lambda packages
+lambda-package.zip
+deployment-package.zip
+function.zip
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+tmp/
+temp/
+/tmp/
+
+# Local test artifacts
+sample_documents/
+test-invoice.txt
+test-report.txt
+response.json
+/tmp/response.json
+test-*.txt
+test-*.pdf
+test-*.docx
+*.test.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+# Allow demo notebooks
+!ADE_Lambda_Demo.ipynb
+!S3_Trigger_Setup.ipynb
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.directory
+.Trash-*
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Local development
+.localstack/
+localstack/
+node_modules/
+
+# Terraform (if you use it later)
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+!example.tfvars
+
+# SAM (AWS Serverless Application Model)
+.aws-sam/
+samconfig.toml
+
+# CDK (Cloud Development Kit)
+cdk.out/
+cdk.context.json
+
+# Credentials and certificates
+*.cer
+*.crt
+*.p12
+*.pfx
+credentials
+credentials.json
+secrets.json
+config.json
+!config.template.json
