@@ -324,10 +324,6 @@ EXTRACTION_SCHEMAS = {
 4. Push to the branch
 5. Open a Pull Request
 
-## 📜 License
-
-MIT License - see LICENSE file for details
-
 ## 🙏 Acknowledgments
 
 - [LandingAI](https://landing.ai) for the ADE API
