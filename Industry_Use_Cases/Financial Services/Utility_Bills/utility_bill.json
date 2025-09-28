@@ -1,0 +1,182 @@
+{
+  "type": "object",
+  "title": "Utility Bill Extraction Schema",
+  "description": "Schema for extracting key fields from diverse utility bills.",
+  "required": [
+    "provider_info",
+    "account_info",
+    "billing_summary",
+    "gas_charges",
+    "electric_charges"
+  ],
+  "properties": {
+    "provider_info": {
+      "type": "object",
+      "title": "Provider Information",
+      "required": [
+        "provider",
+        "phone_number",
+        "website",
+        "usage_bar_chart"
+      ],
+      "properties": {
+        "provider": {
+          "type": "string",
+          "title": "Utility Name",
+          "description": "The name of the utility providing the service and issuing the bill."
+        },
+        "phone_number": {
+          "type": "string",
+          "title": "Customer Service Phone Number",
+          "description": "The customer service phone number for the utility formatted XXX-XXX-XXXX."
+        },
+        "website": {
+          "type": "string",
+          "title": "Website",
+          "description": "Official website for account management and payments."
+        },
+        "usage_bar_chart": {
+          "type": "boolean",
+          "description": "Does the utility bill include a chart depicting usage trends over time?"
+        }
+      },
+      "description": "Key energy provider details."
+    },
+    "account_info": {
+      "type": "object",
+      "title": "Account Information",
+      "required": [
+        "account_holder",
+        "account_number",
+        "service_address"
+      ],
+      "properties": {
+        "account_holder": {
+          "type": "string",
+          "title": "Account Holder Name",
+          "description": "Full name of the account holder. This may be a person or organization."
+        },
+        "account_number": {
+          "type": "string",
+          "title": "Account Number",
+          "description": "Unique identifier for the customer account."
+        },
+        "service_address": {
+          "type": "string",
+          "title": "Service Address",
+          "description": "The address for the property where utility service is provided. This may or may not be the same as the billing address. Remove new line characters and replace with a space."
+        },
+        "service_address_primary": {
+            "type": "string",
+            "description": "The primary street address for the property where utility service is provided including building or house number, predirectionals, street name, postdirectionals, and street suffix. This may or may not be the same as the billing address. Remove new line characters and replace with a space."
+        },
+        "service_address_city": {
+            "type": "string",
+            "description": "The city for the address where utility service is provided."
+        },
+        "service_address_state": {
+            "type": "string",
+            "description": "The 2 letter state abbreviation for the address where utility service is provided."
+        },
+        "service_address_zip": {
+            "type": "string",
+            "description": "The 5-digit Zip Code for the address where utility service is provided."
+        }
+      },
+      "description": "Key account and customer identifiers."
+    },
+    "billing_summary": {
+      "type": "object",
+      "title": "Billing Summary",
+      "required": [
+        "due_date",
+        "bill_date",
+        "service_start_date",
+        "service_end_date",
+        "total_amount_due"
+      ],
+      "properties": {
+        "due_date": {
+          "type": "string",
+          "title": "Due Date",
+          "description": "Date by which payment is due, in YYYY-MM-DD format."
+        },
+        "bill_date": {
+          "type": "string",
+          "title": "Bill Date",
+          "description": "Date the bill was issued, in YYYY-MM-DD format."
+        },
+        "service_start_date": {
+          "type": "string",
+          "description": "The starting date for the period of service covered by the utility bill.",
+          "format": "MM-DD-YYYY"
+        },
+        "service_end_date": {
+          "type": "string",
+          "description": "The ending date for the period of service covered by the utility bill.",
+          "format": "MM-DD-YYYY"
+        },
+        "total_amount_due": {
+          "type": "string",
+          "title": "Total Amount Due",
+          "description": "Total amount due for the current bill, including currency symbol."
+        }
+      },
+      "description": "Summary of charges and due dates."
+    },
+    "electric_charges": {
+      "type": "object",
+      "title": "Electric Charges",
+      "required": [
+        "meter_number",
+        "usage_kwh",
+        "total_electric_charges"
+      ],
+      "properties": {
+         "meter_number": {
+          "type": "string",
+          "title": "Electric Meter Number",
+          "description": "Identifier for the electric meter. Blank if this bill does not inlcude electric service."
+        },
+        "usage_kwh": {
+          "type": "string",
+          "title": "Electric Usage (kWh)",
+          "description": "Total electric used in kilowatt-hours for the billing period. Zero if this bill does not inlcude electric service."
+        },
+        "total_electric_charges": {
+          "type": "string",
+          "title": "Total Electric Charges",
+          "description": "Total electric charges for the billing period, including currency symbol. Zero if this bill does not inlcude electric service."
+        }
+      },
+      "description": "Details of electric usage and charges for the billing period."
+    },
+      "gas_charges": {
+      "type": "object",
+      "title": "Gas Charges",
+      "required": [
+        "meter_number",
+        "usage_therms",
+        "total_gas_charges"
+      ],
+      "properties": {
+        "meter_number": {
+          "type": "string",
+          "title": "Gas Meter Number",
+          "description": "Identifier for the gas meter. Blank if this bill does not inlcude gas service."
+        },
+        "usage_therms": {
+          "type": "string",
+          "title": "Gas Usage (Therms)",
+          "description": "Total gas used in therms for the billing period. Zero if this bill does not inlcude gas service."
+        },
+        "total_gas_charges": {
+          "type": "string",
+          "title": "Total Gas Charges",
+          "description": "Total gas charges for the billing period, including currency symbol. Zero if this bill does not inlcude gas service."
+        }
+      },
+      "description": "Details of gas usage and charges for the billing period."
+    }
+  }
+}
