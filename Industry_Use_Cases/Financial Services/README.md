@@ -22,7 +22,7 @@ ADE accurately extracts data from charts, tables, and complex visual layouts acr
 ##  Key Use Cases in Financial Services and Banking
 
 ### 1. Know Your Customer (KYC) & Customer Onboarding  
-- **Document Types:** IDs, utility bills, bank statements  
+- **Document Types:** IDs, [utility bills](https://github.com/landing-ai/ade-helper-scripts/tree/main/Industry_Use_Cases/Financial%20Services/Utility_Bills), bank statements  
 - **Benefits**: Enable swift customer identity verification and fraud risk reduction, while easing compliance during onboarding.
 
 ### 2. Mortgage & Loan Document Processing  
