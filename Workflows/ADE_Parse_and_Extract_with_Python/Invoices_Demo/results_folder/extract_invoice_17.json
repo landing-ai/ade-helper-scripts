@@ -1,0 +1,256 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "Dated 10-Dec-14",
+      "invoice_date": "2014-12-10",
+      "invoice_number": "2014/00355",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Sandip Patil",
+      "sold_to_address": "Ambegaon Bk, Pune",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "Variant Technologies",
+      "supplier_address": "Sgar Complex, Off No. 19 A Tower, Near Nashik Phata Kasarwadi. Pune - 411034",
+      "representative": null,
+      "email": "sales@vtechpune.co.in",
+      "phone": "+91 20 46740005",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "100% Against receipt of Material",
+      "ship_via": "By Road",
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": null,
+      "total_due_raw": "2800.00",
+      "total_due": 2800,
+      "subtotal": 2800,
+      "tax": null,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": "1",
+        "sku": null,
+        "description": "Tata Photon 3G Plan 750@7GB",
+        "quantity": 1,
+        "unit_price": 2800,
+        "price": null,
+        "amount": 2800,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "Dated 10-Dec-14",
+        "references": [
+          "0-5"
+        ]
+      },
+      "invoice_date": {
+        "value": "2014-12-10",
+        "references": [
+          "0-5"
+        ]
+      },
+      "invoice_number": {
+        "value": "2014/00355",
+        "references": [
+          "0-4"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Sandip Patil",
+        "references": [
+          "0-a"
+        ]
+      },
+      "sold_to_address": {
+        "value": "Ambegaon Bk, Pune",
+        "references": [
+          "0-a"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Variant Technologies",
+        "references": [
+          "0-3",
+          "e3a4516d-1c63-454d-b030-6b46113ba936"
+        ]
+      },
+      "supplier_address": {
+        "value": "Sgar Complex, Off No. 19 A Tower, Near Nashik Phata Kasarwadi. Pune - 411034",
+        "references": [
+          "0-3"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "sales@vtechpune.co.in",
+        "references": [
+          "0-3"
+        ]
+      },
+      "phone": {
+        "value": "+91 20 46740005",
+        "references": [
+          "e3a4516d-1c63-454d-b030-6b46113ba936"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "100% Against receipt of Material",
+        "references": [
+          "0-7"
+        ]
+      },
+      "ship_via": {
+        "value": "By Road",
+        "references": [
+          "0-6"
+        ]
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": null,
+        "references": []
+      },
+      "total_due_raw": {
+        "value": "2800.00",
+        "references": [
+          "0-K"
+        ]
+      },
+      "total_due": {
+        "value": 2800,
+        "references": [
+          "0-K"
+        ]
+      },
+      "subtotal": {
+        "value": 2800,
+        "references": [
+          "0-x"
+        ]
+      },
+      "tax": {
+        "value": null,
+        "references": []
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": "1",
+          "references": [
+            "0-k"
+          ]
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Tata Photon 3G Plan 750@7GB",
+          "references": [
+            "0-l"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-n"
+          ]
+        },
+        "unit_price": {
+          "value": 2800,
+          "references": [
+            "0-p"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 2800,
+          "references": [
+            "0-q"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.6,
+    "duration_ms": 6038,
+    "filename": "upload",
+    "job_id": "ckuawlrrqhwf10il8zshs9y87",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

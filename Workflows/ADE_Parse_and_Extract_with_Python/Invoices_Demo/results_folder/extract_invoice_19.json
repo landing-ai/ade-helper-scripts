@@ -1,0 +1,296 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "Aug 31, 2024",
+      "invoice_date": "2024-08-31",
+      "invoice_number": "1457274",
+      "order_date": null,
+      "po_number": null,
+      "status": "PAID"
+    },
+    "customer_info": {
+      "sold_to_name": "Andrea Kropp",
+      "sold_to_address": "227 N 5th Ave, PO Box 1168\nRidgefield, Washington 98642\nUnited States",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "Harvest Hosts",
+      "supplier_address": "1300 N. Frontage Rd, #1594\nVail, Colorado 81657\nUnited States",
+      "representative": null,
+      "email": null,
+      "phone": null,
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": null,
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$172.83 (USD)",
+      "total_due": 172.83,
+      "subtotal": 159.0,
+      "tax": 13.83,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Harvest Hosts",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 159.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Annual Harvest Hosts + Golf + Boondockers Welcome Subscription (Billed Every 365 Days)",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": null,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "Aug 31, 2024",
+        "references": [
+          "bb2570b5-009f-44a5-ac91-f34324b5cdd6"
+        ]
+      },
+      "invoice_date": {
+        "value": "2024-08-31",
+        "references": [
+          "bb2570b5-009f-44a5-ac91-f34324b5cdd6"
+        ]
+      },
+      "invoice_number": {
+        "value": "1457274",
+        "references": [
+          "bb2570b5-009f-44a5-ac91-f34324b5cdd6"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": "PAID",
+        "references": [
+          "c573bdd0-75cd-4ebc-8cef-9aaa8a2aded6"
+        ]
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Andrea Kropp",
+        "references": [
+          "36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa"
+        ]
+      },
+      "sold_to_address": {
+        "value": "227 N 5th Ave, PO Box 1168\nRidgefield, Washington 98642\nUnited States",
+        "references": [
+          "36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Harvest Hosts",
+        "references": [
+          "376ea936-2670-4d57-a198-f003c4e5eca4"
+        ]
+      },
+      "supplier_address": {
+        "value": "1300 N. Frontage Rd, #1594\nVail, Colorado 81657\nUnited States",
+        "references": [
+          "376ea936-2670-4d57-a198-f003c4e5eca4"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": null,
+        "references": []
+      },
+      "phone": {
+        "value": null,
+        "references": []
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": null,
+        "references": []
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "bb2570b5-009f-44a5-ac91-f34324b5cdd6",
+          "0-4",
+          "0-7",
+          "0-p"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$172.83 (USD)",
+        "references": [
+          "bb2570b5-009f-44a5-ac91-f34324b5cdd6"
+        ]
+      },
+      "total_due": {
+        "value": 172.83,
+        "references": [
+          "0-j"
+        ]
+      },
+      "subtotal": {
+        "value": 159.0,
+        "references": [
+          "0-d"
+        ]
+      },
+      "tax": {
+        "value": 13.83,
+        "references": [
+          "0-g"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Harvest Hosts",
+          "references": [
+            "0-5"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 159.0,
+          "references": [
+            "0-7"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Annual Harvest Hosts + Golf + Boondockers Welcome Subscription (Billed Every 365 Days)",
+          "references": [
+            "0-8"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": null,
+          "references": []
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.8,
+    "duration_ms": 11485,
+    "filename": "upload",
+    "job_id": "ssaeokxbrg2zmspnin4qg2xo7",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

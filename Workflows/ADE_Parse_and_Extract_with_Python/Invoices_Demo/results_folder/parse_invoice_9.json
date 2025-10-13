@@ -1,0 +1,479 @@
+{
+  "chunks": [
+    {
+      "id": "a4f89b4f-3569-49bc-ac94-6bf78ee607e6",
+      "grounding": {
+        "box": {
+          "bottom": 0.096154123544693,
+          "left": 0.08743181824684143,
+          "right": 0.44194576144218445,
+          "top": 0.033484891057014465
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a4f89b4f-3569-49bc-ac94-6bf78ee607e6'></a>\n\n<::logo: Freshworks\nfreshworks\nA stylized leaf-like icon composed of multiple facets in shades of gray is positioned to the left of the text.::>",
+      "type": "logo"
+    },
+    {
+      "id": "f47a315b-a6f5-46b9-a458-5c1fd01e937f",
+      "grounding": {
+        "box": {
+          "bottom": 0.21089597046375275,
+          "left": 0.08651575446128845,
+          "right": 0.4332708418369293,
+          "top": 0.10671643912792206
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f47a315b-a6f5-46b9-a458-5c1fd01e937f'></a>\n\nFreshworks Inc., (formerly known as Freshdesk Inc.)\n2950 S. Delaware St,\nSuite 201, San Mateo, CA 94403,\nU.S.A.\nPhone: +1 (866) 832 3090\nTax ID: 33-1218825\nTax Reg #: 33-1218825",
+      "type": "text"
+    },
+    {
+      "id": "41b10bea-d855-4c29-91d4-fd6bf2b21353",
+      "grounding": {
+        "box": {
+          "bottom": 0.19167819619178772,
+          "left": 0.5961894392967224,
+          "right": 0.8421856760978699,
+          "top": 0.03922150284051895
+        },
+        "page": 0
+      },
+      "markdown": "<a id='41b10bea-d855-4c29-91d4-fd6bf2b21353'></a>\n\n# INVOICE\n\nInvoice #: FCL233308\nInvoice Date: May 26, 2021\nInvoice Amount: $10.00 (USD)\nPayment Terms: Due Upon Receipt\n\nPAID\n---\n",
+      "type": "text"
+    },
+    {
+      "id": "da1a9e49-b3cb-43e2-9f4d-859c142535cd",
+      "grounding": {
+        "box": {
+          "bottom": 0.3217448592185974,
+          "left": 0.08736848086118698,
+          "right": 0.3143427073955536,
+          "top": 0.23484545946121216
+        },
+        "page": 0
+      },
+      "markdown": "<a id='da1a9e49-b3cb-43e2-9f4d-859c142535cd'></a>\n\nBILLED TO\nLeo Charles Vincent\nabaxystech\n1061 Midvale Ave\nMorrsiville, North Carolina 27560\nUnited States",
+      "type": "text"
+    },
+    {
+      "id": "ed5ff35a-69f1-4f58-b6fa-fba66f4014f9",
+      "grounding": {
+        "box": {
+          "bottom": 0.2687315344810486,
+          "left": 0.59776771068573,
+          "right": 0.8604755401611328,
+          "top": 0.23522764444351196
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ed5ff35a-69f1-4f58-b6fa-fba66f4014f9'></a>\n\nSUBSCRIPTION\nBilling Period May 26 to May 26, 2021",
+      "type": "text"
+    },
+    {
+      "id": "4e1e97c3-30b9-4103-88b6-c7c17a4e9f3d",
+      "grounding": {
+        "box": {
+          "bottom": 0.5344086289405823,
+          "left": 0.08666667342185974,
+          "right": 0.9102663993835449,
+          "top": 0.3424803912639618
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4e1e97c3-30b9-4103-88b6-c7c17a4e9f3d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\">UNITS</td><td id=\"0-4\">UNIT PRICE</td><td id=\"0-5\">AMOUNT (USD)</td></tr>\n<tr><td id=\"0-6\">Freshcaller Phone Credits</td><td id=\"0-7\">10</td><td id=\"0-8\">$1.00</td><td id=\"0-9\">$10.00</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">Total</td><td id=\"0-d\">$10.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\">Payments</td><td id=\"0-h\">($10.00)</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\" colspan=\"2\">Amount Due (USD)</td><td id=\"0-k\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "e8892225-ce4c-4c1c-bc09-a1ea1ea279a1",
+      "grounding": {
+        "box": {
+          "bottom": 0.5945142507553101,
+          "left": 0.08779513835906982,
+          "right": 0.5508441925048828,
+          "top": 0.5478050708770752
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e8892225-ce4c-4c1c-bc09-a1ea1ea279a1'></a>\n\nPAYMENTS\n\n**$10.00** was paid on 26 May, 2021 11:49 PDT by Visa card ending 2136.",
+      "type": "text"
+    },
+    {
+      "id": "a6b25878-652e-4697-b837-d7f4ecb3911a",
+      "grounding": {
+        "box": {
+          "bottom": 0.6606581807136536,
+          "left": 0.08871494233608246,
+          "right": 0.5692809820175171,
+          "top": 0.6159620881080627
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a6b25878-652e-4697-b837-d7f4ecb3911a'></a>\n\nNOTES\n---\nPlease always include your invoice number when making any payment!",
+      "type": "text"
+    },
+    {
+      "id": "5c68b4b2-a8ba-4358-bc2e-963fe1e18862",
+      "grounding": {
+        "box": {
+          "bottom": 0.7406542897224426,
+          "left": 0.08950304985046387,
+          "right": 0.7812685966491699,
+          "top": 0.6689214110374451
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5c68b4b2-a8ba-4358-bc2e-963fe1e18862'></a>\n\n**Reference to our Bank details:**\n\nClick the appropriate currency below to view our respective Bank account details for payment processing.\nAUD EUR GBP USD",
+      "type": "text"
+    },
+    {
+      "id": "8b0c6837-34b6-48c9-b8b4-9f7c0bfa2653",
+      "grounding": {
+        "box": {
+          "bottom": 0.8998996019363403,
+          "left": 0.08868715167045593,
+          "right": 0.6722677946090698,
+          "top": 0.7489556074142456
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8b0c6837-34b6-48c9-b8b4-9f7c0bfa2653'></a>\n\n**For Check Payments (US Customers Only)**\n\nE-checks: Freshworks Inc, Dept LA 24888, Pasadena CA 91185-4888.\n\nPhysical checks: Freshworks Inc., 24888, 14005 Live Oak Ave, Irwindale CA 91706-1300.\n\n**Other Payment Methods:** PayPal ID: paypal@freshdesk.com (USD Only)\n\nFor questions/concerning regarding this invoice, please contact billing@freshworks.com\n\nClick this link to download the W9 certificate",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='a4f89b4f-3569-49bc-ac94-6bf78ee607e6'></a>\n\n<::logo: Freshworks\nfreshworks\nA stylized leaf-like icon composed of multiple facets in shades of gray is positioned to the left of the text.::>\n\n<a id='f47a315b-a6f5-46b9-a458-5c1fd01e937f'></a>\n\nFreshworks Inc., (formerly known as Freshdesk Inc.)\n2950 S. Delaware St,\nSuite 201, San Mateo, CA 94403,\nU.S.A.\nPhone: +1 (866) 832 3090\nTax ID: 33-1218825\nTax Reg #: 33-1218825\n\n<a id='41b10bea-d855-4c29-91d4-fd6bf2b21353'></a>\n\n# INVOICE\n\nInvoice #: FCL233308\nInvoice Date: May 26, 2021\nInvoice Amount: $10.00 (USD)\nPayment Terms: Due Upon Receipt\n\nPAID\n---\n\n\n<a id='da1a9e49-b3cb-43e2-9f4d-859c142535cd'></a>\n\nBILLED TO\nLeo Charles Vincent\nabaxystech\n1061 Midvale Ave\nMorrsiville, North Carolina 27560\nUnited States\n\n<a id='ed5ff35a-69f1-4f58-b6fa-fba66f4014f9'></a>\n\nSUBSCRIPTION\nBilling Period May 26 to May 26, 2021\n\n<a id='4e1e97c3-30b9-4103-88b6-c7c17a4e9f3d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\">UNITS</td><td id=\"0-4\">UNIT PRICE</td><td id=\"0-5\">AMOUNT (USD)</td></tr>\n<tr><td id=\"0-6\">Freshcaller Phone Credits</td><td id=\"0-7\">10</td><td id=\"0-8\">$1.00</td><td id=\"0-9\">$10.00</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">Total</td><td id=\"0-d\">$10.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\">Payments</td><td id=\"0-h\">($10.00)</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\" colspan=\"2\">Amount Due (USD)</td><td id=\"0-k\">$0.00</td></tr>\n</table>\n\n<a id='e8892225-ce4c-4c1c-bc09-a1ea1ea279a1'></a>\n\nPAYMENTS\n\n**$10.00** was paid on 26 May, 2021 11:49 PDT by Visa card ending 2136.\n\n<a id='a6b25878-652e-4697-b837-d7f4ecb3911a'></a>\n\nNOTES\n---\nPlease always include your invoice number when making any payment!\n\n<a id='5c68b4b2-a8ba-4358-bc2e-963fe1e18862'></a>\n\n**Reference to our Bank details:**\n\nClick the appropriate currency below to view our respective Bank account details for payment processing.\nAUD EUR GBP USD\n\n<a id='8b0c6837-34b6-48c9-b8b4-9f7c0bfa2653'></a>\n\n**For Check Payments (US Customers Only)**\n\nE-checks: Freshworks Inc, Dept LA 24888, Pasadena CA 91185-4888.\n\nPhysical checks: Freshworks Inc., 24888, 14005 Live Oak Ave, Irwindale CA 91706-1300.\n\n**Other Payment Methods:** PayPal ID: paypal@freshdesk.com (USD Only)\n\nFor questions/concerning regarding this invoice, please contact billing@freshworks.com\n\nClick this link to download the W9 certificate",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 14140,
+    "filename": "invoice_9.pdf",
+    "job_id": "i0qe51zl0us2lgxfsf5zq3wky",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "a4f89b4f-3569-49bc-ac94-6bf78ee607e6",
+        "f47a315b-a6f5-46b9-a458-5c1fd01e937f",
+        "41b10bea-d855-4c29-91d4-fd6bf2b21353",
+        "da1a9e49-b3cb-43e2-9f4d-859c142535cd",
+        "ed5ff35a-69f1-4f58-b6fa-fba66f4014f9",
+        "4e1e97c3-30b9-4103-88b6-c7c17a4e9f3d",
+        "e8892225-ce4c-4c1c-bc09-a1ea1ea279a1",
+        "a6b25878-652e-4697-b837-d7f4ecb3911a",
+        "5c68b4b2-a8ba-4358-bc2e-963fe1e18862",
+        "8b0c6837-34b6-48c9-b8b4-9f7c0bfa2653"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='a4f89b4f-3569-49bc-ac94-6bf78ee607e6'></a>\n\n<::logo: Freshworks\nfreshworks\nA stylized leaf-like icon composed of multiple facets in shades of gray is positioned to the left of the text.::>\n\n<a id='f47a315b-a6f5-46b9-a458-5c1fd01e937f'></a>\n\nFreshworks Inc., (formerly known as Freshdesk Inc.)\n2950 S. Delaware St,\nSuite 201, San Mateo, CA 94403,\nU.S.A.\nPhone: +1 (866) 832 3090\nTax ID: 33-1218825\nTax Reg #: 33-1218825\n\n<a id='41b10bea-d855-4c29-91d4-fd6bf2b21353'></a>\n\n# INVOICE\n\nInvoice #: FCL233308\nInvoice Date: May 26, 2021\nInvoice Amount: $10.00 (USD)\nPayment Terms: Due Upon Receipt\n\nPAID\n---\n\n\n<a id='da1a9e49-b3cb-43e2-9f4d-859c142535cd'></a>\n\nBILLED TO\nLeo Charles Vincent\nabaxystech\n1061 Midvale Ave\nMorrsiville, North Carolina 27560\nUnited States\n\n<a id='ed5ff35a-69f1-4f58-b6fa-fba66f4014f9'></a>\n\nSUBSCRIPTION\nBilling Period May 26 to May 26, 2021\n\n<a id='4e1e97c3-30b9-4103-88b6-c7c17a4e9f3d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\">UNITS</td><td id=\"0-4\">UNIT PRICE</td><td id=\"0-5\">AMOUNT (USD)</td></tr>\n<tr><td id=\"0-6\">Freshcaller Phone Credits</td><td id=\"0-7\">10</td><td id=\"0-8\">$1.00</td><td id=\"0-9\">$10.00</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">Total</td><td id=\"0-d\">$10.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\">Payments</td><td id=\"0-h\">($10.00)</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\" colspan=\"2\">Amount Due (USD)</td><td id=\"0-k\">$0.00</td></tr>\n</table>\n\n<a id='e8892225-ce4c-4c1c-bc09-a1ea1ea279a1'></a>\n\nPAYMENTS\n\n**$10.00** was paid on 26 May, 2021 11:49 PDT by Visa card ending 2136.\n\n<a id='a6b25878-652e-4697-b837-d7f4ecb3911a'></a>\n\nNOTES\n---\nPlease always include your invoice number when making any payment!\n\n<a id='5c68b4b2-a8ba-4358-bc2e-963fe1e18862'></a>\n\n**Reference to our Bank details:**\n\nClick the appropriate currency below to view our respective Bank account details for payment processing.\nAUD EUR GBP USD\n\n<a id='8b0c6837-34b6-48c9-b8b4-9f7c0bfa2653'></a>\n\n**For Check Payments (US Customers Only)**\n\nE-checks: Freshworks Inc, Dept LA 24888, Pasadena CA 91185-4888.\n\nPhysical checks: Freshworks Inc., 24888, 14005 Live Oak Ave, Irwindale CA 91706-1300.\n\n**Other Payment Methods:** PayPal ID: paypal@freshdesk.com (USD Only)\n\nFor questions/concerning regarding this invoice, please contact billing@freshworks.com\n\nClick this link to download the W9 certificate",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "a4f89b4f-3569-49bc-ac94-6bf78ee607e6": {
+      "box": {
+        "bottom": 0.096154123544693,
+        "left": 0.08743181824684143,
+        "right": 0.44194576144218445,
+        "top": 0.033484891057014465
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "f47a315b-a6f5-46b9-a458-5c1fd01e937f": {
+      "box": {
+        "bottom": 0.21089597046375275,
+        "left": 0.08651575446128845,
+        "right": 0.4332708418369293,
+        "top": 0.10671643912792206
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "41b10bea-d855-4c29-91d4-fd6bf2b21353": {
+      "box": {
+        "bottom": 0.19167819619178772,
+        "left": 0.5961894392967224,
+        "right": 0.8421856760978699,
+        "top": 0.03922150284051895
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "da1a9e49-b3cb-43e2-9f4d-859c142535cd": {
+      "box": {
+        "bottom": 0.3217448592185974,
+        "left": 0.08736848086118698,
+        "right": 0.3143427073955536,
+        "top": 0.23484545946121216
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ed5ff35a-69f1-4f58-b6fa-fba66f4014f9": {
+      "box": {
+        "bottom": 0.2687315344810486,
+        "left": 0.59776771068573,
+        "right": 0.8604755401611328,
+        "top": 0.23522764444351196
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4e1e97c3-30b9-4103-88b6-c7c17a4e9f3d": {
+      "box": {
+        "bottom": 0.5344086289405823,
+        "left": 0.08666667342185974,
+        "right": 0.9102663993835449,
+        "top": 0.3424803912639618
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.5320973059537017,
+        "left": 0.09293526580336334,
+        "right": 0.904593565420365,
+        "top": 0.3449258925492694
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.37704173514721706,
+        "left": 0.09293526580336334,
+        "right": 0.5225989691308115,
+        "top": 0.3449258925492694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.37704173514721706,
+        "left": 0.5225989691308115,
+        "right": 0.677762531442152,
+        "top": 0.3449258925492694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.37704173514721706,
+        "left": 0.677762531442152,
+        "right": 0.8167628442744661,
+        "top": 0.3449258925492694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.37704173514721706,
+        "left": 0.8167628442744661,
+        "right": 0.9046470248323182,
+        "top": 0.3449258925492694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.4254231070089265,
+        "left": 0.09293526580336334,
+        "right": 0.5225989691308115,
+        "top": 0.37704173514721706
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.4254231070089265,
+        "left": 0.5225989691308115,
+        "right": 0.677762531442152,
+        "top": 0.37704173514721706
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.4254231070089265,
+        "left": 0.677762531442152,
+        "right": 0.8167628442744661,
+        "top": 0.37704173514721706
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4254231070089265,
+        "left": 0.8167628442744661,
+        "right": 0.9046470248323182,
+        "top": 0.37704173514721706
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.45555653915953975,
+        "left": 0.09293526580336334,
+        "right": 0.5225989691308115,
+        "top": 0.4254231070089265
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.45555653915953975,
+        "left": 0.5225989691308115,
+        "right": 0.677762531442152,
+        "top": 0.4254231070089265
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.45555653915953975,
+        "left": 0.677762531442152,
+        "right": 0.8167628442744661,
+        "top": 0.4254231070089265
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.45555653915953975,
+        "left": 0.8167628442744661,
+        "right": 0.9046470248323182,
+        "top": 0.4254231070089265
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.4903378763941735,
+        "left": 0.09293526580336334,
+        "right": 0.5225989691308115,
+        "top": 0.45555653915953975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.4903378763941735,
+        "left": 0.5225989691308115,
+        "right": 0.677762531442152,
+        "top": 0.45555653915953975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.4903378763941735,
+        "left": 0.677762531442152,
+        "right": 0.8167628442744661,
+        "top": 0.45555653915953975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4903378763941735,
+        "left": 0.8167628442744661,
+        "right": 0.9046470248323182,
+        "top": 0.45555653915953975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.5320973059537017,
+        "left": 0.09293526580336334,
+        "right": 0.5225989691308115,
+        "top": 0.4903378763941735
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.5320973059537017,
+        "left": 0.5225989691308115,
+        "right": 0.9046470248323182,
+        "top": 0.4903378763941735
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.5320973059537017,
+        "left": 0.8167628442744661,
+        "right": 0.9046470248323182,
+        "top": 0.4903378763941735
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "e8892225-ce4c-4c1c-bc09-a1ea1ea279a1": {
+      "box": {
+        "bottom": 0.5945142507553101,
+        "left": 0.08779513835906982,
+        "right": 0.5508441925048828,
+        "top": 0.5478050708770752
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a6b25878-652e-4697-b837-d7f4ecb3911a": {
+      "box": {
+        "bottom": 0.6606581807136536,
+        "left": 0.08871494233608246,
+        "right": 0.5692809820175171,
+        "top": 0.6159620881080627
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5c68b4b2-a8ba-4358-bc2e-963fe1e18862": {
+      "box": {
+        "bottom": 0.7406542897224426,
+        "left": 0.08950304985046387,
+        "right": 0.7812685966491699,
+        "top": 0.6689214110374451
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8b0c6837-34b6-48c9-b8b4-9f7c0bfa2653": {
+      "box": {
+        "bottom": 0.8998996019363403,
+        "left": 0.08868715167045593,
+        "right": 0.6722677946090698,
+        "top": 0.7489556074142456
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

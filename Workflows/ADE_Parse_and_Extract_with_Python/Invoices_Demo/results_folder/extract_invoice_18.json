@@ -1,0 +1,321 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "2/10/2020",
+      "invoice_date": "2020-02-10",
+      "invoice_number": "00000116271",
+      "order_date": null,
+      "po_number": null,
+      "status": "PAID"
+    },
+    "customer_info": {
+      "sold_to_name": "Meridian Venture Services, LLC",
+      "sold_to_address": "227 N 5th Avenue, Ridgefield, WA 98642",
+      "customer_email": "pololifeshop@gmail.com"
+    },
+    "company_info": {
+      "supplier_name": "HOWARD CUSTOM TRANSFERS, INC.",
+      "supplier_address": "1925 Holmes Rd #400, Elgin IL 60123",
+      "representative": null,
+      "email": "accounting@howardct.com",
+      "phone": "(866)695-8195",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Prepay",
+      "ship_via": "Ground",
+      "ship_date": "2/10/2020",
+      "tracking_number": "1Z77Y5Y70365096016"
+    },
+    "totals_summary": {
+      "currency": null,
+      "total_due_raw": "$0.00",
+      "total_due": 0,
+      "subtotal": 270,
+      "tax": null,
+      "shipping": 24.31,
+      "handling_fee": 3
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": "02102007-DP",
+        "description": "Polo Bear Gang NEW ACCOUNT",
+        "quantity": 24,
+        "unit_price": null,
+        "price": null,
+        "amount": 144,
+        "total": 144
+      },
+      {
+        "line_number": null,
+        "sku": "02102008-DP",
+        "description": "Water polo stamps NEW ACCOUNT",
+        "quantity": 24,
+        "unit_price": null,
+        "price": null,
+        "amount": 126,
+        "total": 126
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "2/10/2020",
+        "references": [
+          "d5379bad-dd59-4a74-a18a-9236d1108238"
+        ]
+      },
+      "invoice_date": {
+        "value": "2020-02-10",
+        "references": [
+          "d5379bad-dd59-4a74-a18a-9236d1108238"
+        ]
+      },
+      "invoice_number": {
+        "value": "00000116271",
+        "references": [
+          "6dfc67ac-0e9f-494b-87c9-01a635ecfaf1"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": "PAID",
+        "references": [
+          "081466e6-1ef7-4da8-9661-281673279761"
+        ]
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Meridian Venture Services, LLC",
+        "references": [
+          "b1478114-65f8-4ad0-a0f1-e82f9d845a65"
+        ]
+      },
+      "sold_to_address": {
+        "value": "227 N 5th Avenue, Ridgefield, WA 98642",
+        "references": [
+          "b1478114-65f8-4ad0-a0f1-e82f9d845a65"
+        ]
+      },
+      "customer_email": {
+        "value": "pololifeshop@gmail.com",
+        "references": [
+          "d5379bad-dd59-4a74-a18a-9236d1108238"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "HOWARD CUSTOM TRANSFERS, INC.",
+        "references": [
+          "f77087fe-490b-4e2a-9b12-c6ecdca451d4"
+        ]
+      },
+      "supplier_address": {
+        "value": "1925 Holmes Rd #400, Elgin IL 60123",
+        "references": [
+          "f77087fe-490b-4e2a-9b12-c6ecdca451d4"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "accounting@howardct.com",
+        "references": [
+          "42838d74-acdc-4bdc-be3a-09ad0fb7f0e2"
+        ]
+      },
+      "phone": {
+        "value": "(866)695-8195",
+        "references": [
+          "42838d74-acdc-4bdc-be3a-09ad0fb7f0e2"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Prepay",
+        "references": [
+          "b1478114-65f8-4ad0-a0f1-e82f9d845a65"
+        ]
+      },
+      "ship_via": {
+        "value": "Ground",
+        "references": [
+          "d5379bad-dd59-4a74-a18a-9236d1108238"
+        ]
+      },
+      "ship_date": {
+        "value": "2/10/2020",
+        "references": [
+          "d5379bad-dd59-4a74-a18a-9236d1108238"
+        ]
+      },
+      "tracking_number": {
+        "value": "1Z77Y5Y70365096016",
+        "references": [
+          "d5379bad-dd59-4a74-a18a-9236d1108238"
+        ]
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": null,
+        "references": []
+      },
+      "total_due_raw": {
+        "value": "$0.00",
+        "references": [
+          "0-1D"
+        ]
+      },
+      "total_due": {
+        "value": 0,
+        "references": [
+          "0-1D"
+        ]
+      },
+      "subtotal": {
+        "value": 270,
+        "references": [
+          "0-F"
+        ]
+      },
+      "tax": {
+        "value": null,
+        "references": []
+      },
+      "shipping": {
+        "value": 24.31,
+        "references": [
+          "0-Z"
+        ]
+      },
+      "handling_fee": {
+        "value": 3,
+        "references": [
+          "0-19"
+        ]
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "02102007-DP",
+          "references": [
+            "0-c"
+          ]
+        },
+        "description": {
+          "value": "Polo Bear Gang NEW ACCOUNT",
+          "references": [
+            "0-e"
+          ]
+        },
+        "quantity": {
+          "value": 24,
+          "references": [
+            "0-h"
+          ]
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 144,
+          "references": [
+            "0-l"
+          ]
+        },
+        "total": {
+          "value": 144,
+          "references": [
+            "0-l"
+          ]
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "02102008-DP",
+          "references": [
+            "0-m"
+          ]
+        },
+        "description": {
+          "value": "Water polo stamps NEW ACCOUNT",
+          "references": [
+            "0-o"
+          ]
+        },
+        "quantity": {
+          "value": 24,
+          "references": [
+            "0-r"
+          ]
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 126,
+          "references": [
+            "0-v"
+          ]
+        },
+        "total": {
+          "value": 126,
+          "references": [
+            "0-v"
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 2.0,
+    "duration_ms": 7233,
+    "filename": "upload",
+    "job_id": "bbsfzp5n22q0ubtm811ltt3k0",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

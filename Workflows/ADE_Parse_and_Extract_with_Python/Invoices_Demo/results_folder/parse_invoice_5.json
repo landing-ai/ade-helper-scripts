@@ -1,0 +1,609 @@
+{
+  "chunks": [
+    {
+      "id": "05e72638-cda2-4258-b248-29d17a2de187",
+      "grounding": {
+        "box": {
+          "bottom": 0.13678008317947388,
+          "left": 0.02275940775871277,
+          "right": 0.36606839299201965,
+          "top": 0.04109330475330353
+        },
+        "page": 0
+      },
+      "markdown": "<a id='05e72638-cda2-4258-b248-29d17a2de187'></a>\n\nThe Nussbaum Center for Entrepreneurship\n1451 S Elm Eugene Street\nBox 35\nGreensboro, NC 27406 US\nlhazlett@nussbaumcfe.com\nwww.nussbaumcfe.com",
+      "type": "text"
+    },
+    {
+      "id": "70af0a30-84eb-42bd-affa-2e3962b2a523",
+      "grounding": {
+        "box": {
+          "bottom": 0.24902233481407166,
+          "left": 0.022800639271736145,
+          "right": 0.15540406107902527,
+          "top": 0.1693393886089325
+        },
+        "page": 0
+      },
+      "markdown": "<a id='70af0a30-84eb-42bd-affa-2e3962b2a523'></a>\n\nINVOICE\n\nBILL TO\nLeo Charles Vincent\nAbaxys Tech, LLC",
+      "type": "text"
+    },
+    {
+      "id": "230e80d4-268b-44e7-9612-aeb83e0a8ae8",
+      "grounding": {
+        "box": {
+          "bottom": 0.25022071599960327,
+          "left": 0.37859871983528137,
+          "right": 0.5120386481285095,
+          "top": 0.20011787116527557
+        },
+        "page": 0
+      },
+      "markdown": "<a id='230e80d4-268b-44e7-9612-aeb83e0a8ae8'></a>\n\nSHIP TO\nLeo Charles Vincent\nAbaxys Tech, LLC",
+      "type": "text"
+    },
+    {
+      "id": "20249335-c4dc-4461-af52-d28a44c9a41f",
+      "grounding": {
+        "box": {
+          "bottom": 0.2645018994808197,
+          "left": 0.7354373335838318,
+          "right": 0.936872661113739,
+          "top": 0.19988125562667847
+        },
+        "page": 0
+      },
+      "markdown": "<a id='20249335-c4dc-4461-af52-d28a44c9a41f'></a>\n\nINVOICE 2197\nDATE 04/01/2023\nTERMS Due on receipt\nDUE DATE 04/01/2023",
+      "type": "text"
+    },
+    {
+      "id": "8e4a6bcd-e55a-4a0a-83c1-892cc553699f",
+      "grounding": {
+        "box": {
+          "bottom": 0.48770731687545776,
+          "left": 0.023251652717590332,
+          "right": 0.975604772567749,
+          "top": 0.2768852710723877
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8e4a6bcd-e55a-4a0a-83c1-892cc553699f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">ACTIVITY</td><td id=\"0-4\">DESCRIPTION</td><td id=\"0-5\">QTY</td><td id=\"0-6\">RATE</td><td id=\"0-7\">AMOUNT</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Service Revenue</td><td id=\"0-a\">Suite 2009</td><td id=\"0-b\">1</td><td id=\"0-c\">271.00</td><td id=\"0-d\">271.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Internet</td><td id=\"0-g\">Suite 2009 Internet Fee</td><td id=\"0-h\">1</td><td id=\"0-i\">75.00</td><td id=\"0-j\">75.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\">SUBTOTAL</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\">346.00</td></tr>\n<tr><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\">TAX</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">0.00</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\">TOTAL</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\">346.00</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">BALANCE DUE</td><td id=\"0-F\"></td><td id=\"0-G\"></td><td id=\"0-H\">$346.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "5a071600-451b-4745-a7de-c2ed1462472a",
+      "grounding": {
+        "box": {
+          "bottom": 0.9830970168113708,
+          "left": 0.466875821352005,
+          "right": 0.5329713821411133,
+          "top": 0.9674914479255676
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5a071600-451b-4745-a7de-c2ed1462472a'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='05e72638-cda2-4258-b248-29d17a2de187'></a>\n\nThe Nussbaum Center for Entrepreneurship\n1451 S Elm Eugene Street\nBox 35\nGreensboro, NC 27406 US\nlhazlett@nussbaumcfe.com\nwww.nussbaumcfe.com\n\n<a id='70af0a30-84eb-42bd-affa-2e3962b2a523'></a>\n\nINVOICE\n\nBILL TO\nLeo Charles Vincent\nAbaxys Tech, LLC\n\n<a id='230e80d4-268b-44e7-9612-aeb83e0a8ae8'></a>\n\nSHIP TO\nLeo Charles Vincent\nAbaxys Tech, LLC\n\n<a id='20249335-c4dc-4461-af52-d28a44c9a41f'></a>\n\nINVOICE 2197\nDATE 04/01/2023\nTERMS Due on receipt\nDUE DATE 04/01/2023\n\n<a id='8e4a6bcd-e55a-4a0a-83c1-892cc553699f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">ACTIVITY</td><td id=\"0-4\">DESCRIPTION</td><td id=\"0-5\">QTY</td><td id=\"0-6\">RATE</td><td id=\"0-7\">AMOUNT</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Service Revenue</td><td id=\"0-a\">Suite 2009</td><td id=\"0-b\">1</td><td id=\"0-c\">271.00</td><td id=\"0-d\">271.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Internet</td><td id=\"0-g\">Suite 2009 Internet Fee</td><td id=\"0-h\">1</td><td id=\"0-i\">75.00</td><td id=\"0-j\">75.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\">SUBTOTAL</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\">346.00</td></tr>\n<tr><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\">TAX</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">0.00</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\">TOTAL</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\">346.00</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">BALANCE DUE</td><td id=\"0-F\"></td><td id=\"0-G\"></td><td id=\"0-H\">$346.00</td></tr>\n</table>\n\n<a id='5a071600-451b-4745-a7de-c2ed1462472a'></a>\n\nCAPTION ERROR",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 8731,
+    "filename": "invoice_5.pdf",
+    "job_id": "p38mmhat0xlzq78tybfdcarhb",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "05e72638-cda2-4258-b248-29d17a2de187",
+        "70af0a30-84eb-42bd-affa-2e3962b2a523",
+        "230e80d4-268b-44e7-9612-aeb83e0a8ae8",
+        "20249335-c4dc-4461-af52-d28a44c9a41f",
+        "8e4a6bcd-e55a-4a0a-83c1-892cc553699f",
+        "5a071600-451b-4745-a7de-c2ed1462472a"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='05e72638-cda2-4258-b248-29d17a2de187'></a>\n\nThe Nussbaum Center for Entrepreneurship\n1451 S Elm Eugene Street\nBox 35\nGreensboro, NC 27406 US\nlhazlett@nussbaumcfe.com\nwww.nussbaumcfe.com\n\n<a id='70af0a30-84eb-42bd-affa-2e3962b2a523'></a>\n\nINVOICE\n\nBILL TO\nLeo Charles Vincent\nAbaxys Tech, LLC\n\n<a id='230e80d4-268b-44e7-9612-aeb83e0a8ae8'></a>\n\nSHIP TO\nLeo Charles Vincent\nAbaxys Tech, LLC\n\n<a id='20249335-c4dc-4461-af52-d28a44c9a41f'></a>\n\nINVOICE 2197\nDATE 04/01/2023\nTERMS Due on receipt\nDUE DATE 04/01/2023\n\n<a id='8e4a6bcd-e55a-4a0a-83c1-892cc553699f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">ACTIVITY</td><td id=\"0-4\">DESCRIPTION</td><td id=\"0-5\">QTY</td><td id=\"0-6\">RATE</td><td id=\"0-7\">AMOUNT</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Service Revenue</td><td id=\"0-a\">Suite 2009</td><td id=\"0-b\">1</td><td id=\"0-c\">271.00</td><td id=\"0-d\">271.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Internet</td><td id=\"0-g\">Suite 2009 Internet Fee</td><td id=\"0-h\">1</td><td id=\"0-i\">75.00</td><td id=\"0-j\">75.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\">SUBTOTAL</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\">346.00</td></tr>\n<tr><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\">TAX</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">0.00</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\">TOTAL</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\">346.00</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">BALANCE DUE</td><td id=\"0-F\"></td><td id=\"0-G\"></td><td id=\"0-H\">$346.00</td></tr>\n</table>\n\n<a id='5a071600-451b-4745-a7de-c2ed1462472a'></a>\n\nCAPTION ERROR",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "05e72638-cda2-4258-b248-29d17a2de187": {
+      "box": {
+        "bottom": 0.13678008317947388,
+        "left": 0.02275940775871277,
+        "right": 0.36606839299201965,
+        "top": 0.04109330475330353
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "70af0a30-84eb-42bd-affa-2e3962b2a523": {
+      "box": {
+        "bottom": 0.24902233481407166,
+        "left": 0.022800639271736145,
+        "right": 0.15540406107902527,
+        "top": 0.1693393886089325
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "230e80d4-268b-44e7-9612-aeb83e0a8ae8": {
+      "box": {
+        "bottom": 0.25022071599960327,
+        "left": 0.37859871983528137,
+        "right": 0.5120386481285095,
+        "top": 0.20011787116527557
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "20249335-c4dc-4461-af52-d28a44c9a41f": {
+      "box": {
+        "bottom": 0.2645018994808197,
+        "left": 0.7354373335838318,
+        "right": 0.936872661113739,
+        "top": 0.19988125562667847
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8e4a6bcd-e55a-4a0a-83c1-892cc553699f": {
+      "box": {
+        "bottom": 0.48770731687545776,
+        "left": 0.023251652717590332,
+        "right": 0.975604772567749,
+        "top": 0.2768852710723877
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.4846476909028077,
+        "left": 0.02900430848825364,
+        "right": 0.9717964308970721,
+        "top": 0.28134872083574514
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3056901319494809,
+        "left": 0.02900430848825364,
+        "right": 0.076785929937909,
+        "top": 0.28134872083574514
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3056901319494809,
+        "left": 0.076785929937909,
+        "right": 0.2979031631577804,
+        "top": 0.28134872083574514
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3056901319494809,
+        "left": 0.2979031631577804,
+        "right": 0.5964661661753183,
+        "top": 0.28134872083574514
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3056901319494809,
+        "left": 0.5964661661753183,
+        "right": 0.7279510781630307,
+        "top": 0.28134872083574514
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3056901319494809,
+        "left": 0.7279510781630307,
+        "right": 0.8211749000287227,
+        "top": 0.28134872083574514
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3056901319494809,
+        "left": 0.8211749000287227,
+        "right": 0.9717082753654793,
+        "top": 0.28134872083574514
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.33187168885665663,
+        "left": 0.02900430848825364,
+        "right": 0.076785929937909,
+        "top": 0.3056901319494809
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.33187168885665663,
+        "left": 0.076785929937909,
+        "right": 0.2979031631577804,
+        "top": 0.3056901319494809
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.33187168885665663,
+        "left": 0.2979031631577804,
+        "right": 0.5964661661753183,
+        "top": 0.3056901319494809
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.33187168885665663,
+        "left": 0.5964661661753183,
+        "right": 0.7279510781630307,
+        "top": 0.3056901319494809
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.33187168885665663,
+        "left": 0.7279510781630307,
+        "right": 0.8211749000287227,
+        "top": 0.3056901319494809
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.33187168885665663,
+        "left": 0.8211749000287227,
+        "right": 0.9717082753654793,
+        "top": 0.3056901319494809
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.3680132120068702,
+        "left": 0.02900430848825364,
+        "right": 0.076785929937909,
+        "top": 0.33187168885665663
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3680132120068702,
+        "left": 0.076785929937909,
+        "right": 0.2979031631577804,
+        "top": 0.33187168885665663
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.3680132120068702,
+        "left": 0.2979031631577804,
+        "right": 0.5964661661753183,
+        "top": 0.33187168885665663
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.3680132120068702,
+        "left": 0.5964661661753183,
+        "right": 0.7279510781630307,
+        "top": 0.33187168885665663
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.3680132120068702,
+        "left": 0.7279510781630307,
+        "right": 0.8211749000287227,
+        "top": 0.33187168885665663
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.3680132120068702,
+        "left": 0.8211749000287227,
+        "right": 0.9717082753654793,
+        "top": 0.33187168885665663
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.39938899559480134,
+        "left": 0.02900430848825364,
+        "right": 0.076785929937909,
+        "top": 0.3680132120068702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.39938899559480134,
+        "left": 0.076785929937909,
+        "right": 0.2979031631577804,
+        "top": 0.3680132120068702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.39938899559480134,
+        "left": 0.2979031631577804,
+        "right": 0.5964661661753183,
+        "top": 0.3680132120068702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.39938899559480134,
+        "left": 0.5964661661753183,
+        "right": 0.7279510781630307,
+        "top": 0.3680132120068702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.39938899559480134,
+        "left": 0.7279510781630307,
+        "right": 0.8211749000287227,
+        "top": 0.3680132120068702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.39938899559480134,
+        "left": 0.8211749000287227,
+        "right": 0.9717082753654793,
+        "top": 0.3680132120068702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.42326695830395167,
+        "left": 0.02900430848825364,
+        "right": 0.076785929937909,
+        "top": 0.39938899559480134
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.42326695830395167,
+        "left": 0.076785929937909,
+        "right": 0.2979031631577804,
+        "top": 0.39938899559480134
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.42326695830395167,
+        "left": 0.2979031631577804,
+        "right": 0.5964661661753183,
+        "top": 0.39938899559480134
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.42326695830395167,
+        "left": 0.5964661661753183,
+        "right": 0.7279510781630307,
+        "top": 0.39938899559480134
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.42326695830395167,
+        "left": 0.7279510781630307,
+        "right": 0.8211749000287227,
+        "top": 0.39938899559480134
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.42326695830395167,
+        "left": 0.8211749000287227,
+        "right": 0.9717082753654793,
+        "top": 0.39938899559480134
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.454256193708801,
+        "left": 0.02900430848825364,
+        "right": 0.076785929937909,
+        "top": 0.42326695830395167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.454256193708801,
+        "left": 0.076785929937909,
+        "right": 0.2979031631577804,
+        "top": 0.42326695830395167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.454256193708801,
+        "left": 0.2979031631577804,
+        "right": 0.5964661661753183,
+        "top": 0.42326695830395167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.454256193708801,
+        "left": 0.5964661661753183,
+        "right": 0.7279510781630307,
+        "top": 0.42326695830395167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.454256193708801,
+        "left": 0.7279510781630307,
+        "right": 0.8211749000287227,
+        "top": 0.42326695830395167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.454256193708801,
+        "left": 0.8211749000287227,
+        "right": 0.9717082753654793,
+        "top": 0.42326695830395167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.4846476909028077,
+        "left": 0.02900430848825364,
+        "right": 0.076785929937909,
+        "top": 0.454256193708801
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.4846476909028077,
+        "left": 0.076785929937909,
+        "right": 0.2979031631577804,
+        "top": 0.454256193708801
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.4846476909028077,
+        "left": 0.2979031631577804,
+        "right": 0.5964661661753183,
+        "top": 0.454256193708801
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.4846476909028077,
+        "left": 0.5964661661753183,
+        "right": 0.7279510781630307,
+        "top": 0.454256193708801
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.4846476909028077,
+        "left": 0.7279510781630307,
+        "right": 0.8211749000287227,
+        "top": 0.454256193708801
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.4846476909028077,
+        "left": 0.8211749000287227,
+        "right": 0.9717082753654793,
+        "top": 0.454256193708801
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "5a071600-451b-4745-a7de-c2ed1462472a": {
+      "box": {
+        "bottom": 0.9830970168113708,
+        "left": 0.466875821352005,
+        "right": 0.5329713821411133,
+        "top": 0.9674914479255676
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

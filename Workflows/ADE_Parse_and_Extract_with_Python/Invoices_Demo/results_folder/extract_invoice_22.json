@@ -1,0 +1,421 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "Issued date: 8/21/2018",
+      "invoice_date": "2018-08-21",
+      "invoice_number": "1009748",
+      "order_date": null,
+      "po_number": null,
+      "status": "PAID"
+    },
+    "customer_info": {
+      "sold_to_name": "Andrea Kropp Ridgefield Tennis",
+      "sold_to_address": null,
+      "customer_email": "andrea.kropp@ridgefieldsd.org"
+    },
+    "company_info": {
+      "supplier_name": "Brainless Tees, Inc.",
+      "supplier_address": "12401 NE 60th Way Unit A8 Vancouver, WA 98682",
+      "representative": "Stephen Miller",
+      "email": "steve@brainlesstees.com",
+      "phone": "360-721-6459",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Payment is due upon approval.",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": null,
+      "total_due_raw": "$0.00",
+      "total_due": 0,
+      "subtotal": 279,
+      "tax": 23.44,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": "ST350",
+        "description": "Sport-Tek Competitor Tee",
+        "quantity": 3,
+        "unit_price": 13.95,
+        "price": null,
+        "amount": 41.85,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "ST350",
+        "description": "Sport-Tek Competitor Tee",
+        "quantity": 12,
+        "unit_price": 13.95,
+        "price": null,
+        "amount": 167.4,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "ST350",
+        "description": "Sport-Tek Competitor Tee",
+        "quantity": 4,
+        "unit_price": 13.95,
+        "price": null,
+        "amount": 55.8,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "ST350",
+        "description": "Sport-Tek Competitor Tee",
+        "quantity": 1,
+        "unit_price": 13.95,
+        "price": null,
+        "amount": 13.95,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "Issued date: 8/21/2018",
+        "references": [
+          "a80ab2e6-e0cf-4676-81c1-fb69010521ad"
+        ]
+      },
+      "invoice_date": {
+        "value": "2018-08-21",
+        "references": [
+          "a80ab2e6-e0cf-4676-81c1-fb69010521ad"
+        ]
+      },
+      "invoice_number": {
+        "value": "1009748",
+        "references": [
+          "a80ab2e6-e0cf-4676-81c1-fb69010521ad"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": "PAID",
+        "references": [
+          "edcfd1db-a383-4f03-b0f1-396661572ef5"
+        ]
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Andrea Kropp Ridgefield Tennis",
+        "references": [
+          "b573516f-9cb9-494a-be4a-bb705a578c72"
+        ]
+      },
+      "sold_to_address": {
+        "value": null,
+        "references": []
+      },
+      "customer_email": {
+        "value": "andrea.kropp@ridgefieldsd.org",
+        "references": [
+          "b573516f-9cb9-494a-be4a-bb705a578c72"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Brainless Tees, Inc.",
+        "references": [
+          "b573516f-9cb9-494a-be4a-bb705a578c72"
+        ]
+      },
+      "supplier_address": {
+        "value": "12401 NE 60th Way Unit A8 Vancouver, WA 98682",
+        "references": [
+          "b573516f-9cb9-494a-be4a-bb705a578c72"
+        ]
+      },
+      "representative": {
+        "value": "Stephen Miller",
+        "references": [
+          "b573516f-9cb9-494a-be4a-bb705a578c72"
+        ]
+      },
+      "email": {
+        "value": "steve@brainlesstees.com",
+        "references": [
+          "b573516f-9cb9-494a-be4a-bb705a578c72"
+        ]
+      },
+      "phone": {
+        "value": "360-721-6459",
+        "references": [
+          "b573516f-9cb9-494a-be4a-bb705a578c72"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Payment is due upon approval.",
+        "references": [
+          "fba548d8-c64a-40a4-8a64-51b382fb942f"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": null,
+        "references": []
+      },
+      "total_due_raw": {
+        "value": "$0.00",
+        "references": [
+          "0-X"
+        ]
+      },
+      "total_due": {
+        "value": 0,
+        "references": [
+          "0-X"
+        ]
+      },
+      "subtotal": {
+        "value": 279,
+        "references": [
+          "0-L"
+        ]
+      },
+      "tax": {
+        "value": 23.44,
+        "references": [
+          "0-O"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "ST350",
+          "references": [
+            "0-e"
+          ]
+        },
+        "description": {
+          "value": "Sport-Tek Competitor Tee",
+          "references": [
+            "0-e"
+          ]
+        },
+        "quantity": {
+          "value": 3,
+          "references": [
+            "0-g"
+          ]
+        },
+        "unit_price": {
+          "value": 13.95,
+          "references": [
+            "0-i"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 41.85,
+          "references": [
+            "0-j"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "ST350",
+          "references": [
+            "0-k"
+          ]
+        },
+        "description": {
+          "value": "Sport-Tek Competitor Tee",
+          "references": [
+            "0-k"
+          ]
+        },
+        "quantity": {
+          "value": 12,
+          "references": [
+            "0-m"
+          ]
+        },
+        "unit_price": {
+          "value": 13.95,
+          "references": [
+            "0-o"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 167.4,
+          "references": [
+            "0-p"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "ST350",
+          "references": [
+            "0-q"
+          ]
+        },
+        "description": {
+          "value": "Sport-Tek Competitor Tee",
+          "references": [
+            "0-q"
+          ]
+        },
+        "quantity": {
+          "value": 4,
+          "references": [
+            "0-s"
+          ]
+        },
+        "unit_price": {
+          "value": 13.95,
+          "references": [
+            "0-u"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 55.8,
+          "references": [
+            "0-v"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "ST350",
+          "references": [
+            "0-w"
+          ]
+        },
+        "description": {
+          "value": "Sport-Tek Competitor Tee",
+          "references": [
+            "0-w"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-y"
+          ]
+        },
+        "unit_price": {
+          "value": 13.95,
+          "references": [
+            "0-A"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 13.95,
+          "references": [
+            "0-B"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 2.1,
+    "duration_ms": 9957,
+    "filename": "upload",
+    "job_id": "xqjs3msac1uxrh482g1nnwi4a",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

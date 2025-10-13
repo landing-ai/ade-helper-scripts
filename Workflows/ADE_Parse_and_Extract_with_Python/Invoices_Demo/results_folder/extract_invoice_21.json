@@ -1,0 +1,258 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "July 1, 2024",
+      "invoice_date": "2024-07-01",
+      "invoice_number": "8E8C6122-0016",
+      "order_date": null,
+      "po_number": null,
+      "status": "UNPAID"
+    },
+    "customer_info": {
+      "sold_to_name": "Andrea Kropp",
+      "sold_to_address": "227 N 5th Ave\nPO Box 1168\nRidgefield, Washington 98642\nUnited States",
+      "customer_email": "andr3akropp@gmail.com"
+    },
+    "company_info": {
+      "supplier_name": "Midjourney Inc",
+      "supplier_address": "611 Gateway Blvd\nSuite 120\nSouth San Francisco, California 94080\nUnited States",
+      "representative": null,
+      "email": "billing@midjourney.com",
+      "phone": null,
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": null,
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$32.61 USD",
+      "total_due": 32.61,
+      "subtotal": 30.0,
+      "tax": 2.61,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Standard Plan Jul 1 - Aug 1, 2024",
+        "quantity": 1,
+        "unit_price": 30.0,
+        "price": null,
+        "amount": 30.0,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "July 1, 2024",
+        "references": [
+          "24266060-665e-44ca-b60e-9e7fc30d52be"
+        ]
+      },
+      "invoice_date": {
+        "value": "2024-07-01",
+        "references": [
+          "24266060-665e-44ca-b60e-9e7fc30d52be"
+        ]
+      },
+      "invoice_number": {
+        "value": "8E8C6122-0016",
+        "references": [
+          "24266060-665e-44ca-b60e-9e7fc30d52be"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": "UNPAID",
+        "references": [
+          "d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec"
+        ]
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Andrea Kropp",
+        "references": [
+          "38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a"
+        ]
+      },
+      "sold_to_address": {
+        "value": "227 N 5th Ave\nPO Box 1168\nRidgefield, Washington 98642\nUnited States",
+        "references": [
+          "38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a"
+        ]
+      },
+      "customer_email": {
+        "value": "andr3akropp@gmail.com",
+        "references": [
+          "38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Midjourney Inc",
+        "references": [
+          "05fb9048-a6cd-4e2c-97ec-ad2dad846bbc"
+        ]
+      },
+      "supplier_address": {
+        "value": "611 Gateway Blvd\nSuite 120\nSouth San Francisco, California 94080\nUnited States",
+        "references": [
+          "05fb9048-a6cd-4e2c-97ec-ad2dad846bbc"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "billing@midjourney.com",
+        "references": [
+          "05fb9048-a6cd-4e2c-97ec-ad2dad846bbc"
+        ]
+      },
+      "phone": {
+        "value": null,
+        "references": []
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": null,
+        "references": []
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec",
+          "0-w"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$32.61 USD",
+        "references": [
+          "d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec",
+          "0-w"
+        ]
+      },
+      "total_due": {
+        "value": 32.61,
+        "references": [
+          "d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec",
+          "0-w"
+        ]
+      },
+      "subtotal": {
+        "value": 30.0,
+        "references": [
+          "0-f"
+        ]
+      },
+      "tax": {
+        "value": 2.61,
+        "references": [
+          "0-m"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Standard Plan Jul 1 - Aug 1, 2024",
+          "references": [
+            "0-7"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-8"
+          ]
+        },
+        "unit_price": {
+          "value": 30.0,
+          "references": [
+            "0-9"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 30.0,
+          "references": [
+            "0-b"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.6,
+    "duration_ms": 7873,
+    "filename": "upload",
+    "job_id": "l7rwthmdjmrwzwn4a9ixyspz8",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

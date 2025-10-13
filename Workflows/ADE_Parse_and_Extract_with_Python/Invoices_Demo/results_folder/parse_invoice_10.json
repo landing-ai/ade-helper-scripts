@@ -1,0 +1,1665 @@
+{
+  "chunks": [
+    {
+      "id": "521ae904-f82f-486a-a0f4-6b30415d1d79",
+      "grounding": {
+        "box": {
+          "bottom": 0.15732252597808838,
+          "left": 0.06476593762636185,
+          "right": 0.29520681500434875,
+          "top": 0.0779639258980751
+        },
+        "page": 0
+      },
+      "markdown": "<a id='521ae904-f82f-486a-a0f4-6b30415d1d79'></a>\n\nSheraton Tucson Hotel & Suites\n5151 East Grant Rd\nTucson, AZ 85712\nUnited States\nTel: 520-323-6262 Fax: 520-325-2989",
+      "type": "text"
+    },
+    {
+      "id": "113a14ad-5074-4d7f-8c63-d1afbc3dcc72",
+      "grounding": {
+        "box": {
+          "bottom": 0.16486477851867676,
+          "left": 0.6580945253372192,
+          "right": 0.8511085510253906,
+          "top": 0.08040902763605118
+        },
+        "page": 0
+      },
+      "markdown": "<a id='113a14ad-5074-4d7f-8c63-d1afbc3dcc72'></a>\n\n<::logo: SheratonSHERATONEST. 1937The logo features a stylized 'S' within a circular, patterned emblem, all rendered in a single muted brown/grey color.::>",
+      "type": "logo"
+    },
+    {
+      "id": "ceb23dc2-a3fb-4f22-92bb-eeffeec875a6",
+      "grounding": {
+        "box": {
+          "bottom": 0.20093710720539093,
+          "left": 0.06679611653089523,
+          "right": 0.17727097868919373,
+          "top": 0.18566273152828217
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ceb23dc2-a3fb-4f22-92bb-eeffeec875a6'></a>\n\nANDREA KROPP",
+      "type": "text"
+    },
+    {
+      "id": "57a2b401-f0b3-4f8e-9a40-82544d5e75c0",
+      "grounding": {
+        "box": {
+          "bottom": 0.33977875113487244,
+          "left": 0.45341548323631287,
+          "right": 0.9708071947097778,
+          "top": 0.18478384613990784
+        },
+        "page": 0
+      },
+      "markdown": "<a id='57a2b401-f0b3-4f8e-9a40-82544d5e75c0'></a>\n\nPage Number : 1\nInvoice Nbr : 1000110140\nGuest Number : 1076955\nFolio ID : A\nArrive Date : 15-MAY-25 13:22\nDepart Date : 18-MAY-25 07:50\nNo. Of Guest : 1\nRoom Number : 459\nMarriott Bonvoy Number : 2914\n\nCopy Tax Invoice",
+      "type": "text"
+    },
+    {
+      "id": "b81a8ea0-6f96-4a8e-984e-f4fbe7aa9996",
+      "grounding": {
+        "box": {
+          "bottom": 0.36610934138298035,
+          "left": 0.06763727962970734,
+          "right": 0.22842498123645782,
+          "top": 0.3528750240802765
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b81a8ea0-6f96-4a8e-984e-f4fbe7aa9996'></a>\n\nTax ID : 86-0832296",
+      "type": "text"
+    },
+    {
+      "id": "e583254d-5a1a-4da3-9850-c8a067f14c14",
+      "grounding": {
+        "box": {
+          "bottom": 0.612479031085968,
+          "left": 0.06570836901664734,
+          "right": 0.918988823890686,
+          "top": 0.3787754774093628
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e583254d-5a1a-4da3-9850-c8a067f14c14'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Reference</td><td id=\"0-4\">Description</td><td id=\"0-5\">Charges (USD)</td><td id=\"0-6\">Credits (USD)</td></tr>\n<tr><td id=\"0-7\">15-MAY-25</td><td id=\"0-8\">RT459</td><td id=\"0-9\">Room Chrg - Premium Retail</td><td id=\"0-a\">322.00</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">15-MAY-25</td><td id=\"0-d\">RT459</td><td id=\"0-e\">City/Local Tax</td><td id=\"0-f\">4.00</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">15-MAY-25</td><td id=\"0-i\">RT459</td><td id=\"0-j\">Occupancy/Tourism</td><td id=\"0-k\">38.80</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">16-MAY-25</td><td id=\"0-n\">RT459</td><td id=\"0-o\">Room Chrg - Premium Retail</td><td id=\"0-p\">322.00</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">16-MAY-25</td><td id=\"0-s\">RT459</td><td id=\"0-t\">City/Local Tax</td><td id=\"0-u\"></td><td id=\"0-v\">4.00</td></tr>\n<tr><td id=\"0-w\">16-MAY-25</td><td id=\"0-x\">RT459</td><td id=\"0-y\">Occupancy/Tourism</td><td id=\"0-z\"></td><td id=\"0-A\">38.80</td></tr>\n<tr><td id=\"0-B\">17-MAY-25</td><td id=\"0-C\">RT459</td><td id=\"0-D\">Room Chrg - Premium Retail</td><td id=\"0-E\"></td><td id=\"0-F\">265.00</td></tr>\n<tr><td id=\"0-G\">17-MAY-25</td><td id=\"0-H\">RT459</td><td id=\"0-I\">City/Local Tax</td><td id=\"0-J\"></td><td id=\"0-K\">4.00</td></tr>\n<tr><td id=\"0-L\">17-MAY-25</td><td id=\"0-M\">RT459</td><td id=\"0-N\">Occupancy/Tourism</td><td id=\"0-O\"></td><td id=\"0-P\">31.93</td></tr>\n<tr><td id=\"0-Q\">18-MAY-25</td><td id=\"0-R\">VI</td><td id=\"0-S\">Visa-8366</td><td id=\"0-T\"></td><td id=\"0-U\">-1030.53</td></tr>\n<tr><td id=\"0-V\"></td><td id=\"0-W\" colspan=\"2\">***For Authorization Purpose Only***</td><td id=\"0-X\"></td><td id=\"0-Y\"></td></tr>\n<tr><td id=\"0-Z\"></td><td id=\"0-10\" colspan=\"2\">xxxxxx8366</td><td id=\"0-11\"></td><td id=\"0-12\"></td></tr>\n</table>\n<table id=\"0-13\">\n<tr><td id=\"0-14\">Date</td><td id=\"0-15\">Time</td><td id=\"0-16\">Code</td><td id=\"0-17\">Authorized</td></tr>\n<tr><td id=\"0-18\">15-MAY-25</td><td id=\"0-19\">13:18</td><td id=\"0-1a\">07081D</td><td id=\"0-1b\">1181.70</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "a4d583e4-f61e-414a-beda-6f0d91c2ee9f",
+      "grounding": {
+        "box": {
+          "bottom": 0.6881366968154907,
+          "left": 0.1459791362285614,
+          "right": 0.5361500978469849,
+          "top": 0.639474630355835
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a4d583e4-f61e-414a-beda-6f0d91c2ee9f'></a>\n\nApprove EMV Receipt for VI - 8366: Signature Captured\nApplication Label: VISA CREDIT AID: A0000000031010\nARC: 00 IAD: 0601120360A000 TSI: 6800 TVR: 8000008000",
+      "type": "text"
+    },
+    {
+      "id": "a5cfcd35-0aa2-4614-9596-36817268ca27",
+      "grounding": {
+        "box": {
+          "bottom": 0.74937903881073,
+          "left": 0.29882749915122986,
+          "right": 0.8747421503067017,
+          "top": 0.7141298055648804
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a5cfcd35-0aa2-4614-9596-36817268ca27'></a>\n\n** Total",
+      "type": "text"
+    },
+    {
+      "id": "89cd7a49-393e-4840-8bca-6f77e3de89de",
+      "grounding": {
+        "box": {
+          "bottom": 0.8851253986358643,
+          "left": 0.3962794542312622,
+          "right": 0.6508580446243286,
+          "top": 0.8017979860305786
+        },
+        "page": 0
+      },
+      "markdown": "<a id='89cd7a49-393e-4840-8bca-6f77e3de89de'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nA black ink signature is centered horizontally within a white rectangular box.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "ead534f9-ec11-4cb7-941e-d8ddbaaa95ee",
+      "grounding": {
+        "box": {
+          "bottom": 0.8395318984985352,
+          "left": 0.10149498283863068,
+          "right": 0.3698810338973999,
+          "top": 0.8226883411407471
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ead534f9-ec11-4cb7-941e-d8ddbaaa95ee'></a>\n\nI agreed to pay all room & incidental charges.",
+      "type": "marginalia"
+    },
+    {
+      "id": "d84b6b0f-0ef2-4e64-949d-4039383065e9",
+      "grounding": {
+        "box": {
+          "bottom": 0.9435483813285828,
+          "left": 0.39645978808403015,
+          "right": 0.5648729801177979,
+          "top": 0.928440511226654
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d84b6b0f-0ef2-4e64-949d-4039383065e9'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    },
+    {
+      "id": "17c968d1-2073-41ba-803e-cd9fdc2c2802",
+      "grounding": {
+        "box": {
+          "bottom": 0.15735948085784912,
+          "left": 0.06429322063922882,
+          "right": 0.29576075077056885,
+          "top": 0.07802057266235352
+        },
+        "page": 1
+      },
+      "markdown": "<a id='17c968d1-2073-41ba-803e-cd9fdc2c2802'></a>\n\nSheraton Tucson Hotel & Suites\n5151 East Grant Rd\nTucson, AZ 85712\nUnited States\nTel: 520-323-6262 Fax: 520-325-2989",
+      "type": "text"
+    },
+    {
+      "id": "de2a7ed8-ea2e-43dd-9f28-1bdc186d5ec7",
+      "grounding": {
+        "box": {
+          "bottom": 0.1651024967432022,
+          "left": 0.6580696702003479,
+          "right": 0.852001965045929,
+          "top": 0.08059805631637573
+        },
+        "page": 1
+      },
+      "markdown": "<a id='de2a7ed8-ea2e-43dd-9f28-1bdc186d5ec7'></a>\n\n<::logo: Sheraton\nSHERATON\nEST. 1937\nThe logo features a stylized 'S' within a circular emblem with radiating lines, all in a monochrome brown color.::>",
+      "type": "logo"
+    },
+    {
+      "id": "b5555648-07e1-48a3-af7b-070905344b44",
+      "grounding": {
+        "box": {
+          "bottom": 0.2013273984193802,
+          "left": 0.06640894711017609,
+          "right": 0.17793422937393188,
+          "top": 0.18550096452236176
+        },
+        "page": 1
+      },
+      "markdown": "<a id='b5555648-07e1-48a3-af7b-070905344b44'></a>\n\nANDREA KROPP",
+      "type": "text"
+    },
+    {
+      "id": "ad58d3cd-1c80-4da1-a098-dc689c3c3f44",
+      "grounding": {
+        "box": {
+          "bottom": 0.30845877528190613,
+          "left": 0.4526519477367401,
+          "right": 0.9708088636398315,
+          "top": 0.18476350605487823
+        },
+        "page": 1
+      },
+      "markdown": "<a id='ad58d3cd-1c80-4da1-a098-dc689c3c3f44'></a>\n\nPage Number : 2\nGuest Number : 1076955\nFolio ID : A\nArrive Date : 15-MAY-25 13:22\nDepart Date : 18-MAY-25 07:50\nNo. Of Guest : 1\nRoom Number : 459\nMarriott Bonvoy Number: 2914\n\nInvoice Nbr : 1000110140",
+      "type": "text"
+    },
+    {
+      "id": "19d0079f-24cb-4e3d-a82d-01b9d6b24d44",
+      "grounding": {
+        "box": {
+          "bottom": 0.41396963596343994,
+          "left": 0.06609426438808441,
+          "right": 0.2647281289100647,
+          "top": 0.39758574962615967
+        },
+        "page": 1
+      },
+      "markdown": "<a id='19d0079f-24cb-4e3d-a82d-01b9d6b24d44'></a>\n\nEXPENSE SUMMARY REPORT",
+      "type": "text"
+    },
+    {
+      "id": "ff39c9a7-d075-4d3b-9c97-d77410ff75f6",
+      "grounding": {
+        "box": {
+          "bottom": 0.42874985933303833,
+          "left": 0.408160924911499,
+          "right": 0.5030255913734436,
+          "top": 0.4139038324356079
+        },
+        "page": 1
+      },
+      "markdown": "<a id='ff39c9a7-d075-4d3b-9c97-d77410ff75f6'></a>\n\nCurrency: USD",
+      "type": "text"
+    },
+    {
+      "id": "bcd510dd-b6ea-4e5a-b99d-87d312d102c5",
+      "grounding": {
+        "box": {
+          "bottom": 0.5964640378952026,
+          "left": 0.06544271111488342,
+          "right": 0.9200810194015503,
+          "top": 0.45627737045288086
+        },
+        "page": 1
+      },
+      "markdown": "<a id='bcd510dd-b6ea-4e5a-b99d-87d312d102c5'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Date</td><td id=\"1-3\">RM & TX</td><td id=\"1-4\">FD & BV</td><td id=\"1-5\">TEL</td><td id=\"1-6\">Other</td><td id=\"1-7\">Total</td><td id=\"1-8\">Payment</td></tr>\n<tr><td id=\"1-9\">05-15-2025</td><td id=\"1-a\">0.00</td><td id=\"1-b\">0.00</td><td id=\"1-c\">0.00</td><td id=\"1-d\">364.80</td><td id=\"1-e\">364.80</td><td id=\"1-f\">0.00</td></tr>\n<tr><td id=\"1-g\">05-16-2025</td><td id=\"1-h\">0.00</td><td id=\"1-i\">0.00</td><td id=\"1-j\">0.00</td><td id=\"1-k\">364.80</td><td id=\"1-l\">364.80</td><td id=\"1-m\">0.00</td></tr>\n<tr><td id=\"1-n\">05-17-2025</td><td id=\"1-o\">0.00</td><td id=\"1-p\">0.00</td><td id=\"1-q\">0.00</td><td id=\"1-r\">300.93</td><td id=\"1-s\">300.93</td><td id=\"1-t\">0.00</td></tr>\n<tr><td id=\"1-u\">05-18-2025</td><td id=\"1-v\">0.00</td><td id=\"1-w\">0.00</td><td id=\"1-x\">0.00</td><td id=\"1-y\">0.00</td><td id=\"1-z\">0.00</td><td id=\"1-A\">-1030.53</td></tr>\n<tr><td id=\"1-B\">Total</td><td id=\"1-C\">0.00</td><td id=\"1-D\">0.00</td><td id=\"1-E\">0.00</td><td id=\"1-F\">1030.53</td><td id=\"1-G\">1030.53</td><td id=\"1-H\">-1030.53</td></tr>\n</table>\nSignature___",
+      "type": "table"
+    },
+    {
+      "id": "8b845a39-870b-4ccc-b220-059311587a30",
+      "grounding": {
+        "box": {
+          "bottom": 0.8839175701141357,
+          "left": 0.06626816093921661,
+          "right": 0.5286213159561157,
+          "top": 0.8685909509658813
+        },
+        "page": 1
+      },
+      "markdown": "<a id='8b845a39-870b-4ccc-b220-059311587a30'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='521ae904-f82f-486a-a0f4-6b30415d1d79'></a>\n\nSheraton Tucson Hotel & Suites\n5151 East Grant Rd\nTucson, AZ 85712\nUnited States\nTel: 520-323-6262 Fax: 520-325-2989\n\n<a id='113a14ad-5074-4d7f-8c63-d1afbc3dcc72'></a>\n\n<::logo: SheratonSHERATONEST. 1937The logo features a stylized 'S' within a circular, patterned emblem, all rendered in a single muted brown/grey color.::>\n\n<a id='ceb23dc2-a3fb-4f22-92bb-eeffeec875a6'></a>\n\nANDREA KROPP\n\n<a id='57a2b401-f0b3-4f8e-9a40-82544d5e75c0'></a>\n\nPage Number : 1\nInvoice Nbr : 1000110140\nGuest Number : 1076955\nFolio ID : A\nArrive Date : 15-MAY-25 13:22\nDepart Date : 18-MAY-25 07:50\nNo. Of Guest : 1\nRoom Number : 459\nMarriott Bonvoy Number : 2914\n\nCopy Tax Invoice\n\n<a id='b81a8ea0-6f96-4a8e-984e-f4fbe7aa9996'></a>\n\nTax ID : 86-0832296\n\n<a id='e583254d-5a1a-4da3-9850-c8a067f14c14'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Reference</td><td id=\"0-4\">Description</td><td id=\"0-5\">Charges (USD)</td><td id=\"0-6\">Credits (USD)</td></tr>\n<tr><td id=\"0-7\">15-MAY-25</td><td id=\"0-8\">RT459</td><td id=\"0-9\">Room Chrg - Premium Retail</td><td id=\"0-a\">322.00</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">15-MAY-25</td><td id=\"0-d\">RT459</td><td id=\"0-e\">City/Local Tax</td><td id=\"0-f\">4.00</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">15-MAY-25</td><td id=\"0-i\">RT459</td><td id=\"0-j\">Occupancy/Tourism</td><td id=\"0-k\">38.80</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">16-MAY-25</td><td id=\"0-n\">RT459</td><td id=\"0-o\">Room Chrg - Premium Retail</td><td id=\"0-p\">322.00</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">16-MAY-25</td><td id=\"0-s\">RT459</td><td id=\"0-t\">City/Local Tax</td><td id=\"0-u\"></td><td id=\"0-v\">4.00</td></tr>\n<tr><td id=\"0-w\">16-MAY-25</td><td id=\"0-x\">RT459</td><td id=\"0-y\">Occupancy/Tourism</td><td id=\"0-z\"></td><td id=\"0-A\">38.80</td></tr>\n<tr><td id=\"0-B\">17-MAY-25</td><td id=\"0-C\">RT459</td><td id=\"0-D\">Room Chrg - Premium Retail</td><td id=\"0-E\"></td><td id=\"0-F\">265.00</td></tr>\n<tr><td id=\"0-G\">17-MAY-25</td><td id=\"0-H\">RT459</td><td id=\"0-I\">City/Local Tax</td><td id=\"0-J\"></td><td id=\"0-K\">4.00</td></tr>\n<tr><td id=\"0-L\">17-MAY-25</td><td id=\"0-M\">RT459</td><td id=\"0-N\">Occupancy/Tourism</td><td id=\"0-O\"></td><td id=\"0-P\">31.93</td></tr>\n<tr><td id=\"0-Q\">18-MAY-25</td><td id=\"0-R\">VI</td><td id=\"0-S\">Visa-8366</td><td id=\"0-T\"></td><td id=\"0-U\">-1030.53</td></tr>\n<tr><td id=\"0-V\"></td><td id=\"0-W\" colspan=\"2\">***For Authorization Purpose Only***</td><td id=\"0-X\"></td><td id=\"0-Y\"></td></tr>\n<tr><td id=\"0-Z\"></td><td id=\"0-10\" colspan=\"2\">xxxxxx8366</td><td id=\"0-11\"></td><td id=\"0-12\"></td></tr>\n</table>\n<table id=\"0-13\">\n<tr><td id=\"0-14\">Date</td><td id=\"0-15\">Time</td><td id=\"0-16\">Code</td><td id=\"0-17\">Authorized</td></tr>\n<tr><td id=\"0-18\">15-MAY-25</td><td id=\"0-19\">13:18</td><td id=\"0-1a\">07081D</td><td id=\"0-1b\">1181.70</td></tr>\n</table>\n\n<a id='a4d583e4-f61e-414a-beda-6f0d91c2ee9f'></a>\n\nApprove EMV Receipt for VI - 8366: Signature Captured\nApplication Label: VISA CREDIT AID: A0000000031010\nARC: 00 IAD: 0601120360A000 TSI: 6800 TVR: 8000008000\n\n<a id='a5cfcd35-0aa2-4614-9596-36817268ca27'></a>\n\n** Total\n\n<a id='89cd7a49-393e-4840-8bca-6f77e3de89de'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nA black ink signature is centered horizontally within a white rectangular box.::>\n\n<a id='ead534f9-ec11-4cb7-941e-d8ddbaaa95ee'></a>\n\nI agreed to pay all room & incidental charges.\n\n<a id='d84b6b0f-0ef2-4e64-949d-4039383065e9'></a>\n\nCAPTION ERROR\n\n<a id='17c968d1-2073-41ba-803e-cd9fdc2c2802'></a>\n\nSheraton Tucson Hotel & Suites\n5151 East Grant Rd\nTucson, AZ 85712\nUnited States\nTel: 520-323-6262 Fax: 520-325-2989\n\n<a id='de2a7ed8-ea2e-43dd-9f28-1bdc186d5ec7'></a>\n\n<::logo: Sheraton\nSHERATON\nEST. 1937\nThe logo features a stylized 'S' within a circular emblem with radiating lines, all in a monochrome brown color.::>\n\n<a id='b5555648-07e1-48a3-af7b-070905344b44'></a>\n\nANDREA KROPP\n\n<a id='ad58d3cd-1c80-4da1-a098-dc689c3c3f44'></a>\n\nPage Number : 2\nGuest Number : 1076955\nFolio ID : A\nArrive Date : 15-MAY-25 13:22\nDepart Date : 18-MAY-25 07:50\nNo. Of Guest : 1\nRoom Number : 459\nMarriott Bonvoy Number: 2914\n\nInvoice Nbr : 1000110140\n\n<a id='19d0079f-24cb-4e3d-a82d-01b9d6b24d44'></a>\n\nEXPENSE SUMMARY REPORT\n\n<a id='ff39c9a7-d075-4d3b-9c97-d77410ff75f6'></a>\n\nCurrency: USD\n\n<a id='bcd510dd-b6ea-4e5a-b99d-87d312d102c5'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Date</td><td id=\"1-3\">RM & TX</td><td id=\"1-4\">FD & BV</td><td id=\"1-5\">TEL</td><td id=\"1-6\">Other</td><td id=\"1-7\">Total</td><td id=\"1-8\">Payment</td></tr>\n<tr><td id=\"1-9\">05-15-2025</td><td id=\"1-a\">0.00</td><td id=\"1-b\">0.00</td><td id=\"1-c\">0.00</td><td id=\"1-d\">364.80</td><td id=\"1-e\">364.80</td><td id=\"1-f\">0.00</td></tr>\n<tr><td id=\"1-g\">05-16-2025</td><td id=\"1-h\">0.00</td><td id=\"1-i\">0.00</td><td id=\"1-j\">0.00</td><td id=\"1-k\">364.80</td><td id=\"1-l\">364.80</td><td id=\"1-m\">0.00</td></tr>\n<tr><td id=\"1-n\">05-17-2025</td><td id=\"1-o\">0.00</td><td id=\"1-p\">0.00</td><td id=\"1-q\">0.00</td><td id=\"1-r\">300.93</td><td id=\"1-s\">300.93</td><td id=\"1-t\">0.00</td></tr>\n<tr><td id=\"1-u\">05-18-2025</td><td id=\"1-v\">0.00</td><td id=\"1-w\">0.00</td><td id=\"1-x\">0.00</td><td id=\"1-y\">0.00</td><td id=\"1-z\">0.00</td><td id=\"1-A\">-1030.53</td></tr>\n<tr><td id=\"1-B\">Total</td><td id=\"1-C\">0.00</td><td id=\"1-D\">0.00</td><td id=\"1-E\">0.00</td><td id=\"1-F\">1030.53</td><td id=\"1-G\">1030.53</td><td id=\"1-H\">-1030.53</td></tr>\n</table>\nSignature___\n\n<a id='8b845a39-870b-4ccc-b220-059311587a30'></a>\n\nCAPTION ERROR",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 20778,
+    "filename": "invoice_10.pdf",
+    "job_id": "c21f2k0a4sxcdnd8ve8sqmt4w",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "521ae904-f82f-486a-a0f4-6b30415d1d79",
+        "113a14ad-5074-4d7f-8c63-d1afbc3dcc72",
+        "ceb23dc2-a3fb-4f22-92bb-eeffeec875a6",
+        "57a2b401-f0b3-4f8e-9a40-82544d5e75c0",
+        "b81a8ea0-6f96-4a8e-984e-f4fbe7aa9996",
+        "e583254d-5a1a-4da3-9850-c8a067f14c14",
+        "a4d583e4-f61e-414a-beda-6f0d91c2ee9f",
+        "a5cfcd35-0aa2-4614-9596-36817268ca27",
+        "89cd7a49-393e-4840-8bca-6f77e3de89de",
+        "ead534f9-ec11-4cb7-941e-d8ddbaaa95ee",
+        "d84b6b0f-0ef2-4e64-949d-4039383065e9",
+        "17c968d1-2073-41ba-803e-cd9fdc2c2802",
+        "de2a7ed8-ea2e-43dd-9f28-1bdc186d5ec7",
+        "b5555648-07e1-48a3-af7b-070905344b44",
+        "ad58d3cd-1c80-4da1-a098-dc689c3c3f44",
+        "19d0079f-24cb-4e3d-a82d-01b9d6b24d44",
+        "ff39c9a7-d075-4d3b-9c97-d77410ff75f6",
+        "bcd510dd-b6ea-4e5a-b99d-87d312d102c5",
+        "8b845a39-870b-4ccc-b220-059311587a30"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='521ae904-f82f-486a-a0f4-6b30415d1d79'></a>\n\nSheraton Tucson Hotel & Suites\n5151 East Grant Rd\nTucson, AZ 85712\nUnited States\nTel: 520-323-6262 Fax: 520-325-2989\n\n<a id='113a14ad-5074-4d7f-8c63-d1afbc3dcc72'></a>\n\n<::logo: SheratonSHERATONEST. 1937The logo features a stylized 'S' within a circular, patterned emblem, all rendered in a single muted brown/grey color.::>\n\n<a id='ceb23dc2-a3fb-4f22-92bb-eeffeec875a6'></a>\n\nANDREA KROPP\n\n<a id='57a2b401-f0b3-4f8e-9a40-82544d5e75c0'></a>\n\nPage Number : 1\nInvoice Nbr : 1000110140\nGuest Number : 1076955\nFolio ID : A\nArrive Date : 15-MAY-25 13:22\nDepart Date : 18-MAY-25 07:50\nNo. Of Guest : 1\nRoom Number : 459\nMarriott Bonvoy Number : 2914\n\nCopy Tax Invoice\n\n<a id='b81a8ea0-6f96-4a8e-984e-f4fbe7aa9996'></a>\n\nTax ID : 86-0832296\n\n<a id='e583254d-5a1a-4da3-9850-c8a067f14c14'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Reference</td><td id=\"0-4\">Description</td><td id=\"0-5\">Charges (USD)</td><td id=\"0-6\">Credits (USD)</td></tr>\n<tr><td id=\"0-7\">15-MAY-25</td><td id=\"0-8\">RT459</td><td id=\"0-9\">Room Chrg - Premium Retail</td><td id=\"0-a\">322.00</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">15-MAY-25</td><td id=\"0-d\">RT459</td><td id=\"0-e\">City/Local Tax</td><td id=\"0-f\">4.00</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">15-MAY-25</td><td id=\"0-i\">RT459</td><td id=\"0-j\">Occupancy/Tourism</td><td id=\"0-k\">38.80</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">16-MAY-25</td><td id=\"0-n\">RT459</td><td id=\"0-o\">Room Chrg - Premium Retail</td><td id=\"0-p\">322.00</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">16-MAY-25</td><td id=\"0-s\">RT459</td><td id=\"0-t\">City/Local Tax</td><td id=\"0-u\"></td><td id=\"0-v\">4.00</td></tr>\n<tr><td id=\"0-w\">16-MAY-25</td><td id=\"0-x\">RT459</td><td id=\"0-y\">Occupancy/Tourism</td><td id=\"0-z\"></td><td id=\"0-A\">38.80</td></tr>\n<tr><td id=\"0-B\">17-MAY-25</td><td id=\"0-C\">RT459</td><td id=\"0-D\">Room Chrg - Premium Retail</td><td id=\"0-E\"></td><td id=\"0-F\">265.00</td></tr>\n<tr><td id=\"0-G\">17-MAY-25</td><td id=\"0-H\">RT459</td><td id=\"0-I\">City/Local Tax</td><td id=\"0-J\"></td><td id=\"0-K\">4.00</td></tr>\n<tr><td id=\"0-L\">17-MAY-25</td><td id=\"0-M\">RT459</td><td id=\"0-N\">Occupancy/Tourism</td><td id=\"0-O\"></td><td id=\"0-P\">31.93</td></tr>\n<tr><td id=\"0-Q\">18-MAY-25</td><td id=\"0-R\">VI</td><td id=\"0-S\">Visa-8366</td><td id=\"0-T\"></td><td id=\"0-U\">-1030.53</td></tr>\n<tr><td id=\"0-V\"></td><td id=\"0-W\" colspan=\"2\">***For Authorization Purpose Only***</td><td id=\"0-X\"></td><td id=\"0-Y\"></td></tr>\n<tr><td id=\"0-Z\"></td><td id=\"0-10\" colspan=\"2\">xxxxxx8366</td><td id=\"0-11\"></td><td id=\"0-12\"></td></tr>\n</table>\n<table id=\"0-13\">\n<tr><td id=\"0-14\">Date</td><td id=\"0-15\">Time</td><td id=\"0-16\">Code</td><td id=\"0-17\">Authorized</td></tr>\n<tr><td id=\"0-18\">15-MAY-25</td><td id=\"0-19\">13:18</td><td id=\"0-1a\">07081D</td><td id=\"0-1b\">1181.70</td></tr>\n</table>\n\n<a id='a4d583e4-f61e-414a-beda-6f0d91c2ee9f'></a>\n\nApprove EMV Receipt for VI - 8366: Signature Captured\nApplication Label: VISA CREDIT AID: A0000000031010\nARC: 00 IAD: 0601120360A000 TSI: 6800 TVR: 8000008000\n\n<a id='a5cfcd35-0aa2-4614-9596-36817268ca27'></a>\n\n** Total\n\n<a id='89cd7a49-393e-4840-8bca-6f77e3de89de'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nA black ink signature is centered horizontally within a white rectangular box.::>\n\n<a id='ead534f9-ec11-4cb7-941e-d8ddbaaa95ee'></a>\n\nI agreed to pay all room & incidental charges.\n\n<a id='d84b6b0f-0ef2-4e64-949d-4039383065e9'></a>\n\nCAPTION ERROR\n\n<a id='17c968d1-2073-41ba-803e-cd9fdc2c2802'></a>\n\nSheraton Tucson Hotel & Suites\n5151 East Grant Rd\nTucson, AZ 85712\nUnited States\nTel: 520-323-6262 Fax: 520-325-2989\n\n<a id='de2a7ed8-ea2e-43dd-9f28-1bdc186d5ec7'></a>\n\n<::logo: Sheraton\nSHERATON\nEST. 1937\nThe logo features a stylized 'S' within a circular emblem with radiating lines, all in a monochrome brown color.::>\n\n<a id='b5555648-07e1-48a3-af7b-070905344b44'></a>\n\nANDREA KROPP\n\n<a id='ad58d3cd-1c80-4da1-a098-dc689c3c3f44'></a>\n\nPage Number : 2\nGuest Number : 1076955\nFolio ID : A\nArrive Date : 15-MAY-25 13:22\nDepart Date : 18-MAY-25 07:50\nNo. Of Guest : 1\nRoom Number : 459\nMarriott Bonvoy Number: 2914\n\nInvoice Nbr : 1000110140\n\n<a id='19d0079f-24cb-4e3d-a82d-01b9d6b24d44'></a>\n\nEXPENSE SUMMARY REPORT\n\n<a id='ff39c9a7-d075-4d3b-9c97-d77410ff75f6'></a>\n\nCurrency: USD\n\n<a id='bcd510dd-b6ea-4e5a-b99d-87d312d102c5'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Date</td><td id=\"1-3\">RM & TX</td><td id=\"1-4\">FD & BV</td><td id=\"1-5\">TEL</td><td id=\"1-6\">Other</td><td id=\"1-7\">Total</td><td id=\"1-8\">Payment</td></tr>\n<tr><td id=\"1-9\">05-15-2025</td><td id=\"1-a\">0.00</td><td id=\"1-b\">0.00</td><td id=\"1-c\">0.00</td><td id=\"1-d\">364.80</td><td id=\"1-e\">364.80</td><td id=\"1-f\">0.00</td></tr>\n<tr><td id=\"1-g\">05-16-2025</td><td id=\"1-h\">0.00</td><td id=\"1-i\">0.00</td><td id=\"1-j\">0.00</td><td id=\"1-k\">364.80</td><td id=\"1-l\">364.80</td><td id=\"1-m\">0.00</td></tr>\n<tr><td id=\"1-n\">05-17-2025</td><td id=\"1-o\">0.00</td><td id=\"1-p\">0.00</td><td id=\"1-q\">0.00</td><td id=\"1-r\">300.93</td><td id=\"1-s\">300.93</td><td id=\"1-t\">0.00</td></tr>\n<tr><td id=\"1-u\">05-18-2025</td><td id=\"1-v\">0.00</td><td id=\"1-w\">0.00</td><td id=\"1-x\">0.00</td><td id=\"1-y\">0.00</td><td id=\"1-z\">0.00</td><td id=\"1-A\">-1030.53</td></tr>\n<tr><td id=\"1-B\">Total</td><td id=\"1-C\">0.00</td><td id=\"1-D\">0.00</td><td id=\"1-E\">0.00</td><td id=\"1-F\">1030.53</td><td id=\"1-G\">1030.53</td><td id=\"1-H\">-1030.53</td></tr>\n</table>\nSignature___\n\n<a id='8b845a39-870b-4ccc-b220-059311587a30'></a>\n\nCAPTION ERROR",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "521ae904-f82f-486a-a0f4-6b30415d1d79": {
+      "box": {
+        "bottom": 0.15732252597808838,
+        "left": 0.06476593762636185,
+        "right": 0.29520681500434875,
+        "top": 0.0779639258980751
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "113a14ad-5074-4d7f-8c63-d1afbc3dcc72": {
+      "box": {
+        "bottom": 0.16486477851867676,
+        "left": 0.6580945253372192,
+        "right": 0.8511085510253906,
+        "top": 0.08040902763605118
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "ceb23dc2-a3fb-4f22-92bb-eeffeec875a6": {
+      "box": {
+        "bottom": 0.20093710720539093,
+        "left": 0.06679611653089523,
+        "right": 0.17727097868919373,
+        "top": 0.18566273152828217
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "57a2b401-f0b3-4f8e-9a40-82544d5e75c0": {
+      "box": {
+        "bottom": 0.33977875113487244,
+        "left": 0.45341548323631287,
+        "right": 0.9708071947097778,
+        "top": 0.18478384613990784
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b81a8ea0-6f96-4a8e-984e-f4fbe7aa9996": {
+      "box": {
+        "bottom": 0.36610934138298035,
+        "left": 0.06763727962970734,
+        "right": 0.22842498123645782,
+        "top": 0.3528750240802765
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e583254d-5a1a-4da3-9850-c8a067f14c14": {
+      "box": {
+        "bottom": 0.612479031085968,
+        "left": 0.06570836901664734,
+        "right": 0.918988823890686,
+        "top": 0.3787754774093628
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.5797926451432751,
+        "left": 0.06984538825864682,
+        "right": 0.918274248219074,
+        "top": 0.38257850776123214
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3965478644119709,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.38257850776123214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3965478644119709,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.38257850776123214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3965478644119709,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.38257850776123214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3965478644119709,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.38257850776123214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3965478644119709,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.38257850776123214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.4130539857501354,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.3965478644119709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.4130539857501354,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.3965478644119709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4130539857501354,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.3965478644119709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.4130539857501354,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.3965478644119709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.4130539857501354,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.3965478644119709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.4285245905886521,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.4130539857501354
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.4285245905886521,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.4130539857501354
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.4285245905886521,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.4130539857501354
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.4285245905886521,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.4130539857501354
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.4285245905886521,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.4130539857501354
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4435470244502788,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.4285245905886521
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.4435470244502788,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.4285245905886521
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4435470244502788,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.4285245905886521
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.4435470244502788,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.4285245905886521
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.4435470244502788,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.4285245905886521
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.45885758613538563,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.4435470244502788
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.45885758613538563,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.4435470244502788
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.45885758613538563,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.4435470244502788
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.45885758613538563,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.4435470244502788
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.45885758613538563,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.4435470244502788
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.47390746521954696,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.45885758613538563
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.47390746521954696,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.45885758613538563
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.47390746521954696,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.45885758613538563
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.47390746521954696,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.45885758613538563
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.47390746521954696,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.45885758613538563
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.48913094465180507,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.47390746521954696
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.48913094465180507,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.47390746521954696
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.48913094465180507,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.47390746521954696
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.48913094465180507,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.47390746521954696
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.48913094465180507,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.47390746521954696
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5045193670507082,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.48913094465180507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5045193670507082,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.48913094465180507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5045193670507082,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.48913094465180507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.5045193670507082,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.48913094465180507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.5045193670507082,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.48913094465180507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.51980307901297,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.5045193670507082
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.51980307901297,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.5045193670507082
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.51980307901297,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.5045193670507082
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.51980307901297,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.5045193670507082
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.51980307901297,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.5045193670507082
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.5350979069694368,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.51980307901297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.5350979069694368,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.51980307901297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.5350979069694368,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.51980307901297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.5350979069694368,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.51980307901297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.5350979069694368,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.51980307901297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.5500968238170074,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.5350979069694368
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.5500968238170074,
+        "left": 0.13922444813661716,
+        "right": 0.21921114982659962,
+        "top": 0.5350979069694368
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.5500968238170074,
+        "left": 0.21921114982659962,
+        "right": 0.4294917739668378,
+        "top": 0.5350979069694368
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.5500968238170074,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.5350979069694368
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.5500968238170074,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.5350979069694368
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.5665945611463847,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.5500968238170074
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-W": {
+      "box": {
+        "bottom": 0.5797926451432751,
+        "left": 0.13922444813661716,
+        "right": 0.7091810657509328,
+        "top": 0.5500968238170074
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-X": {
+      "box": {
+        "bottom": 0.5665945611463847,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.5500968238170074
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Y": {
+      "box": {
+        "bottom": 0.5665945611463847,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.5500968238170074
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Z": {
+      "box": {
+        "bottom": 0.5797926451432751,
+        "left": 0.06984538825864682,
+        "right": 0.13922444813661716,
+        "top": 0.5665945611463847
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-10": {
+      "box": {
+        "bottom": 0.5797926451432751,
+        "left": 0.13922444813661716,
+        "right": 0.7091810657509328,
+        "top": 0.5665945611463847
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-11": {
+      "box": {
+        "bottom": 0.5797926451432751,
+        "left": 0.4294917739668378,
+        "right": 0.7091810657509328,
+        "top": 0.5665945611463847
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-12": {
+      "box": {
+        "bottom": 0.5797926451432751,
+        "left": 0.7091810657509328,
+        "right": 0.9180722343708432,
+        "top": 0.5665945611463847
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-13": {
+      "box": {
+        "bottom": 0.6123558915010392,
+        "left": 0.1472246822345764,
+        "right": 0.5622249932906893,
+        "top": 0.582111249302983
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-14": {
+      "box": {
+        "bottom": 0.595551753910339,
+        "left": 0.1472246822345764,
+        "right": 0.22170051785668665,
+        "top": 0.582111249302983
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-15": {
+      "box": {
+        "bottom": 0.595551753910339,
+        "left": 0.22170051785668665,
+        "right": 0.29674807759043453,
+        "top": 0.582111249302983
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-16": {
+      "box": {
+        "bottom": 0.595551753910339,
+        "left": 0.29674807759043453,
+        "right": 0.4041156660835421,
+        "top": 0.582111249302983
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-17": {
+      "box": {
+        "bottom": 0.595551753910339,
+        "left": 0.4041156660835421,
+        "right": 0.5623073856457079,
+        "top": 0.582111249302983
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-18": {
+      "box": {
+        "bottom": 0.6123558915010392,
+        "left": 0.1472246822345764,
+        "right": 0.22170051785668665,
+        "top": 0.595551753910339
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-19": {
+      "box": {
+        "bottom": 0.6123558915010392,
+        "left": 0.22170051785668665,
+        "right": 0.29674807759043453,
+        "top": 0.595551753910339
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1a": {
+      "box": {
+        "bottom": 0.6123558915010392,
+        "left": 0.29674807759043453,
+        "right": 0.4041156660835421,
+        "top": 0.595551753910339
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1b": {
+      "box": {
+        "bottom": 0.6123558915010392,
+        "left": 0.4041156660835421,
+        "right": 0.5623073856457079,
+        "top": 0.595551753910339
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "a4d583e4-f61e-414a-beda-6f0d91c2ee9f": {
+      "box": {
+        "bottom": 0.6881366968154907,
+        "left": 0.1459791362285614,
+        "right": 0.5361500978469849,
+        "top": 0.639474630355835
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a5cfcd35-0aa2-4614-9596-36817268ca27": {
+      "box": {
+        "bottom": 0.74937903881073,
+        "left": 0.29882749915122986,
+        "right": 0.8747421503067017,
+        "top": 0.7141298055648804
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "89cd7a49-393e-4840-8bca-6f77e3de89de": {
+      "box": {
+        "bottom": 0.8851253986358643,
+        "left": 0.3962794542312622,
+        "right": 0.6508580446243286,
+        "top": 0.8017979860305786
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "ead534f9-ec11-4cb7-941e-d8ddbaaa95ee": {
+      "box": {
+        "bottom": 0.8395318984985352,
+        "left": 0.10149498283863068,
+        "right": 0.3698810338973999,
+        "top": 0.8226883411407471
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "d84b6b0f-0ef2-4e64-949d-4039383065e9": {
+      "box": {
+        "bottom": 0.9435483813285828,
+        "left": 0.39645978808403015,
+        "right": 0.5648729801177979,
+        "top": 0.928440511226654
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "17c968d1-2073-41ba-803e-cd9fdc2c2802": {
+      "box": {
+        "bottom": 0.15735948085784912,
+        "left": 0.06429322063922882,
+        "right": 0.29576075077056885,
+        "top": 0.07802057266235352
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "de2a7ed8-ea2e-43dd-9f28-1bdc186d5ec7": {
+      "box": {
+        "bottom": 0.1651024967432022,
+        "left": 0.6580696702003479,
+        "right": 0.852001965045929,
+        "top": 0.08059805631637573
+      },
+      "page": 1,
+      "type": "chunkLogo"
+    },
+    "b5555648-07e1-48a3-af7b-070905344b44": {
+      "box": {
+        "bottom": 0.2013273984193802,
+        "left": 0.06640894711017609,
+        "right": 0.17793422937393188,
+        "top": 0.18550096452236176
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "ad58d3cd-1c80-4da1-a098-dc689c3c3f44": {
+      "box": {
+        "bottom": 0.30845877528190613,
+        "left": 0.4526519477367401,
+        "right": 0.9708088636398315,
+        "top": 0.18476350605487823
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "19d0079f-24cb-4e3d-a82d-01b9d6b24d44": {
+      "box": {
+        "bottom": 0.41396963596343994,
+        "left": 0.06609426438808441,
+        "right": 0.2647281289100647,
+        "top": 0.39758574962615967
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "ff39c9a7-d075-4d3b-9c97-d77410ff75f6": {
+      "box": {
+        "bottom": 0.42874985933303833,
+        "left": 0.408160924911499,
+        "right": 0.5030255913734436,
+        "top": 0.4139038324356079
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "bcd510dd-b6ea-4e5a-b99d-87d312d102c5": {
+      "box": {
+        "bottom": 0.5964640378952026,
+        "left": 0.06544271111488342,
+        "right": 0.9200810194015503,
+        "top": 0.45627737045288086
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.06967074507879271,
+        "right": 0.9174240693519344,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.4720165147688613,
+        "left": 0.06967074507879271,
+        "right": 0.148425681439311,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.4720165147688613,
+        "left": 0.148425681439311,
+        "right": 0.2601412986831573,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.4720165147688613,
+        "left": 0.2601412986831573,
+        "right": 0.35401953821088483,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.4720165147688613,
+        "left": 0.35401953821088483,
+        "right": 0.44878885290911175,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.4720165147688613,
+        "left": 0.44878885290911175,
+        "right": 0.5452636526271082,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.4720165147688613,
+        "left": 0.5452636526271082,
+        "right": 0.6448991776068773,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.4720165147688613,
+        "left": 0.6448991776068773,
+        "right": 0.9172975333665967,
+        "top": 0.45793034306397695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.4882566213100308,
+        "left": 0.06967074507879271,
+        "right": 0.148425681439311,
+        "top": 0.4720165147688613
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.4882566213100308,
+        "left": 0.148425681439311,
+        "right": 0.2601412986831573,
+        "top": 0.4720165147688613
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.4882566213100308,
+        "left": 0.2601412986831573,
+        "right": 0.35401953821088483,
+        "top": 0.4720165147688613
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.4882566213100308,
+        "left": 0.35401953821088483,
+        "right": 0.44878885290911175,
+        "top": 0.4720165147688613
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.4882566213100308,
+        "left": 0.44878885290911175,
+        "right": 0.5452636526271082,
+        "top": 0.4720165147688613
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.4882566213100308,
+        "left": 0.5452636526271082,
+        "right": 0.6448991776068773,
+        "top": 0.4720165147688613
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.4882566213100308,
+        "left": 0.6448991776068773,
+        "right": 0.9172975333665967,
+        "top": 0.4720165147688613
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.5039142205585279,
+        "left": 0.06967074507879271,
+        "right": 0.148425681439311,
+        "top": 0.4882566213100308
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.5039142205585279,
+        "left": 0.148425681439311,
+        "right": 0.2601412986831573,
+        "top": 0.4882566213100308
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.5039142205585279,
+        "left": 0.2601412986831573,
+        "right": 0.35401953821088483,
+        "top": 0.4882566213100308
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.5039142205585279,
+        "left": 0.35401953821088483,
+        "right": 0.44878885290911175,
+        "top": 0.4882566213100308
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.5039142205585279,
+        "left": 0.44878885290911175,
+        "right": 0.5452636526271082,
+        "top": 0.4882566213100308
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.5039142205585279,
+        "left": 0.5452636526271082,
+        "right": 0.6448991776068773,
+        "top": 0.4882566213100308
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.5039142205585279,
+        "left": 0.6448991776068773,
+        "right": 0.9172975333665967,
+        "top": 0.4882566213100308
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.5191582109584694,
+        "left": 0.06967074507879271,
+        "right": 0.148425681439311,
+        "top": 0.5039142205585279
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.5191582109584694,
+        "left": 0.148425681439311,
+        "right": 0.2601412986831573,
+        "top": 0.5039142205585279
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.5191582109584694,
+        "left": 0.2601412986831573,
+        "right": 0.35401953821088483,
+        "top": 0.5039142205585279
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-q": {
+      "box": {
+        "bottom": 0.5191582109584694,
+        "left": 0.35401953821088483,
+        "right": 0.44878885290911175,
+        "top": 0.5039142205585279
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-r": {
+      "box": {
+        "bottom": 0.5191582109584694,
+        "left": 0.44878885290911175,
+        "right": 0.5452636526271082,
+        "top": 0.5039142205585279
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-s": {
+      "box": {
+        "bottom": 0.5191582109584694,
+        "left": 0.5452636526271082,
+        "right": 0.6448991776068773,
+        "top": 0.5039142205585279
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-t": {
+      "box": {
+        "bottom": 0.5191582109584694,
+        "left": 0.6448991776068773,
+        "right": 0.9172975333665967,
+        "top": 0.5039142205585279
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-u": {
+      "box": {
+        "bottom": 0.5431399705527227,
+        "left": 0.06967074507879271,
+        "right": 0.148425681439311,
+        "top": 0.5191582109584694
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-v": {
+      "box": {
+        "bottom": 0.5431399705527227,
+        "left": 0.148425681439311,
+        "right": 0.2601412986831573,
+        "top": 0.5191582109584694
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-w": {
+      "box": {
+        "bottom": 0.5431399705527227,
+        "left": 0.2601412986831573,
+        "right": 0.35401953821088483,
+        "top": 0.5191582109584694
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-x": {
+      "box": {
+        "bottom": 0.5431399705527227,
+        "left": 0.35401953821088483,
+        "right": 0.44878885290911175,
+        "top": 0.5191582109584694
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-y": {
+      "box": {
+        "bottom": 0.5431399705527227,
+        "left": 0.44878885290911175,
+        "right": 0.5452636526271082,
+        "top": 0.5191582109584694
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-z": {
+      "box": {
+        "bottom": 0.5431399705527227,
+        "left": 0.5452636526271082,
+        "right": 0.6448991776068773,
+        "top": 0.5191582109584694
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-A": {
+      "box": {
+        "bottom": 0.5431399705527227,
+        "left": 0.6448991776068773,
+        "right": 0.9172975333665967,
+        "top": 0.5191582109584694
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-B": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.06967074507879271,
+        "right": 0.148425681439311,
+        "top": 0.5431399705527227
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-C": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.148425681439311,
+        "right": 0.2601412986831573,
+        "top": 0.5431399705527227
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-D": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.2601412986831573,
+        "right": 0.35401953821088483,
+        "top": 0.5431399705527227
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-E": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.35401953821088483,
+        "right": 0.44878885290911175,
+        "top": 0.5431399705527227
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-F": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.44878885290911175,
+        "right": 0.5452636526271082,
+        "top": 0.5431399705527227
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-G": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.5452636526271082,
+        "right": 0.6448991776068773,
+        "top": 0.5431399705527227
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-H": {
+      "box": {
+        "bottom": 0.5664236008412473,
+        "left": 0.6448991776068773,
+        "right": 0.9172975333665967,
+        "top": 0.5431399705527227
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "8b845a39-870b-4ccc-b220-059311587a30": {
+      "box": {
+        "bottom": 0.8839175701141357,
+        "left": 0.06626816093921661,
+        "right": 0.5286213159561157,
+        "top": 0.8685909509658813
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    }
+  }
+}

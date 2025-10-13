@@ -1,0 +1,264 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "06 May 2024",
+      "invoice_date": "2024-05-06",
+      "invoice_number": "IY04370868",
+      "order_date": null,
+      "po_number": "OY92605918",
+      "status": "Paid"
+    },
+    "customer_info": {
+      "sold_to_name": "",
+      "sold_to_address": "227 N 5th Ave\nRidgefield\nWA\n98642-3846\nUnited States",
+      "customer_email": "andr3akropp@gmail.com"
+    },
+    "company_info": {
+      "supplier_name": "Alamy Inc",
+      "supplier_address": "49 Flatbush Ave, 130\nBrooklyn, NY 11217\nUSA",
+      "representative": null,
+      "email": "sales@alamy.com",
+      "phone": "866 671 7305",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": null,
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$ 49.50",
+      "total_due": 49.5,
+      "subtotal": 45.0,
+      "tax": 4.5,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": "GMM2C6",
+        "description": "Vector Seamless Dash Diagonal Parallel Line Halfton Pattern",
+        "quantity": 1,
+        "unit_price": 45.0,
+        "price": null,
+        "amount": 45.0,
+        "total": 45.0
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "06 May 2024",
+        "references": [
+          "0-4"
+        ]
+      },
+      "invoice_date": {
+        "value": "2024-05-06",
+        "references": [
+          "0-4"
+        ]
+      },
+      "invoice_number": {
+        "value": "IY04370868",
+        "references": [
+          "0-6"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": "OY92605918",
+        "references": [
+          "fab9eae3-3931-450d-b7e3-2b7b476a9396"
+        ]
+      },
+      "status": {
+        "value": "Paid",
+        "references": [
+          "0-5"
+        ]
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "",
+        "references": []
+      },
+      "sold_to_address": {
+        "value": "227 N 5th Ave\nRidgefield\nWA\n98642-3846\nUnited States",
+        "references": [
+          "98e2479b-8d42-413d-8d6f-45c9d47dd7b7"
+        ]
+      },
+      "customer_email": {
+        "value": "andr3akropp@gmail.com",
+        "references": [
+          "fab9eae3-3931-450d-b7e3-2b7b476a9396"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Alamy Inc",
+        "references": [
+          "a108c834-918b-4dae-8147-06b35dc60f90"
+        ]
+      },
+      "supplier_address": {
+        "value": "49 Flatbush Ave, 130\nBrooklyn, NY 11217\nUSA",
+        "references": [
+          "a108c834-918b-4dae-8147-06b35dc60f90"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "sales@alamy.com",
+        "references": [
+          "fe15ebc8-d782-480c-92a3-0ec5bf5af452"
+        ]
+      },
+      "phone": {
+        "value": "866 671 7305",
+        "references": [
+          "fe15ebc8-d782-480c-92a3-0ec5bf5af452"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": null,
+        "references": []
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "0-9",
+          "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$ 49.50",
+        "references": [
+          "0-9",
+          "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+        ]
+      },
+      "total_due": {
+        "value": 49.5,
+        "references": [
+          "0-9",
+          "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+        ]
+      },
+      "subtotal": {
+        "value": 45.0,
+        "references": [
+          "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+        ]
+      },
+      "tax": {
+        "value": 4.5,
+        "references": [
+          "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "GMM2C6",
+          "references": [
+            "0-b"
+          ]
+        },
+        "description": {
+          "value": "Vector Seamless Dash Diagonal Parallel Line Halfton Pattern",
+          "references": [
+            "0-f"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-t"
+          ]
+        },
+        "unit_price": {
+          "value": 45.0,
+          "references": [
+            "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 45.0,
+          "references": [
+            "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+          ]
+        },
+        "total": {
+          "value": 45.0,
+          "references": [
+            "38ba9b42-b85e-4c14-abcb-0360ddc036fc"
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.6,
+    "duration_ms": 26915,
+    "filename": "upload",
+    "job_id": "objltvww2xknwq8q0g4e8w7hd",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

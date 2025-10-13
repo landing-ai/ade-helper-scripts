@@ -1,0 +1,589 @@
+{
+  "chunks": [
+    {
+      "id": "66bec42e-9732-47c5-a6c7-850230ab777a",
+      "grounding": {
+        "box": {
+          "bottom": 0.06656923145055771,
+          "left": 0.04296039789915085,
+          "right": 0.15790608525276184,
+          "top": 0.038896024227142334
+        },
+        "page": 0
+      },
+      "markdown": "<a id='66bec42e-9732-47c5-a6c7-850230ab777a'></a>\n\n**Invoice**",
+      "type": "text"
+    },
+    {
+      "id": "d1614d36-bf65-4a56-92b3-2a3008d13c2f",
+      "grounding": {
+        "box": {
+          "bottom": 0.08366673439741135,
+          "left": 0.7361644506454468,
+          "right": 0.9569026231765747,
+          "top": 0.03382917493581772
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d1614d36-bf65-4a56-92b3-2a3008d13c2f'></a>\n\n<::logo: posit\nposit\u2122\nThe logo features an abstract symbol of intertwined blue and orange lines to the left of the dark gray text \"posit\u2122\".::>",
+      "type": "logo"
+    },
+    {
+      "id": "c62a7cd6-532b-4588-853d-97f9eb738668",
+      "grounding": {
+        "box": {
+          "bottom": 0.13862305879592896,
+          "left": 0.04283437132835388,
+          "right": 0.29709717631340027,
+          "top": 0.0846015065908432
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c62a7cd6-532b-4588-853d-97f9eb738668'></a>\n\nInvoice number: 6DC1AEAF-0023\n\nDate of issue: May 26, 2024\n\nDate due: May 26, 2024",
+      "type": "text"
+    },
+    {
+      "id": "97f949c5-5a25-4a9b-b087-f943d7a42b07",
+      "grounding": {
+        "box": {
+          "bottom": 0.2981269955635071,
+          "left": 0.04275006055831909,
+          "right": 0.26332077383995056,
+          "top": 0.1550871580839157
+        },
+        "page": 0
+      },
+      "markdown": "<a id='97f949c5-5a25-4a9b-b087-f943d7a42b07'></a>\n\n**Posit Software PBC**\n250 Northern Avenue\nSuite #410\nBoston, Massachusetts 02210\nUnited States\n+1 844-448-1212\nsupport@posit.co\nUS EIN 26-4457115",
+      "type": "text"
+    },
+    {
+      "id": "484ea0b7-ca09-4981-8e0b-54c6ec4ba89d",
+      "grounding": {
+        "box": {
+          "bottom": 0.2786927819252014,
+          "left": 0.40291762351989746,
+          "right": 0.6379481554031372,
+          "top": 0.15467408299446106
+        },
+        "page": 0
+      },
+      "markdown": "<a id='484ea0b7-ca09-4981-8e0b-54c6ec4ba89d'></a>\n\n**Bill to**\nAndrea Kropp\n227 N 5TH AVE\nPO BOX 1168\nRIDGEFIELD, Washington 98642\nUnited States\nandr3akropp@gmail.com",
+      "type": "text"
+    },
+    {
+      "id": "9fa6a841-2f53-4e8e-b16f-05d51c5bde30",
+      "grounding": {
+        "box": {
+          "bottom": 0.34974709153175354,
+          "left": 0.043389692902565,
+          "right": 0.37425553798675537,
+          "top": 0.3239001929759979
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9fa6a841-2f53-4e8e-b16f-05d51c5bde30'></a>\n\n$14.14 USD due May 26, 2024",
+      "type": "text"
+    },
+    {
+      "id": "34b4670c-7cdc-4c8e-91b2-128c3f660b48",
+      "grounding": {
+        "box": {
+          "bottom": 0.5793318152427673,
+          "left": 0.04192790389060974,
+          "right": 0.9593360424041748,
+          "top": 0.3747362792491913
+        },
+        "page": 0
+      },
+      "markdown": "<a id='34b4670c-7cdc-4c8e-91b2-128c3f660b48'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\"></td><td id=\"0-4\">Qty</td><td id=\"0-5\">Unit price</td><td id=\"0-6\">Amount</td></tr>\n<tr><td id=\"0-7\">Starter Plan (Monthly) May 26 \u2013 Jun 26, 2024</td><td id=\"0-8\"></td><td id=\"0-9\">1</td><td id=\"0-a\">$13.00</td><td id=\"0-b\">$13.00</td></tr>\n<tr><td id=\"0-c\">Sales Tax</td><td id=\"0-d\"></td><td id=\"0-e\">1</td><td id=\"0-f\">$1.14</td><td id=\"0-g\">$1.14</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Subtotal</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">$14.14</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Total</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">$14.14</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">Amount due</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">$14.14 USD</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "09daa7f3-6649-4f05-8bc7-2239e98cdd9f",
+      "grounding": {
+        "box": {
+          "bottom": 0.7131953835487366,
+          "left": 0.043377429246902466,
+          "right": 0.9335174560546875,
+          "top": 0.6090852618217468
+        },
+        "page": 0
+      },
+      "markdown": "<a id='09daa7f3-6649-4f05-8bc7-2239e98cdd9f'></a>\n\nVAT/EU Customers: Customer is liable for tax under the reverse charge mechanism.\nPosit VAT#s: Vietnam - 9000001031, South Korea - 833-80-02962, Chile - 592301105, Italy - EU372069547, India -\n9924USA29013OSH, New Zealand - 142117711, Czech Republic - EU372069547, Turkey - 73222206, Poland - EU372069547,\nMalta - EU372069547, Slovakia - EU372069547, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France,\nGermany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Netherlands, Portugal, Romania, Slovakia, Slovenia, Spain,\nSweden - EU372069547, United Kingdom - GB465212211",
+      "type": "text"
+    },
+    {
+      "id": "14d89d7e-427a-4572-b804-48cdeebb4d71",
+      "grounding": {
+        "box": {
+          "bottom": 0.9569917917251587,
+          "left": 0.04505576193332672,
+          "right": 0.336639404296875,
+          "top": 0.9404999017715454
+        },
+        "page": 0
+      },
+      "markdown": "<a id='14d89d7e-427a-4572-b804-48cdeebb4d71'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    },
+    {
+      "id": "d15c64de-0a30-4db4-b52e-520d05c7b3e1",
+      "grounding": {
+        "box": {
+          "bottom": 0.9569721221923828,
+          "left": 0.8854261636734009,
+          "right": 0.9540653228759766,
+          "top": 0.9414834976196289
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d15c64de-0a30-4db4-b52e-520d05c7b3e1'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='66bec42e-9732-47c5-a6c7-850230ab777a'></a>\n\n**Invoice**\n\n<a id='d1614d36-bf65-4a56-92b3-2a3008d13c2f'></a>\n\n<::logo: posit\nposit\u2122\nThe logo features an abstract symbol of intertwined blue and orange lines to the left of the dark gray text \"posit\u2122\".::>\n\n<a id='c62a7cd6-532b-4588-853d-97f9eb738668'></a>\n\nInvoice number: 6DC1AEAF-0023\n\nDate of issue: May 26, 2024\n\nDate due: May 26, 2024\n\n<a id='97f949c5-5a25-4a9b-b087-f943d7a42b07'></a>\n\n**Posit Software PBC**\n250 Northern Avenue\nSuite #410\nBoston, Massachusetts 02210\nUnited States\n+1 844-448-1212\nsupport@posit.co\nUS EIN 26-4457115\n\n<a id='484ea0b7-ca09-4981-8e0b-54c6ec4ba89d'></a>\n\n**Bill to**\nAndrea Kropp\n227 N 5TH AVE\nPO BOX 1168\nRIDGEFIELD, Washington 98642\nUnited States\nandr3akropp@gmail.com\n\n<a id='9fa6a841-2f53-4e8e-b16f-05d51c5bde30'></a>\n\n$14.14 USD due May 26, 2024\n\n<a id='34b4670c-7cdc-4c8e-91b2-128c3f660b48'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\"></td><td id=\"0-4\">Qty</td><td id=\"0-5\">Unit price</td><td id=\"0-6\">Amount</td></tr>\n<tr><td id=\"0-7\">Starter Plan (Monthly) May 26 \u2013 Jun 26, 2024</td><td id=\"0-8\"></td><td id=\"0-9\">1</td><td id=\"0-a\">$13.00</td><td id=\"0-b\">$13.00</td></tr>\n<tr><td id=\"0-c\">Sales Tax</td><td id=\"0-d\"></td><td id=\"0-e\">1</td><td id=\"0-f\">$1.14</td><td id=\"0-g\">$1.14</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Subtotal</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">$14.14</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Total</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">$14.14</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">Amount due</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">$14.14 USD</td></tr>\n</table>\n\n<a id='09daa7f3-6649-4f05-8bc7-2239e98cdd9f'></a>\n\nVAT/EU Customers: Customer is liable for tax under the reverse charge mechanism.\nPosit VAT#s: Vietnam - 9000001031, South Korea - 833-80-02962, Chile - 592301105, Italy - EU372069547, India -\n9924USA29013OSH, New Zealand - 142117711, Czech Republic - EU372069547, Turkey - 73222206, Poland - EU372069547,\nMalta - EU372069547, Slovakia - EU372069547, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France,\nGermany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Netherlands, Portugal, Romania, Slovakia, Slovenia, Spain,\nSweden - EU372069547, United Kingdom - GB465212211\n\n<a id='14d89d7e-427a-4572-b804-48cdeebb4d71'></a>\n\nCAPTION ERROR\n\n<a id='d15c64de-0a30-4db4-b52e-520d05c7b3e1'></a>\n\nCAPTION ERROR",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 5900,
+    "filename": "invoice_20.pdf",
+    "job_id": "l6141c1v0pbzhpt3fo36c7bmw",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "66bec42e-9732-47c5-a6c7-850230ab777a",
+        "d1614d36-bf65-4a56-92b3-2a3008d13c2f",
+        "c62a7cd6-532b-4588-853d-97f9eb738668",
+        "97f949c5-5a25-4a9b-b087-f943d7a42b07",
+        "484ea0b7-ca09-4981-8e0b-54c6ec4ba89d",
+        "9fa6a841-2f53-4e8e-b16f-05d51c5bde30",
+        "34b4670c-7cdc-4c8e-91b2-128c3f660b48",
+        "09daa7f3-6649-4f05-8bc7-2239e98cdd9f",
+        "14d89d7e-427a-4572-b804-48cdeebb4d71",
+        "d15c64de-0a30-4db4-b52e-520d05c7b3e1"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='66bec42e-9732-47c5-a6c7-850230ab777a'></a>\n\n**Invoice**\n\n<a id='d1614d36-bf65-4a56-92b3-2a3008d13c2f'></a>\n\n<::logo: posit\nposit\u2122\nThe logo features an abstract symbol of intertwined blue and orange lines to the left of the dark gray text \"posit\u2122\".::>\n\n<a id='c62a7cd6-532b-4588-853d-97f9eb738668'></a>\n\nInvoice number: 6DC1AEAF-0023\n\nDate of issue: May 26, 2024\n\nDate due: May 26, 2024\n\n<a id='97f949c5-5a25-4a9b-b087-f943d7a42b07'></a>\n\n**Posit Software PBC**\n250 Northern Avenue\nSuite #410\nBoston, Massachusetts 02210\nUnited States\n+1 844-448-1212\nsupport@posit.co\nUS EIN 26-4457115\n\n<a id='484ea0b7-ca09-4981-8e0b-54c6ec4ba89d'></a>\n\n**Bill to**\nAndrea Kropp\n227 N 5TH AVE\nPO BOX 1168\nRIDGEFIELD, Washington 98642\nUnited States\nandr3akropp@gmail.com\n\n<a id='9fa6a841-2f53-4e8e-b16f-05d51c5bde30'></a>\n\n$14.14 USD due May 26, 2024\n\n<a id='34b4670c-7cdc-4c8e-91b2-128c3f660b48'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\"></td><td id=\"0-4\">Qty</td><td id=\"0-5\">Unit price</td><td id=\"0-6\">Amount</td></tr>\n<tr><td id=\"0-7\">Starter Plan (Monthly) May 26 \u2013 Jun 26, 2024</td><td id=\"0-8\"></td><td id=\"0-9\">1</td><td id=\"0-a\">$13.00</td><td id=\"0-b\">$13.00</td></tr>\n<tr><td id=\"0-c\">Sales Tax</td><td id=\"0-d\"></td><td id=\"0-e\">1</td><td id=\"0-f\">$1.14</td><td id=\"0-g\">$1.14</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Subtotal</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">$14.14</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Total</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">$14.14</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">Amount due</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">$14.14 USD</td></tr>\n</table>\n\n<a id='09daa7f3-6649-4f05-8bc7-2239e98cdd9f'></a>\n\nVAT/EU Customers: Customer is liable for tax under the reverse charge mechanism.\nPosit VAT#s: Vietnam - 9000001031, South Korea - 833-80-02962, Chile - 592301105, Italy - EU372069547, India -\n9924USA29013OSH, New Zealand - 142117711, Czech Republic - EU372069547, Turkey - 73222206, Poland - EU372069547,\nMalta - EU372069547, Slovakia - EU372069547, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France,\nGermany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Netherlands, Portugal, Romania, Slovakia, Slovenia, Spain,\nSweden - EU372069547, United Kingdom - GB465212211\n\n<a id='14d89d7e-427a-4572-b804-48cdeebb4d71'></a>\n\nCAPTION ERROR\n\n<a id='d15c64de-0a30-4db4-b52e-520d05c7b3e1'></a>\n\nCAPTION ERROR",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "66bec42e-9732-47c5-a6c7-850230ab777a": {
+      "box": {
+        "bottom": 0.06656923145055771,
+        "left": 0.04296039789915085,
+        "right": 0.15790608525276184,
+        "top": 0.038896024227142334
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d1614d36-bf65-4a56-92b3-2a3008d13c2f": {
+      "box": {
+        "bottom": 0.08366673439741135,
+        "left": 0.7361644506454468,
+        "right": 0.9569026231765747,
+        "top": 0.03382917493581772
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "c62a7cd6-532b-4588-853d-97f9eb738668": {
+      "box": {
+        "bottom": 0.13862305879592896,
+        "left": 0.04283437132835388,
+        "right": 0.29709717631340027,
+        "top": 0.0846015065908432
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "97f949c5-5a25-4a9b-b087-f943d7a42b07": {
+      "box": {
+        "bottom": 0.2981269955635071,
+        "left": 0.04275006055831909,
+        "right": 0.26332077383995056,
+        "top": 0.1550871580839157
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "484ea0b7-ca09-4981-8e0b-54c6ec4ba89d": {
+      "box": {
+        "bottom": 0.2786927819252014,
+        "left": 0.40291762351989746,
+        "right": 0.6379481554031372,
+        "top": 0.15467408299446106
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9fa6a841-2f53-4e8e-b16f-05d51c5bde30": {
+      "box": {
+        "bottom": 0.34974709153175354,
+        "left": 0.043389692902565,
+        "right": 0.37425553798675537,
+        "top": 0.3239001929759979
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "34b4670c-7cdc-4c8e-91b2-128c3f660b48": {
+      "box": {
+        "bottom": 0.5793318152427673,
+        "left": 0.04192790389060974,
+        "right": 0.9593360424041748,
+        "top": 0.3747362792491913
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.5793297787037783,
+        "left": 0.04675914607543903,
+        "right": 0.9544193295970889,
+        "top": 0.3768774326622769
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3994742784059431,
+        "left": 0.04675914607543903,
+        "right": 0.21299382971169845,
+        "top": 0.3768774326622769
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3994742784059431,
+        "left": 0.21299382971169845,
+        "right": 0.5949941443388056,
+        "top": 0.3768774326622769
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3994742784059431,
+        "left": 0.5949941443388056,
+        "right": 0.7224081197052978,
+        "top": 0.3768774326622769
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3994742784059431,
+        "left": 0.7224081197052978,
+        "right": 0.8286064916126161,
+        "top": 0.3768774326622769
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3994742784059431,
+        "left": 0.8286064916126161,
+        "right": 0.9544228292314063,
+        "top": 0.3768774326622769
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.45829418741192196,
+        "left": 0.04675914607543903,
+        "right": 0.21299382971169845,
+        "top": 0.3994742784059431
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.45829418741192196,
+        "left": 0.21299382971169845,
+        "right": 0.5949941443388056,
+        "top": 0.3994742784059431
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.45829418741192196,
+        "left": 0.5949941443388056,
+        "right": 0.7224081197052978,
+        "top": 0.3994742784059431
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.45829418741192196,
+        "left": 0.7224081197052978,
+        "right": 0.8286064916126161,
+        "top": 0.3994742784059431
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.45829418741192196,
+        "left": 0.8286064916126161,
+        "right": 0.9544228292314063,
+        "top": 0.3994742784059431
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.4999700005493697,
+        "left": 0.04675914607543903,
+        "right": 0.21299382971169845,
+        "top": 0.45829418741192196
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.4999700005493697,
+        "left": 0.21299382971169845,
+        "right": 0.5949941443388056,
+        "top": 0.45829418741192196
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.4999700005493697,
+        "left": 0.5949941443388056,
+        "right": 0.7224081197052978,
+        "top": 0.45829418741192196
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.4999700005493697,
+        "left": 0.7224081197052978,
+        "right": 0.8286064916126161,
+        "top": 0.45829418741192196
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.4999700005493697,
+        "left": 0.8286064916126161,
+        "right": 0.9544228292314063,
+        "top": 0.45829418741192196
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.5273932906897869,
+        "left": 0.04675914607543903,
+        "right": 0.21299382971169845,
+        "top": 0.4999700005493697
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.5273932906897869,
+        "left": 0.21299382971169845,
+        "right": 0.5949941443388056,
+        "top": 0.4999700005493697
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.5273932906897869,
+        "left": 0.5949941443388056,
+        "right": 0.7224081197052978,
+        "top": 0.4999700005493697
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.5273932906897869,
+        "left": 0.7224081197052978,
+        "right": 0.8286064916126161,
+        "top": 0.4999700005493697
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.5273932906897869,
+        "left": 0.8286064916126161,
+        "right": 0.9544228292314063,
+        "top": 0.4999700005493697
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.5548396778652052,
+        "left": 0.04675914607543903,
+        "right": 0.21299382971169845,
+        "top": 0.5273932906897869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.5548396778652052,
+        "left": 0.21299382971169845,
+        "right": 0.5949941443388056,
+        "top": 0.5273932906897869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.5548396778652052,
+        "left": 0.5949941443388056,
+        "right": 0.7224081197052978,
+        "top": 0.5273932906897869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.5548396778652052,
+        "left": 0.7224081197052978,
+        "right": 0.8286064916126161,
+        "top": 0.5273932906897869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.5548396778652052,
+        "left": 0.8286064916126161,
+        "right": 0.9544228292314063,
+        "top": 0.5273932906897869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5793297787037783,
+        "left": 0.04675914607543903,
+        "right": 0.21299382971169845,
+        "top": 0.5548396778652052
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5793297787037783,
+        "left": 0.21299382971169845,
+        "right": 0.5949941443388056,
+        "top": 0.5548396778652052
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5793297787037783,
+        "left": 0.5949941443388056,
+        "right": 0.7224081197052978,
+        "top": 0.5548396778652052
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5793297787037783,
+        "left": 0.7224081197052978,
+        "right": 0.8286064916126161,
+        "top": 0.5548396778652052
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5793297787037783,
+        "left": 0.8286064916126161,
+        "right": 0.9544228292314063,
+        "top": 0.5548396778652052
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "09daa7f3-6649-4f05-8bc7-2239e98cdd9f": {
+      "box": {
+        "bottom": 0.7131953835487366,
+        "left": 0.043377429246902466,
+        "right": 0.9335174560546875,
+        "top": 0.6090852618217468
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "14d89d7e-427a-4572-b804-48cdeebb4d71": {
+      "box": {
+        "bottom": 0.9569917917251587,
+        "left": 0.04505576193332672,
+        "right": 0.336639404296875,
+        "top": 0.9404999017715454
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "d15c64de-0a30-4db4-b52e-520d05c7b3e1": {
+      "box": {
+        "bottom": 0.9569721221923828,
+        "left": 0.8854261636734009,
+        "right": 0.9540653228759766,
+        "top": 0.9414834976196289
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

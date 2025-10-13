@@ -1,0 +1,624 @@
+{
+  "chunks": [
+    {
+      "id": "b4f57cef-a62d-4722-b678-4646101a3eb6",
+      "grounding": {
+        "box": {
+          "bottom": 0.06623195111751556,
+          "left": 0.04434989392757416,
+          "right": 0.15636029839515686,
+          "top": 0.03925921022891998
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b4f57cef-a62d-4722-b678-4646101a3eb6'></a>\n\n**Invoice**",
+      "type": "text"
+    },
+    {
+      "id": "1e4a2f40-231f-473a-a1fd-305e1264da01",
+      "grounding": {
+        "box": {
+          "bottom": 0.08971177041530609,
+          "left": 0.8814417719841003,
+          "right": 0.953228771686554,
+          "top": 0.03589008376002312
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1e4a2f40-231f-473a-a1fd-305e1264da01'></a>\n\n<::logo: Not identifiable\nNone\nA simple line-art illustration of a sailboat with two sails on wavy water.::>",
+      "type": "logo"
+    },
+    {
+      "id": "24266060-665e-44ca-b60e-9e7fc30d52be",
+      "grounding": {
+        "box": {
+          "bottom": 0.1384565681219101,
+          "left": 0.04303981363773346,
+          "right": 0.29223108291625977,
+          "top": 0.08415146172046661
+        },
+        "page": 0
+      },
+      "markdown": "<a id='24266060-665e-44ca-b60e-9e7fc30d52be'></a>\n\nInvoice number: 8E8C6122-0016\nDate of issue: July 1, 2024\nDate due: July 1, 2024",
+      "type": "text"
+    },
+    {
+      "id": "05fb9048-a6cd-4e2c-97ec-ad2dad846bbc",
+      "grounding": {
+        "box": {
+          "bottom": 0.28191515803337097,
+          "left": 0.04328837990760803,
+          "right": 0.32207417488098145,
+          "top": 0.15484923124313354
+        },
+        "page": 0
+      },
+      "markdown": "<a id='05fb9048-a6cd-4e2c-97ec-ad2dad846bbc'></a>\n\nMidjourney Inc\n611 Gateway Blvd\nSuite 120\nSouth San Francisco, California 94080\nUnited States\nbilling@midjourney.com\nUS EIN 85-3078202",
+      "type": "text"
+    },
+    {
+      "id": "38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a",
+      "grounding": {
+        "box": {
+          "bottom": 0.278887540102005,
+          "left": 0.40306633710861206,
+          "right": 0.6238515973091125,
+          "top": 0.1545696258544922
+        },
+        "page": 0
+      },
+      "markdown": "<a id='38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a'></a>\n\nBill to\nAndrea Kropp\n227 N 5th Ave\nPO Box 1168\nRidgefield, Washington 98642\nUnited States\nandr3akropp@gmail.com",
+      "type": "text"
+    },
+    {
+      "id": "d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec",
+      "grounding": {
+        "box": {
+          "bottom": 0.3329565227031708,
+          "left": 0.04495169222354889,
+          "right": 0.35820311307907104,
+          "top": 0.307283490896225
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec'></a>\n\n$32.61 USD due July 1, 2024",
+      "type": "text"
+    },
+    {
+      "id": "faf561ee-5619-42d2-a854-c4cc8ec2d975",
+      "grounding": {
+        "box": {
+          "bottom": 0.35921332240104675,
+          "left": 0.045429527759552,
+          "right": 0.12661783397197723,
+          "top": 0.34180697798728943
+        },
+        "page": 0
+      },
+      "markdown": "<a id='faf561ee-5619-42d2-a854-c4cc8ec2d975'></a>\n\n[Pay online](Pay online)",
+      "type": "text"
+    },
+    {
+      "id": "e5dd9c9b-f085-4329-9a74-e6e218059dd6",
+      "grounding": {
+        "box": {
+          "bottom": 0.6067088842391968,
+          "left": 0.042774498462677,
+          "right": 0.9579839110374451,
+          "top": 0.3891902565956116
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e5dd9c9b-f085-4329-9a74-e6e218059dd6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Qty</td><td id=\"0-4\">Unit price</td><td id=\"0-5\">Tax</td><td id=\"0-6\">Amount</td></tr>\n<tr><td id=\"0-7\">Standard Plan Jul 1 - Aug 1, 2024</td><td id=\"0-8\">1</td><td id=\"0-9\">$30.00</td><td id=\"0-a\">8.7%</td><td id=\"0-b\">$30.00</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">Subtotal</td><td id=\"0-e\" colspan=\"2\"></td><td id=\"0-f\">$30.00</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">Total excluding tax</td><td id=\"0-i\" colspan=\"2\"></td><td id=\"0-j\">$30.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\" colspan=\"3\">Sales Tax - Washington (8.7% on $30.00)</td><td id=\"0-m\">$2.61</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">Total</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">$32.61</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">Amount due</td><td id=\"0-u\"></td><td id=\"0-v\"></td><td id=\"0-w\">$32.61 USD</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "886237ad-dc87-4e0c-8481-7deeab2b7b8f",
+      "grounding": {
+        "box": {
+          "bottom": 0.6904029846191406,
+          "left": 0.04282757639884949,
+          "right": 0.9029361009597778,
+          "top": 0.6355037689208984
+        },
+        "page": 0
+      },
+      "markdown": "<a id='886237ad-dc87-4e0c-8481-7deeab2b7b8f'></a>\n\nYou can modify or cancel your subscription from the account page at https://www.midjourney.com/account/.\nFor any account related issues, please reach out through the support channel on the Midjourney Discord server. For billing inquiries please contact billing@midjourney.com.",
+      "type": "text"
+    },
+    {
+      "id": "8dc43360-15d6-42f4-99a4-3575d12fb3bb",
+      "grounding": {
+        "box": {
+          "bottom": 0.9576647877693176,
+          "left": 0.04486533999443054,
+          "right": 0.32470792531967163,
+          "top": 0.9410064816474915
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8dc43360-15d6-42f4-99a4-3575d12fb3bb'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    },
+    {
+      "id": "a67da2c2-b476-42e9-b8ef-9ac1c81e0164",
+      "grounding": {
+        "box": {
+          "bottom": 0.9573606252670288,
+          "left": 0.8853471875190735,
+          "right": 0.9541265368461609,
+          "top": 0.9413951635360718
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a67da2c2-b476-42e9-b8ef-9ac1c81e0164'></a>\n\nPage 1 of 1",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='b4f57cef-a62d-4722-b678-4646101a3eb6'></a>\n\n**Invoice**\n\n<a id='1e4a2f40-231f-473a-a1fd-305e1264da01'></a>\n\n<::logo: Not identifiable\nNone\nA simple line-art illustration of a sailboat with two sails on wavy water.::>\n\n<a id='24266060-665e-44ca-b60e-9e7fc30d52be'></a>\n\nInvoice number: 8E8C6122-0016\nDate of issue: July 1, 2024\nDate due: July 1, 2024\n\n<a id='05fb9048-a6cd-4e2c-97ec-ad2dad846bbc'></a>\n\nMidjourney Inc\n611 Gateway Blvd\nSuite 120\nSouth San Francisco, California 94080\nUnited States\nbilling@midjourney.com\nUS EIN 85-3078202\n\n<a id='38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a'></a>\n\nBill to\nAndrea Kropp\n227 N 5th Ave\nPO Box 1168\nRidgefield, Washington 98642\nUnited States\nandr3akropp@gmail.com\n\n<a id='d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec'></a>\n\n$32.61 USD due July 1, 2024\n\n<a id='faf561ee-5619-42d2-a854-c4cc8ec2d975'></a>\n\n[Pay online](Pay online)\n\n<a id='e5dd9c9b-f085-4329-9a74-e6e218059dd6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Qty</td><td id=\"0-4\">Unit price</td><td id=\"0-5\">Tax</td><td id=\"0-6\">Amount</td></tr>\n<tr><td id=\"0-7\">Standard Plan Jul 1 - Aug 1, 2024</td><td id=\"0-8\">1</td><td id=\"0-9\">$30.00</td><td id=\"0-a\">8.7%</td><td id=\"0-b\">$30.00</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">Subtotal</td><td id=\"0-e\" colspan=\"2\"></td><td id=\"0-f\">$30.00</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">Total excluding tax</td><td id=\"0-i\" colspan=\"2\"></td><td id=\"0-j\">$30.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\" colspan=\"3\">Sales Tax - Washington (8.7% on $30.00)</td><td id=\"0-m\">$2.61</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">Total</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">$32.61</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">Amount due</td><td id=\"0-u\"></td><td id=\"0-v\"></td><td id=\"0-w\">$32.61 USD</td></tr>\n</table>\n\n<a id='886237ad-dc87-4e0c-8481-7deeab2b7b8f'></a>\n\nYou can modify or cancel your subscription from the account page at https://www.midjourney.com/account/.\nFor any account related issues, please reach out through the support channel on the Midjourney Discord server. For billing inquiries please contact billing@midjourney.com.\n\n<a id='8dc43360-15d6-42f4-99a4-3575d12fb3bb'></a>\n\nCAPTION ERROR\n\n<a id='a67da2c2-b476-42e9-b8ef-9ac1c81e0164'></a>\n\nPage 1 of 1",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 8764,
+    "filename": "invoice_21.pdf",
+    "job_id": "lp0kx7ffitor4hib1pskfnc1n",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "b4f57cef-a62d-4722-b678-4646101a3eb6",
+        "1e4a2f40-231f-473a-a1fd-305e1264da01",
+        "24266060-665e-44ca-b60e-9e7fc30d52be",
+        "05fb9048-a6cd-4e2c-97ec-ad2dad846bbc",
+        "38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a",
+        "d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec",
+        "faf561ee-5619-42d2-a854-c4cc8ec2d975",
+        "e5dd9c9b-f085-4329-9a74-e6e218059dd6",
+        "886237ad-dc87-4e0c-8481-7deeab2b7b8f",
+        "8dc43360-15d6-42f4-99a4-3575d12fb3bb",
+        "a67da2c2-b476-42e9-b8ef-9ac1c81e0164"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='b4f57cef-a62d-4722-b678-4646101a3eb6'></a>\n\n**Invoice**\n\n<a id='1e4a2f40-231f-473a-a1fd-305e1264da01'></a>\n\n<::logo: Not identifiable\nNone\nA simple line-art illustration of a sailboat with two sails on wavy water.::>\n\n<a id='24266060-665e-44ca-b60e-9e7fc30d52be'></a>\n\nInvoice number: 8E8C6122-0016\nDate of issue: July 1, 2024\nDate due: July 1, 2024\n\n<a id='05fb9048-a6cd-4e2c-97ec-ad2dad846bbc'></a>\n\nMidjourney Inc\n611 Gateway Blvd\nSuite 120\nSouth San Francisco, California 94080\nUnited States\nbilling@midjourney.com\nUS EIN 85-3078202\n\n<a id='38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a'></a>\n\nBill to\nAndrea Kropp\n227 N 5th Ave\nPO Box 1168\nRidgefield, Washington 98642\nUnited States\nandr3akropp@gmail.com\n\n<a id='d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec'></a>\n\n$32.61 USD due July 1, 2024\n\n<a id='faf561ee-5619-42d2-a854-c4cc8ec2d975'></a>\n\n[Pay online](Pay online)\n\n<a id='e5dd9c9b-f085-4329-9a74-e6e218059dd6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Qty</td><td id=\"0-4\">Unit price</td><td id=\"0-5\">Tax</td><td id=\"0-6\">Amount</td></tr>\n<tr><td id=\"0-7\">Standard Plan Jul 1 - Aug 1, 2024</td><td id=\"0-8\">1</td><td id=\"0-9\">$30.00</td><td id=\"0-a\">8.7%</td><td id=\"0-b\">$30.00</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">Subtotal</td><td id=\"0-e\" colspan=\"2\"></td><td id=\"0-f\">$30.00</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">Total excluding tax</td><td id=\"0-i\" colspan=\"2\"></td><td id=\"0-j\">$30.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\" colspan=\"3\">Sales Tax - Washington (8.7% on $30.00)</td><td id=\"0-m\">$2.61</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">Total</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">$32.61</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">Amount due</td><td id=\"0-u\"></td><td id=\"0-v\"></td><td id=\"0-w\">$32.61 USD</td></tr>\n</table>\n\n<a id='886237ad-dc87-4e0c-8481-7deeab2b7b8f'></a>\n\nYou can modify or cancel your subscription from the account page at https://www.midjourney.com/account/.\nFor any account related issues, please reach out through the support channel on the Midjourney Discord server. For billing inquiries please contact billing@midjourney.com.\n\n<a id='8dc43360-15d6-42f4-99a4-3575d12fb3bb'></a>\n\nCAPTION ERROR\n\n<a id='a67da2c2-b476-42e9-b8ef-9ac1c81e0164'></a>\n\nPage 1 of 1",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "b4f57cef-a62d-4722-b678-4646101a3eb6": {
+      "box": {
+        "bottom": 0.06623195111751556,
+        "left": 0.04434989392757416,
+        "right": 0.15636029839515686,
+        "top": 0.03925921022891998
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1e4a2f40-231f-473a-a1fd-305e1264da01": {
+      "box": {
+        "bottom": 0.08971177041530609,
+        "left": 0.8814417719841003,
+        "right": 0.953228771686554,
+        "top": 0.03589008376002312
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "24266060-665e-44ca-b60e-9e7fc30d52be": {
+      "box": {
+        "bottom": 0.1384565681219101,
+        "left": 0.04303981363773346,
+        "right": 0.29223108291625977,
+        "top": 0.08415146172046661
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "05fb9048-a6cd-4e2c-97ec-ad2dad846bbc": {
+      "box": {
+        "bottom": 0.28191515803337097,
+        "left": 0.04328837990760803,
+        "right": 0.32207417488098145,
+        "top": 0.15484923124313354
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "38dc8b74-e76f-48f2-872b-5ec6ba0dcd9a": {
+      "box": {
+        "bottom": 0.278887540102005,
+        "left": 0.40306633710861206,
+        "right": 0.6238515973091125,
+        "top": 0.1545696258544922
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d3ffb76c-fbf5-48d6-89b9-5b9d9f4227ec": {
+      "box": {
+        "bottom": 0.3329565227031708,
+        "left": 0.04495169222354889,
+        "right": 0.35820311307907104,
+        "top": 0.307283490896225
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "faf561ee-5619-42d2-a854-c4cc8ec2d975": {
+      "box": {
+        "bottom": 0.35921332240104675,
+        "left": 0.045429527759552,
+        "right": 0.12661783397197723,
+        "top": 0.34180697798728943
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e5dd9c9b-f085-4329-9a74-e6e218059dd6": {
+      "box": {
+        "bottom": 0.6067088842391968,
+        "left": 0.042774498462677,
+        "right": 0.9579839110374451,
+        "top": 0.3891902565956116
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.6067067190640678,
+        "left": 0.04635536874944313,
+        "right": 0.954223674534667,
+        "top": 0.39120805193240116
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.41388290883933276,
+        "left": 0.04635536874944313,
+        "right": 0.18558935112354646,
+        "top": 0.39120805193240116
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.41388290883933276,
+        "left": 0.18558935112354646,
+        "right": 0.635074071861446,
+        "top": 0.39120805193240116
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.41388290883933276,
+        "left": 0.635074071861446,
+        "right": 0.742066495326732,
+        "top": 0.39120805193240116
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.41388290883933276,
+        "left": 0.742066495326732,
+        "right": 0.8226784575835495,
+        "top": 0.39120805193240116
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.41388290883933276,
+        "left": 0.8226784575835495,
+        "right": 0.9540101084191548,
+        "top": 0.39120805193240116
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.4725016707311305,
+        "left": 0.04635536874944313,
+        "right": 0.18558935112354646,
+        "top": 0.41388290883933276
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.4725016707311305,
+        "left": 0.18558935112354646,
+        "right": 0.635074071861446,
+        "top": 0.41388290883933276
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4725016707311305,
+        "left": 0.635074071861446,
+        "right": 0.742066495326732,
+        "top": 0.41388290883933276
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.4725016707311305,
+        "left": 0.742066495326732,
+        "right": 0.8226784575835495,
+        "top": 0.41388290883933276
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.4725016707311305,
+        "left": 0.8226784575835495,
+        "right": 0.9540101084191548,
+        "top": 0.41388290883933276
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.49995812689033414,
+        "left": 0.04635536874944313,
+        "right": 0.18558935112354646,
+        "top": 0.4725016707311305
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.49995812689033414,
+        "left": 0.18558935112354646,
+        "right": 0.635074071861446,
+        "top": 0.4725016707311305
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.5275188615139825,
+        "left": 0.635074071861446,
+        "right": 0.9540101084191548,
+        "top": 0.4725016707311305
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.49995812689033414,
+        "left": 0.8226784575835495,
+        "right": 0.9540101084191548,
+        "top": 0.4725016707311305
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.5275188615139825,
+        "left": 0.04635536874944313,
+        "right": 0.18558935112354646,
+        "top": 0.49995812689033414
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.5275188615139825,
+        "left": 0.18558935112354646,
+        "right": 0.635074071861446,
+        "top": 0.49995812689033414
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.5550377576936718,
+        "left": 0.635074071861446,
+        "right": 0.9540101084191548,
+        "top": 0.49995812689033414
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.5275188615139825,
+        "left": 0.8226784575835495,
+        "right": 0.9540101084191548,
+        "top": 0.49995812689033414
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.5550377576936718,
+        "left": 0.04635536874944313,
+        "right": 0.18558935112354646,
+        "top": 0.5275188615139825
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.5824243318532041,
+        "left": 0.18558935112354646,
+        "right": 0.9540101084191548,
+        "top": 0.5275188615139825
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.5550377576936718,
+        "left": 0.8226784575835495,
+        "right": 0.9540101084191548,
+        "top": 0.5275188615139825
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.5824243318532041,
+        "left": 0.04635536874944313,
+        "right": 0.18558935112354646,
+        "top": 0.5550377576936718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.5824243318532041,
+        "left": 0.18558935112354646,
+        "right": 0.635074071861446,
+        "top": 0.5550377576936718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.5824243318532041,
+        "left": 0.635074071861446,
+        "right": 0.742066495326732,
+        "top": 0.5550377576936718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.5824243318532041,
+        "left": 0.742066495326732,
+        "right": 0.8226784575835495,
+        "top": 0.5550377576936718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5824243318532041,
+        "left": 0.8226784575835495,
+        "right": 0.9540101084191548,
+        "top": 0.5550377576936718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.6067067190640678,
+        "left": 0.04635536874944313,
+        "right": 0.18558935112354646,
+        "top": 0.5824243318532041
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.6067067190640678,
+        "left": 0.18558935112354646,
+        "right": 0.635074071861446,
+        "top": 0.5824243318532041
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.6067067190640678,
+        "left": 0.635074071861446,
+        "right": 0.742066495326732,
+        "top": 0.5824243318532041
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.6067067190640678,
+        "left": 0.742066495326732,
+        "right": 0.8226784575835495,
+        "top": 0.5824243318532041
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.6067067190640678,
+        "left": 0.8226784575835495,
+        "right": 0.9540101084191548,
+        "top": 0.5824243318532041
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "886237ad-dc87-4e0c-8481-7deeab2b7b8f": {
+      "box": {
+        "bottom": 0.6904029846191406,
+        "left": 0.04282757639884949,
+        "right": 0.9029361009597778,
+        "top": 0.6355037689208984
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8dc43360-15d6-42f4-99a4-3575d12fb3bb": {
+      "box": {
+        "bottom": 0.9576647877693176,
+        "left": 0.04486533999443054,
+        "right": 0.32470792531967163,
+        "top": 0.9410064816474915
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "a67da2c2-b476-42e9-b8ef-9ac1c81e0164": {
+      "box": {
+        "bottom": 0.9573606252670288,
+        "left": 0.8853471875190735,
+        "right": 0.9541265368461609,
+        "top": 0.9413951635360718
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

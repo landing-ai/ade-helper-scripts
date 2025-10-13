@@ -1,0 +1,359 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "10/03/2022",
+      "invoice_date": "2022-10-03",
+      "invoice_number": "52255",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Leo Vincent",
+      "sold_to_address": "1000 Sarah Dr\nSummerfield, NC 27358 USA",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "CUSTOM ELECTRIC & PLUMBING, INC.",
+      "supplier_address": "PO Box 533\nSummerfield, NC 27358",
+      "representative": "Mathew",
+      "email": "Mat@CustomEandP.com",
+      "phone": "336.701.5589",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": null,
+      "total_due_raw": "$1,550.00",
+      "total_due": 1550,
+      "subtotal": 1550,
+      "tax": 0,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Provide and install new 60 Amp 240Vac breaker and 6/2 Copper SE cable feeding new Tesla Wall connector. Install new customer supplied Tesla wall connector. Note: drywall may need to be cut to facilitate work. No drywall repairs or painting are included in this quote.",
+        "quantity": 1,
+        "unit_price": 1400,
+        "price": null,
+        "amount": 1400,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Permit and inspection fees",
+        "quantity": 1,
+        "unit_price": 150,
+        "price": null,
+        "amount": 150,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Payment Terms: by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.",
+        "quantity": 1,
+        "unit_price": 0,
+        "price": null,
+        "amount": 0,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "10/03/2022",
+        "references": [
+          "6d76de3b-615b-4f02-911b-eed2dda89d81"
+        ]
+      },
+      "invoice_date": {
+        "value": "2022-10-03",
+        "references": [
+          "6d76de3b-615b-4f02-911b-eed2dda89d81"
+        ]
+      },
+      "invoice_number": {
+        "value": "52255",
+        "references": [
+          "6d76de3b-615b-4f02-911b-eed2dda89d81"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Leo Vincent",
+        "references": [
+          "730ab534-1394-4759-85f1-209fb5acc59f"
+        ]
+      },
+      "sold_to_address": {
+        "value": "1000 Sarah Dr\nSummerfield, NC 27358 USA",
+        "references": [
+          "730ab534-1394-4759-85f1-209fb5acc59f"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "CUSTOM ELECTRIC & PLUMBING, INC.",
+        "references": [
+          "00c1108c-2a02-4ebd-ae63-b366b6afc7cd"
+        ]
+      },
+      "supplier_address": {
+        "value": "PO Box 533\nSummerfield, NC 27358",
+        "references": [
+          "00c1108c-2a02-4ebd-ae63-b366b6afc7cd"
+        ]
+      },
+      "representative": {
+        "value": "Mathew",
+        "references": [
+          "d46d9316-31d3-49be-8599-e955707b9882"
+        ]
+      },
+      "email": {
+        "value": "Mat@CustomEandP.com",
+        "references": [
+          "00c1108c-2a02-4ebd-ae63-b366b6afc7cd"
+        ]
+      },
+      "phone": {
+        "value": "336.701.5589",
+        "references": [
+          "00c1108c-2a02-4ebd-ae63-b366b6afc7cd"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.",
+        "references": [
+          "0-e"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": null,
+        "references": []
+      },
+      "total_due_raw": {
+        "value": "$1,550.00",
+        "references": [
+          "0-q"
+        ]
+      },
+      "total_due": {
+        "value": 1550,
+        "references": [
+          "0-q"
+        ]
+      },
+      "subtotal": {
+        "value": 1550,
+        "references": [
+          "0-k"
+        ]
+      },
+      "tax": {
+        "value": 0,
+        "references": [
+          "0-m"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Provide and install new 60 Amp 240Vac breaker and 6/2 Copper SE cable feeding new Tesla Wall connector. Install new customer supplied Tesla wall connector. Note: drywall may need to be cut to facilitate work. No drywall repairs or painting are included in this quote.",
+          "references": [
+            "0-6"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-7"
+          ]
+        },
+        "unit_price": {
+          "value": 1400,
+          "references": [
+            "0-8"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 1400,
+          "references": [
+            "0-9"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Permit and inspection fees",
+          "references": [
+            "0-a"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-b"
+          ]
+        },
+        "unit_price": {
+          "value": 150,
+          "references": [
+            "0-c"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 150,
+          "references": [
+            "0-d"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Payment Terms: by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.",
+          "references": [
+            "0-e"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-f"
+          ]
+        },
+        "unit_price": {
+          "value": 0,
+          "references": [
+            "0-g"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 0,
+          "references": [
+            "0-h"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 4.2,
+    "duration_ms": 11188,
+    "filename": "upload",
+    "job_id": "xed2eihnmwz27sedile8l2us9",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

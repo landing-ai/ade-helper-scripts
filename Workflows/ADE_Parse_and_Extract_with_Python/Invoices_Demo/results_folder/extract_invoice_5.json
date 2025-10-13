@@ -1,0 +1,301 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "04/01/2023",
+      "invoice_date": "2023-04-01",
+      "invoice_number": "2197",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Leo Charles Vincent Abaxys Tech, LLC",
+      "sold_to_address": null,
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "The Nussbaum Center for Entrepreneurship",
+      "supplier_address": "1451 S Elm Eugene Street Box 35 Greensboro, NC 27406 US",
+      "representative": null,
+      "email": "lhazlett@nussbaumcfe.com",
+      "phone": null,
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Due on receipt",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": null,
+      "total_due_raw": "$346.00",
+      "total_due": 346,
+      "subtotal": 346,
+      "tax": 0,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Suite 2009",
+        "quantity": 1,
+        "unit_price": 271,
+        "price": null,
+        "amount": 271,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Suite 2009 Internet Fee",
+        "quantity": 1,
+        "unit_price": 75,
+        "price": null,
+        "amount": 75,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "04/01/2023",
+        "references": [
+          "20249335-c4dc-4461-af52-d28a44c9a41f"
+        ]
+      },
+      "invoice_date": {
+        "value": "2023-04-01",
+        "references": [
+          "20249335-c4dc-4461-af52-d28a44c9a41f"
+        ]
+      },
+      "invoice_number": {
+        "value": "2197",
+        "references": [
+          "20249335-c4dc-4461-af52-d28a44c9a41f"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Leo Charles Vincent Abaxys Tech, LLC",
+        "references": [
+          "70af0a30-84eb-42bd-affa-2e3962b2a523"
+        ]
+      },
+      "sold_to_address": {
+        "value": null,
+        "references": []
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "The Nussbaum Center for Entrepreneurship",
+        "references": [
+          "05e72638-cda2-4258-b248-29d17a2de187"
+        ]
+      },
+      "supplier_address": {
+        "value": "1451 S Elm Eugene Street Box 35 Greensboro, NC 27406 US",
+        "references": [
+          "05e72638-cda2-4258-b248-29d17a2de187"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "lhazlett@nussbaumcfe.com",
+        "references": [
+          "05e72638-cda2-4258-b248-29d17a2de187"
+        ]
+      },
+      "phone": {
+        "value": null,
+        "references": []
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Due on receipt",
+        "references": [
+          "20249335-c4dc-4461-af52-d28a44c9a41f"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": null,
+        "references": []
+      },
+      "total_due_raw": {
+        "value": "$346.00",
+        "references": [
+          "0-H"
+        ]
+      },
+      "total_due": {
+        "value": 346,
+        "references": [
+          "0-H"
+        ]
+      },
+      "subtotal": {
+        "value": 346,
+        "references": [
+          "0-p"
+        ]
+      },
+      "tax": {
+        "value": 0,
+        "references": [
+          "0-v"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Suite 2009",
+          "references": [
+            "0-a"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-b"
+          ]
+        },
+        "unit_price": {
+          "value": 271,
+          "references": [
+            "0-c"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 271,
+          "references": [
+            "0-d"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Suite 2009 Internet Fee",
+          "references": [
+            "0-g"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-h"
+          ]
+        },
+        "unit_price": {
+          "value": 75,
+          "references": [
+            "0-i"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 75,
+          "references": [
+            "0-j"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.5,
+    "duration_ms": 10777,
+    "filename": "upload",
+    "job_id": "kavb69cos19lon0zvknyjwp98",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

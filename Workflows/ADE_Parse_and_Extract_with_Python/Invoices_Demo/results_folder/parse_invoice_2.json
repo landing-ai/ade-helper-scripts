@@ -1,0 +1,499 @@
+{
+  "chunks": [
+    {
+      "id": "5e627a04-6af2-4ca1-b7d7-24a9edea248d",
+      "grounding": {
+        "box": {
+          "bottom": 0.2219770848751068,
+          "left": 0.07200773060321808,
+          "right": 0.4208279848098755,
+          "top": 0.05207393318414688
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5e627a04-6af2-4ca1-b7d7-24a9edea248d'></a>\n\n<::logo: RR Roofing Renovations\nRR\nROOFING RENOVATIONS\nThe logo features a stylized house outline with large gray \"RR\" letters and smaller \"ROOFING RENOVATIONS\" text below.::>",
+      "type": "logo"
+    },
+    {
+      "id": "9e6635a3-de58-4fe2-956e-787713d5bca7",
+      "grounding": {
+        "box": {
+          "bottom": 0.08431334048509598,
+          "left": 0.4983729124069214,
+          "right": 0.7101038694381714,
+          "top": 0.04254310578107834
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9e6635a3-de58-4fe2-956e-787713d5bca7'></a>\n\nRoofing Renovations INC\n336-862-5235",
+      "type": "text"
+    },
+    {
+      "id": "3d4edaa6-d809-4408-aa77-edc4baee0bc0",
+      "grounding": {
+        "box": {
+          "bottom": 0.11778980493545532,
+          "left": 0.7225770354270935,
+          "right": 0.948281466960907,
+          "top": 0.04463685676455498
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3d4edaa6-d809-4408-aa77-edc4baee0bc0'></a>\n\n4917 Old Randleman Rd\nGreensboro, North Carolina\n27406\nUnited States",
+      "type": "text"
+    },
+    {
+      "id": "4218c1aa-560b-476b-8f2e-ec9508896069",
+      "grounding": {
+        "box": {
+          "bottom": 0.3697735369205475,
+          "left": 0.053897738456726074,
+          "right": 0.27652907371520996,
+          "top": 0.2791130840778351
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4218c1aa-560b-476b-8f2e-ec9508896069'></a>\n\nBilled To\nReal Property Management\n1901 Lendew St Suite 7\nGreensboro, NC\n27408",
+      "type": "text"
+    },
+    {
+      "id": "65fbe8ff-f266-49cf-b951-4abb97fa3ac2",
+      "grounding": {
+        "box": {
+          "bottom": 0.37434762716293335,
+          "left": 0.31915000081062317,
+          "right": 0.4350220263004303,
+          "top": 0.27977097034454346
+        },
+        "page": 0
+      },
+      "markdown": "<a id='65fbe8ff-f266-49cf-b951-4abb97fa3ac2'></a>\n\nDate of Issue\n01/29/2020\n\nDue Date\n01/29/2020",
+      "type": "text"
+    },
+    {
+      "id": "72cdd2d9-6f2a-4450-a82b-8ec4009a1eef",
+      "grounding": {
+        "box": {
+          "bottom": 0.37731799483299255,
+          "left": 0.4983806610107422,
+          "right": 0.6679202318191528,
+          "top": 0.27792099118232727
+        },
+        "page": 0
+      },
+      "markdown": "<a id='72cdd2d9-6f2a-4450-a82b-8ec4009a1eef'></a>\n\nInvoice Number: 0001131\n\nReference: 7783 Newhaven Dr",
+      "type": "text"
+    },
+    {
+      "id": "2b891183-123d-4ee0-b61a-a6631ee7f205",
+      "grounding": {
+        "box": {
+          "bottom": 0.3389115631580353,
+          "left": 0.7339104413986206,
+          "right": 0.9473931789398193,
+          "top": 0.2780686318874359
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2b891183-123d-4ee0-b61a-a6631ee7f205'></a>\n\nAmount Due (USD)\n$2,650.00",
+      "type": "text"
+    },
+    {
+      "id": "3bf54dcf-f6a8-478f-94b7-342f9689568a",
+      "grounding": {
+        "box": {
+          "bottom": 0.6818450093269348,
+          "left": 0.05395421385765076,
+          "right": 0.9484430551528931,
+          "top": 0.436617910861969
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3bf54dcf-f6a8-478f-94b7-342f9689568a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Rate</td><td id=\"0-4\">Qty Line Total</td></tr>\n<tr><td id=\"0-5\">Replace HVAC Unit.</td><td id=\"0-6\">$2,650.00</td><td id=\"0-7\">1 $2,650.00</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Subtotal</td><td id=\"0-a\">2,650.00</td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\">Tax</td><td id=\"0-d\">0.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Total</td><td id=\"0-g\">2,650.00</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Amount Paid</td><td id=\"0-j\">0.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">Amount Due (USD)</td><td id=\"0-m\">$2,650.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "2702091f-6a0d-43f3-ae65-eeaf5e5da24d",
+      "grounding": {
+        "box": {
+          "bottom": 0.7661049365997314,
+          "left": 0.053102198988199234,
+          "right": 0.1496189683675766,
+          "top": 0.720390796661377
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2702091f-6a0d-43f3-ae65-eeaf5e5da24d'></a>\n\nNotes\nT8EW3A3",
+      "type": "text"
+    },
+    {
+      "id": "a331fa69-2369-42c9-b672-5b4d30e70c47",
+      "grounding": {
+        "box": {
+          "bottom": 0.8537522554397583,
+          "left": 0.053189873695373535,
+          "right": 0.557619571685791,
+          "top": 0.8029360771179199
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a331fa69-2369-42c9-b672-5b4d30e70c47'></a>\n\nTerms\nThank you for trusting us with all your home improvement needs.",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='5e627a04-6af2-4ca1-b7d7-24a9edea248d'></a>\n\n<::logo: RR Roofing Renovations\nRR\nROOFING RENOVATIONS\nThe logo features a stylized house outline with large gray \"RR\" letters and smaller \"ROOFING RENOVATIONS\" text below.::>\n\n<a id='9e6635a3-de58-4fe2-956e-787713d5bca7'></a>\n\nRoofing Renovations INC\n336-862-5235\n\n<a id='3d4edaa6-d809-4408-aa77-edc4baee0bc0'></a>\n\n4917 Old Randleman Rd\nGreensboro, North Carolina\n27406\nUnited States\n\n<a id='4218c1aa-560b-476b-8f2e-ec9508896069'></a>\n\nBilled To\nReal Property Management\n1901 Lendew St Suite 7\nGreensboro, NC\n27408\n\n<a id='65fbe8ff-f266-49cf-b951-4abb97fa3ac2'></a>\n\nDate of Issue\n01/29/2020\n\nDue Date\n01/29/2020\n\n<a id='72cdd2d9-6f2a-4450-a82b-8ec4009a1eef'></a>\n\nInvoice Number: 0001131\n\nReference: 7783 Newhaven Dr\n\n<a id='2b891183-123d-4ee0-b61a-a6631ee7f205'></a>\n\nAmount Due (USD)\n$2,650.00\n\n<a id='3bf54dcf-f6a8-478f-94b7-342f9689568a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Rate</td><td id=\"0-4\">Qty Line Total</td></tr>\n<tr><td id=\"0-5\">Replace HVAC Unit.</td><td id=\"0-6\">$2,650.00</td><td id=\"0-7\">1 $2,650.00</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Subtotal</td><td id=\"0-a\">2,650.00</td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\">Tax</td><td id=\"0-d\">0.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Total</td><td id=\"0-g\">2,650.00</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Amount Paid</td><td id=\"0-j\">0.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">Amount Due (USD)</td><td id=\"0-m\">$2,650.00</td></tr>\n</table>\n\n<a id='2702091f-6a0d-43f3-ae65-eeaf5e5da24d'></a>\n\nNotes\nT8EW3A3\n\n<a id='a331fa69-2369-42c9-b672-5b4d30e70c47'></a>\n\nTerms\nThank you for trusting us with all your home improvement needs.",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 6098,
+    "filename": "invoice_2.pdf",
+    "job_id": "jxh90qvcux8y38wm0yhkh9jo9",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "5e627a04-6af2-4ca1-b7d7-24a9edea248d",
+        "9e6635a3-de58-4fe2-956e-787713d5bca7",
+        "3d4edaa6-d809-4408-aa77-edc4baee0bc0",
+        "4218c1aa-560b-476b-8f2e-ec9508896069",
+        "65fbe8ff-f266-49cf-b951-4abb97fa3ac2",
+        "72cdd2d9-6f2a-4450-a82b-8ec4009a1eef",
+        "2b891183-123d-4ee0-b61a-a6631ee7f205",
+        "3bf54dcf-f6a8-478f-94b7-342f9689568a",
+        "2702091f-6a0d-43f3-ae65-eeaf5e5da24d",
+        "a331fa69-2369-42c9-b672-5b4d30e70c47"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='5e627a04-6af2-4ca1-b7d7-24a9edea248d'></a>\n\n<::logo: RR Roofing Renovations\nRR\nROOFING RENOVATIONS\nThe logo features a stylized house outline with large gray \"RR\" letters and smaller \"ROOFING RENOVATIONS\" text below.::>\n\n<a id='9e6635a3-de58-4fe2-956e-787713d5bca7'></a>\n\nRoofing Renovations INC\n336-862-5235\n\n<a id='3d4edaa6-d809-4408-aa77-edc4baee0bc0'></a>\n\n4917 Old Randleman Rd\nGreensboro, North Carolina\n27406\nUnited States\n\n<a id='4218c1aa-560b-476b-8f2e-ec9508896069'></a>\n\nBilled To\nReal Property Management\n1901 Lendew St Suite 7\nGreensboro, NC\n27408\n\n<a id='65fbe8ff-f266-49cf-b951-4abb97fa3ac2'></a>\n\nDate of Issue\n01/29/2020\n\nDue Date\n01/29/2020\n\n<a id='72cdd2d9-6f2a-4450-a82b-8ec4009a1eef'></a>\n\nInvoice Number: 0001131\n\nReference: 7783 Newhaven Dr\n\n<a id='2b891183-123d-4ee0-b61a-a6631ee7f205'></a>\n\nAmount Due (USD)\n$2,650.00\n\n<a id='3bf54dcf-f6a8-478f-94b7-342f9689568a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Rate</td><td id=\"0-4\">Qty Line Total</td></tr>\n<tr><td id=\"0-5\">Replace HVAC Unit.</td><td id=\"0-6\">$2,650.00</td><td id=\"0-7\">1 $2,650.00</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Subtotal</td><td id=\"0-a\">2,650.00</td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\">Tax</td><td id=\"0-d\">0.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Total</td><td id=\"0-g\">2,650.00</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Amount Paid</td><td id=\"0-j\">0.00</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">Amount Due (USD)</td><td id=\"0-m\">$2,650.00</td></tr>\n</table>\n\n<a id='2702091f-6a0d-43f3-ae65-eeaf5e5da24d'></a>\n\nNotes\nT8EW3A3\n\n<a id='a331fa69-2369-42c9-b672-5b4d30e70c47'></a>\n\nTerms\nThank you for trusting us with all your home improvement needs.",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "5e627a04-6af2-4ca1-b7d7-24a9edea248d": {
+      "box": {
+        "bottom": 0.2219770848751068,
+        "left": 0.07200773060321808,
+        "right": 0.4208279848098755,
+        "top": 0.05207393318414688
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "9e6635a3-de58-4fe2-956e-787713d5bca7": {
+      "box": {
+        "bottom": 0.08431334048509598,
+        "left": 0.4983729124069214,
+        "right": 0.7101038694381714,
+        "top": 0.04254310578107834
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3d4edaa6-d809-4408-aa77-edc4baee0bc0": {
+      "box": {
+        "bottom": 0.11778980493545532,
+        "left": 0.7225770354270935,
+        "right": 0.948281466960907,
+        "top": 0.04463685676455498
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4218c1aa-560b-476b-8f2e-ec9508896069": {
+      "box": {
+        "bottom": 0.3697735369205475,
+        "left": 0.053897738456726074,
+        "right": 0.27652907371520996,
+        "top": 0.2791130840778351
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "65fbe8ff-f266-49cf-b951-4abb97fa3ac2": {
+      "box": {
+        "bottom": 0.37434762716293335,
+        "left": 0.31915000081062317,
+        "right": 0.4350220263004303,
+        "top": 0.27977097034454346
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "72cdd2d9-6f2a-4450-a82b-8ec4009a1eef": {
+      "box": {
+        "bottom": 0.37731799483299255,
+        "left": 0.4983806610107422,
+        "right": 0.6679202318191528,
+        "top": 0.27792099118232727
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2b891183-123d-4ee0-b61a-a6631ee7f205": {
+      "box": {
+        "bottom": 0.3389115631580353,
+        "left": 0.7339104413986206,
+        "right": 0.9473931789398193,
+        "top": 0.2780686318874359
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3bf54dcf-f6a8-478f-94b7-342f9689568a": {
+      "box": {
+        "bottom": 0.6818450093269348,
+        "left": 0.05395421385765076,
+        "right": 0.9484430551528931,
+        "top": 0.436617910861969
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.6818425537256871,
+        "left": 0.059743555498291606,
+        "right": 0.939521634173893,
+        "top": 0.4400207091325754
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.4704088220767453,
+        "left": 0.059743555498291606,
+        "right": 0.3982813861108223,
+        "top": 0.4400207091325754
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.4704088220767453,
+        "left": 0.3982813861108223,
+        "right": 0.766327695687151,
+        "top": 0.4400207091325754
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.4704088220767453,
+        "left": 0.766327695687151,
+        "right": 0.940917172350245,
+        "top": 0.4400207091325754
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.513685501661179,
+        "left": 0.059743555498291606,
+        "right": 0.3982813861108223,
+        "top": 0.4704088220767453
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.513685501661179,
+        "left": 0.3982813861108223,
+        "right": 0.766327695687151,
+        "top": 0.4704088220767453
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.513685501661179,
+        "left": 0.766327695687151,
+        "right": 0.940917172350245,
+        "top": 0.4704088220767453
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.5656262257769242,
+        "left": 0.059743555498291606,
+        "right": 0.3982813861108223,
+        "top": 0.513685501661179
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.5656262257769242,
+        "left": 0.3982813861108223,
+        "right": 0.766327695687151,
+        "top": 0.513685501661179
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.5656262257769242,
+        "left": 0.766327695687151,
+        "right": 0.940917172350245,
+        "top": 0.513685501661179
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.5962964368769264,
+        "left": 0.059743555498291606,
+        "right": 0.3982813861108223,
+        "top": 0.5656262257769242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.5962964368769264,
+        "left": 0.3982813861108223,
+        "right": 0.766327695687151,
+        "top": 0.5656262257769242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.5962964368769264,
+        "left": 0.766327695687151,
+        "right": 0.940917172350245,
+        "top": 0.5656262257769242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.6230670216455536,
+        "left": 0.059743555498291606,
+        "right": 0.3982813861108223,
+        "top": 0.5962964368769264
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.6230670216455536,
+        "left": 0.3982813861108223,
+        "right": 0.766327695687151,
+        "top": 0.5962964368769264
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.6230670216455536,
+        "left": 0.766327695687151,
+        "right": 0.940917172350245,
+        "top": 0.5962964368769264
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.6488977542699814,
+        "left": 0.059743555498291606,
+        "right": 0.3982813861108223,
+        "top": 0.6230670216455536
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.6488977542699814,
+        "left": 0.3982813861108223,
+        "right": 0.766327695687151,
+        "top": 0.6230670216455536
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.6488977542699814,
+        "left": 0.766327695687151,
+        "right": 0.940917172350245,
+        "top": 0.6230670216455536
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.6818425537256871,
+        "left": 0.059743555498291606,
+        "right": 0.3982813861108223,
+        "top": 0.6488977542699814
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.6818425537256871,
+        "left": 0.3982813861108223,
+        "right": 0.766327695687151,
+        "top": 0.6488977542699814
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.6818425537256871,
+        "left": 0.766327695687151,
+        "right": 0.940917172350245,
+        "top": 0.6488977542699814
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "2702091f-6a0d-43f3-ae65-eeaf5e5da24d": {
+      "box": {
+        "bottom": 0.7661049365997314,
+        "left": 0.053102198988199234,
+        "right": 0.1496189683675766,
+        "top": 0.720390796661377
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a331fa69-2369-42c9-b672-5b4d30e70c47": {
+      "box": {
+        "bottom": 0.8537522554397583,
+        "left": 0.053189873695373535,
+        "right": 0.557619571685791,
+        "top": 0.8029360771179199
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

@@ -1,0 +1,674 @@
+{
+  "chunks": [
+    {
+      "id": "79d97d98-7a7f-4e37-abb4-9bad0d01db8b",
+      "grounding": {
+        "box": {
+          "bottom": 0.0683220848441124,
+          "left": 0.06346899271011353,
+          "right": 0.31800419092178345,
+          "top": 0.013747559860348701
+        },
+        "page": 0
+      },
+      "markdown": "<a id='79d97d98-7a7f-4e37-abb4-9bad0d01db8b'></a>\n\n<::logo: Walmart\nWalmart\nThe logo features the word \"Walmart\" in blue text, followed by a yellow, stylized starburst symbol with six rays.::>",
+      "type": "logo"
+    },
+    {
+      "id": "645af81a-c843-4339-96e1-d32735c66544",
+      "grounding": {
+        "box": {
+          "bottom": 0.06546010822057724,
+          "left": 0.7425883412361145,
+          "right": 0.9319116473197937,
+          "top": 0.02914281375706196
+        },
+        "page": 0
+      },
+      "markdown": "<a id='645af81a-c843-4339-96e1-d32735c66544'></a>\n\nINVOICE",
+      "type": "text"
+    },
+    {
+      "id": "207421c3-cbcf-43a1-9192-98d4e8c3bedd",
+      "grounding": {
+        "box": {
+          "bottom": 0.09021911025047302,
+          "left": 0.8900976181030273,
+          "right": 0.924933671951294,
+          "top": 0.06961585581302643
+        },
+        "page": 0
+      },
+      "markdown": "<a id='207421c3-cbcf-43a1-9192-98d4e8c3bedd'></a>\n\n# 1",
+      "type": "text"
+    },
+    {
+      "id": "647fe4b8-f7d8-49cf-8390-90dcaca489e2",
+      "grounding": {
+        "box": {
+          "bottom": 0.09710293263196945,
+          "left": 0.08596646040678024,
+          "right": 0.21533679962158203,
+          "top": 0.07731985300779343
+        },
+        "page": 0
+      },
+      "markdown": "<a id='647fe4b8-f7d8-49cf-8390-90dcaca489e2'></a>\n\nWalmart Invoice",
+      "type": "text"
+    },
+    {
+      "id": "a78ad1cc-7003-4429-804e-c1d598c1dcff",
+      "grounding": {
+        "box": {
+          "bottom": 0.22299142181873322,
+          "left": 0.08346673846244812,
+          "right": 0.2409939169883728,
+          "top": 0.13726027309894562
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a78ad1cc-7003-4429-804e-c1d598c1dcff'></a>\n\nBill To:\nMansoer Walizada\n10517 San Vincente\nAve, South Gate, CA\n90280, USA",
+      "type": "text"
+    },
+    {
+      "id": "47212616-23e3-45b0-ac21-c879a0e79875",
+      "grounding": {
+        "box": {
+          "bottom": 0.2224615514278412,
+          "left": 0.29656487703323364,
+          "right": 0.4537496566772461,
+          "top": 0.13848578929901123
+        },
+        "page": 0
+      },
+      "markdown": "<a id='47212616-23e3-45b0-ac21-c879a0e79875'></a>\n\nShip To:\nMansoer Walizada\n10517 San Vincente\nAve, South Gate, CA\n90280, USA",
+      "type": "text"
+    },
+    {
+      "id": "8c5d82c0-546f-4ed6-8ef9-6196f8109abe",
+      "grounding": {
+        "box": {
+          "bottom": 0.24315859377384186,
+          "left": 0.5667673349380493,
+          "right": 0.9301954507827759,
+          "top": 0.13229094445705414
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8c5d82c0-546f-4ed6-8ef9-6196f8109abe'></a>\n\nDate: Mar 20, 2023\n\nPayment Terms: MasterCard 8453\n\nDue Date: Mar 20, 2023\n\nBalance Due: 0,00 US$",
+      "type": "text"
+    },
+    {
+      "id": "d6c4c73f-27f9-41c5-b2ba-4177a2a2e980",
+      "grounding": {
+        "box": {
+          "bottom": 0.48624157905578613,
+          "left": 0.05590417981147766,
+          "right": 0.9426224231719971,
+          "top": 0.2871524691581726
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d6c4c73f-27f9-41c5-b2ba-4177a2a2e980'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Item</td><td id=\"0-3\">Quantity</td><td id=\"0-4\">Rate</td><td id=\"0-5\">Amount</td></tr>\n<tr><td id=\"0-6\">Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180-degree hinge</td><td id=\"0-7\">1</td><td id=\"0-8\">1 529,94 US$</td><td id=\"0-9\">1 529,94 US$</td></tr>\n<tr><td id=\"0-a\">design - Intel Core i7 1260P / 2.1 GHz - Evo - Win 10 Pro 64-bit</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">(includes Win 11 Pro License) - Intel Iris Xe Graphics - 16 GB RAM -</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">512 GB SSD TCG Opal Encryption 2, NVMe, Performance - 14\" IPS</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">touchscreen 1920 x 1200 - 802.11a/b/g/n/ac/ax (Wi-Fi 6E) - deep</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">black paint - kbd: US - with 3 Years Lenovo Premier Support + 3</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Years Lenovo Sealed Battery Add On</td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\"></td></tr>\n<tr><td id=\"0-y\">Serial Number: PF4AJSC9</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "f7af5a86-9527-4a6f-855b-e50abfe7dcbb",
+      "grounding": {
+        "box": {
+          "bottom": 0.6456047296524048,
+          "left": 0.6456890106201172,
+          "right": 0.9273192882537842,
+          "top": 0.5349776744842529
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f7af5a86-9527-4a6f-855b-e50abfe7dcbb'></a>\n\nSubtotal: 1 529,94 US$\nTax (7.25%): 110,92 US$\nTotal: 1 640,86 US$\nAmount Paid: 1 640,86 US$",
+      "type": "text"
+    },
+    {
+      "id": "95cf6a90-34b3-4d44-a6e2-1d5173092e89",
+      "grounding": {
+        "box": {
+          "bottom": 0.7329089045524597,
+          "left": 0.0842241644859314,
+          "right": 0.80986487865448,
+          "top": 0.6895976662635803
+        },
+        "page": 0
+      },
+      "markdown": "<a id='95cf6a90-34b3-4d44-a6e2-1d5173092e89'></a>\n\nNotes:\nTo ensure we are able to help you as best we can, please include your reference number: HEUQ5GZ6R",
+      "type": "text"
+    },
+    {
+      "id": "144be032-bb67-4b11-91b3-1746219e0899",
+      "grounding": {
+        "box": {
+          "bottom": 0.7876304388046265,
+          "left": 0.08418288826942444,
+          "right": 0.3564498722553253,
+          "top": 0.7462542057037354
+        },
+        "page": 0
+      },
+      "markdown": "<a id='144be032-bb67-4b11-91b3-1746219e0899'></a>\n\nTerms:\n\u00a9 2023 Walmart. All Rights Reserved.",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='79d97d98-7a7f-4e37-abb4-9bad0d01db8b'></a>\n\n<::logo: Walmart\nWalmart\nThe logo features the word \"Walmart\" in blue text, followed by a yellow, stylized starburst symbol with six rays.::>\n\n<a id='645af81a-c843-4339-96e1-d32735c66544'></a>\n\nINVOICE\n\n<a id='207421c3-cbcf-43a1-9192-98d4e8c3bedd'></a>\n\n# 1\n\n<a id='647fe4b8-f7d8-49cf-8390-90dcaca489e2'></a>\n\nWalmart Invoice\n\n<a id='a78ad1cc-7003-4429-804e-c1d598c1dcff'></a>\n\nBill To:\nMansoer Walizada\n10517 San Vincente\nAve, South Gate, CA\n90280, USA\n\n<a id='47212616-23e3-45b0-ac21-c879a0e79875'></a>\n\nShip To:\nMansoer Walizada\n10517 San Vincente\nAve, South Gate, CA\n90280, USA\n\n<a id='8c5d82c0-546f-4ed6-8ef9-6196f8109abe'></a>\n\nDate: Mar 20, 2023\n\nPayment Terms: MasterCard 8453\n\nDue Date: Mar 20, 2023\n\nBalance Due: 0,00 US$\n\n<a id='d6c4c73f-27f9-41c5-b2ba-4177a2a2e980'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Item</td><td id=\"0-3\">Quantity</td><td id=\"0-4\">Rate</td><td id=\"0-5\">Amount</td></tr>\n<tr><td id=\"0-6\">Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180-degree hinge</td><td id=\"0-7\">1</td><td id=\"0-8\">1 529,94 US$</td><td id=\"0-9\">1 529,94 US$</td></tr>\n<tr><td id=\"0-a\">design - Intel Core i7 1260P / 2.1 GHz - Evo - Win 10 Pro 64-bit</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">(includes Win 11 Pro License) - Intel Iris Xe Graphics - 16 GB RAM -</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">512 GB SSD TCG Opal Encryption 2, NVMe, Performance - 14\" IPS</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">touchscreen 1920 x 1200 - 802.11a/b/g/n/ac/ax (Wi-Fi 6E) - deep</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">black paint - kbd: US - with 3 Years Lenovo Premier Support + 3</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Years Lenovo Sealed Battery Add On</td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\"></td></tr>\n<tr><td id=\"0-y\">Serial Number: PF4AJSC9</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n</table>\n\n<a id='f7af5a86-9527-4a6f-855b-e50abfe7dcbb'></a>\n\nSubtotal: 1 529,94 US$\nTax (7.25%): 110,92 US$\nTotal: 1 640,86 US$\nAmount Paid: 1 640,86 US$\n\n<a id='95cf6a90-34b3-4d44-a6e2-1d5173092e89'></a>\n\nNotes:\nTo ensure we are able to help you as best we can, please include your reference number: HEUQ5GZ6R\n\n<a id='144be032-bb67-4b11-91b3-1746219e0899'></a>\n\nTerms:\n\u00a9 2023 Walmart. All Rights Reserved.",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 16504,
+    "filename": "invoice_16.pdf",
+    "job_id": "nhjbuxehxsbi06vob53l3j8eg",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "79d97d98-7a7f-4e37-abb4-9bad0d01db8b",
+        "645af81a-c843-4339-96e1-d32735c66544",
+        "207421c3-cbcf-43a1-9192-98d4e8c3bedd",
+        "647fe4b8-f7d8-49cf-8390-90dcaca489e2",
+        "a78ad1cc-7003-4429-804e-c1d598c1dcff",
+        "47212616-23e3-45b0-ac21-c879a0e79875",
+        "8c5d82c0-546f-4ed6-8ef9-6196f8109abe",
+        "d6c4c73f-27f9-41c5-b2ba-4177a2a2e980",
+        "f7af5a86-9527-4a6f-855b-e50abfe7dcbb",
+        "95cf6a90-34b3-4d44-a6e2-1d5173092e89",
+        "144be032-bb67-4b11-91b3-1746219e0899"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='79d97d98-7a7f-4e37-abb4-9bad0d01db8b'></a>\n\n<::logo: Walmart\nWalmart\nThe logo features the word \"Walmart\" in blue text, followed by a yellow, stylized starburst symbol with six rays.::>\n\n<a id='645af81a-c843-4339-96e1-d32735c66544'></a>\n\nINVOICE\n\n<a id='207421c3-cbcf-43a1-9192-98d4e8c3bedd'></a>\n\n# 1\n\n<a id='647fe4b8-f7d8-49cf-8390-90dcaca489e2'></a>\n\nWalmart Invoice\n\n<a id='a78ad1cc-7003-4429-804e-c1d598c1dcff'></a>\n\nBill To:\nMansoer Walizada\n10517 San Vincente\nAve, South Gate, CA\n90280, USA\n\n<a id='47212616-23e3-45b0-ac21-c879a0e79875'></a>\n\nShip To:\nMansoer Walizada\n10517 San Vincente\nAve, South Gate, CA\n90280, USA\n\n<a id='8c5d82c0-546f-4ed6-8ef9-6196f8109abe'></a>\n\nDate: Mar 20, 2023\n\nPayment Terms: MasterCard 8453\n\nDue Date: Mar 20, 2023\n\nBalance Due: 0,00 US$\n\n<a id='d6c4c73f-27f9-41c5-b2ba-4177a2a2e980'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Item</td><td id=\"0-3\">Quantity</td><td id=\"0-4\">Rate</td><td id=\"0-5\">Amount</td></tr>\n<tr><td id=\"0-6\">Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180-degree hinge</td><td id=\"0-7\">1</td><td id=\"0-8\">1 529,94 US$</td><td id=\"0-9\">1 529,94 US$</td></tr>\n<tr><td id=\"0-a\">design - Intel Core i7 1260P / 2.1 GHz - Evo - Win 10 Pro 64-bit</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">(includes Win 11 Pro License) - Intel Iris Xe Graphics - 16 GB RAM -</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">512 GB SSD TCG Opal Encryption 2, NVMe, Performance - 14\" IPS</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">touchscreen 1920 x 1200 - 802.11a/b/g/n/ac/ax (Wi-Fi 6E) - deep</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">black paint - kbd: US - with 3 Years Lenovo Premier Support + 3</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Years Lenovo Sealed Battery Add On</td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\"></td></tr>\n<tr><td id=\"0-y\">Serial Number: PF4AJSC9</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n</table>\n\n<a id='f7af5a86-9527-4a6f-855b-e50abfe7dcbb'></a>\n\nSubtotal: 1 529,94 US$\nTax (7.25%): 110,92 US$\nTotal: 1 640,86 US$\nAmount Paid: 1 640,86 US$\n\n<a id='95cf6a90-34b3-4d44-a6e2-1d5173092e89'></a>\n\nNotes:\nTo ensure we are able to help you as best we can, please include your reference number: HEUQ5GZ6R\n\n<a id='144be032-bb67-4b11-91b3-1746219e0899'></a>\n\nTerms:\n\u00a9 2023 Walmart. All Rights Reserved.",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "79d97d98-7a7f-4e37-abb4-9bad0d01db8b": {
+      "box": {
+        "bottom": 0.0683220848441124,
+        "left": 0.06346899271011353,
+        "right": 0.31800419092178345,
+        "top": 0.013747559860348701
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "645af81a-c843-4339-96e1-d32735c66544": {
+      "box": {
+        "bottom": 0.06546010822057724,
+        "left": 0.7425883412361145,
+        "right": 0.9319116473197937,
+        "top": 0.02914281375706196
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "207421c3-cbcf-43a1-9192-98d4e8c3bedd": {
+      "box": {
+        "bottom": 0.09021911025047302,
+        "left": 0.8900976181030273,
+        "right": 0.924933671951294,
+        "top": 0.06961585581302643
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "647fe4b8-f7d8-49cf-8390-90dcaca489e2": {
+      "box": {
+        "bottom": 0.09710293263196945,
+        "left": 0.08596646040678024,
+        "right": 0.21533679962158203,
+        "top": 0.07731985300779343
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a78ad1cc-7003-4429-804e-c1d598c1dcff": {
+      "box": {
+        "bottom": 0.22299142181873322,
+        "left": 0.08346673846244812,
+        "right": 0.2409939169883728,
+        "top": 0.13726027309894562
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "47212616-23e3-45b0-ac21-c879a0e79875": {
+      "box": {
+        "bottom": 0.2224615514278412,
+        "left": 0.29656487703323364,
+        "right": 0.4537496566772461,
+        "top": 0.13848578929901123
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8c5d82c0-546f-4ed6-8ef9-6196f8109abe": {
+      "box": {
+        "bottom": 0.24315859377384186,
+        "left": 0.5667673349380493,
+        "right": 0.9301954507827759,
+        "top": 0.13229094445705414
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d6c4c73f-27f9-41c5-b2ba-4177a2a2e980": {
+      "box": {
+        "bottom": 0.48624157905578613,
+        "left": 0.05590417981147766,
+        "right": 0.9426224231719971,
+        "top": 0.2871524691581726
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.48468288459335795,
+        "left": 0.061122340662983346,
+        "right": 0.9388437846844901,
+        "top": 0.29092126777754934
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3173370073239976,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.29092126777754934
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3173370073239976,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.29092126777754934
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3173370073239976,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.29092126777754934
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3173370073239976,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.29092126777754934
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.34328122869776223,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.3173370073239976
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.34328122869776223,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.3173370073239976
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.34328122869776223,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.3173370073239976
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.34328122869776223,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.3173370073239976
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.36340169094833996,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.34328122869776223
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.36340169094833996,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.34328122869776223
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.36340169094833996,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.34328122869776223
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.36340169094833996,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.34328122869776223
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.382267185276568,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.36340169094833996
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.382267185276568,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.36340169094833996
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.382267185276568,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.36340169094833996
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.382267185276568,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.36340169094833996
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.40050568217568383,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.382267185276568
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.40050568217568383,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.382267185276568
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.40050568217568383,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.382267185276568
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.40050568217568383,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.382267185276568
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.4191763263461432,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.40050568217568383
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.4191763263461432,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.40050568217568383
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.4191763263461432,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.40050568217568383
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.4191763263461432,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.40050568217568383
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.4385506145455338,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.4191763263461432
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.4385506145455338,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.4191763263461432
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.4385506145455338,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.4191763263461432
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.4385506145455338,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.4191763263461432
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.4573049303641312,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.4385506145455338
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.4573049303641312,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.4385506145455338
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.4573049303641312,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.4385506145455338
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.4573049303641312,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.4385506145455338
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.48468288459335795,
+        "left": 0.061122340662983346,
+        "right": 0.5815884570997856,
+        "top": 0.4573049303641312
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.48468288459335795,
+        "left": 0.5815884570997856,
+        "right": 0.6687521028974412,
+        "top": 0.4573049303641312
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.48468288459335795,
+        "left": 0.6687521028974412,
+        "right": 0.8040507638486627,
+        "top": 0.4573049303641312
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.48468288459335795,
+        "left": 0.8040507638486627,
+        "right": 0.939074644517671,
+        "top": 0.4573049303641312
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "f7af5a86-9527-4a6f-855b-e50abfe7dcbb": {
+      "box": {
+        "bottom": 0.6456047296524048,
+        "left": 0.6456890106201172,
+        "right": 0.9273192882537842,
+        "top": 0.5349776744842529
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "95cf6a90-34b3-4d44-a6e2-1d5173092e89": {
+      "box": {
+        "bottom": 0.7329089045524597,
+        "left": 0.0842241644859314,
+        "right": 0.80986487865448,
+        "top": 0.6895976662635803
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "144be032-bb67-4b11-91b3-1746219e0899": {
+      "box": {
+        "bottom": 0.7876304388046265,
+        "left": 0.08418288826942444,
+        "right": 0.3564498722553253,
+        "top": 0.7462542057037354
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

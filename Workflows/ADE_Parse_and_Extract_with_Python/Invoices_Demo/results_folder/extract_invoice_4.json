@@ -1,0 +1,383 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_number": "138277",
+      "invoice_date_raw": "Jan 24 2022",
+      "invoice_date": "2022-01-24",
+      "order_date": "2022-01-19",
+      "po_number": "P.067967",
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "NELSON INDUSTRIAL FABRICATORS",
+      "sold_to_address": "1155 Squires Beach Road\nPICKERING, Ontario, Canada\nL1W 3T9",
+      "customer_email": "ap@nelsonindust.com"
+    },
+    "company_info": {
+      "supplier_name": "A.E. Blake Sales Ltd.",
+      "supplier_address": "100 Consilium Place\nSuite 200\nScarborough, ON\nM1H 3E3",
+      "representative": "Perry Chan OR Jeff Kang",
+      "email": "torontosales@aeblake.ca",
+      "phone": "416 431 0440",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Net 30 Days",
+      "ship_via": "UPS 3rd Party 139 2X5",
+      "ship_date": "2022-01-24",
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "CAD",
+      "total_due_raw": "$ 3,099.67 CAD",
+      "total_due": 3099.67,
+      "subtotal": 2743.07,
+      "tax": 356.6,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": "30",
+        "sku": "110947",
+        "description": "HD Graphite Canvas 6\"x 50yds 50 yards/roll",
+        "quantity": 1,
+        "unit_price": 734.27,
+        "price": null,
+        "amount": 734.27,
+        "total": null
+      },
+      {
+        "line_number": "40",
+        "sku": "102044",
+        "description": "3M 777F RBC Belt 6\"x202\" 60YF 10belts/case (+/-10%)",
+        "quantity": 20,
+        "unit_price": 68.45,
+        "price": null,
+        "amount": 1369,
+        "total": null
+      },
+      {
+        "line_number": "50",
+        "sku": "102046",
+        "description": "3M 777F RBC Belt 6\"x202\" 80YF 10belts/case (+/-10%)",
+        "quantity": 10,
+        "unit_price": 63.98,
+        "price": null,
+        "amount": 639.8,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_number": {
+        "value": "138277",
+        "references": [
+          "4180f400-3b63-407f-a50a-11ff7005ef9d"
+        ]
+      },
+      "invoice_date_raw": {
+        "value": "Jan 24 2022",
+        "references": [
+          "4180f400-3b63-407f-a50a-11ff7005ef9d"
+        ]
+      },
+      "invoice_date": {
+        "value": "2022-01-24",
+        "references": [
+          "4180f400-3b63-407f-a50a-11ff7005ef9d"
+        ]
+      },
+      "order_date": {
+        "value": "2022-01-19",
+        "references": [
+          "0-8"
+        ]
+      },
+      "po_number": {
+        "value": "P.067967",
+        "references": [
+          "0-7"
+        ]
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "NELSON INDUSTRIAL FABRICATORS",
+        "references": [
+          "cbbc6070-50db-479e-90d5-f5759786cd4a"
+        ]
+      },
+      "sold_to_address": {
+        "value": "1155 Squires Beach Road\nPICKERING, Ontario, Canada\nL1W 3T9",
+        "references": [
+          "cbbc6070-50db-479e-90d5-f5759786cd4a"
+        ]
+      },
+      "customer_email": {
+        "value": "ap@nelsonindust.com",
+        "references": [
+          "cbbc6070-50db-479e-90d5-f5759786cd4a"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "A.E. Blake Sales Ltd.",
+        "references": [
+          "c400d92f-fd77-4475-91df-a9bb8c5f4fa2"
+        ]
+      },
+      "supplier_address": {
+        "value": "100 Consilium Place\nSuite 200\nScarborough, ON\nM1H 3E3",
+        "references": [
+          "c400d92f-fd77-4475-91df-a9bb8c5f4fa2"
+        ]
+      },
+      "representative": {
+        "value": "Perry Chan OR Jeff Kang",
+        "references": [
+          "0-g"
+        ]
+      },
+      "email": {
+        "value": "torontosales@aeblake.ca",
+        "references": [
+          "c400d92f-fd77-4475-91df-a9bb8c5f4fa2"
+        ]
+      },
+      "phone": {
+        "value": "416 431 0440",
+        "references": [
+          "c400d92f-fd77-4475-91df-a9bb8c5f4fa2"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Net 30 Days",
+        "references": [
+          "0-f"
+        ]
+      },
+      "ship_via": {
+        "value": "UPS 3rd Party 139 2X5",
+        "references": [
+          "0-i"
+        ]
+      },
+      "ship_date": {
+        "value": "2022-01-24",
+        "references": [
+          "89a2ee3f-e349-4578-bb27-7dd5e3852069"
+        ]
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "CAD",
+        "references": [
+          "0-V"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$ 3,099.67 CAD",
+        "references": [
+          "0-V"
+        ]
+      },
+      "total_due": {
+        "value": 3099.67,
+        "references": [
+          "0-V"
+        ]
+      },
+      "subtotal": {
+        "value": 2743.07,
+        "references": [
+          "0-P"
+        ]
+      },
+      "tax": {
+        "value": 356.6,
+        "references": [
+          "0-S"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": "30",
+          "references": [
+            "0-r"
+          ]
+        },
+        "sku": {
+          "value": "110947",
+          "references": [
+            "0-s"
+          ]
+        },
+        "description": {
+          "value": "HD Graphite Canvas 6\"x 50yds 50 yards/roll",
+          "references": [
+            "0-t"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-u"
+          ]
+        },
+        "unit_price": {
+          "value": 734.27,
+          "references": [
+            "0-v"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 734.27,
+          "references": [
+            "0-x"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": "40",
+          "references": [
+            "0-y"
+          ]
+        },
+        "sku": {
+          "value": "102044",
+          "references": [
+            "0-z"
+          ]
+        },
+        "description": {
+          "value": "3M 777F RBC Belt 6\"x202\" 60YF 10belts/case (+/-10%)",
+          "references": [
+            "0-A"
+          ]
+        },
+        "quantity": {
+          "value": 20,
+          "references": [
+            "0-B"
+          ]
+        },
+        "unit_price": {
+          "value": 68.45,
+          "references": [
+            "0-C"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 1369,
+          "references": [
+            "0-E"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": "50",
+          "references": [
+            "0-F"
+          ]
+        },
+        "sku": {
+          "value": "102046",
+          "references": [
+            "0-G"
+          ]
+        },
+        "description": {
+          "value": "3M 777F RBC Belt 6\"x202\" 80YF 10belts/case (+/-10%)",
+          "references": [
+            "0-H"
+          ]
+        },
+        "quantity": {
+          "value": 10,
+          "references": [
+            "0-I"
+          ]
+        },
+        "unit_price": {
+          "value": 63.98,
+          "references": [
+            "0-J"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 639.8,
+          "references": [
+            "0-L"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 2.3,
+    "duration_ms": 9214,
+    "filename": "upload",
+    "job_id": "dmpwtx37iyr9aa68lyeuz92f4",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

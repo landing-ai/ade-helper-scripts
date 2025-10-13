@@ -1,0 +1,639 @@
+{
+  "chunks": [
+    {
+      "id": "4302aae5-b0a3-4672-9184-8aadeb52cac2",
+      "grounding": {
+        "box": {
+          "bottom": 0.35451340675354004,
+          "left": 0.07401201128959656,
+          "right": 0.9164379835128784,
+          "top": 0.05636787414550781
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4302aae5-b0a3-4672-9184-8aadeb52cac2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Tata Invoice</td></tr>\n<tr><td id=\"0-3\" rowspan=\"3\">Variant Technologies Sgar Complex, Off No. 19 A Tower, Near Nashik Phata Kasarwadi. Pune - 411034 E-Mail : sales@vtechpune.co.in</td><td id=\"0-4\">Invoice No: 2014/00355</td><td id=\"0-5\">Dated 10-Dec-14</td></tr>\n<tr><td id=\"0-6\">Delivery Note By Road</td><td id=\"0-7\">Mode/Terms Of Payment 100% Against receipt of Material</td></tr>\n<tr><td id=\"0-8\" rowspan=\"2\">Buyers Order No.</td><td id=\"0-9\" rowspan=\"2\">PO Dated</td></tr>\n<tr><td id=\"0-a\" rowspan=\"2\">Buyer Sandip Patil Ambegaon Bk, Pune</td></tr>\n<tr><td id=\"0-b\" colspan=\"2\">Terms Of Delivery Delivared at Place</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "77b27b62-7b81-44e8-b2a4-2d0c962efa93",
+      "grounding": {
+        "box": {
+          "bottom": 0.7674177885055542,
+          "left": 0.07360115647315979,
+          "right": 0.9162291288375854,
+          "top": 0.34660741686820984
+        },
+        "page": 0
+      },
+      "markdown": "<a id='77b27b62-7b81-44e8-b2a4-2d0c962efa93'></a>\n\n<table id=\"0-c\">\n<tr><td id=\"0-d\">SrNo</td><td id=\"0-e\">Description of Goods</td><td id=\"0-f\">Part No</td><td id=\"0-g\">Qty</td><td id=\"0-h\">VAT</td><td id=\"0-i\">Rate</td><td id=\"0-j\">Amount</td></tr>\n<tr><td id=\"0-k\">1</td><td id=\"0-l\">Tata Photon 3G Plan 750@7GB</td><td id=\"0-m\"></td><td id=\"0-n\">1</td><td id=\"0-o\"></td><td id=\"0-p\">2800.00</td><td id=\"0-q\">2800.00</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">Sub Total</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\">2800.00</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td></tr>\n<tr><td id=\"0-F\"></td><td id=\"0-G\">Total</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\" colspan=\"2\">2800.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "a75c5d02-a35e-4740-8116-ab82a679dd17",
+      "grounding": {
+        "box": {
+          "bottom": 0.9222245216369629,
+          "left": 0.07496252655982971,
+          "right": 0.5906327962875366,
+          "top": 0.7598319053649902
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a75c5d02-a35e-4740-8116-ab82a679dd17'></a>\n\nAmount Chargeable(in words)\nRs. **Two Thousand Eight Hundred Only.**\n\nDeclaration\nWe declare that this invoice shows the actual price of the\ngoods described and that all particulars are true",
+      "type": "text"
+    },
+    {
+      "id": "e3a4516d-1c63-454d-b030-6b46113ba936",
+      "grounding": {
+        "box": {
+          "bottom": 0.9237267971038818,
+          "left": 0.583089292049408,
+          "right": 0.9134795069694519,
+          "top": 0.7877967357635498
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e3a4516d-1c63-454d-b030-6b46113ba936'></a>\n\n<::attestation: Signature and Official Stamp\nSigned, Stamped\nSignature: illegible\nVariant Technologies\nVT\n+91 20 46740005\nM +91 95 60000000\nwww.vtechpune.co.in\nPune-34\nFor Variant Technologies\nAn illegible signature is placed above the text \"For Variant Technologies\" on the left side, with a circular official stamp partially overlapping the right side of the signature and positioned to the right of the text.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "2f51dd62-a8cf-4f95-babc-9b9bca015eb9",
+      "grounding": {
+        "box": {
+          "bottom": 0.8771019577980042,
+          "left": 0.737311840057373,
+          "right": 0.8757553100585938,
+          "top": 0.7924855351448059
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2f51dd62-a8cf-4f95-babc-9b9bca015eb9'></a>\n\nCAPTION ERROR",
+      "type": "attestation"
+    },
+    {
+      "id": "c4ea285d-1c08-40a8-986c-68d6920027a8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9353894591331482,
+          "left": 0.409298837184906,
+          "right": 0.6812650561332703,
+          "top": 0.918374240398407
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c4ea285d-1c08-40a8-986c-68d6920027a8'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='4302aae5-b0a3-4672-9184-8aadeb52cac2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Tata Invoice</td></tr>\n<tr><td id=\"0-3\" rowspan=\"3\">Variant Technologies Sgar Complex, Off No. 19 A Tower, Near Nashik Phata Kasarwadi. Pune - 411034 E-Mail : sales@vtechpune.co.in</td><td id=\"0-4\">Invoice No: 2014/00355</td><td id=\"0-5\">Dated 10-Dec-14</td></tr>\n<tr><td id=\"0-6\">Delivery Note By Road</td><td id=\"0-7\">Mode/Terms Of Payment 100% Against receipt of Material</td></tr>\n<tr><td id=\"0-8\" rowspan=\"2\">Buyers Order No.</td><td id=\"0-9\" rowspan=\"2\">PO Dated</td></tr>\n<tr><td id=\"0-a\" rowspan=\"2\">Buyer Sandip Patil Ambegaon Bk, Pune</td></tr>\n<tr><td id=\"0-b\" colspan=\"2\">Terms Of Delivery Delivared at Place</td></tr>\n</table>\n\n<a id='77b27b62-7b81-44e8-b2a4-2d0c962efa93'></a>\n\n<table id=\"0-c\">\n<tr><td id=\"0-d\">SrNo</td><td id=\"0-e\">Description of Goods</td><td id=\"0-f\">Part No</td><td id=\"0-g\">Qty</td><td id=\"0-h\">VAT</td><td id=\"0-i\">Rate</td><td id=\"0-j\">Amount</td></tr>\n<tr><td id=\"0-k\">1</td><td id=\"0-l\">Tata Photon 3G Plan 750@7GB</td><td id=\"0-m\"></td><td id=\"0-n\">1</td><td id=\"0-o\"></td><td id=\"0-p\">2800.00</td><td id=\"0-q\">2800.00</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">Sub Total</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\">2800.00</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td></tr>\n<tr><td id=\"0-F\"></td><td id=\"0-G\">Total</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\" colspan=\"2\">2800.00</td></tr>\n</table>\n\n<a id='a75c5d02-a35e-4740-8116-ab82a679dd17'></a>\n\nAmount Chargeable(in words)\nRs. **Two Thousand Eight Hundred Only.**\n\nDeclaration\nWe declare that this invoice shows the actual price of the\ngoods described and that all particulars are true\n\n<a id='e3a4516d-1c63-454d-b030-6b46113ba936'></a>\n\n<::attestation: Signature and Official Stamp\nSigned, Stamped\nSignature: illegible\nVariant Technologies\nVT\n+91 20 46740005\nM +91 95 60000000\nwww.vtechpune.co.in\nPune-34\nFor Variant Technologies\nAn illegible signature is placed above the text \"For Variant Technologies\" on the left side, with a circular official stamp partially overlapping the right side of the signature and positioned to the right of the text.::>\n\n<a id='2f51dd62-a8cf-4f95-babc-9b9bca015eb9'></a>\n\nCAPTION ERROR\n\n<a id='c4ea285d-1c08-40a8-986c-68d6920027a8'></a>\n\nCAPTION ERROR",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 10018,
+    "filename": "invoice_17.pdf",
+    "job_id": "sb3hquqotm6snwfloc6zg8opw",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "4302aae5-b0a3-4672-9184-8aadeb52cac2",
+        "77b27b62-7b81-44e8-b2a4-2d0c962efa93",
+        "a75c5d02-a35e-4740-8116-ab82a679dd17",
+        "e3a4516d-1c63-454d-b030-6b46113ba936",
+        "2f51dd62-a8cf-4f95-babc-9b9bca015eb9",
+        "c4ea285d-1c08-40a8-986c-68d6920027a8"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='4302aae5-b0a3-4672-9184-8aadeb52cac2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Tata Invoice</td></tr>\n<tr><td id=\"0-3\" rowspan=\"3\">Variant Technologies Sgar Complex, Off No. 19 A Tower, Near Nashik Phata Kasarwadi. Pune - 411034 E-Mail : sales@vtechpune.co.in</td><td id=\"0-4\">Invoice No: 2014/00355</td><td id=\"0-5\">Dated 10-Dec-14</td></tr>\n<tr><td id=\"0-6\">Delivery Note By Road</td><td id=\"0-7\">Mode/Terms Of Payment 100% Against receipt of Material</td></tr>\n<tr><td id=\"0-8\" rowspan=\"2\">Buyers Order No.</td><td id=\"0-9\" rowspan=\"2\">PO Dated</td></tr>\n<tr><td id=\"0-a\" rowspan=\"2\">Buyer Sandip Patil Ambegaon Bk, Pune</td></tr>\n<tr><td id=\"0-b\" colspan=\"2\">Terms Of Delivery Delivared at Place</td></tr>\n</table>\n\n<a id='77b27b62-7b81-44e8-b2a4-2d0c962efa93'></a>\n\n<table id=\"0-c\">\n<tr><td id=\"0-d\">SrNo</td><td id=\"0-e\">Description of Goods</td><td id=\"0-f\">Part No</td><td id=\"0-g\">Qty</td><td id=\"0-h\">VAT</td><td id=\"0-i\">Rate</td><td id=\"0-j\">Amount</td></tr>\n<tr><td id=\"0-k\">1</td><td id=\"0-l\">Tata Photon 3G Plan 750@7GB</td><td id=\"0-m\"></td><td id=\"0-n\">1</td><td id=\"0-o\"></td><td id=\"0-p\">2800.00</td><td id=\"0-q\">2800.00</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">Sub Total</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\">2800.00</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td></tr>\n<tr><td id=\"0-F\"></td><td id=\"0-G\">Total</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\" colspan=\"2\">2800.00</td></tr>\n</table>\n\n<a id='a75c5d02-a35e-4740-8116-ab82a679dd17'></a>\n\nAmount Chargeable(in words)\nRs. **Two Thousand Eight Hundred Only.**\n\nDeclaration\nWe declare that this invoice shows the actual price of the\ngoods described and that all particulars are true\n\n<a id='e3a4516d-1c63-454d-b030-6b46113ba936'></a>\n\n<::attestation: Signature and Official Stamp\nSigned, Stamped\nSignature: illegible\nVariant Technologies\nVT\n+91 20 46740005\nM +91 95 60000000\nwww.vtechpune.co.in\nPune-34\nFor Variant Technologies\nAn illegible signature is placed above the text \"For Variant Technologies\" on the left side, with a circular official stamp partially overlapping the right side of the signature and positioned to the right of the text.::>\n\n<a id='2f51dd62-a8cf-4f95-babc-9b9bca015eb9'></a>\n\nCAPTION ERROR\n\n<a id='c4ea285d-1c08-40a8-986c-68d6920027a8'></a>\n\nCAPTION ERROR",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "4302aae5-b0a3-4672-9184-8aadeb52cac2": {
+      "box": {
+        "bottom": 0.35451340675354004,
+        "left": 0.07401201128959656,
+        "right": 0.9164379835128784,
+        "top": 0.05636787414550781
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.3517957448952984,
+        "left": 0.08110803955232362,
+        "right": 0.909051172304169,
+        "top": 0.06362086736114092
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.1482182004300583,
+        "left": 0.08110803955232362,
+        "right": 0.9091298552929601,
+        "top": 0.06362086736114092
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.2732261587673861,
+        "left": 0.08110803955232362,
+        "right": 0.7119805635204575,
+        "top": 0.0855971446238275
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.1482182004300583,
+        "left": 0.49643305995856046,
+        "right": 0.7119805635204575,
+        "top": 0.0855971446238275
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.1482182004300583,
+        "left": 0.7119805635204575,
+        "right": 0.9091298552929601,
+        "top": 0.0855971446238275
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.21094964214560719,
+        "left": 0.49643305995856046,
+        "right": 0.7119805635204575,
+        "top": 0.1482182004300583
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.21094964214560719,
+        "left": 0.7119805635204575,
+        "right": 0.9091298552929601,
+        "top": 0.1482182004300583
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3517957448952984,
+        "left": 0.49643305995856046,
+        "right": 0.9091298552929601,
+        "top": 0.21094964214560719
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3517957448952984,
+        "left": 0.7119805635204575,
+        "right": 0.9091298552929601,
+        "top": 0.21094964214560719
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.3517957448952984,
+        "left": 0.08110803955232362,
+        "right": 0.7119805635204575,
+        "top": 0.22612615083740195
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.3517957448952984,
+        "left": 0.49643305995856046,
+        "right": 0.9091298552929601,
+        "top": 0.2732261587673861
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "77b27b62-7b81-44e8-b2a4-2d0c962efa93": {
+      "box": {
+        "bottom": 0.7674177885055542,
+        "left": 0.07360115647315979,
+        "right": 0.9162291288375854,
+        "top": 0.34660741686820984
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.7626664573729478,
+        "left": 0.0809778160847128,
+        "right": 0.9085340762418586,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.36615632868248926,
+        "left": 0.0809778160847128,
+        "right": 0.14022069525094238,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.36615632868248926,
+        "left": 0.14022069525094238,
+        "right": 0.49617823963624197,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.36615632868248926,
+        "left": 0.49617823963624197,
+        "right": 0.5895801153356732,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.36615632868248926,
+        "left": 0.5895801153356732,
+        "right": 0.6562613800743087,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.36615632868248926,
+        "left": 0.6562613800743087,
+        "right": 0.7118612527668162,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.36615632868248926,
+        "left": 0.7118612527668162,
+        "right": 0.7980996021876123,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.36615632868248926,
+        "left": 0.7980996021876123,
+        "right": 0.9086024820666605,
+        "top": 0.35058251302523646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.6320185963007621,
+        "left": 0.0809778160847128,
+        "right": 0.14022069525094238,
+        "top": 0.36615632868248926
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.6320185963007621,
+        "left": 0.14022069525094238,
+        "right": 0.49617823963624197,
+        "top": 0.36615632868248926
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.6320185963007621,
+        "left": 0.49617823963624197,
+        "right": 0.5895801153356732,
+        "top": 0.36615632868248926
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.6320185963007621,
+        "left": 0.5895801153356732,
+        "right": 0.6562613800743087,
+        "top": 0.36615632868248926
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.6320185963007621,
+        "left": 0.6562613800743087,
+        "right": 0.7118612527668162,
+        "top": 0.36615632868248926
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.6320185963007621,
+        "left": 0.7118612527668162,
+        "right": 0.7980996021876123,
+        "top": 0.36615632868248926
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.6320185963007621,
+        "left": 0.7980996021876123,
+        "right": 0.9086024820666605,
+        "top": 0.36615632868248926
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.6472478629310636,
+        "left": 0.0809778160847128,
+        "right": 0.14022069525094238,
+        "top": 0.6320185963007621
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.6472478629310636,
+        "left": 0.14022069525094238,
+        "right": 0.49617823963624197,
+        "top": 0.6320185963007621
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.6472478629310636,
+        "left": 0.49617823963624197,
+        "right": 0.5895801153356732,
+        "top": 0.6320185963007621
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.6472478629310636,
+        "left": 0.5895801153356732,
+        "right": 0.6562613800743087,
+        "top": 0.6320185963007621
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.6472478629310636,
+        "left": 0.6562613800743087,
+        "right": 0.7118612527668162,
+        "top": 0.6320185963007621
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.6472478629310636,
+        "left": 0.7118612527668162,
+        "right": 0.7980996021876123,
+        "top": 0.6320185963007621
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.6472478629310636,
+        "left": 0.7980996021876123,
+        "right": 0.9086024820666605,
+        "top": 0.6320185963007621
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.7413034763336714,
+        "left": 0.0809778160847128,
+        "right": 0.14022069525094238,
+        "top": 0.6472478629310636
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.7413034763336714,
+        "left": 0.14022069525094238,
+        "right": 0.49617823963624197,
+        "top": 0.6472478629310636
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.7413034763336714,
+        "left": 0.49617823963624197,
+        "right": 0.5895801153356732,
+        "top": 0.6472478629310636
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.7413034763336714,
+        "left": 0.5895801153356732,
+        "right": 0.6562613800743087,
+        "top": 0.6472478629310636
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.7413034763336714,
+        "left": 0.6562613800743087,
+        "right": 0.7118612527668162,
+        "top": 0.6472478629310636
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.7413034763336714,
+        "left": 0.7118612527668162,
+        "right": 0.7980996021876123,
+        "top": 0.6472478629310636
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.7413034763336714,
+        "left": 0.7980996021876123,
+        "right": 0.9086024820666605,
+        "top": 0.6472478629310636
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.7626664573729478,
+        "left": 0.0809778160847128,
+        "right": 0.14022069525094238,
+        "top": 0.7413034763336714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.7626664573729478,
+        "left": 0.14022069525094238,
+        "right": 0.49617823963624197,
+        "top": 0.7413034763336714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.7626664573729478,
+        "left": 0.49617823963624197,
+        "right": 0.5895801153356732,
+        "top": 0.7413034763336714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.7626664573729478,
+        "left": 0.5895801153356732,
+        "right": 0.6562613800743087,
+        "top": 0.7413034763336714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.7626664573729478,
+        "left": 0.6562613800743087,
+        "right": 0.7118612527668162,
+        "top": 0.7413034763336714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.7626664573729478,
+        "left": 0.7118612527668162,
+        "right": 0.9086024820666605,
+        "top": 0.7413034763336714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "a75c5d02-a35e-4740-8116-ab82a679dd17": {
+      "box": {
+        "bottom": 0.9222245216369629,
+        "left": 0.07496252655982971,
+        "right": 0.5906327962875366,
+        "top": 0.7598319053649902
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e3a4516d-1c63-454d-b030-6b46113ba936": {
+      "box": {
+        "bottom": 0.9237267971038818,
+        "left": 0.583089292049408,
+        "right": 0.9134795069694519,
+        "top": 0.7877967357635498
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "2f51dd62-a8cf-4f95-babc-9b9bca015eb9": {
+      "box": {
+        "bottom": 0.8771019577980042,
+        "left": 0.737311840057373,
+        "right": 0.8757553100585938,
+        "top": 0.7924855351448059
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "c4ea285d-1c08-40a8-986c-68d6920027a8": {
+      "box": {
+        "bottom": 0.9353894591331482,
+        "left": 0.409298837184906,
+        "right": 0.6812650561332703,
+        "top": 0.918374240398407
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

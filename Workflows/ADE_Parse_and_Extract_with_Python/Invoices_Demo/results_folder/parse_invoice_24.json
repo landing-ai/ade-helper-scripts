@@ -1,0 +1,1184 @@
+{
+  "chunks": [
+    {
+      "id": "1c834d55-2a31-4896-afc1-52c4760e8a3d",
+      "grounding": {
+        "box": {
+          "bottom": 0.07912440598011017,
+          "left": 0.05161783844232559,
+          "right": 0.279755175113678,
+          "top": 0.01194053515791893
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1c834d55-2a31-4896-afc1-52c4760e8a3d'></a>\n\n<::logo: Marriott\nMARRIOTT FRANKFURT AIRPORT\nA stylized red 'M' symbol is positioned above the text.::>",
+      "type": "logo"
+    },
+    {
+      "id": "bb02267f-a9ec-47cd-9713-2756ff489110",
+      "grounding": {
+        "box": {
+          "bottom": 0.21719078719615936,
+          "left": 0.08755600452423096,
+          "right": 0.22112080454826355,
+          "top": 0.15646378695964813
+        },
+        "page": 0
+      },
+      "markdown": "<a id='bb02267f-a9ec-47cd-9713-2756ff489110'></a>\n\nMrs Andrea Kropp\n227 N 5th Ave\n98642 Ridgefield\nUnited States",
+      "type": "text"
+    },
+    {
+      "id": "622232ad-f270-48a0-99c3-61abb0c82a87",
+      "grounding": {
+        "box": {
+          "bottom": 0.3048577606678009,
+          "left": 0.6801640391349792,
+          "right": 0.9108900427818298,
+          "top": 0.21000882983207703
+        },
+        "page": 0
+      },
+      "markdown": "<a id='622232ad-f270-48a0-99c3-61abb0c82a87'></a>\n\nRoom No. 6213\nArrival 10.08.2025\nDeparture 11.08.2025\nPage No. 1 of 1\nCashier No. 20732\nBonvoy No. XXXXX2914\nReservation No. 30106470",
+      "type": "text"
+    },
+    {
+      "id": "3ec046b9-9b69-4297-9740-43899401f649",
+      "grounding": {
+        "box": {
+          "bottom": 0.34832286834716797,
+          "left": 0.04121856391429901,
+          "right": 0.2801510691642761,
+          "top": 0.3006943464279175
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3ec046b9-9b69-4297-9740-43899401f649'></a>\n\nINVOICE F 247120\nA/R No.\nGuest Name Mrs Andrea Kropp",
+      "type": "text"
+    },
+    {
+      "id": "1212986f-cdb1-4e3d-b413-43fdf487085a",
+      "grounding": {
+        "box": {
+          "bottom": 0.3492313623428345,
+          "left": 0.6833134889602661,
+          "right": 0.9000650644302368,
+          "top": 0.33194535970687866
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1212986f-cdb1-4e3d-b413-43fdf487085a'></a>\n\nInvoice Date: 11.08.2025",
+      "type": "text"
+    },
+    {
+      "id": "47c24259-7836-4ff0-bf27-7d759c0c47bf",
+      "grounding": {
+        "box": {
+          "bottom": 0.5900002121925354,
+          "left": 0.03222489356994629,
+          "right": 0.9684387445449829,
+          "top": 0.35502928495407104
+        },
+        "page": 0
+      },
+      "markdown": "<a id='47c24259-7836-4ff0-bf27-7d759c0c47bf'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Description</td><td id=\"0-4\">Reference</td><td id=\"0-5\">Debit EUR</td><td id=\"0-6\">Credit EUR</td></tr>\n<tr><td id=\"0-7\">10.08.25</td><td id=\"0-8\">The Eatery Dinner Beer Standard VAT</td><td id=\"0-9\">CHECK# 1226762</td><td id=\"0-a\">15.00</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">10.08.25</td><td id=\"0-d\">City Tax 0%</td><td id=\"0-e\"></td><td id=\"0-f\">4.00</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">10.08.25</td><td id=\"0-i\">Accommodation</td><td id=\"0-j\"></td><td id=\"0-k\">162.00</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">11.08.25</td><td id=\"0-n\">Visa Card - CP XXXXXXXXXXXX3800</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">181.00</td></tr>\n</table>\n<table id=\"0-r\">\n<tr><td id=\"0-s\">VAT Detail</td><td id=\"0-t\">Net EUR</td><td id=\"0-u\">VAT EUR</td><td id=\"0-v\">Gross EUR</td></tr>\n<tr><td id=\"0-w\">VAT - 19%</td><td id=\"0-x\">12.61</td><td id=\"0-y\">2.39</td><td id=\"0-z\">15.00</td></tr>\n<tr><td id=\"0-A\">VAT - 7%</td><td id=\"0-B\">151.40</td><td id=\"0-C\">10.60</td><td id=\"0-D\">162.00</td></tr>\n<tr><td id=\"0-E\">VAT - 0%</td><td id=\"0-F\">4.00</td><td id=\"0-G\">0.00</td><td id=\"0-H\">4.00</td></tr>\n</table>\n<table id=\"0-I\">\n<tr><td id=\"0-J\">Total</td><td id=\"0-K\">181.00</td><td id=\"0-L\">181.00</td></tr>\n<tr><td id=\"0-M\">Balance to pay</td><td id=\"0-N\"></td><td id=\"0-O\">0.00 EUR</td></tr>\n<tr><td id=\"0-P\">Total net</td><td id=\"0-Q\"></td><td id=\"0-R\">168.01 EUR</td></tr>\n<tr><td id=\"0-S\">Total gross</td><td id=\"0-T\"></td><td id=\"0-U\">181.00 EUR</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "f2d5e9e1-e5f3-4cd6-8c81-87861e3888db",
+      "grounding": {
+        "box": {
+          "bottom": 0.681803286075592,
+          "left": 0.051405251026153564,
+          "right": 0.9740694165229797,
+          "top": 0.6101139187812805
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f2d5e9e1-e5f3-4cd6-8c81-87861e3888db'></a>\n\n<table id=\"0-V\">\n<tr><td id=\"0-W\">H\u00e4ndlernummer</td><td id=\"0-X\"></td><td id=\"0-Y\">Kreditkarten #</td><td id=\"0-Z\">XXXXXXXXXXXX3800</td><td id=\"0-10\">Ich autorisiere den ausgewiesenen Betrag.</td></tr>\n<tr><td id=\"0-11\">Transaktionsnummer</td><td id=\"0-12\">48079725</td><td id=\"0-13\">Ablaufdatum</td><td id=\"0-14\">XX/XX</td><td id=\"0-15\"></td></tr>\n<tr><td id=\"0-16\">Genehmigungscode</td><td id=\"0-17\">09362D</td><td id=\"0-18\">Erfassungsmethode</td><td id=\"0-19\">Manual</td><td id=\"0-1a\"></td></tr>\n<tr><td id=\"0-1b\">Genehmigter Betrag</td><td id=\"0-1c\">181.00</td><td id=\"0-1d\">Transaktionsbetrag</td><td id=\"0-1e\">181.00</td><td id=\"0-1f\">Unterschrift Karteninhaber/in</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "6c0cf114-ae03-49f9-9855-4fff261456fa",
+      "grounding": {
+        "box": {
+          "bottom": 0.7743765115737915,
+          "left": 0.04621407389640808,
+          "right": 0.970390796661377,
+          "top": 0.6899117231369019
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6c0cf114-ae03-49f9-9855-4fff261456fa'></a>\n\nTSE Signature\n<table id=\"0-1g\">\n<tr><td id=\"0-1h\">StartD</td><td id=\"0-1i\" colspan=\"2\">2025-08-11 10:42:56</td></tr>\n<tr><td id=\"0-1j\">FinishD</td><td id=\"0-1k\" colspan=\"2\">2025-08-11 10:42:56</td></tr>\n<tr><td id=\"0-1l\">Info</td><td id=\"0-1m\" colspan=\"2\">Sicherheitsmodul ausgefallen</td></tr>\n<tr><td id=\"0-1n\">SQ</td><td id=\"0-1o\" colspan=\"2\">1933779</td></tr>\n<tr><td id=\"0-1p\">TN</td><td id=\"0-1q\" colspan=\"2\">900643357</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "963f6037-83a8-47eb-9e2d-d8bc8bdd90a8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9189146161079407,
+          "left": 0.055121392011642456,
+          "right": 0.5702663660049438,
+          "top": 0.8741846680641174
+        },
+        "page": 0
+      },
+      "markdown": "<a id='963f6037-83a8-47eb-9e2d-d8bc8bdd90a8'></a>\n\n**Frankfurt Airport Marriott Hotel**\nAirport/Terminal 1, Hugo-Eckener-Ring 15, 60549 Frankfurt am Main, Germany\nTel: +49.(0)69.695977.0 | Fax: +49.(0)69.695977.4999 | FrankfurtAirportMarriott.com",
+      "type": "text"
+    },
+    {
+      "id": "2f08b277-8c52-4145-9a76-88df9060ca4a",
+      "grounding": {
+        "box": {
+          "bottom": 0.9627590775489807,
+          "left": 0.05544230341911316,
+          "right": 0.8123070001602173,
+          "top": 0.9203720688819885
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2f08b277-8c52-4145-9a76-88df9060ca4a'></a>\n\nUniCredit Bank - HypoVereinsbank, 60003 Frankfurt am Main\nKTO 30002890, BLZ 50320191, IBAN: DE41503201910030002890, BIC: HYVEDEMM430\nLe-Be Hotel Gesellschaft am Flughafen Frankfurt/Main mbH Gesch\u00e4ftsf\u00fchrer: Rahim Lalji, Timothy Gavey\nSitz der Gesellschaft: Amtsgericht Frankfurt a. M. HRB 91222 Finanzamt Frankfurt am Main III, St. Nr. 014 233 56727, Ust-ID: DE 163670796",
+      "type": "text"
+    },
+    {
+      "id": "be5a1e99-c80f-4ed0-930b-5a62047d830b",
+      "grounding": {
+        "box": {
+          "bottom": 0.9825037121772766,
+          "left": 0.055767446756362915,
+          "right": 0.2051123082637787,
+          "top": 0.9681511521339417
+        },
+        "page": 0
+      },
+      "markdown": "<a id='be5a1e99-c80f-4ed0-930b-5a62047d830b'></a>\n\nMARRIOTTHOTELS.COM",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='1c834d55-2a31-4896-afc1-52c4760e8a3d'></a>\n\n<::logo: Marriott\nMARRIOTT FRANKFURT AIRPORT\nA stylized red 'M' symbol is positioned above the text.::>\n\n<a id='bb02267f-a9ec-47cd-9713-2756ff489110'></a>\n\nMrs Andrea Kropp\n227 N 5th Ave\n98642 Ridgefield\nUnited States\n\n<a id='622232ad-f270-48a0-99c3-61abb0c82a87'></a>\n\nRoom No. 6213\nArrival 10.08.2025\nDeparture 11.08.2025\nPage No. 1 of 1\nCashier No. 20732\nBonvoy No. XXXXX2914\nReservation No. 30106470\n\n<a id='3ec046b9-9b69-4297-9740-43899401f649'></a>\n\nINVOICE F 247120\nA/R No.\nGuest Name Mrs Andrea Kropp\n\n<a id='1212986f-cdb1-4e3d-b413-43fdf487085a'></a>\n\nInvoice Date: 11.08.2025\n\n<a id='47c24259-7836-4ff0-bf27-7d759c0c47bf'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Description</td><td id=\"0-4\">Reference</td><td id=\"0-5\">Debit EUR</td><td id=\"0-6\">Credit EUR</td></tr>\n<tr><td id=\"0-7\">10.08.25</td><td id=\"0-8\">The Eatery Dinner Beer Standard VAT</td><td id=\"0-9\">CHECK# 1226762</td><td id=\"0-a\">15.00</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">10.08.25</td><td id=\"0-d\">City Tax 0%</td><td id=\"0-e\"></td><td id=\"0-f\">4.00</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">10.08.25</td><td id=\"0-i\">Accommodation</td><td id=\"0-j\"></td><td id=\"0-k\">162.00</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">11.08.25</td><td id=\"0-n\">Visa Card - CP XXXXXXXXXXXX3800</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">181.00</td></tr>\n</table>\n<table id=\"0-r\">\n<tr><td id=\"0-s\">VAT Detail</td><td id=\"0-t\">Net EUR</td><td id=\"0-u\">VAT EUR</td><td id=\"0-v\">Gross EUR</td></tr>\n<tr><td id=\"0-w\">VAT - 19%</td><td id=\"0-x\">12.61</td><td id=\"0-y\">2.39</td><td id=\"0-z\">15.00</td></tr>\n<tr><td id=\"0-A\">VAT - 7%</td><td id=\"0-B\">151.40</td><td id=\"0-C\">10.60</td><td id=\"0-D\">162.00</td></tr>\n<tr><td id=\"0-E\">VAT - 0%</td><td id=\"0-F\">4.00</td><td id=\"0-G\">0.00</td><td id=\"0-H\">4.00</td></tr>\n</table>\n<table id=\"0-I\">\n<tr><td id=\"0-J\">Total</td><td id=\"0-K\">181.00</td><td id=\"0-L\">181.00</td></tr>\n<tr><td id=\"0-M\">Balance to pay</td><td id=\"0-N\"></td><td id=\"0-O\">0.00 EUR</td></tr>\n<tr><td id=\"0-P\">Total net</td><td id=\"0-Q\"></td><td id=\"0-R\">168.01 EUR</td></tr>\n<tr><td id=\"0-S\">Total gross</td><td id=\"0-T\"></td><td id=\"0-U\">181.00 EUR</td></tr>\n</table>\n\n<a id='f2d5e9e1-e5f3-4cd6-8c81-87861e3888db'></a>\n\n<table id=\"0-V\">\n<tr><td id=\"0-W\">H\u00e4ndlernummer</td><td id=\"0-X\"></td><td id=\"0-Y\">Kreditkarten #</td><td id=\"0-Z\">XXXXXXXXXXXX3800</td><td id=\"0-10\">Ich autorisiere den ausgewiesenen Betrag.</td></tr>\n<tr><td id=\"0-11\">Transaktionsnummer</td><td id=\"0-12\">48079725</td><td id=\"0-13\">Ablaufdatum</td><td id=\"0-14\">XX/XX</td><td id=\"0-15\"></td></tr>\n<tr><td id=\"0-16\">Genehmigungscode</td><td id=\"0-17\">09362D</td><td id=\"0-18\">Erfassungsmethode</td><td id=\"0-19\">Manual</td><td id=\"0-1a\"></td></tr>\n<tr><td id=\"0-1b\">Genehmigter Betrag</td><td id=\"0-1c\">181.00</td><td id=\"0-1d\">Transaktionsbetrag</td><td id=\"0-1e\">181.00</td><td id=\"0-1f\">Unterschrift Karteninhaber/in</td></tr>\n</table>\n\n<a id='6c0cf114-ae03-49f9-9855-4fff261456fa'></a>\n\nTSE Signature\n<table id=\"0-1g\">\n<tr><td id=\"0-1h\">StartD</td><td id=\"0-1i\" colspan=\"2\">2025-08-11 10:42:56</td></tr>\n<tr><td id=\"0-1j\">FinishD</td><td id=\"0-1k\" colspan=\"2\">2025-08-11 10:42:56</td></tr>\n<tr><td id=\"0-1l\">Info</td><td id=\"0-1m\" colspan=\"2\">Sicherheitsmodul ausgefallen</td></tr>\n<tr><td id=\"0-1n\">SQ</td><td id=\"0-1o\" colspan=\"2\">1933779</td></tr>\n<tr><td id=\"0-1p\">TN</td><td id=\"0-1q\" colspan=\"2\">900643357</td></tr>\n</table>\n\n<a id='963f6037-83a8-47eb-9e2d-d8bc8bdd90a8'></a>\n\n**Frankfurt Airport Marriott Hotel**\nAirport/Terminal 1, Hugo-Eckener-Ring 15, 60549 Frankfurt am Main, Germany\nTel: +49.(0)69.695977.0 | Fax: +49.(0)69.695977.4999 | FrankfurtAirportMarriott.com\n\n<a id='2f08b277-8c52-4145-9a76-88df9060ca4a'></a>\n\nUniCredit Bank - HypoVereinsbank, 60003 Frankfurt am Main\nKTO 30002890, BLZ 50320191, IBAN: DE41503201910030002890, BIC: HYVEDEMM430\nLe-Be Hotel Gesellschaft am Flughafen Frankfurt/Main mbH Gesch\u00e4ftsf\u00fchrer: Rahim Lalji, Timothy Gavey\nSitz der Gesellschaft: Amtsgericht Frankfurt a. M. HRB 91222 Finanzamt Frankfurt am Main III, St. Nr. 014 233 56727, Ust-ID: DE 163670796\n\n<a id='be5a1e99-c80f-4ed0-930b-5a62047d830b'></a>\n\nMARRIOTTHOTELS.COM",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 9966,
+    "filename": "invoice_24.pdf",
+    "job_id": "b9214dyasfu3t0tajlch9df98",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "1c834d55-2a31-4896-afc1-52c4760e8a3d",
+        "bb02267f-a9ec-47cd-9713-2756ff489110",
+        "622232ad-f270-48a0-99c3-61abb0c82a87",
+        "3ec046b9-9b69-4297-9740-43899401f649",
+        "1212986f-cdb1-4e3d-b413-43fdf487085a",
+        "47c24259-7836-4ff0-bf27-7d759c0c47bf",
+        "f2d5e9e1-e5f3-4cd6-8c81-87861e3888db",
+        "6c0cf114-ae03-49f9-9855-4fff261456fa",
+        "963f6037-83a8-47eb-9e2d-d8bc8bdd90a8",
+        "2f08b277-8c52-4145-9a76-88df9060ca4a",
+        "be5a1e99-c80f-4ed0-930b-5a62047d830b"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='1c834d55-2a31-4896-afc1-52c4760e8a3d'></a>\n\n<::logo: Marriott\nMARRIOTT FRANKFURT AIRPORT\nA stylized red 'M' symbol is positioned above the text.::>\n\n<a id='bb02267f-a9ec-47cd-9713-2756ff489110'></a>\n\nMrs Andrea Kropp\n227 N 5th Ave\n98642 Ridgefield\nUnited States\n\n<a id='622232ad-f270-48a0-99c3-61abb0c82a87'></a>\n\nRoom No. 6213\nArrival 10.08.2025\nDeparture 11.08.2025\nPage No. 1 of 1\nCashier No. 20732\nBonvoy No. XXXXX2914\nReservation No. 30106470\n\n<a id='3ec046b9-9b69-4297-9740-43899401f649'></a>\n\nINVOICE F 247120\nA/R No.\nGuest Name Mrs Andrea Kropp\n\n<a id='1212986f-cdb1-4e3d-b413-43fdf487085a'></a>\n\nInvoice Date: 11.08.2025\n\n<a id='47c24259-7836-4ff0-bf27-7d759c0c47bf'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Description</td><td id=\"0-4\">Reference</td><td id=\"0-5\">Debit EUR</td><td id=\"0-6\">Credit EUR</td></tr>\n<tr><td id=\"0-7\">10.08.25</td><td id=\"0-8\">The Eatery Dinner Beer Standard VAT</td><td id=\"0-9\">CHECK# 1226762</td><td id=\"0-a\">15.00</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">10.08.25</td><td id=\"0-d\">City Tax 0%</td><td id=\"0-e\"></td><td id=\"0-f\">4.00</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">10.08.25</td><td id=\"0-i\">Accommodation</td><td id=\"0-j\"></td><td id=\"0-k\">162.00</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">11.08.25</td><td id=\"0-n\">Visa Card - CP XXXXXXXXXXXX3800</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">181.00</td></tr>\n</table>\n<table id=\"0-r\">\n<tr><td id=\"0-s\">VAT Detail</td><td id=\"0-t\">Net EUR</td><td id=\"0-u\">VAT EUR</td><td id=\"0-v\">Gross EUR</td></tr>\n<tr><td id=\"0-w\">VAT - 19%</td><td id=\"0-x\">12.61</td><td id=\"0-y\">2.39</td><td id=\"0-z\">15.00</td></tr>\n<tr><td id=\"0-A\">VAT - 7%</td><td id=\"0-B\">151.40</td><td id=\"0-C\">10.60</td><td id=\"0-D\">162.00</td></tr>\n<tr><td id=\"0-E\">VAT - 0%</td><td id=\"0-F\">4.00</td><td id=\"0-G\">0.00</td><td id=\"0-H\">4.00</td></tr>\n</table>\n<table id=\"0-I\">\n<tr><td id=\"0-J\">Total</td><td id=\"0-K\">181.00</td><td id=\"0-L\">181.00</td></tr>\n<tr><td id=\"0-M\">Balance to pay</td><td id=\"0-N\"></td><td id=\"0-O\">0.00 EUR</td></tr>\n<tr><td id=\"0-P\">Total net</td><td id=\"0-Q\"></td><td id=\"0-R\">168.01 EUR</td></tr>\n<tr><td id=\"0-S\">Total gross</td><td id=\"0-T\"></td><td id=\"0-U\">181.00 EUR</td></tr>\n</table>\n\n<a id='f2d5e9e1-e5f3-4cd6-8c81-87861e3888db'></a>\n\n<table id=\"0-V\">\n<tr><td id=\"0-W\">H\u00e4ndlernummer</td><td id=\"0-X\"></td><td id=\"0-Y\">Kreditkarten #</td><td id=\"0-Z\">XXXXXXXXXXXX3800</td><td id=\"0-10\">Ich autorisiere den ausgewiesenen Betrag.</td></tr>\n<tr><td id=\"0-11\">Transaktionsnummer</td><td id=\"0-12\">48079725</td><td id=\"0-13\">Ablaufdatum</td><td id=\"0-14\">XX/XX</td><td id=\"0-15\"></td></tr>\n<tr><td id=\"0-16\">Genehmigungscode</td><td id=\"0-17\">09362D</td><td id=\"0-18\">Erfassungsmethode</td><td id=\"0-19\">Manual</td><td id=\"0-1a\"></td></tr>\n<tr><td id=\"0-1b\">Genehmigter Betrag</td><td id=\"0-1c\">181.00</td><td id=\"0-1d\">Transaktionsbetrag</td><td id=\"0-1e\">181.00</td><td id=\"0-1f\">Unterschrift Karteninhaber/in</td></tr>\n</table>\n\n<a id='6c0cf114-ae03-49f9-9855-4fff261456fa'></a>\n\nTSE Signature\n<table id=\"0-1g\">\n<tr><td id=\"0-1h\">StartD</td><td id=\"0-1i\" colspan=\"2\">2025-08-11 10:42:56</td></tr>\n<tr><td id=\"0-1j\">FinishD</td><td id=\"0-1k\" colspan=\"2\">2025-08-11 10:42:56</td></tr>\n<tr><td id=\"0-1l\">Info</td><td id=\"0-1m\" colspan=\"2\">Sicherheitsmodul ausgefallen</td></tr>\n<tr><td id=\"0-1n\">SQ</td><td id=\"0-1o\" colspan=\"2\">1933779</td></tr>\n<tr><td id=\"0-1p\">TN</td><td id=\"0-1q\" colspan=\"2\">900643357</td></tr>\n</table>\n\n<a id='963f6037-83a8-47eb-9e2d-d8bc8bdd90a8'></a>\n\n**Frankfurt Airport Marriott Hotel**\nAirport/Terminal 1, Hugo-Eckener-Ring 15, 60549 Frankfurt am Main, Germany\nTel: +49.(0)69.695977.0 | Fax: +49.(0)69.695977.4999 | FrankfurtAirportMarriott.com\n\n<a id='2f08b277-8c52-4145-9a76-88df9060ca4a'></a>\n\nUniCredit Bank - HypoVereinsbank, 60003 Frankfurt am Main\nKTO 30002890, BLZ 50320191, IBAN: DE41503201910030002890, BIC: HYVEDEMM430\nLe-Be Hotel Gesellschaft am Flughafen Frankfurt/Main mbH Gesch\u00e4ftsf\u00fchrer: Rahim Lalji, Timothy Gavey\nSitz der Gesellschaft: Amtsgericht Frankfurt a. M. HRB 91222 Finanzamt Frankfurt am Main III, St. Nr. 014 233 56727, Ust-ID: DE 163670796\n\n<a id='be5a1e99-c80f-4ed0-930b-5a62047d830b'></a>\n\nMARRIOTTHOTELS.COM",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "1c834d55-2a31-4896-afc1-52c4760e8a3d": {
+      "box": {
+        "bottom": 0.07912440598011017,
+        "left": 0.05161783844232559,
+        "right": 0.279755175113678,
+        "top": 0.01194053515791893
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "bb02267f-a9ec-47cd-9713-2756ff489110": {
+      "box": {
+        "bottom": 0.21719078719615936,
+        "left": 0.08755600452423096,
+        "right": 0.22112080454826355,
+        "top": 0.15646378695964813
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "622232ad-f270-48a0-99c3-61abb0c82a87": {
+      "box": {
+        "bottom": 0.3048577606678009,
+        "left": 0.6801640391349792,
+        "right": 0.9108900427818298,
+        "top": 0.21000882983207703
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3ec046b9-9b69-4297-9740-43899401f649": {
+      "box": {
+        "bottom": 0.34832286834716797,
+        "left": 0.04121856391429901,
+        "right": 0.2801510691642761,
+        "top": 0.3006943464279175
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1212986f-cdb1-4e3d-b413-43fdf487085a": {
+      "box": {
+        "bottom": 0.3492313623428345,
+        "left": 0.6833134889602661,
+        "right": 0.9000650644302368,
+        "top": 0.33194535970687866
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "47c24259-7836-4ff0-bf27-7d759c0c47bf": {
+      "box": {
+        "bottom": 0.5900002121925354,
+        "left": 0.03222489356994629,
+        "right": 0.9684387445449829,
+        "top": 0.35502928495407104
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.490162550874949,
+        "left": 0.036970807194478206,
+        "right": 0.9629170679715884,
+        "top": 0.35935080249100815
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3829622007372828,
+        "left": 0.036970807194478206,
+        "right": 0.11496275280674162,
+        "top": 0.35935080249100815
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3829622007372828,
+        "left": 0.11496275280674162,
+        "right": 0.3015945699963929,
+        "top": 0.35935080249100815
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3829622007372828,
+        "left": 0.3015945699963929,
+        "right": 0.48662745864358214,
+        "top": 0.35935080249100815
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3829622007372828,
+        "left": 0.48662745864358214,
+        "right": 0.7807848870636604,
+        "top": 0.35935080249100815
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3829622007372828,
+        "left": 0.7807848870636604,
+        "right": 0.9634517135830052,
+        "top": 0.35935080249100815
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.4212554160193065,
+        "left": 0.036970807194478206,
+        "right": 0.11496275280674162,
+        "top": 0.3829622007372828
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.4212554160193065,
+        "left": 0.11496275280674162,
+        "right": 0.3015945699963929,
+        "top": 0.3829622007372828
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4212554160193065,
+        "left": 0.3015945699963929,
+        "right": 0.48662745864358214,
+        "top": 0.3829622007372828
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.4212554160193065,
+        "left": 0.48662745864358214,
+        "right": 0.7807848870636604,
+        "top": 0.3829622007372828
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.4212554160193065,
+        "left": 0.7807848870636604,
+        "right": 0.9634517135830052,
+        "top": 0.3829622007372828
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.43631185582858834,
+        "left": 0.036970807194478206,
+        "right": 0.11496275280674162,
+        "top": 0.4212554160193065
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.43631185582858834,
+        "left": 0.11496275280674162,
+        "right": 0.3015945699963929,
+        "top": 0.4212554160193065
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.43631185582858834,
+        "left": 0.3015945699963929,
+        "right": 0.48662745864358214,
+        "top": 0.4212554160193065
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.43631185582858834,
+        "left": 0.48662745864358214,
+        "right": 0.7807848870636604,
+        "top": 0.4212554160193065
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.43631185582858834,
+        "left": 0.7807848870636604,
+        "right": 0.9634517135830052,
+        "top": 0.4212554160193065
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4507820383274357,
+        "left": 0.036970807194478206,
+        "right": 0.11496275280674162,
+        "top": 0.43631185582858834
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.4507820383274357,
+        "left": 0.11496275280674162,
+        "right": 0.3015945699963929,
+        "top": 0.43631185582858834
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4507820383274357,
+        "left": 0.3015945699963929,
+        "right": 0.48662745864358214,
+        "top": 0.43631185582858834
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.4507820383274357,
+        "left": 0.48662745864358214,
+        "right": 0.7807848870636604,
+        "top": 0.43631185582858834
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.4507820383274357,
+        "left": 0.7807848870636604,
+        "right": 0.9634517135830052,
+        "top": 0.43631185582858834
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.490162550874949,
+        "left": 0.036970807194478206,
+        "right": 0.11496275280674162,
+        "top": 0.4507820383274357
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.490162550874949,
+        "left": 0.11496275280674162,
+        "right": 0.3015945699963929,
+        "top": 0.4507820383274357
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.490162550874949,
+        "left": 0.3015945699963929,
+        "right": 0.48662745864358214,
+        "top": 0.4507820383274357
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.490162550874949,
+        "left": 0.48662745864358214,
+        "right": 0.7807848870636604,
+        "top": 0.4507820383274357
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.490162550874949,
+        "left": 0.7807848870636604,
+        "right": 0.9634517135830052,
+        "top": 0.4507820383274357
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5686784121667969,
+        "left": 0.04693164126419935,
+        "right": 0.5583701364092022,
+        "top": 0.5003804964070966
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5178337642770856,
+        "left": 0.04693164126419935,
+        "right": 0.1367629331925313,
+        "top": 0.5003804964070966
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5178337642770856,
+        "left": 0.1367629331925313,
+        "right": 0.3141822906015648,
+        "top": 0.5003804964070966
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5178337642770856,
+        "left": 0.3141822906015648,
+        "right": 0.4336365507687532,
+        "top": 0.5003804964070966
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5178337642770856,
+        "left": 0.4336365507687532,
+        "right": 0.557001296324863,
+        "top": 0.5003804964070966
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5398704538297849,
+        "left": 0.04693164126419935,
+        "right": 0.1367629331925313,
+        "top": 0.5178337642770856
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.5398704538297849,
+        "left": 0.1367629331925313,
+        "right": 0.3141822906015648,
+        "top": 0.5178337642770856
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5398704538297849,
+        "left": 0.3141822906015648,
+        "right": 0.4336365507687532,
+        "top": 0.5178337642770856
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5398704538297849,
+        "left": 0.4336365507687532,
+        "right": 0.557001296324863,
+        "top": 0.5178337642770856
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5526759173833469,
+        "left": 0.04693164126419935,
+        "right": 0.1367629331925313,
+        "top": 0.5398704538297849
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5526759173833469,
+        "left": 0.1367629331925313,
+        "right": 0.3141822906015648,
+        "top": 0.5398704538297849
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5526759173833469,
+        "left": 0.3141822906015648,
+        "right": 0.4336365507687532,
+        "top": 0.5398704538297849
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5526759173833469,
+        "left": 0.4336365507687532,
+        "right": 0.557001296324863,
+        "top": 0.5398704538297849
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.5686784121667969,
+        "left": 0.04693164126419935,
+        "right": 0.1367629331925313,
+        "top": 0.5526759173833469
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.5686784121667969,
+        "left": 0.1367629331925313,
+        "right": 0.3141822906015648,
+        "top": 0.5526759173833469
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.5686784121667969,
+        "left": 0.3141822906015648,
+        "right": 0.4336365507687532,
+        "top": 0.5526759173833469
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.5686784121667969,
+        "left": 0.4336365507687532,
+        "right": 0.557001296324863,
+        "top": 0.5526759173833469
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.581457055458543,
+        "left": 0.5659772154608618,
+        "right": 0.9621176943797352,
+        "top": 0.4990215424518709
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.5224439642055358,
+        "left": 0.5659772154608618,
+        "right": 0.6926793527382955,
+        "top": 0.4990215424518709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.5224439642055358,
+        "left": 0.6926793527382955,
+        "right": 0.7850682460540312,
+        "top": 0.4990215424518709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.5224439642055358,
+        "left": 0.7850682460540312,
+        "right": 0.9616969420668156,
+        "top": 0.4990215424518709
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.5426147198252167,
+        "left": 0.5659772154608618,
+        "right": 0.6926793527382955,
+        "top": 0.5224439642055358
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.5426147198252167,
+        "left": 0.6926793527382955,
+        "right": 0.7850682460540312,
+        "top": 0.5224439642055358
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.5426147198252167,
+        "left": 0.7850682460540312,
+        "right": 0.9616969420668156,
+        "top": 0.5224439642055358
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.5610100301341205,
+        "left": 0.5659772154608618,
+        "right": 0.6926793527382955,
+        "top": 0.5426147198252167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.5610100301341205,
+        "left": 0.6926793527382955,
+        "right": 0.7850682460540312,
+        "top": 0.5426147198252167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.5610100301341205,
+        "left": 0.7850682460540312,
+        "right": 0.9616969420668156,
+        "top": 0.5426147198252167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.581457055458543,
+        "left": 0.5659772154608618,
+        "right": 0.6926793527382955,
+        "top": 0.5610100301341205
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.581457055458543,
+        "left": 0.6926793527382955,
+        "right": 0.7850682460540312,
+        "top": 0.5610100301341205
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.581457055458543,
+        "left": 0.7850682460540312,
+        "right": 0.9616969420668156,
+        "top": 0.5610100301341205
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "f2d5e9e1-e5f3-4cd6-8c81-87861e3888db": {
+      "box": {
+        "bottom": 0.681803286075592,
+        "left": 0.051405251026153564,
+        "right": 0.9740694165229797,
+        "top": 0.6101139187812805
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.6779490739687049,
+        "left": 0.05637913833289199,
+        "right": 0.9723820577904121,
+        "top": 0.6128099858991289
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-W": {
+      "box": {
+        "bottom": 0.6262066434860998,
+        "left": 0.05637913833289199,
+        "right": 0.18352011351368702,
+        "top": 0.6128099858991289
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-X": {
+      "box": {
+        "bottom": 0.6262066434860998,
+        "left": 0.18352011351368702,
+        "right": 0.2615564540036104,
+        "top": 0.6128099858991289
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Y": {
+      "box": {
+        "bottom": 0.6262066434860998,
+        "left": 0.2615564540036104,
+        "right": 0.5098323841959314,
+        "top": 0.6128099858991289
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Z": {
+      "box": {
+        "bottom": 0.6262066434860998,
+        "left": 0.5098323841959314,
+        "right": 0.6641807222587488,
+        "top": 0.6128099858991289
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-10": {
+      "box": {
+        "bottom": 0.6262066434860998,
+        "left": 0.6641807222587488,
+        "right": 0.9721385396211986,
+        "top": 0.6128099858991289
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-11": {
+      "box": {
+        "bottom": 0.6433492127053242,
+        "left": 0.05637913833289199,
+        "right": 0.18352011351368702,
+        "top": 0.6262066434860998
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-12": {
+      "box": {
+        "bottom": 0.6433492127053242,
+        "left": 0.18352011351368702,
+        "right": 0.2615564540036104,
+        "top": 0.6262066434860998
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-13": {
+      "box": {
+        "bottom": 0.6433492127053242,
+        "left": 0.2615564540036104,
+        "right": 0.5098323841959314,
+        "top": 0.6262066434860998
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-14": {
+      "box": {
+        "bottom": 0.6433492127053242,
+        "left": 0.5098323841959314,
+        "right": 0.6641807222587488,
+        "top": 0.6262066434860998
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-15": {
+      "box": {
+        "bottom": 0.6433492127053242,
+        "left": 0.6641807222587488,
+        "right": 0.9721385396211986,
+        "top": 0.6262066434860998
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-16": {
+      "box": {
+        "bottom": 0.6604150256793702,
+        "left": 0.05637913833289199,
+        "right": 0.18352011351368702,
+        "top": 0.6433492127053242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-17": {
+      "box": {
+        "bottom": 0.6604150256793702,
+        "left": 0.18352011351368702,
+        "right": 0.2615564540036104,
+        "top": 0.6433492127053242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-18": {
+      "box": {
+        "bottom": 0.6604150256793702,
+        "left": 0.2615564540036104,
+        "right": 0.5098323841959314,
+        "top": 0.6433492127053242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-19": {
+      "box": {
+        "bottom": 0.6604150256793702,
+        "left": 0.5098323841959314,
+        "right": 0.6641807222587488,
+        "top": 0.6433492127053242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1a": {
+      "box": {
+        "bottom": 0.6604150256793702,
+        "left": 0.6641807222587488,
+        "right": 0.9721385396211986,
+        "top": 0.6433492127053242
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1b": {
+      "box": {
+        "bottom": 0.6779490739687049,
+        "left": 0.05637913833289199,
+        "right": 0.18352011351368702,
+        "top": 0.6604150256793702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1c": {
+      "box": {
+        "bottom": 0.6779490739687049,
+        "left": 0.18352011351368702,
+        "right": 0.2615564540036104,
+        "top": 0.6604150256793702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1d": {
+      "box": {
+        "bottom": 0.6779490739687049,
+        "left": 0.2615564540036104,
+        "right": 0.5098323841959314,
+        "top": 0.6604150256793702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1e": {
+      "box": {
+        "bottom": 0.6779490739687049,
+        "left": 0.5098323841959314,
+        "right": 0.6641807222587488,
+        "top": 0.6604150256793702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1f": {
+      "box": {
+        "bottom": 0.6779490739687049,
+        "left": 0.6641807222587488,
+        "right": 0.9721385396211986,
+        "top": 0.6604150256793702
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "6c0cf114-ae03-49f9-9855-4fff261456fa": {
+      "box": {
+        "bottom": 0.7743765115737915,
+        "left": 0.04621407389640808,
+        "right": 0.970390796661377,
+        "top": 0.6899117231369019
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1g": {
+      "box": {
+        "bottom": 0.7718335334210309,
+        "left": 0.05079526376825448,
+        "right": 0.9648042734553854,
+        "top": 0.7041788779499605
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-1h": {
+      "box": {
+        "bottom": 0.7245823304569328,
+        "left": 0.05079526376825448,
+        "right": 0.10412445511492585,
+        "top": 0.7041788779499605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1i": {
+      "box": {
+        "bottom": 0.7344277032886453,
+        "left": 0.10412445511492585,
+        "right": 0.9645929665312494,
+        "top": 0.7041788779499605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1j": {
+      "box": {
+        "bottom": 0.7344277032886453,
+        "left": 0.05079526376825448,
+        "right": 0.10412445511492585,
+        "top": 0.7245823304569328
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1k": {
+      "box": {
+        "bottom": 0.7442869738402464,
+        "left": 0.10412445511492585,
+        "right": 0.9645929665312494,
+        "top": 0.7245823304569328
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1l": {
+      "box": {
+        "bottom": 0.7442869738402464,
+        "left": 0.05079526376825448,
+        "right": 0.10412445511492585,
+        "top": 0.7344277032886453
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1m": {
+      "box": {
+        "bottom": 0.7536772661992046,
+        "left": 0.10412445511492585,
+        "right": 0.9645929665312494,
+        "top": 0.7344277032886453
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1n": {
+      "box": {
+        "bottom": 0.7536772661992046,
+        "left": 0.05079526376825448,
+        "right": 0.10412445511492585,
+        "top": 0.7442869738402464
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1o": {
+      "box": {
+        "bottom": 0.7718335334210309,
+        "left": 0.10412445511492585,
+        "right": 0.9645929665312494,
+        "top": 0.7442869738402464
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1p": {
+      "box": {
+        "bottom": 0.7718335334210309,
+        "left": 0.05079526376825448,
+        "right": 0.10412445511492585,
+        "top": 0.7536772661992046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1q": {
+      "box": {
+        "bottom": 0.7718335334210309,
+        "left": 0.10412445511492585,
+        "right": 0.9645929665312494,
+        "top": 0.7536772661992046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "963f6037-83a8-47eb-9e2d-d8bc8bdd90a8": {
+      "box": {
+        "bottom": 0.9189146161079407,
+        "left": 0.055121392011642456,
+        "right": 0.5702663660049438,
+        "top": 0.8741846680641174
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2f08b277-8c52-4145-9a76-88df9060ca4a": {
+      "box": {
+        "bottom": 0.9627590775489807,
+        "left": 0.05544230341911316,
+        "right": 0.8123070001602173,
+        "top": 0.9203720688819885
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "be5a1e99-c80f-4ed0-930b-5a62047d830b": {
+      "box": {
+        "bottom": 0.9825037121772766,
+        "left": 0.055767446756362915,
+        "right": 0.2051123082637787,
+        "top": 0.9681511521339417
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

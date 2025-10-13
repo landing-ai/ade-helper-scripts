@@ -1,0 +1,259 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "07/29/2020",
+      "invoice_date": "2020-07-29",
+      "invoice_number": "INV33543191",
+      "order_date": null,
+      "po_number": "",
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Abaxys Tech LLC",
+      "sold_to_address": "1061 Midvale Ave, Morrisville, North Carolina 27560 United States",
+      "customer_email": "leo.charles@outlook.com"
+    },
+    "company_info": {
+      "supplier_name": "Zoom Video Communications Inc.",
+      "supplier_address": "55 Almaden Blvd, 6th Floor San Jose, CA 95113",
+      "representative": null,
+      "email": "billing@zoom.us",
+      "phone": null,
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Due Upon Receipt",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$149.90",
+      "total_due": 149.9,
+      "subtotal": 149.9,
+      "tax": 0,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Charge Name: Standard Pro Annual Quantity: 1 Unit Price: $149.90",
+        "quantity": 1,
+        "unit_price": 149.9,
+        "price": null,
+        "amount": 149.9,
+        "total": 149.9
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "07/29/2020",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      },
+      "invoice_date": {
+        "value": "2020-07-29",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      },
+      "invoice_number": {
+        "value": "INV33543191",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": "",
+        "references": [
+          "9aed0e25-1736-4bfd-8bff-0ad112c3f20c"
+        ]
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Abaxys Tech LLC",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      },
+      "sold_to_address": {
+        "value": "1061 Midvale Ave, Morrisville, North Carolina 27560 United States",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      },
+      "customer_email": {
+        "value": "leo.charles@outlook.com",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Zoom Video Communications Inc.",
+        "references": [
+          "dd80af68-b3ca-4001-a459-a2f2cc9c0550"
+        ]
+      },
+      "supplier_address": {
+        "value": "55 Almaden Blvd, 6th Floor San Jose, CA 95113",
+        "references": [
+          "dd80af68-b3ca-4001-a459-a2f2cc9c0550"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "billing@zoom.us",
+        "references": [
+          "dd80af68-b3ca-4001-a459-a2f2cc9c0550"
+        ]
+      },
+      "phone": {
+        "value": null,
+        "references": []
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Due Upon Receipt",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "2212472c-3e6d-4a44-a244-f156da313013"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$149.90",
+        "references": [
+          "0-l"
+        ]
+      },
+      "total_due": {
+        "value": 149.9,
+        "references": [
+          "0-l"
+        ]
+      },
+      "subtotal": {
+        "value": 149.9,
+        "references": [
+          "0-j"
+        ]
+      },
+      "tax": {
+        "value": 0,
+        "references": [
+          "0-x"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Charge Name: Standard Pro Annual Quantity: 1 Unit Price: $149.90",
+          "references": [
+            "0-8"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-8"
+          ]
+        },
+        "unit_price": {
+          "value": 149.9,
+          "references": [
+            "0-8"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 149.9,
+          "references": [
+            "0-a"
+          ]
+        },
+        "total": {
+          "value": 149.9,
+          "references": [
+            "0-c"
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.7,
+    "duration_ms": 9401,
+    "filename": "upload",
+    "job_id": "smdxzgilp5x29mm9g3i5j9yxt",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

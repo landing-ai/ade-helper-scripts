@@ -1,0 +1,975 @@
+{
+  "chunks": [
+    {
+      "id": "b31c9f17-2514-4407-9d86-c9e1ce684245",
+      "grounding": {
+        "box": {
+          "bottom": 0.07574494183063507,
+          "left": 0.05608872324228287,
+          "right": 0.28496766090393066,
+          "top": 0.0435946062207222
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b31c9f17-2514-4407-9d86-c9e1ce684245'></a>\n\n<::logo: Amazon Advertising\namazonadvertising\nThe logo features the word \"amazon\" in dark grey with an orange arrow curving from 'a' to 'z' underneath, followed by \"advertising\" in orange.::>",
+      "type": "logo"
+    },
+    {
+      "id": "8cd180db-4eff-4dfc-b9aa-b50a2831e657",
+      "grounding": {
+        "box": {
+          "bottom": 0.2400818169116974,
+          "left": 0.6411813497543335,
+          "right": 0.9511376619338989,
+          "top": 0.03373827785253525
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8cd180db-4eff-4dfc-b9aa-b50a2831e657'></a>\n\n# TAX INVOICE\n\nBilled Amount Due: 103.93 USD\n\nInvoice Number: TRX5FPX4C-20\nInvoice Date: 02-Mar-2025\nInvoice Period: 04-Feb-2025 to 02-Mar-2025\nInvoice Currency: USD\nPayment Method: Credit Card",
+      "type": "text"
+    },
+    {
+      "id": "fc660bf3-965f-4ce8-9aea-0f9c3b9505ce",
+      "grounding": {
+        "box": {
+          "bottom": 0.2094891518354416,
+          "left": 0.045964501798152924,
+          "right": 0.23195379972457886,
+          "top": 0.10732649266719818
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fc660bf3-965f-4ce8-9aea-0f9c3b9505ce'></a>\n\nFrom\n\nAmazon Advertising LLC\nPO Box 24651\nSeattle WA 98124-0651\nTax Number 91-2000471",
+      "type": "text"
+    },
+    {
+      "id": "4c779ae5-482b-47d9-a443-20e364666616",
+      "grounding": {
+        "box": {
+          "bottom": 0.24451704323291779,
+          "left": 0.2608010768890381,
+          "right": 0.4911412000656128,
+          "top": 0.10855354368686676
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4c779ae5-482b-47d9-a443-20e364666616'></a>\n\nTo\n\nMeridian Venture Services LLC\nMeridian Venture Services LLC\nSponsored ads - KDP\n227 N 5th Ave\nPO Box 1168\nRidgefield WA 98642",
+      "type": "text"
+    },
+    {
+      "id": "0838b1a6-410a-454d-9599-afea87118c1c",
+      "grounding": {
+        "box": {
+          "bottom": 0.3951241374015808,
+          "left": 0.046619951725006104,
+          "right": 0.9534528851509094,
+          "top": 0.26263242959976196
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0838b1a6-410a-454d-9599-afea87118c1c'></a>\n\nSummary of Portfolio Charges\nPortfolio subtotals exclude advertising charges and adjustments. Tax is calculated on the overall invoice and therefore not reflected in the portfolio subtotal.\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Portfolio name:</td><td id=\"0-3\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-4\">Tennis</td><td id=\"0-5\">64.30 USD</td></tr>\n<tr><td id=\"0-6\">Spirograph</td><td id=\"0-7\">39.62 USD</td></tr>\n</table>\nTotal Amount: 103.92 USD",
+      "type": "table"
+    },
+    {
+      "id": "c76cf714-b55e-4f4d-af81-054099a3f060",
+      "grounding": {
+        "box": {
+          "bottom": 0.49410301446914673,
+          "left": 0.045277923345565796,
+          "right": 0.9544262886047363,
+          "top": 0.4040117859840393
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c76cf714-b55e-4f4d-af81-054099a3f060'></a>\n\nPortfolio name: Tennis\n<table id=\"0-8\">\n<tr><td id=\"0-9\">Campaign</td><td id=\"0-a\">Campaign type</td><td id=\"0-b\">Clicks</td><td id=\"0-c\">Average CPC</td><td id=\"0-d\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-e\">Tennis Book - High School(2)</td><td id=\"0-f\">SPONSORED PRODUCTS</td><td id=\"0-g\">68</td><td id=\"0-h\">0.95 USD</td><td id=\"0-i\">64.30 USD</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "d6db68c4-1038-4077-8fe7-abe86ab4d2e1",
+      "grounding": {
+        "box": {
+          "bottom": 0.520254909992218,
+          "left": 0.7651671171188354,
+          "right": 0.9531055688858032,
+          "top": 0.5021461844444275
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d6db68c4-1038-4077-8fe7-abe86ab4d2e1'></a>\n\nPortfolio total: 64.30 USD",
+      "type": "text"
+    },
+    {
+      "id": "a86db774-20e3-4c0f-addd-93d026ed5c19",
+      "grounding": {
+        "box": {
+          "bottom": 0.6688215136528015,
+          "left": 0.044961243867874146,
+          "right": 0.9553689956665039,
+          "top": 0.5315048098564148
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a86db774-20e3-4c0f-addd-93d026ed5c19'></a>\n\nPortfolio name: Spirograph\n<table id=\"0-j\">\n<tr><td id=\"0-k\">Campaign</td><td id=\"0-l\">Campaign type</td><td id=\"0-m\">Clicks</td><td id=\"0-n\">Average CPC</td><td id=\"0-o\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-p\">Spiro Coloring - Keywords</td><td id=\"0-q\">SPONSORED PRODUCTS</td><td id=\"0-r\">43</td><td id=\"0-s\">0.76 USD</td><td id=\"0-t\">32.59 USD</td></tr>\n<tr><td id=\"0-u\">Spiro Coloring - Product Targeting</td><td id=\"0-v\">SPONSORED PRODUCTS</td><td id=\"0-w\">20</td><td id=\"0-x\">0.35 USD</td><td id=\"0-y\">7.03 USD</td></tr>\n</table>\nPortfolio total: 39.62 USD",
+      "type": "table"
+    },
+    {
+      "id": "9fec6122-a6f0-429a-b8bb-03895eaf99f8",
+      "grounding": {
+        "box": {
+          "bottom": 0.7545902729034424,
+          "left": 0.04582655429840088,
+          "right": 0.9539265036582947,
+          "top": 0.6778695583343506
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9fec6122-a6f0-429a-b8bb-03895eaf99f8'></a>\n\nRegulatory fees\n<table id=\"0-z\">\n<tr><td id=\"0-A\">Jurisdiction</td><td id=\"0-B\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-C\">CA</td><td id=\"0-D\">0.01 USD</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "055fdc26-6131-44b0-b97f-2aef76e26087",
+      "grounding": {
+        "box": {
+          "bottom": 0.7822599411010742,
+          "left": 0.7224115133285522,
+          "right": 0.9530030488967896,
+          "top": 0.7641174793243408
+        },
+        "page": 0
+      },
+      "markdown": "<a id='055fdc26-6131-44b0-b97f-2aef76e26087'></a>\n\nRegulatory fees total: 0.01 USD",
+      "type": "text"
+    },
+    {
+      "id": "1abff494-c940-44e2-afef-97033627af59",
+      "grounding": {
+        "box": {
+          "bottom": 0.9508392214775085,
+          "left": 0.6613131165504456,
+          "right": 0.9523125290870667,
+          "top": 0.8114059567451477
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1abff494-c940-44e2-afef-97033627af59'></a>\n\n<table id=\"0-E\">\n<tr><td id=\"0-F\">Total Campaign charges</td><td id=\"0-G\">103.92 USD</td></tr>\n<tr><td id=\"0-H\">Total Regulatory fees</td><td id=\"0-I\">0.01 USD</td></tr>\n<tr><td id=\"0-J\">Subtotal (excluding tax)</td><td id=\"0-K\">103.93 USD</td></tr>\n<tr><td id=\"0-L\">Tax Rate - Tax</td><td id=\"0-M\">0%</td></tr>\n<tr><td id=\"0-N\">Tax Amount - Tax</td><td id=\"0-O\">0.00 USD</td></tr>\n<tr><td id=\"0-P\">Total Amount (tax included)</td><td id=\"0-Q\">103.93 USD</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "05a1e452-3aab-4950-aa33-43f775150b87",
+      "grounding": {
+        "box": {
+          "bottom": 0.04967128485441208,
+          "left": 0.04807901382446289,
+          "right": 0.9516885876655579,
+          "top": 8.069537580013275e-05
+        },
+        "page": 1
+      },
+      "markdown": "<a id='05a1e452-3aab-4950-aa33-43f775150b87'></a>\n\nThe total amount due will be automatically charged to your credit card. No further action is required for this invoice\nAutomatic charge to the credit card on file",
+      "type": "text"
+    },
+    {
+      "id": "22fbdafe-0e98-458b-928b-39730e11590d",
+      "grounding": {
+        "box": {
+          "bottom": 0.1966334879398346,
+          "left": 0.06408926844596863,
+          "right": 0.9223754405975342,
+          "top": 0.07650044560432434
+        },
+        "page": 1
+      },
+      "markdown": "<a id='22fbdafe-0e98-458b-928b-39730e11590d'></a>\n\n## Frequently Asked Questions\n\n### Why doesn't my invoice match what I see in Campaign Manager?\n\nYour invoice is the definitive source for your campaign charges. It includes any adjustments, promotions, taxes and other fees. Please note that it can take up to 72 hours to complete traffic validation, and delayed data can result in charges or corrections being included on a subsequent invoice; this may result in a difference in the amount you see on an invoice and the amount you see in the campaign manager for a particular date range.",
+      "type": "text"
+    },
+    {
+      "id": "d61db760-63be-41ec-82f8-2ebd5bf9d663",
+      "grounding": {
+        "box": {
+          "bottom": 0.27493953704833984,
+          "left": 0.06492552161216736,
+          "right": 0.9210011959075928,
+          "top": 0.20190821588039398
+        },
+        "page": 1
+      },
+      "markdown": "<a id='d61db760-63be-41ec-82f8-2ebd5bf9d663'></a>\n\n**How is my invoice amount calculated?**\n\nInvoices are issued based on clicks generated during your billing cycle. Your billing cycle is determined by the payment method you have selected. Your invoice includes all applicable charges, credits, and promotions. Charges for campaigns running in multiple countries will show up on separate invoices.",
+      "type": "text"
+    },
+    {
+      "id": "550806b2-4aad-488d-9d9e-8c2895ddb013",
+      "grounding": {
+        "box": {
+          "bottom": 0.3676779568195343,
+          "left": 0.06517031788825989,
+          "right": 0.9211591482162476,
+          "top": 0.2794940173625946
+        },
+        "page": 1
+      },
+      "markdown": "<a id='550806b2-4aad-488d-9d9e-8c2895ddb013'></a>\n\n**Campaigns are paused but I am still being charged?**\n\nIf you have paused your campaigns, please note that spend can accrue for up to 72 hours for clicks generated while the campaign was still active and are within the billable period or clicks that are reported late. For details on how to verify campaign delivery and spends during the Invoice Period, please visit the Help page then navigate to the Billing and Payments section to troubleshoot your invoice.",
+      "type": "text"
+    },
+    {
+      "id": "e5af766d-fde0-4afd-a68e-8affb7477451",
+      "grounding": {
+        "box": {
+          "bottom": 0.44561558961868286,
+          "left": 0.06574469804763794,
+          "right": 0.9313350915908813,
+          "top": 0.37227165699005127
+        },
+        "page": 1
+      },
+      "markdown": "<a id='e5af766d-fde0-4afd-a68e-8affb7477451'></a>\n\nWhere can I find more details regarding my billing and payment status?\n\nPlease visit the Billing and Payments section within your Amazon Advertising account to learn more about your invoice and payment history, update your payment method, and learn about promotions. You can also visit billing help page for information regarding your charges.",
+      "type": "text"
+    },
+    {
+      "id": "2c1e8640-3a06-4201-9b2e-893eab968438",
+      "grounding": {
+        "box": {
+          "bottom": 0.5377235412597656,
+          "left": 0.06669417023658752,
+          "right": 0.9267785549163818,
+          "top": 0.44980955123901367
+        },
+        "page": 1
+      },
+      "markdown": "<a id='2c1e8640-3a06-4201-9b2e-893eab968438'></a>\n\n## How is my invoice period determined?\n\nYour invoice period is based on the time of the occurrence of the clicks and/or impressions, as well as your chosen payment method. Please note that network delays can sometimes affect the recording of these events, which could result in a slight shift in your invoice period. Your invoice serves as the final and official source of information regarding your invoice period.",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='b31c9f17-2514-4407-9d86-c9e1ce684245'></a>\n\n<::logo: Amazon Advertising\namazonadvertising\nThe logo features the word \"amazon\" in dark grey with an orange arrow curving from 'a' to 'z' underneath, followed by \"advertising\" in orange.::>\n\n<a id='8cd180db-4eff-4dfc-b9aa-b50a2831e657'></a>\n\n# TAX INVOICE\n\nBilled Amount Due: 103.93 USD\n\nInvoice Number: TRX5FPX4C-20\nInvoice Date: 02-Mar-2025\nInvoice Period: 04-Feb-2025 to 02-Mar-2025\nInvoice Currency: USD\nPayment Method: Credit Card\n\n<a id='fc660bf3-965f-4ce8-9aea-0f9c3b9505ce'></a>\n\nFrom\n\nAmazon Advertising LLC\nPO Box 24651\nSeattle WA 98124-0651\nTax Number 91-2000471\n\n<a id='4c779ae5-482b-47d9-a443-20e364666616'></a>\n\nTo\n\nMeridian Venture Services LLC\nMeridian Venture Services LLC\nSponsored ads - KDP\n227 N 5th Ave\nPO Box 1168\nRidgefield WA 98642\n\n<a id='0838b1a6-410a-454d-9599-afea87118c1c'></a>\n\nSummary of Portfolio Charges\nPortfolio subtotals exclude advertising charges and adjustments. Tax is calculated on the overall invoice and therefore not reflected in the portfolio subtotal.\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Portfolio name:</td><td id=\"0-3\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-4\">Tennis</td><td id=\"0-5\">64.30 USD</td></tr>\n<tr><td id=\"0-6\">Spirograph</td><td id=\"0-7\">39.62 USD</td></tr>\n</table>\nTotal Amount: 103.92 USD\n\n<a id='c76cf714-b55e-4f4d-af81-054099a3f060'></a>\n\nPortfolio name: Tennis\n<table id=\"0-8\">\n<tr><td id=\"0-9\">Campaign</td><td id=\"0-a\">Campaign type</td><td id=\"0-b\">Clicks</td><td id=\"0-c\">Average CPC</td><td id=\"0-d\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-e\">Tennis Book - High School(2)</td><td id=\"0-f\">SPONSORED PRODUCTS</td><td id=\"0-g\">68</td><td id=\"0-h\">0.95 USD</td><td id=\"0-i\">64.30 USD</td></tr>\n</table>\n\n<a id='d6db68c4-1038-4077-8fe7-abe86ab4d2e1'></a>\n\nPortfolio total: 64.30 USD\n\n<a id='a86db774-20e3-4c0f-addd-93d026ed5c19'></a>\n\nPortfolio name: Spirograph\n<table id=\"0-j\">\n<tr><td id=\"0-k\">Campaign</td><td id=\"0-l\">Campaign type</td><td id=\"0-m\">Clicks</td><td id=\"0-n\">Average CPC</td><td id=\"0-o\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-p\">Spiro Coloring - Keywords</td><td id=\"0-q\">SPONSORED PRODUCTS</td><td id=\"0-r\">43</td><td id=\"0-s\">0.76 USD</td><td id=\"0-t\">32.59 USD</td></tr>\n<tr><td id=\"0-u\">Spiro Coloring - Product Targeting</td><td id=\"0-v\">SPONSORED PRODUCTS</td><td id=\"0-w\">20</td><td id=\"0-x\">0.35 USD</td><td id=\"0-y\">7.03 USD</td></tr>\n</table>\nPortfolio total: 39.62 USD\n\n<a id='9fec6122-a6f0-429a-b8bb-03895eaf99f8'></a>\n\nRegulatory fees\n<table id=\"0-z\">\n<tr><td id=\"0-A\">Jurisdiction</td><td id=\"0-B\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-C\">CA</td><td id=\"0-D\">0.01 USD</td></tr>\n</table>\n\n<a id='055fdc26-6131-44b0-b97f-2aef76e26087'></a>\n\nRegulatory fees total: 0.01 USD\n\n<a id='1abff494-c940-44e2-afef-97033627af59'></a>\n\n<table id=\"0-E\">\n<tr><td id=\"0-F\">Total Campaign charges</td><td id=\"0-G\">103.92 USD</td></tr>\n<tr><td id=\"0-H\">Total Regulatory fees</td><td id=\"0-I\">0.01 USD</td></tr>\n<tr><td id=\"0-J\">Subtotal (excluding tax)</td><td id=\"0-K\">103.93 USD</td></tr>\n<tr><td id=\"0-L\">Tax Rate - Tax</td><td id=\"0-M\">0%</td></tr>\n<tr><td id=\"0-N\">Tax Amount - Tax</td><td id=\"0-O\">0.00 USD</td></tr>\n<tr><td id=\"0-P\">Total Amount (tax included)</td><td id=\"0-Q\">103.93 USD</td></tr>\n</table>\n\n<a id='05a1e452-3aab-4950-aa33-43f775150b87'></a>\n\nThe total amount due will be automatically charged to your credit card. No further action is required for this invoice\nAutomatic charge to the credit card on file\n\n<a id='22fbdafe-0e98-458b-928b-39730e11590d'></a>\n\n## Frequently Asked Questions\n\n### Why doesn't my invoice match what I see in Campaign Manager?\n\nYour invoice is the definitive source for your campaign charges. It includes any adjustments, promotions, taxes and other fees. Please note that it can take up to 72 hours to complete traffic validation, and delayed data can result in charges or corrections being included on a subsequent invoice; this may result in a difference in the amount you see on an invoice and the amount you see in the campaign manager for a particular date range.\n\n<a id='d61db760-63be-41ec-82f8-2ebd5bf9d663'></a>\n\n**How is my invoice amount calculated?**\n\nInvoices are issued based on clicks generated during your billing cycle. Your billing cycle is determined by the payment method you have selected. Your invoice includes all applicable charges, credits, and promotions. Charges for campaigns running in multiple countries will show up on separate invoices.\n\n<a id='550806b2-4aad-488d-9d9e-8c2895ddb013'></a>\n\n**Campaigns are paused but I am still being charged?**\n\nIf you have paused your campaigns, please note that spend can accrue for up to 72 hours for clicks generated while the campaign was still active and are within the billable period or clicks that are reported late. For details on how to verify campaign delivery and spends during the Invoice Period, please visit the Help page then navigate to the Billing and Payments section to troubleshoot your invoice.\n\n<a id='e5af766d-fde0-4afd-a68e-8affb7477451'></a>\n\nWhere can I find more details regarding my billing and payment status?\n\nPlease visit the Billing and Payments section within your Amazon Advertising account to learn more about your invoice and payment history, update your payment method, and learn about promotions. You can also visit billing help page for information regarding your charges.\n\n<a id='2c1e8640-3a06-4201-9b2e-893eab968438'></a>\n\n## How is my invoice period determined?\n\nYour invoice period is based on the time of the occurrence of the clicks and/or impressions, as well as your chosen payment method. Please note that network delays can sometimes affect the recording of these events, which could result in a slight shift in your invoice period. Your invoice serves as the final and official source of information regarding your invoice period.",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 9318,
+    "filename": "invoice_27.pdf",
+    "job_id": "g88utt6cf1u04nvfg6ucab8sw",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "b31c9f17-2514-4407-9d86-c9e1ce684245",
+        "8cd180db-4eff-4dfc-b9aa-b50a2831e657",
+        "fc660bf3-965f-4ce8-9aea-0f9c3b9505ce",
+        "4c779ae5-482b-47d9-a443-20e364666616",
+        "0838b1a6-410a-454d-9599-afea87118c1c",
+        "c76cf714-b55e-4f4d-af81-054099a3f060",
+        "d6db68c4-1038-4077-8fe7-abe86ab4d2e1",
+        "a86db774-20e3-4c0f-addd-93d026ed5c19",
+        "9fec6122-a6f0-429a-b8bb-03895eaf99f8",
+        "055fdc26-6131-44b0-b97f-2aef76e26087",
+        "1abff494-c940-44e2-afef-97033627af59",
+        "05a1e452-3aab-4950-aa33-43f775150b87",
+        "22fbdafe-0e98-458b-928b-39730e11590d",
+        "d61db760-63be-41ec-82f8-2ebd5bf9d663",
+        "550806b2-4aad-488d-9d9e-8c2895ddb013",
+        "e5af766d-fde0-4afd-a68e-8affb7477451",
+        "2c1e8640-3a06-4201-9b2e-893eab968438"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='b31c9f17-2514-4407-9d86-c9e1ce684245'></a>\n\n<::logo: Amazon Advertising\namazonadvertising\nThe logo features the word \"amazon\" in dark grey with an orange arrow curving from 'a' to 'z' underneath, followed by \"advertising\" in orange.::>\n\n<a id='8cd180db-4eff-4dfc-b9aa-b50a2831e657'></a>\n\n# TAX INVOICE\n\nBilled Amount Due: 103.93 USD\n\nInvoice Number: TRX5FPX4C-20\nInvoice Date: 02-Mar-2025\nInvoice Period: 04-Feb-2025 to 02-Mar-2025\nInvoice Currency: USD\nPayment Method: Credit Card\n\n<a id='fc660bf3-965f-4ce8-9aea-0f9c3b9505ce'></a>\n\nFrom\n\nAmazon Advertising LLC\nPO Box 24651\nSeattle WA 98124-0651\nTax Number 91-2000471\n\n<a id='4c779ae5-482b-47d9-a443-20e364666616'></a>\n\nTo\n\nMeridian Venture Services LLC\nMeridian Venture Services LLC\nSponsored ads - KDP\n227 N 5th Ave\nPO Box 1168\nRidgefield WA 98642\n\n<a id='0838b1a6-410a-454d-9599-afea87118c1c'></a>\n\nSummary of Portfolio Charges\nPortfolio subtotals exclude advertising charges and adjustments. Tax is calculated on the overall invoice and therefore not reflected in the portfolio subtotal.\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Portfolio name:</td><td id=\"0-3\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-4\">Tennis</td><td id=\"0-5\">64.30 USD</td></tr>\n<tr><td id=\"0-6\">Spirograph</td><td id=\"0-7\">39.62 USD</td></tr>\n</table>\nTotal Amount: 103.92 USD\n\n<a id='c76cf714-b55e-4f4d-af81-054099a3f060'></a>\n\nPortfolio name: Tennis\n<table id=\"0-8\">\n<tr><td id=\"0-9\">Campaign</td><td id=\"0-a\">Campaign type</td><td id=\"0-b\">Clicks</td><td id=\"0-c\">Average CPC</td><td id=\"0-d\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-e\">Tennis Book - High School(2)</td><td id=\"0-f\">SPONSORED PRODUCTS</td><td id=\"0-g\">68</td><td id=\"0-h\">0.95 USD</td><td id=\"0-i\">64.30 USD</td></tr>\n</table>\n\n<a id='d6db68c4-1038-4077-8fe7-abe86ab4d2e1'></a>\n\nPortfolio total: 64.30 USD\n\n<a id='a86db774-20e3-4c0f-addd-93d026ed5c19'></a>\n\nPortfolio name: Spirograph\n<table id=\"0-j\">\n<tr><td id=\"0-k\">Campaign</td><td id=\"0-l\">Campaign type</td><td id=\"0-m\">Clicks</td><td id=\"0-n\">Average CPC</td><td id=\"0-o\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-p\">Spiro Coloring - Keywords</td><td id=\"0-q\">SPONSORED PRODUCTS</td><td id=\"0-r\">43</td><td id=\"0-s\">0.76 USD</td><td id=\"0-t\">32.59 USD</td></tr>\n<tr><td id=\"0-u\">Spiro Coloring - Product Targeting</td><td id=\"0-v\">SPONSORED PRODUCTS</td><td id=\"0-w\">20</td><td id=\"0-x\">0.35 USD</td><td id=\"0-y\">7.03 USD</td></tr>\n</table>\nPortfolio total: 39.62 USD\n\n<a id='9fec6122-a6f0-429a-b8bb-03895eaf99f8'></a>\n\nRegulatory fees\n<table id=\"0-z\">\n<tr><td id=\"0-A\">Jurisdiction</td><td id=\"0-B\">Amount (ex. Tax)</td></tr>\n<tr><td id=\"0-C\">CA</td><td id=\"0-D\">0.01 USD</td></tr>\n</table>\n\n<a id='055fdc26-6131-44b0-b97f-2aef76e26087'></a>\n\nRegulatory fees total: 0.01 USD\n\n<a id='1abff494-c940-44e2-afef-97033627af59'></a>\n\n<table id=\"0-E\">\n<tr><td id=\"0-F\">Total Campaign charges</td><td id=\"0-G\">103.92 USD</td></tr>\n<tr><td id=\"0-H\">Total Regulatory fees</td><td id=\"0-I\">0.01 USD</td></tr>\n<tr><td id=\"0-J\">Subtotal (excluding tax)</td><td id=\"0-K\">103.93 USD</td></tr>\n<tr><td id=\"0-L\">Tax Rate - Tax</td><td id=\"0-M\">0%</td></tr>\n<tr><td id=\"0-N\">Tax Amount - Tax</td><td id=\"0-O\">0.00 USD</td></tr>\n<tr><td id=\"0-P\">Total Amount (tax included)</td><td id=\"0-Q\">103.93 USD</td></tr>\n</table>\n\n<a id='05a1e452-3aab-4950-aa33-43f775150b87'></a>\n\nThe total amount due will be automatically charged to your credit card. No further action is required for this invoice\nAutomatic charge to the credit card on file\n\n<a id='22fbdafe-0e98-458b-928b-39730e11590d'></a>\n\n## Frequently Asked Questions\n\n### Why doesn't my invoice match what I see in Campaign Manager?\n\nYour invoice is the definitive source for your campaign charges. It includes any adjustments, promotions, taxes and other fees. Please note that it can take up to 72 hours to complete traffic validation, and delayed data can result in charges or corrections being included on a subsequent invoice; this may result in a difference in the amount you see on an invoice and the amount you see in the campaign manager for a particular date range.\n\n<a id='d61db760-63be-41ec-82f8-2ebd5bf9d663'></a>\n\n**How is my invoice amount calculated?**\n\nInvoices are issued based on clicks generated during your billing cycle. Your billing cycle is determined by the payment method you have selected. Your invoice includes all applicable charges, credits, and promotions. Charges for campaigns running in multiple countries will show up on separate invoices.\n\n<a id='550806b2-4aad-488d-9d9e-8c2895ddb013'></a>\n\n**Campaigns are paused but I am still being charged?**\n\nIf you have paused your campaigns, please note that spend can accrue for up to 72 hours for clicks generated while the campaign was still active and are within the billable period or clicks that are reported late. For details on how to verify campaign delivery and spends during the Invoice Period, please visit the Help page then navigate to the Billing and Payments section to troubleshoot your invoice.\n\n<a id='e5af766d-fde0-4afd-a68e-8affb7477451'></a>\n\nWhere can I find more details regarding my billing and payment status?\n\nPlease visit the Billing and Payments section within your Amazon Advertising account to learn more about your invoice and payment history, update your payment method, and learn about promotions. You can also visit billing help page for information regarding your charges.\n\n<a id='2c1e8640-3a06-4201-9b2e-893eab968438'></a>\n\n## How is my invoice period determined?\n\nYour invoice period is based on the time of the occurrence of the clicks and/or impressions, as well as your chosen payment method. Please note that network delays can sometimes affect the recording of these events, which could result in a slight shift in your invoice period. Your invoice serves as the final and official source of information regarding your invoice period.",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "b31c9f17-2514-4407-9d86-c9e1ce684245": {
+      "box": {
+        "bottom": 0.07574494183063507,
+        "left": 0.05608872324228287,
+        "right": 0.28496766090393066,
+        "top": 0.0435946062207222
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "8cd180db-4eff-4dfc-b9aa-b50a2831e657": {
+      "box": {
+        "bottom": 0.2400818169116974,
+        "left": 0.6411813497543335,
+        "right": 0.9511376619338989,
+        "top": 0.03373827785253525
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "fc660bf3-965f-4ce8-9aea-0f9c3b9505ce": {
+      "box": {
+        "bottom": 0.2094891518354416,
+        "left": 0.045964501798152924,
+        "right": 0.23195379972457886,
+        "top": 0.10732649266719818
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4c779ae5-482b-47d9-a443-20e364666616": {
+      "box": {
+        "bottom": 0.24451704323291779,
+        "left": 0.2608010768890381,
+        "right": 0.4911412000656128,
+        "top": 0.10855354368686676
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0838b1a6-410a-454d-9599-afea87118c1c": {
+      "box": {
+        "bottom": 0.3951241374015808,
+        "left": 0.046619951725006104,
+        "right": 0.9534528851509094,
+        "top": 0.26263242959976196
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.36144134404512585,
+        "left": 0.052625124101345566,
+        "right": 0.9472690744053409,
+        "top": 0.3013433831879908
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.32124700311171495,
+        "left": 0.052625124101345566,
+        "right": 0.6796225934409676,
+        "top": 0.3013433831879908
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.32124700311171495,
+        "left": 0.6796225934409676,
+        "right": 0.9474320935932212,
+        "top": 0.3013433831879908
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.34120485256657673,
+        "left": 0.052625124101345566,
+        "right": 0.6796225934409676,
+        "top": 0.32124700311171495
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.34120485256657673,
+        "left": 0.6796225934409676,
+        "right": 0.9474320935932212,
+        "top": 0.32124700311171495
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.36144134404512585,
+        "left": 0.052625124101345566,
+        "right": 0.6796225934409676,
+        "top": 0.34120485256657673
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.36144134404512585,
+        "left": 0.6796225934409676,
+        "right": 0.9474320935932212,
+        "top": 0.34120485256657673
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "c76cf714-b55e-4f4d-af81-054099a3f060": {
+      "box": {
+        "bottom": 0.49410301446914673,
+        "left": 0.045277923345565796,
+        "right": 0.9544262886047363,
+        "top": 0.4040117859840393
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.487979821745796,
+        "left": 0.05290175201580896,
+        "right": 0.9473139754657804,
+        "top": 0.4361813616134498
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.45618197974508234,
+        "left": 0.05290175201580896,
+        "right": 0.276566662824556,
+        "top": 0.4361813616134498
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.45618197974508234,
+        "left": 0.276566662824556,
+        "right": 0.500861709904262,
+        "top": 0.4361813616134498
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.45618197974508234,
+        "left": 0.500861709904262,
+        "right": 0.6163809155261433,
+        "top": 0.4361813616134498
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.45618197974508234,
+        "left": 0.6163809155261433,
+        "right": 0.7693741956437332,
+        "top": 0.4361813616134498
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.45618197974508234,
+        "left": 0.7693741956437332,
+        "right": 0.9474152013870718,
+        "top": 0.4361813616134498
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.487979821745796,
+        "left": 0.05290175201580896,
+        "right": 0.276566662824556,
+        "top": 0.45618197974508234
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.487979821745796,
+        "left": 0.276566662824556,
+        "right": 0.500861709904262,
+        "top": 0.45618197974508234
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.487979821745796,
+        "left": 0.500861709904262,
+        "right": 0.6163809155261433,
+        "top": 0.45618197974508234
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.487979821745796,
+        "left": 0.6163809155261433,
+        "right": 0.7693741956437332,
+        "top": 0.45618197974508234
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.487979821745796,
+        "left": 0.7693741956437332,
+        "right": 0.9474152013870718,
+        "top": 0.45618197974508234
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "d6db68c4-1038-4077-8fe7-abe86ab4d2e1": {
+      "box": {
+        "bottom": 0.520254909992218,
+        "left": 0.7651671171188354,
+        "right": 0.9531055688858032,
+        "top": 0.5021461844444275
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a86db774-20e3-4c0f-addd-93d026ed5c19": {
+      "box": {
+        "bottom": 0.6688215136528015,
+        "left": 0.044961243867874146,
+        "right": 0.9553689956665039,
+        "top": 0.5315048098564148
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.6352893405357349,
+        "left": 0.05255946858655591,
+        "right": 0.9472378356008075,
+        "top": 0.5632516228036195
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.5831574104197159,
+        "left": 0.05255946858655591,
+        "right": 0.2762557203344489,
+        "top": 0.5632516228036195
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.5831574104197159,
+        "left": 0.2762557203344489,
+        "right": 0.5006508415810078,
+        "top": 0.5632516228036195
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.5831574104197159,
+        "left": 0.5006508415810078,
+        "right": 0.6162353771491329,
+        "top": 0.5632516228036195
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.5831574104197159,
+        "left": 0.6162353771491329,
+        "right": 0.769349587699713,
+        "top": 0.5632516228036195
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.5831574104197159,
+        "left": 0.769349587699713,
+        "right": 0.9474417074424473,
+        "top": 0.5632516228036195
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.6031705855673408,
+        "left": 0.05255946858655591,
+        "right": 0.2762557203344489,
+        "top": 0.5831574104197159
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.6031705855673408,
+        "left": 0.2762557203344489,
+        "right": 0.5006508415810078,
+        "top": 0.5831574104197159
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.6031705855673408,
+        "left": 0.5006508415810078,
+        "right": 0.6162353771491329,
+        "top": 0.5831574104197159
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.6031705855673408,
+        "left": 0.6162353771491329,
+        "right": 0.769349587699713,
+        "top": 0.5831574104197159
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.6031705855673408,
+        "left": 0.769349587699713,
+        "right": 0.9474417074424473,
+        "top": 0.5831574104197159
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.6352893405357349,
+        "left": 0.05255946858655591,
+        "right": 0.2762557203344489,
+        "top": 0.6031705855673408
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.6352893405357349,
+        "left": 0.2762557203344489,
+        "right": 0.5006508415810078,
+        "top": 0.6031705855673408
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.6352893405357349,
+        "left": 0.5006508415810078,
+        "right": 0.6162353771491329,
+        "top": 0.6031705855673408
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.6352893405357349,
+        "left": 0.6162353771491329,
+        "right": 0.769349587699713,
+        "top": 0.6031705855673408
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.6352893405357349,
+        "left": 0.769349587699713,
+        "right": 0.9474417074424473,
+        "top": 0.6031705855673408
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "9fec6122-a6f0-429a-b8bb-03895eaf99f8": {
+      "box": {
+        "bottom": 0.7545902729034424,
+        "left": 0.04582655429840088,
+        "right": 0.9539265036582947,
+        "top": 0.6778695583343506
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.7501039820436404,
+        "left": 0.05231139848461028,
+        "right": 0.9467519731350151,
+        "top": 0.7097513149264643
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.7297806396874194,
+        "left": 0.05231139848461028,
+        "right": 0.7688855374169705,
+        "top": 0.7097513149264643
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.7297806396874194,
+        "left": 0.7688855374169705,
+        "right": 0.9469764918269092,
+        "top": 0.7097513149264643
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.7501039820436404,
+        "left": 0.05231139848461028,
+        "right": 0.7688855374169705,
+        "top": 0.7297806396874194
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.7501039820436404,
+        "left": 0.7688855374169705,
+        "right": 0.9469764918269092,
+        "top": 0.7297806396874194
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "055fdc26-6131-44b0-b97f-2aef76e26087": {
+      "box": {
+        "bottom": 0.7822599411010742,
+        "left": 0.7224115133285522,
+        "right": 0.9530030488967896,
+        "top": 0.7641174793243408
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1abff494-c940-44e2-afef-97033627af59": {
+      "box": {
+        "bottom": 0.9508392214775085,
+        "left": 0.6613131165504456,
+        "right": 0.9523125290870667,
+        "top": 0.8114059567451477
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.9466671812516978,
+        "left": 0.6671007802508662,
+        "right": 0.9471954838223269,
+        "top": 0.8171823434594274
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.8387262949444594,
+        "left": 0.6671007802508662,
+        "right": 0.8543348069462127,
+        "top": 0.8171823434594274
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.8387262949444594,
+        "left": 0.8543348069462127,
+        "right": 0.947196871415656,
+        "top": 0.8171823434594274
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.8603259079633219,
+        "left": 0.6671007802508662,
+        "right": 0.8543348069462127,
+        "top": 0.8387262949444594
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.8603259079633219,
+        "left": 0.8543348069462127,
+        "right": 0.947196871415656,
+        "top": 0.8387262949444594
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.8818784876899244,
+        "left": 0.6671007802508662,
+        "right": 0.8543348069462127,
+        "top": 0.8603259079633219
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.8818784876899244,
+        "left": 0.8543348069462127,
+        "right": 0.947196871415656,
+        "top": 0.8603259079633219
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.9033811107756691,
+        "left": 0.6671007802508662,
+        "right": 0.8543348069462127,
+        "top": 0.8818784876899244
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.9033811107756691,
+        "left": 0.8543348069462127,
+        "right": 0.947196871415656,
+        "top": 0.8818784876899244
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.9249959555419167,
+        "left": 0.6671007802508662,
+        "right": 0.8543348069462127,
+        "top": 0.9033811107756691
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.9249959555419167,
+        "left": 0.8543348069462127,
+        "right": 0.947196871415656,
+        "top": 0.9033811107756691
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.9466671812516978,
+        "left": 0.6671007802508662,
+        "right": 0.8543348069462127,
+        "top": 0.9249959555419167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.9466671812516978,
+        "left": 0.8543348069462127,
+        "right": 0.947196871415656,
+        "top": 0.9249959555419167
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "05a1e452-3aab-4950-aa33-43f775150b87": {
+      "box": {
+        "bottom": 0.04967128485441208,
+        "left": 0.04807901382446289,
+        "right": 0.9516885876655579,
+        "top": 8.069537580013275e-05
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "22fbdafe-0e98-458b-928b-39730e11590d": {
+      "box": {
+        "bottom": 0.1966334879398346,
+        "left": 0.06408926844596863,
+        "right": 0.9223754405975342,
+        "top": 0.07650044560432434
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "d61db760-63be-41ec-82f8-2ebd5bf9d663": {
+      "box": {
+        "bottom": 0.27493953704833984,
+        "left": 0.06492552161216736,
+        "right": 0.9210011959075928,
+        "top": 0.20190821588039398
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "550806b2-4aad-488d-9d9e-8c2895ddb013": {
+      "box": {
+        "bottom": 0.3676779568195343,
+        "left": 0.06517031788825989,
+        "right": 0.9211591482162476,
+        "top": 0.2794940173625946
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "e5af766d-fde0-4afd-a68e-8affb7477451": {
+      "box": {
+        "bottom": 0.44561558961868286,
+        "left": 0.06574469804763794,
+        "right": 0.9313350915908813,
+        "top": 0.37227165699005127
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "2c1e8640-3a06-4201-9b2e-893eab968438": {
+      "box": {
+        "bottom": 0.5377235412597656,
+        "left": 0.06669417023658752,
+        "right": 0.9267785549163818,
+        "top": 0.44980955123901367
+      },
+      "page": 1,
+      "type": "chunkText"
+    }
+  }
+}

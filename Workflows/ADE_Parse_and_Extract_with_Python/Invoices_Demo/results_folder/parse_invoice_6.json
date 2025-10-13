@@ -1,0 +1,1149 @@
+{
+  "chunks": [
+    {
+      "id": "e69163ae-72d9-45d8-9dd8-d5d4975c3f8f",
+      "grounding": {
+        "box": {
+          "bottom": 0.0815887600183487,
+          "left": 0.023391395807266235,
+          "right": 0.3975412845611572,
+          "top": 0.024242935702204704
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e69163ae-72d9-45d8-9dd8-d5d4975c3f8f'></a>\n\n<::logo: Fromuth\nFROMUTH\nA stylized dark purple 'F' inside a square with a small green circle and two smaller dark circles, followed by the word \"FROMUTH\" in dark purple sans-serif font.::>",
+      "type": "logo"
+    },
+    {
+      "id": "dfa1780f-7f9d-4c2e-a8e4-189e915925f2",
+      "grounding": {
+        "box": {
+          "bottom": 0.04756246879696846,
+          "left": 0.6010491847991943,
+          "right": 0.6666994094848633,
+          "top": 0.029393207281827927
+        },
+        "page": 0
+      },
+      "markdown": "<a id='dfa1780f-7f9d-4c2e-a8e4-189e915925f2'></a>\n\nOriginal",
+      "type": "text"
+    },
+    {
+      "id": "e76c3077-9e35-4e30-82cb-e6091fc07cac",
+      "grounding": {
+        "box": {
+          "bottom": 0.04629149287939072,
+          "left": 0.8646701574325562,
+          "right": 0.9676785469055176,
+          "top": 0.02448013424873352
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e76c3077-9e35-4e30-82cb-e6091fc07cac'></a>\n\n<::logo: N/A\nINVOICE\nA blue vertical rectangular bar precedes the bold, black text \"INVOICE\".::>",
+      "type": "logo"
+    },
+    {
+      "id": "e39fae31-7642-4980-a88c-117f9e67e7ed",
+      "grounding": {
+        "box": {
+          "bottom": 0.06668597459793091,
+          "left": 0.5602267384529114,
+          "right": 0.6643800139427185,
+          "top": 0.051877882331609726
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e39fae31-7642-4980-a88c-117f9e67e7ed'></a>\n\nDocument Number",
+      "type": "text"
+    },
+    {
+      "id": "7770f088-fcab-4a18-b299-a2b716ab16ea",
+      "grounding": {
+        "box": {
+          "bottom": 0.08970008045434952,
+          "left": 0.7046549320220947,
+          "right": 0.9219132661819458,
+          "top": 0.05286797136068344
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7770f088-fcab-4a18-b299-a2b716ab16ea'></a>\n\nDocument Date Page\n04/26/24 1/1",
+      "type": "text"
+    },
+    {
+      "id": "52154288-70bf-4c5d-947c-5729239d85df",
+      "grounding": {
+        "box": {
+          "bottom": 0.11193931102752686,
+          "left": 0.04276514798402786,
+          "right": 0.26660993695259094,
+          "top": 0.08280070126056671
+        },
+        "page": 0
+      },
+      "markdown": "<a id='52154288-70bf-4c5d-947c-5729239d85df'></a>\n\n1100 Rocky Drive, West Lawn PA, 19609\nUSA 1-800-523-8414",
+      "type": "text"
+    },
+    {
+      "id": "62de7141-aec0-40e7-b6c6-743de6d016bb",
+      "grounding": {
+        "box": {
+          "bottom": 0.130364328622818,
+          "left": 0.5635584592819214,
+          "right": 0.8593536615371704,
+          "top": 0.06944537162780762
+        },
+        "page": 0
+      },
+      "markdown": "<a id='62de7141-aec0-40e7-b6c6-743de6d016bb'></a>\n\n301236 04/26/24\nCustomer No. Name - Business Partner\nC0440318 RIDGEFIELD HIGH SCHOOL",
+      "type": "text"
+    },
+    {
+      "id": "6d185ca4-01cc-498c-9557-eaef5a908899",
+      "grounding": {
+        "box": {
+          "bottom": 0.12855574488639832,
+          "left": 0.754859209060669,
+          "right": 0.8613721132278442,
+          "top": 0.11463785171508789
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6d185ca4-01cc-498c-9557-eaef5a908899'></a>\n\nELD HIGH SCHOOL",
+      "type": "text"
+    },
+    {
+      "id": "e1b87091-1df5-4c49-a31f-6254df91e26e",
+      "grounding": {
+        "box": {
+          "bottom": 0.20110002160072327,
+          "left": 0.5646184682846069,
+          "right": 0.7653841972351074,
+          "top": 0.1589164435863495
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e1b87091-1df5-4c49-a31f-6254df91e26e'></a>\n\nYour Contact\n\nErik Arndt\n610-894-7082\nerika@fromuthtennis.com",
+      "type": "text"
+    },
+    {
+      "id": "16ebbd5d-7791-44a0-876d-19d0247a1d3b",
+      "grounding": {
+        "box": {
+          "bottom": 0.23212310671806335,
+          "left": 0.0411529541015625,
+          "right": 0.16501207649707794,
+          "top": 0.1747223436832428
+        },
+        "page": 0
+      },
+      "markdown": "<a id='16ebbd5d-7791-44a0-876d-19d0247a1d3b'></a>\n\nBill To.:\nAndrea Kropp\n227 N 5th Avenue\n\nRidgefield, WA, 98642",
+      "type": "text"
+    },
+    {
+      "id": "9225cc55-43e4-4c1f-9852-215a23299d79",
+      "grounding": {
+        "box": {
+          "bottom": 0.2823933959007263,
+          "left": 0.5640231370925903,
+          "right": 0.689979076385498,
+          "top": 0.21210967004299164
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9225cc55-43e4-4c1f-9852-215a23299d79'></a>\n\nShip To.:\nAndrea Kropp\nAndrea Kropp\n227 N 5th Ave\n\nRidgefield, WA, 98642",
+      "type": "text"
+    },
+    {
+      "id": "3d7b8913-d535-4481-929b-e90f9c4dcb18",
+      "grounding": {
+        "box": {
+          "bottom": 0.3359481692314148,
+          "left": 0.041598305106163025,
+          "right": 0.2717546224594116,
+          "top": 0.29504209756851196
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3d7b8913-d535-4481-929b-e90f9c4dcb18'></a>\n\nTerms: Credit Card\n\nPayment Method: Credit Card",
+      "type": "text"
+    },
+    {
+      "id": "d5ba3947-1b7e-432d-8559-a9d50764b572",
+      "grounding": {
+        "box": {
+          "bottom": 0.6968668699264526,
+          "left": 0.029114842414855957,
+          "right": 0.9686559438705444,
+          "top": 0.36849498748779297
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d5ba3947-1b7e-432d-8559-a9d50764b572'></a>\n\nCurrency: USD\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Description</td><td id=\"0-3\">Manufac</td><td id=\"0-4\">Quantity</td><td id=\"0-5\">Price</td><td id=\"0-6\">Total</td></tr>\n<tr><td id=\"0-7\">001</td><td id=\"0-8\">Nike Air Zoom Vapor Pro 2 (W) (Sundial)</td><td id=\"0-9\">DR6192-700</td><td id=\"0-a\">1</td><td id=\"0-b\">60.00</td><td id=\"0-c\">60.00</td></tr>\n<tr><td id=\"0-d\"></td><td id=\"0-e\">Item Code: JIVPY4-YEL-10</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\">002</td><td id=\"0-k\">***2-DAY AIR***</td><td id=\"0-l\">XBLUE</td><td id=\"0-m\">1</td><td id=\"0-n\">0.00</td><td id=\"0-o\">0.00</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">Item Code: XBLUE</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td></tr>\n<tr><td id=\"0-v\">003</td><td id=\"0-w\">/////////////</td><td id=\"0-x\"></td><td id=\"0-y\">1</td><td id=\"0-z\">0.00</td><td id=\"0-A\">0.00</td></tr>\n<tr><td id=\"0-B\"></td><td id=\"0-C\">Item Code: XPULL</td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\" colspan=\"2\">Invoice Subtotal:</td><td id=\"0-L\">USD 60.00</td></tr>\n<tr><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\" colspan=\"2\">Shipping Expenses:</td><td id=\"0-Q\">USD 20.00</td></tr>\n<tr><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\" colspan=\"2\">Total Before Tax:</td><td id=\"0-V\">USD 80.00</td></tr>\n<tr><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\" colspan=\"2\">Total Tax Amount:</td><td id=\"0-10\">USD 6.96</td></tr>\n<tr><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\" colspan=\"2\">Total Amount:</td><td id=\"0-15\">USD 86.96</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "d7eb77f8-7431-4806-b44c-0811bdea176f",
+      "grounding": {
+        "box": {
+          "bottom": 0.888532817363739,
+          "left": 0.03634551167488098,
+          "right": 0.6539828777313232,
+          "top": 0.8247461915016174
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d7eb77f8-7431-4806-b44c-0811bdea176f'></a>\n\nBy AvaTax DGW.",
+      "type": "text"
+    },
+    {
+      "id": "8f851746-b6f2-4e79-be89-0c675197ff65",
+      "grounding": {
+        "box": {
+          "bottom": 0.9327770471572876,
+          "left": 0.03538781404495239,
+          "right": 0.16823257505893707,
+          "top": 0.917932391166687
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8f851746-b6f2-4e79-be89-0c675197ff65'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    },
+    {
+      "id": "57b48667-6b14-4b48-b215-acbd18ba2f5e",
+      "grounding": {
+        "box": {
+          "bottom": 0.9355871081352234,
+          "left": 0.3282276690006256,
+          "right": 0.5699713826179504,
+          "top": 0.9195095896720886
+        },
+        "page": 0
+      },
+      "markdown": "<a id='57b48667-6b14-4b48-b215-acbd18ba2f5e'></a>\n\nE-Mail: customerservice@fromuthtennis.com",
+      "type": "text"
+    },
+    {
+      "id": "c19731db-b609-4343-83be-0441f484ddf8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9346469640731812,
+          "left": 0.7605971097946167,
+          "right": 0.9430793523788452,
+          "top": 0.9206188917160034
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c19731db-b609-4343-83be-0441f484ddf8'></a>\n\nWebsite.: www.fromuthtennis.com",
+      "type": "marginalia"
+    },
+    {
+      "id": "e9ad53a7-7bf7-4274-be47-815fa17741fb",
+      "grounding": {
+        "box": {
+          "bottom": 0.9649942517280579,
+          "left": 0.46722474694252014,
+          "right": 0.5256788730621338,
+          "top": 0.9507108330726624
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e9ad53a7-7bf7-4274-be47-815fa17741fb'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='e69163ae-72d9-45d8-9dd8-d5d4975c3f8f'></a>\n\n<::logo: Fromuth\nFROMUTH\nA stylized dark purple 'F' inside a square with a small green circle and two smaller dark circles, followed by the word \"FROMUTH\" in dark purple sans-serif font.::>\n\n<a id='dfa1780f-7f9d-4c2e-a8e4-189e915925f2'></a>\n\nOriginal\n\n<a id='e76c3077-9e35-4e30-82cb-e6091fc07cac'></a>\n\n<::logo: N/A\nINVOICE\nA blue vertical rectangular bar precedes the bold, black text \"INVOICE\".::>\n\n<a id='e39fae31-7642-4980-a88c-117f9e67e7ed'></a>\n\nDocument Number\n\n<a id='7770f088-fcab-4a18-b299-a2b716ab16ea'></a>\n\nDocument Date Page\n04/26/24 1/1\n\n<a id='52154288-70bf-4c5d-947c-5729239d85df'></a>\n\n1100 Rocky Drive, West Lawn PA, 19609\nUSA 1-800-523-8414\n\n<a id='62de7141-aec0-40e7-b6c6-743de6d016bb'></a>\n\n301236 04/26/24\nCustomer No. Name - Business Partner\nC0440318 RIDGEFIELD HIGH SCHOOL\n\n<a id='6d185ca4-01cc-498c-9557-eaef5a908899'></a>\n\nELD HIGH SCHOOL\n\n<a id='e1b87091-1df5-4c49-a31f-6254df91e26e'></a>\n\nYour Contact\n\nErik Arndt\n610-894-7082\nerika@fromuthtennis.com\n\n<a id='16ebbd5d-7791-44a0-876d-19d0247a1d3b'></a>\n\nBill To.:\nAndrea Kropp\n227 N 5th Avenue\n\nRidgefield, WA, 98642\n\n<a id='9225cc55-43e4-4c1f-9852-215a23299d79'></a>\n\nShip To.:\nAndrea Kropp\nAndrea Kropp\n227 N 5th Ave\n\nRidgefield, WA, 98642\n\n<a id='3d7b8913-d535-4481-929b-e90f9c4dcb18'></a>\n\nTerms: Credit Card\n\nPayment Method: Credit Card\n\n<a id='d5ba3947-1b7e-432d-8559-a9d50764b572'></a>\n\nCurrency: USD\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Description</td><td id=\"0-3\">Manufac</td><td id=\"0-4\">Quantity</td><td id=\"0-5\">Price</td><td id=\"0-6\">Total</td></tr>\n<tr><td id=\"0-7\">001</td><td id=\"0-8\">Nike Air Zoom Vapor Pro 2 (W) (Sundial)</td><td id=\"0-9\">DR6192-700</td><td id=\"0-a\">1</td><td id=\"0-b\">60.00</td><td id=\"0-c\">60.00</td></tr>\n<tr><td id=\"0-d\"></td><td id=\"0-e\">Item Code: JIVPY4-YEL-10</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\">002</td><td id=\"0-k\">***2-DAY AIR***</td><td id=\"0-l\">XBLUE</td><td id=\"0-m\">1</td><td id=\"0-n\">0.00</td><td id=\"0-o\">0.00</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">Item Code: XBLUE</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td></tr>\n<tr><td id=\"0-v\">003</td><td id=\"0-w\">/////////////</td><td id=\"0-x\"></td><td id=\"0-y\">1</td><td id=\"0-z\">0.00</td><td id=\"0-A\">0.00</td></tr>\n<tr><td id=\"0-B\"></td><td id=\"0-C\">Item Code: XPULL</td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\" colspan=\"2\">Invoice Subtotal:</td><td id=\"0-L\">USD 60.00</td></tr>\n<tr><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\" colspan=\"2\">Shipping Expenses:</td><td id=\"0-Q\">USD 20.00</td></tr>\n<tr><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\" colspan=\"2\">Total Before Tax:</td><td id=\"0-V\">USD 80.00</td></tr>\n<tr><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\" colspan=\"2\">Total Tax Amount:</td><td id=\"0-10\">USD 6.96</td></tr>\n<tr><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\" colspan=\"2\">Total Amount:</td><td id=\"0-15\">USD 86.96</td></tr>\n</table>\n\n<a id='d7eb77f8-7431-4806-b44c-0811bdea176f'></a>\n\nBy AvaTax DGW.\n\n<a id='8f851746-b6f2-4e79-be89-0c675197ff65'></a>\n\nCAPTION ERROR\n\n<a id='57b48667-6b14-4b48-b215-acbd18ba2f5e'></a>\n\nE-Mail: customerservice@fromuthtennis.com\n\n<a id='c19731db-b609-4343-83be-0441f484ddf8'></a>\n\nWebsite.: www.fromuthtennis.com\n\n<a id='e9ad53a7-7bf7-4274-be47-815fa17741fb'></a>\n\nCAPTION ERROR",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 9391,
+    "filename": "invoice_6.pdf",
+    "job_id": "esw91hzyycaeoseo9qjvdd2c2",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "e69163ae-72d9-45d8-9dd8-d5d4975c3f8f",
+        "dfa1780f-7f9d-4c2e-a8e4-189e915925f2",
+        "e76c3077-9e35-4e30-82cb-e6091fc07cac",
+        "e39fae31-7642-4980-a88c-117f9e67e7ed",
+        "7770f088-fcab-4a18-b299-a2b716ab16ea",
+        "52154288-70bf-4c5d-947c-5729239d85df",
+        "62de7141-aec0-40e7-b6c6-743de6d016bb",
+        "6d185ca4-01cc-498c-9557-eaef5a908899",
+        "e1b87091-1df5-4c49-a31f-6254df91e26e",
+        "16ebbd5d-7791-44a0-876d-19d0247a1d3b",
+        "9225cc55-43e4-4c1f-9852-215a23299d79",
+        "3d7b8913-d535-4481-929b-e90f9c4dcb18",
+        "d5ba3947-1b7e-432d-8559-a9d50764b572",
+        "d7eb77f8-7431-4806-b44c-0811bdea176f",
+        "8f851746-b6f2-4e79-be89-0c675197ff65",
+        "57b48667-6b14-4b48-b215-acbd18ba2f5e",
+        "c19731db-b609-4343-83be-0441f484ddf8",
+        "e9ad53a7-7bf7-4274-be47-815fa17741fb"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='e69163ae-72d9-45d8-9dd8-d5d4975c3f8f'></a>\n\n<::logo: Fromuth\nFROMUTH\nA stylized dark purple 'F' inside a square with a small green circle and two smaller dark circles, followed by the word \"FROMUTH\" in dark purple sans-serif font.::>\n\n<a id='dfa1780f-7f9d-4c2e-a8e4-189e915925f2'></a>\n\nOriginal\n\n<a id='e76c3077-9e35-4e30-82cb-e6091fc07cac'></a>\n\n<::logo: N/A\nINVOICE\nA blue vertical rectangular bar precedes the bold, black text \"INVOICE\".::>\n\n<a id='e39fae31-7642-4980-a88c-117f9e67e7ed'></a>\n\nDocument Number\n\n<a id='7770f088-fcab-4a18-b299-a2b716ab16ea'></a>\n\nDocument Date Page\n04/26/24 1/1\n\n<a id='52154288-70bf-4c5d-947c-5729239d85df'></a>\n\n1100 Rocky Drive, West Lawn PA, 19609\nUSA 1-800-523-8414\n\n<a id='62de7141-aec0-40e7-b6c6-743de6d016bb'></a>\n\n301236 04/26/24\nCustomer No. Name - Business Partner\nC0440318 RIDGEFIELD HIGH SCHOOL\n\n<a id='6d185ca4-01cc-498c-9557-eaef5a908899'></a>\n\nELD HIGH SCHOOL\n\n<a id='e1b87091-1df5-4c49-a31f-6254df91e26e'></a>\n\nYour Contact\n\nErik Arndt\n610-894-7082\nerika@fromuthtennis.com\n\n<a id='16ebbd5d-7791-44a0-876d-19d0247a1d3b'></a>\n\nBill To.:\nAndrea Kropp\n227 N 5th Avenue\n\nRidgefield, WA, 98642\n\n<a id='9225cc55-43e4-4c1f-9852-215a23299d79'></a>\n\nShip To.:\nAndrea Kropp\nAndrea Kropp\n227 N 5th Ave\n\nRidgefield, WA, 98642\n\n<a id='3d7b8913-d535-4481-929b-e90f9c4dcb18'></a>\n\nTerms: Credit Card\n\nPayment Method: Credit Card\n\n<a id='d5ba3947-1b7e-432d-8559-a9d50764b572'></a>\n\nCurrency: USD\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Description</td><td id=\"0-3\">Manufac</td><td id=\"0-4\">Quantity</td><td id=\"0-5\">Price</td><td id=\"0-6\">Total</td></tr>\n<tr><td id=\"0-7\">001</td><td id=\"0-8\">Nike Air Zoom Vapor Pro 2 (W) (Sundial)</td><td id=\"0-9\">DR6192-700</td><td id=\"0-a\">1</td><td id=\"0-b\">60.00</td><td id=\"0-c\">60.00</td></tr>\n<tr><td id=\"0-d\"></td><td id=\"0-e\">Item Code: JIVPY4-YEL-10</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\">002</td><td id=\"0-k\">***2-DAY AIR***</td><td id=\"0-l\">XBLUE</td><td id=\"0-m\">1</td><td id=\"0-n\">0.00</td><td id=\"0-o\">0.00</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">Item Code: XBLUE</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td></tr>\n<tr><td id=\"0-v\">003</td><td id=\"0-w\">/////////////</td><td id=\"0-x\"></td><td id=\"0-y\">1</td><td id=\"0-z\">0.00</td><td id=\"0-A\">0.00</td></tr>\n<tr><td id=\"0-B\"></td><td id=\"0-C\">Item Code: XPULL</td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\" colspan=\"2\">Invoice Subtotal:</td><td id=\"0-L\">USD 60.00</td></tr>\n<tr><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\" colspan=\"2\">Shipping Expenses:</td><td id=\"0-Q\">USD 20.00</td></tr>\n<tr><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\" colspan=\"2\">Total Before Tax:</td><td id=\"0-V\">USD 80.00</td></tr>\n<tr><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\" colspan=\"2\">Total Tax Amount:</td><td id=\"0-10\">USD 6.96</td></tr>\n<tr><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\" colspan=\"2\">Total Amount:</td><td id=\"0-15\">USD 86.96</td></tr>\n</table>\n\n<a id='d7eb77f8-7431-4806-b44c-0811bdea176f'></a>\n\nBy AvaTax DGW.\n\n<a id='8f851746-b6f2-4e79-be89-0c675197ff65'></a>\n\nCAPTION ERROR\n\n<a id='57b48667-6b14-4b48-b215-acbd18ba2f5e'></a>\n\nE-Mail: customerservice@fromuthtennis.com\n\n<a id='c19731db-b609-4343-83be-0441f484ddf8'></a>\n\nWebsite.: www.fromuthtennis.com\n\n<a id='e9ad53a7-7bf7-4274-be47-815fa17741fb'></a>\n\nCAPTION ERROR",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "e69163ae-72d9-45d8-9dd8-d5d4975c3f8f": {
+      "box": {
+        "bottom": 0.0815887600183487,
+        "left": 0.023391395807266235,
+        "right": 0.3975412845611572,
+        "top": 0.024242935702204704
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "dfa1780f-7f9d-4c2e-a8e4-189e915925f2": {
+      "box": {
+        "bottom": 0.04756246879696846,
+        "left": 0.6010491847991943,
+        "right": 0.6666994094848633,
+        "top": 0.029393207281827927
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e76c3077-9e35-4e30-82cb-e6091fc07cac": {
+      "box": {
+        "bottom": 0.04629149287939072,
+        "left": 0.8646701574325562,
+        "right": 0.9676785469055176,
+        "top": 0.02448013424873352
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "e39fae31-7642-4980-a88c-117f9e67e7ed": {
+      "box": {
+        "bottom": 0.06668597459793091,
+        "left": 0.5602267384529114,
+        "right": 0.6643800139427185,
+        "top": 0.051877882331609726
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "7770f088-fcab-4a18-b299-a2b716ab16ea": {
+      "box": {
+        "bottom": 0.08970008045434952,
+        "left": 0.7046549320220947,
+        "right": 0.9219132661819458,
+        "top": 0.05286797136068344
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "52154288-70bf-4c5d-947c-5729239d85df": {
+      "box": {
+        "bottom": 0.11193931102752686,
+        "left": 0.04276514798402786,
+        "right": 0.26660993695259094,
+        "top": 0.08280070126056671
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "62de7141-aec0-40e7-b6c6-743de6d016bb": {
+      "box": {
+        "bottom": 0.130364328622818,
+        "left": 0.5635584592819214,
+        "right": 0.8593536615371704,
+        "top": 0.06944537162780762
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "6d185ca4-01cc-498c-9557-eaef5a908899": {
+      "box": {
+        "bottom": 0.12855574488639832,
+        "left": 0.754859209060669,
+        "right": 0.8613721132278442,
+        "top": 0.11463785171508789
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e1b87091-1df5-4c49-a31f-6254df91e26e": {
+      "box": {
+        "bottom": 0.20110002160072327,
+        "left": 0.5646184682846069,
+        "right": 0.7653841972351074,
+        "top": 0.1589164435863495
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "16ebbd5d-7791-44a0-876d-19d0247a1d3b": {
+      "box": {
+        "bottom": 0.23212310671806335,
+        "left": 0.0411529541015625,
+        "right": 0.16501207649707794,
+        "top": 0.1747223436832428
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9225cc55-43e4-4c1f-9852-215a23299d79": {
+      "box": {
+        "bottom": 0.2823933959007263,
+        "left": 0.5640231370925903,
+        "right": 0.689979076385498,
+        "top": 0.21210967004299164
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3d7b8913-d535-4481-929b-e90f9c4dcb18": {
+      "box": {
+        "bottom": 0.3359481692314148,
+        "left": 0.041598305106163025,
+        "right": 0.2717546224594116,
+        "top": 0.29504209756851196
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d5ba3947-1b7e-432d-8559-a9d50764b572": {
+      "box": {
+        "bottom": 0.6968668699264526,
+        "left": 0.029114842414855957,
+        "right": 0.9686559438705444,
+        "top": 0.36849498748779297
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.6912683354839899,
+        "left": 0.03252967440994914,
+        "right": 0.9644376675208122,
+        "top": 0.3874287849738858
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.434370888198206,
+        "left": 0.03252967440994914,
+        "right": 0.5435160169456736,
+        "top": 0.3874287849738858
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.41013960317578046,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.3874287849738858
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.41013960317578046,
+        "left": 0.5435160169456736,
+        "right": 0.6633253694645731,
+        "top": 0.3874287849738858
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.41013960317578046,
+        "left": 0.6633253694645731,
+        "right": 0.8065675061109232,
+        "top": 0.3874287849738858
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.41013960317578046,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.3874287849738858
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.434370888198206,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.41013960317578046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.434370888198206,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.41013960317578046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.434370888198206,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.41013960317578046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.434370888198206,
+        "left": 0.5435160169456736,
+        "right": 0.6633253694645731,
+        "top": 0.41013960317578046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.434370888198206,
+        "left": 0.6633253694645731,
+        "right": 0.8065675061109232,
+        "top": 0.41013960317578046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.434370888198206,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.41013960317578046
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.45666617511030694,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.434370888198206
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.45666617511030694,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.434370888198206
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.45666617511030694,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.434370888198206
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.45666617511030694,
+        "left": 0.5435160169456736,
+        "right": 0.6633253694645731,
+        "top": 0.434370888198206
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.45666617511030694,
+        "left": 0.6633253694645731,
+        "right": 0.8065675061109232,
+        "top": 0.434370888198206
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.45666617511030694,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.434370888198206
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.48153317948179364,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.45666617511030694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.48153317948179364,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.45666617511030694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.48153317948179364,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.45666617511030694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.48153317948179364,
+        "left": 0.5435160169456736,
+        "right": 0.6633253694645731,
+        "top": 0.45666617511030694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.48153317948179364,
+        "left": 0.6633253694645731,
+        "right": 0.8065675061109232,
+        "top": 0.45666617511030694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.48153317948179364,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.45666617511030694
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.5046804372852911,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.48153317948179364
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.5046804372852911,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.48153317948179364
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5046804372852911,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.48153317948179364
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5046804372852911,
+        "left": 0.5435160169456736,
+        "right": 0.6633253694645731,
+        "top": 0.48153317948179364
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5046804372852911,
+        "left": 0.6633253694645731,
+        "right": 0.8065675061109232,
+        "top": 0.48153317948179364
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5046804372852911,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.48153317948179364
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5297753241509433,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.5046804372852911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5297753241509433,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.5046804372852911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.5297753241509433,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.5046804372852911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5297753241509433,
+        "left": 0.5435160169456736,
+        "right": 0.6633253694645731,
+        "top": 0.5046804372852911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5297753241509433,
+        "left": 0.6633253694645731,
+        "right": 0.8065675061109232,
+        "top": 0.5046804372852911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5297753241509433,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.5046804372852911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5490573480288816,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.5297753241509433
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5490573480288816,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.5297753241509433
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5490573480288816,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.5297753241509433
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.5490573480288816,
+        "left": 0.5435160169456736,
+        "right": 0.6633253694645731,
+        "top": 0.5297753241509433
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.5490573480288816,
+        "left": 0.6633253694645731,
+        "right": 0.8065675061109232,
+        "top": 0.5297753241509433
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.5490573480288816,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.5297753241509433
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.5827618793973244,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.5490573480288816
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.5827618793973244,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.5490573480288816
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.5827618793973244,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.5490573480288816
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.6099854114934118,
+        "left": 0.5435160169456736,
+        "right": 0.9652044333990801,
+        "top": 0.5490573480288816
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.5827618793973244,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.5490573480288816
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.6099854114934118,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.5827618793973244
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.6099854114934118,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.5827618793973244
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.6099854114934118,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.5827618793973244
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.6373959978707617,
+        "left": 0.5435160169456736,
+        "right": 0.9652044333990801,
+        "top": 0.5827618793973244
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.6099854114934118,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.5827618793973244
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.6373959978707617,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.6099854114934118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.6373959978707617,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.6099854114934118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.6373959978707617,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.6099854114934118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.6634064270734044,
+        "left": 0.5435160169456736,
+        "right": 0.9652044333990801,
+        "top": 0.6099854114934118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.6373959978707617,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.6099854114934118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-W": {
+      "box": {
+        "bottom": 0.6634064270734044,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.6373959978707617
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-X": {
+      "box": {
+        "bottom": 0.6634064270734044,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.6373959978707617
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Y": {
+      "box": {
+        "bottom": 0.6634064270734044,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.6373959978707617
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Z": {
+      "box": {
+        "bottom": 0.6912683354839899,
+        "left": 0.5435160169456736,
+        "right": 0.9652044333990801,
+        "top": 0.6373959978707617
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-10": {
+      "box": {
+        "bottom": 0.6634064270734044,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.6373959978707617
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-11": {
+      "box": {
+        "bottom": 0.6912683354839899,
+        "left": 0.03252967440994914,
+        "right": 0.07089063604612722,
+        "top": 0.6634064270734044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-12": {
+      "box": {
+        "bottom": 0.6912683354839899,
+        "left": 0.07089063604612722,
+        "right": 0.3208718351424409,
+        "top": 0.6634064270734044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-13": {
+      "box": {
+        "bottom": 0.6912683354839899,
+        "left": 0.3208718351424409,
+        "right": 0.5435160169456736,
+        "top": 0.6634064270734044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-14": {
+      "box": {
+        "bottom": 0.6912683354839899,
+        "left": 0.5435160169456736,
+        "right": 0.9652044333990801,
+        "top": 0.6634064270734044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-15": {
+      "box": {
+        "bottom": 0.6912683354839899,
+        "left": 0.8065675061109232,
+        "right": 0.9652044333990801,
+        "top": 0.6634064270734044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "d7eb77f8-7431-4806-b44c-0811bdea176f": {
+      "box": {
+        "bottom": 0.888532817363739,
+        "left": 0.03634551167488098,
+        "right": 0.6539828777313232,
+        "top": 0.8247461915016174
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8f851746-b6f2-4e79-be89-0c675197ff65": {
+      "box": {
+        "bottom": 0.9327770471572876,
+        "left": 0.03538781404495239,
+        "right": 0.16823257505893707,
+        "top": 0.917932391166687
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "57b48667-6b14-4b48-b215-acbd18ba2f5e": {
+      "box": {
+        "bottom": 0.9355871081352234,
+        "left": 0.3282276690006256,
+        "right": 0.5699713826179504,
+        "top": 0.9195095896720886
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c19731db-b609-4343-83be-0441f484ddf8": {
+      "box": {
+        "bottom": 0.9346469640731812,
+        "left": 0.7605971097946167,
+        "right": 0.9430793523788452,
+        "top": 0.9206188917160034
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "e9ad53a7-7bf7-4274-be47-815fa17741fb": {
+      "box": {
+        "bottom": 0.9649942517280579,
+        "left": 0.46722474694252014,
+        "right": 0.5256788730621338,
+        "top": 0.9507108330726624
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

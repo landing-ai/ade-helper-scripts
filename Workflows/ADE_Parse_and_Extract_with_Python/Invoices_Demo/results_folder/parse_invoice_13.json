@@ -1,0 +1,734 @@
+{
+  "chunks": [
+    {
+      "id": "d38cc036-b449-457f-ba7a-ed5ec8db2df8",
+      "grounding": {
+        "box": {
+          "bottom": 0.04086274281144142,
+          "left": 0.3944183588027954,
+          "right": 0.505725085735321,
+          "top": 0.021210074424743652
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d38cc036-b449-457f-ba7a-ed5ec8db2df8'></a>\n\nTax Invoice",
+      "type": "marginalia"
+    },
+    {
+      "id": "95b3f28f-7aa0-4ba9-adfd-92552a14e65f",
+      "grounding": {
+        "box": {
+          "bottom": 0.03962094336748123,
+          "left": 0.6299343705177307,
+          "right": 0.8244345784187317,
+          "top": 0.017798636108636856
+        },
+        "page": 0
+      },
+      "markdown": "<a id='95b3f28f-7aa0-4ba9-adfd-92552a14e65f'></a>\n\n(ORIGINAL FOR RECIPIENT)",
+      "type": "text"
+    },
+    {
+      "id": "634f7e5f-23be-428e-8015-4137f52b2c03",
+      "grounding": {
+        "box": {
+          "bottom": 0.402715265750885,
+          "left": 0.06802284717559814,
+          "right": 0.49336951971054077,
+          "top": 0.04924289882183075
+        },
+        "page": 0
+      },
+      "markdown": "<a id='634f7e5f-23be-428e-8015-4137f52b2c03'></a>\n\nKANDHAN METAL COMPANY\nOLD NO: 12, NEW NO :33,JANI BATCHA STREET.\nROYAPETTAH.CHENNAI-600014\nPH:044-28612601/48581793\nGodown No 69/227 NageswaraRao Road\nAthipet, Chennai-58\nGSTIN/UIN: 33AAJPS6304G1ZS\nState Name: Tamil Nadu, Code: 33\nE-Mail: kandhanmetal@gmail.com\n\nConsignee\nSAGAR ASISAGAR ASIA PRIVATE LIMITEDA PVT LTD\nSy. No. 379 to 382, Manoharabad Mandal,\nKallakal Village, Medak, Telangana,\n502336\nGSTIN/UIN : 36AAACZ2890G1Z4\n\nBuyer (if other than consignee)\nSMARTQUIP OVERSEAS COMPANY\nNO 16, 2ND CROSS J C ROAD, SUDHAM\nNAGAR, BANGALORE, Bengaluru (\nBangalore) Urban, Karnataka, 560002\nGSTIN/UIN : 29AGGPJ0910N1ZA",
+      "type": "text"
+    },
+    {
+      "id": "eaea7b32-6076-49b2-909d-671b3d6941a5",
+      "grounding": {
+        "box": {
+          "bottom": 0.4024697244167328,
+          "left": 0.4851920008659363,
+          "right": 0.8442955613136292,
+          "top": 0.04986181855201721
+        },
+        "page": 0
+      },
+      "markdown": "<a id='eaea7b32-6076-49b2-909d-671b3d6941a5'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Invoice No. 812</td><td id=\"0-3\">Dated 2-Dec-2021</td></tr>\n<tr><td id=\"0-4\">Delivery Note</td><td id=\"0-5\">Mode/Terms of Payment</td></tr>\n<tr><td id=\"0-6\">Supplier's Ref.</td><td id=\"0-7\">Other Reference(s)</td></tr>\n<tr><td id=\"0-8\">Despatch Document No.</td><td id=\"0-9\">Delivery Note Date</td></tr>\n<tr><td id=\"0-a\">Despatched through</td><td id=\"0-b\">Destination</td></tr>\n<tr><td id=\"0-c\">Bill of Lading/LR-RR No.</td><td id=\"0-d\">Motor Vehicle No. AP39TD4595</td></tr>\n<tr><td id=\"0-e\" colspan=\"2\">Terms of Delivery SAGAR ASIA PRIVATE LIMITED Sy. No. 379 to 382, Manoharabad Mandal, Kallakal Village, Medak, Telangana, 502336 GST:36AAACZ2890G1Z4</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "29b75730-01df-45c6-a796-a0b7ab300753",
+      "grounding": {
+        "box": {
+          "bottom": 0.6210481524467468,
+          "left": 0.07013878226280212,
+          "right": 0.8427619934082031,
+          "top": 0.39703235030174255
+        },
+        "page": 0
+      },
+      "markdown": "<a id='29b75730-01df-45c6-a796-a0b7ab300753'></a>\n\n<table id=\"0-f\">\n<tr><td id=\"0-g\">Description of Goods</td><td id=\"0-h\">HSN/SAC</td><td id=\"0-i\">Quantity</td><td id=\"0-j\">Rate</td><td id=\"0-k\">per</td><td id=\"0-l\">Amount</td></tr>\n<tr><td id=\"0-m\">ALUMINIUM SCRAPS</td><td id=\"0-n\">7602</td><td id=\"0-o\">26,440.000 Kg</td><td id=\"0-p\">193.00</td><td id=\"0-q\">Kg</td><td id=\"0-r\">51,02,920.00</td></tr>\n<tr><td id=\"0-s\">IGST @ 18%</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">18</td><td id=\"0-w\">%</td><td id=\"0-x\">9,18,525.60</td></tr>\n<tr><td id=\"0-y\">ROUND OFF</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\">0.40</td></tr>\n<tr><td id=\"0-E\">Total</td><td id=\"0-F\"></td><td id=\"0-G\">26,440.000 Kg</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\">60,21,446.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "7a084fd5-5b9c-4afe-b443-c2906ed05c90",
+      "grounding": {
+        "box": {
+          "bottom": 0.8153880834579468,
+          "left": 0.06953784823417664,
+          "right": 0.84192955493927,
+          "top": 0.61434006690979
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7a084fd5-5b9c-4afe-b443-c2906ed05c90'></a>\n\n<table id=\"0-K\">\n<tr><td id=\"0-L\">Amount Chargeable (in words) INR Sixty Lakh Twenty One Thousand Four Hundred Forty Six Only</td><td id=\"0-M\">E. & O.E</td></tr>\n<tr><td id=\"0-N\">Company's PAN : AAJPS6304G</td><td id=\"0-O\" rowspan=\"3\">Company's Bank Details Bank Name : Hdfc BANK Ltd A/c No. : 59209444079789 Branch & IFS Code : AnnaNagar & HDFC0000017</td></tr>\n<tr><td id=\"0-P\" rowspan=\"2\">Declaration We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.</td></tr>\n<tr><td id=\"0-Q\">Customer's Seal and Signature</td><td id=\"0-R\">for KANDHAN METAL COMPANY Authorised Signatory</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "de78d5e5-30c5-4820-842a-19786d1ebbd6",
+      "grounding": {
+        "box": {
+          "bottom": 0.8364787101745605,
+          "left": 0.31841030716896057,
+          "right": 0.5589956045150757,
+          "top": 0.8178292512893677
+        },
+        "page": 0
+      },
+      "markdown": "<a id='de78d5e5-30c5-4820-842a-19786d1ebbd6'></a>\n\nThis Is a Computer Generated Invoice",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='d38cc036-b449-457f-ba7a-ed5ec8db2df8'></a>\n\nTax Invoice\n\n<a id='95b3f28f-7aa0-4ba9-adfd-92552a14e65f'></a>\n\n(ORIGINAL FOR RECIPIENT)\n\n<a id='634f7e5f-23be-428e-8015-4137f52b2c03'></a>\n\nKANDHAN METAL COMPANY\nOLD NO: 12, NEW NO :33,JANI BATCHA STREET.\nROYAPETTAH.CHENNAI-600014\nPH:044-28612601/48581793\nGodown No 69/227 NageswaraRao Road\nAthipet, Chennai-58\nGSTIN/UIN: 33AAJPS6304G1ZS\nState Name: Tamil Nadu, Code: 33\nE-Mail: kandhanmetal@gmail.com\n\nConsignee\nSAGAR ASISAGAR ASIA PRIVATE LIMITEDA PVT LTD\nSy. No. 379 to 382, Manoharabad Mandal,\nKallakal Village, Medak, Telangana,\n502336\nGSTIN/UIN : 36AAACZ2890G1Z4\n\nBuyer (if other than consignee)\nSMARTQUIP OVERSEAS COMPANY\nNO 16, 2ND CROSS J C ROAD, SUDHAM\nNAGAR, BANGALORE, Bengaluru (\nBangalore) Urban, Karnataka, 560002\nGSTIN/UIN : 29AGGPJ0910N1ZA\n\n<a id='eaea7b32-6076-49b2-909d-671b3d6941a5'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Invoice No. 812</td><td id=\"0-3\">Dated 2-Dec-2021</td></tr>\n<tr><td id=\"0-4\">Delivery Note</td><td id=\"0-5\">Mode/Terms of Payment</td></tr>\n<tr><td id=\"0-6\">Supplier's Ref.</td><td id=\"0-7\">Other Reference(s)</td></tr>\n<tr><td id=\"0-8\">Despatch Document No.</td><td id=\"0-9\">Delivery Note Date</td></tr>\n<tr><td id=\"0-a\">Despatched through</td><td id=\"0-b\">Destination</td></tr>\n<tr><td id=\"0-c\">Bill of Lading/LR-RR No.</td><td id=\"0-d\">Motor Vehicle No. AP39TD4595</td></tr>\n<tr><td id=\"0-e\" colspan=\"2\">Terms of Delivery SAGAR ASIA PRIVATE LIMITED Sy. No. 379 to 382, Manoharabad Mandal, Kallakal Village, Medak, Telangana, 502336 GST:36AAACZ2890G1Z4</td></tr>\n</table>\n\n<a id='29b75730-01df-45c6-a796-a0b7ab300753'></a>\n\n<table id=\"0-f\">\n<tr><td id=\"0-g\">Description of Goods</td><td id=\"0-h\">HSN/SAC</td><td id=\"0-i\">Quantity</td><td id=\"0-j\">Rate</td><td id=\"0-k\">per</td><td id=\"0-l\">Amount</td></tr>\n<tr><td id=\"0-m\">ALUMINIUM SCRAPS</td><td id=\"0-n\">7602</td><td id=\"0-o\">26,440.000 Kg</td><td id=\"0-p\">193.00</td><td id=\"0-q\">Kg</td><td id=\"0-r\">51,02,920.00</td></tr>\n<tr><td id=\"0-s\">IGST @ 18%</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">18</td><td id=\"0-w\">%</td><td id=\"0-x\">9,18,525.60</td></tr>\n<tr><td id=\"0-y\">ROUND OFF</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\">0.40</td></tr>\n<tr><td id=\"0-E\">Total</td><td id=\"0-F\"></td><td id=\"0-G\">26,440.000 Kg</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\">60,21,446.00</td></tr>\n</table>\n\n<a id='7a084fd5-5b9c-4afe-b443-c2906ed05c90'></a>\n\n<table id=\"0-K\">\n<tr><td id=\"0-L\">Amount Chargeable (in words) INR Sixty Lakh Twenty One Thousand Four Hundred Forty Six Only</td><td id=\"0-M\">E. & O.E</td></tr>\n<tr><td id=\"0-N\">Company's PAN : AAJPS6304G</td><td id=\"0-O\" rowspan=\"3\">Company's Bank Details Bank Name : Hdfc BANK Ltd A/c No. : 59209444079789 Branch & IFS Code : AnnaNagar & HDFC0000017</td></tr>\n<tr><td id=\"0-P\" rowspan=\"2\">Declaration We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.</td></tr>\n<tr><td id=\"0-Q\">Customer's Seal and Signature</td><td id=\"0-R\">for KANDHAN METAL COMPANY Authorised Signatory</td></tr>\n</table>\n\n<a id='de78d5e5-30c5-4820-842a-19786d1ebbd6'></a>\n\nThis Is a Computer Generated Invoice",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 7905,
+    "filename": "invoice_13.pdf",
+    "job_id": "zitift2n935awogwnyrr8eqan",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "d38cc036-b449-457f-ba7a-ed5ec8db2df8",
+        "95b3f28f-7aa0-4ba9-adfd-92552a14e65f",
+        "634f7e5f-23be-428e-8015-4137f52b2c03",
+        "eaea7b32-6076-49b2-909d-671b3d6941a5",
+        "29b75730-01df-45c6-a796-a0b7ab300753",
+        "7a084fd5-5b9c-4afe-b443-c2906ed05c90",
+        "de78d5e5-30c5-4820-842a-19786d1ebbd6"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='d38cc036-b449-457f-ba7a-ed5ec8db2df8'></a>\n\nTax Invoice\n\n<a id='95b3f28f-7aa0-4ba9-adfd-92552a14e65f'></a>\n\n(ORIGINAL FOR RECIPIENT)\n\n<a id='634f7e5f-23be-428e-8015-4137f52b2c03'></a>\n\nKANDHAN METAL COMPANY\nOLD NO: 12, NEW NO :33,JANI BATCHA STREET.\nROYAPETTAH.CHENNAI-600014\nPH:044-28612601/48581793\nGodown No 69/227 NageswaraRao Road\nAthipet, Chennai-58\nGSTIN/UIN: 33AAJPS6304G1ZS\nState Name: Tamil Nadu, Code: 33\nE-Mail: kandhanmetal@gmail.com\n\nConsignee\nSAGAR ASISAGAR ASIA PRIVATE LIMITEDA PVT LTD\nSy. No. 379 to 382, Manoharabad Mandal,\nKallakal Village, Medak, Telangana,\n502336\nGSTIN/UIN : 36AAACZ2890G1Z4\n\nBuyer (if other than consignee)\nSMARTQUIP OVERSEAS COMPANY\nNO 16, 2ND CROSS J C ROAD, SUDHAM\nNAGAR, BANGALORE, Bengaluru (\nBangalore) Urban, Karnataka, 560002\nGSTIN/UIN : 29AGGPJ0910N1ZA\n\n<a id='eaea7b32-6076-49b2-909d-671b3d6941a5'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Invoice No. 812</td><td id=\"0-3\">Dated 2-Dec-2021</td></tr>\n<tr><td id=\"0-4\">Delivery Note</td><td id=\"0-5\">Mode/Terms of Payment</td></tr>\n<tr><td id=\"0-6\">Supplier's Ref.</td><td id=\"0-7\">Other Reference(s)</td></tr>\n<tr><td id=\"0-8\">Despatch Document No.</td><td id=\"0-9\">Delivery Note Date</td></tr>\n<tr><td id=\"0-a\">Despatched through</td><td id=\"0-b\">Destination</td></tr>\n<tr><td id=\"0-c\">Bill of Lading/LR-RR No.</td><td id=\"0-d\">Motor Vehicle No. AP39TD4595</td></tr>\n<tr><td id=\"0-e\" colspan=\"2\">Terms of Delivery SAGAR ASIA PRIVATE LIMITED Sy. No. 379 to 382, Manoharabad Mandal, Kallakal Village, Medak, Telangana, 502336 GST:36AAACZ2890G1Z4</td></tr>\n</table>\n\n<a id='29b75730-01df-45c6-a796-a0b7ab300753'></a>\n\n<table id=\"0-f\">\n<tr><td id=\"0-g\">Description of Goods</td><td id=\"0-h\">HSN/SAC</td><td id=\"0-i\">Quantity</td><td id=\"0-j\">Rate</td><td id=\"0-k\">per</td><td id=\"0-l\">Amount</td></tr>\n<tr><td id=\"0-m\">ALUMINIUM SCRAPS</td><td id=\"0-n\">7602</td><td id=\"0-o\">26,440.000 Kg</td><td id=\"0-p\">193.00</td><td id=\"0-q\">Kg</td><td id=\"0-r\">51,02,920.00</td></tr>\n<tr><td id=\"0-s\">IGST @ 18%</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">18</td><td id=\"0-w\">%</td><td id=\"0-x\">9,18,525.60</td></tr>\n<tr><td id=\"0-y\">ROUND OFF</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\">0.40</td></tr>\n<tr><td id=\"0-E\">Total</td><td id=\"0-F\"></td><td id=\"0-G\">26,440.000 Kg</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\">60,21,446.00</td></tr>\n</table>\n\n<a id='7a084fd5-5b9c-4afe-b443-c2906ed05c90'></a>\n\n<table id=\"0-K\">\n<tr><td id=\"0-L\">Amount Chargeable (in words) INR Sixty Lakh Twenty One Thousand Four Hundred Forty Six Only</td><td id=\"0-M\">E. & O.E</td></tr>\n<tr><td id=\"0-N\">Company's PAN : AAJPS6304G</td><td id=\"0-O\" rowspan=\"3\">Company's Bank Details Bank Name : Hdfc BANK Ltd A/c No. : 59209444079789 Branch & IFS Code : AnnaNagar & HDFC0000017</td></tr>\n<tr><td id=\"0-P\" rowspan=\"2\">Declaration We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.</td></tr>\n<tr><td id=\"0-Q\">Customer's Seal and Signature</td><td id=\"0-R\">for KANDHAN METAL COMPANY Authorised Signatory</td></tr>\n</table>\n\n<a id='de78d5e5-30c5-4820-842a-19786d1ebbd6'></a>\n\nThis Is a Computer Generated Invoice",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "d38cc036-b449-457f-ba7a-ed5ec8db2df8": {
+      "box": {
+        "bottom": 0.04086274281144142,
+        "left": 0.3944183588027954,
+        "right": 0.505725085735321,
+        "top": 0.021210074424743652
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "95b3f28f-7aa0-4ba9-adfd-92552a14e65f": {
+      "box": {
+        "bottom": 0.03962094336748123,
+        "left": 0.6299343705177307,
+        "right": 0.8244345784187317,
+        "top": 0.017798636108636856
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "634f7e5f-23be-428e-8015-4137f52b2c03": {
+      "box": {
+        "bottom": 0.402715265750885,
+        "left": 0.06802284717559814,
+        "right": 0.49336951971054077,
+        "top": 0.04924289882183075
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "eaea7b32-6076-49b2-909d-671b3d6941a5": {
+      "box": {
+        "bottom": 0.4024697244167328,
+        "left": 0.4851920008659363,
+        "right": 0.8442955613136292,
+        "top": 0.04986181855201721
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.4008279130226171,
+        "left": 0.4896665362011804,
+        "right": 0.8380691320643692,
+        "top": 0.05479761710489378
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.08467935967925255,
+        "left": 0.4896665362011804,
+        "right": 0.662911096536849,
+        "top": 0.05479761710489378
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.08467935967925255,
+        "left": 0.662911096536849,
+        "right": 0.8381485631995957,
+        "top": 0.05479761710489378
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.11330005479935679,
+        "left": 0.4896665362011804,
+        "right": 0.662911096536849,
+        "top": 0.08467935967925255
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.11330005479935679,
+        "left": 0.662911096536849,
+        "right": 0.8381485631995957,
+        "top": 0.08467935967925255
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.1422107670813677,
+        "left": 0.4896665362011804,
+        "right": 0.662911096536849,
+        "top": 0.11330005479935679
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.1422107670813677,
+        "left": 0.662911096536849,
+        "right": 0.8381485631995957,
+        "top": 0.11330005479935679
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.17008623108838883,
+        "left": 0.4896665362011804,
+        "right": 0.662911096536849,
+        "top": 0.1422107670813677
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.17008623108838883,
+        "left": 0.662911096536849,
+        "right": 0.8381485631995957,
+        "top": 0.1422107670813677
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.198852923905255,
+        "left": 0.4896665362011804,
+        "right": 0.662911096536849,
+        "top": 0.17008623108838883
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.198852923905255,
+        "left": 0.662911096536849,
+        "right": 0.8381485631995957,
+        "top": 0.17008623108838883
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.2276863564246483,
+        "left": 0.4896665362011804,
+        "right": 0.662911096536849,
+        "top": 0.198852923905255
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.2276863564246483,
+        "left": 0.662911096536849,
+        "right": 0.8381485631995957,
+        "top": 0.198852923905255
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.4008279130226171,
+        "left": 0.4896665362011804,
+        "right": 0.8381485631995957,
+        "top": 0.2276863564246483
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "29b75730-01df-45c6-a796-a0b7ab300753": {
+      "box": {
+        "bottom": 0.6210481524467468,
+        "left": 0.07013878226280212,
+        "right": 0.8427619934082031,
+        "top": 0.39703235030174255
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.6173177772291023,
+        "left": 0.07427753487582597,
+        "right": 0.8383855862020511,
+        "top": 0.4008504031033079
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.43438662455475674,
+        "left": 0.07427753487582597,
+        "right": 0.44463104434618383,
+        "top": 0.4008504031033079
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.43438662455475674,
+        "left": 0.44463104434618383,
+        "right": 0.5235827759826215,
+        "top": 0.4008504031033079
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.43438662455475674,
+        "left": 0.5235827759826215,
+        "right": 0.6043247534513636,
+        "top": 0.4008504031033079
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.43438662455475674,
+        "left": 0.6043247534513636,
+        "right": 0.6833949076310564,
+        "top": 0.4008504031033079
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.43438662455475674,
+        "left": 0.6833949076310564,
+        "right": 0.7179288370046208,
+        "top": 0.4008504031033079
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.43438662455475674,
+        "left": 0.7179288370046208,
+        "right": 0.838299607244922,
+        "top": 0.4008504031033079
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.4591956212742012,
+        "left": 0.07427753487582597,
+        "right": 0.44463104434618383,
+        "top": 0.43438662455475674
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.4591956212742012,
+        "left": 0.44463104434618383,
+        "right": 0.5235827759826215,
+        "top": 0.43438662455475674
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.4591956212742012,
+        "left": 0.5235827759826215,
+        "right": 0.6043247534513636,
+        "top": 0.43438662455475674
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.4591956212742012,
+        "left": 0.6043247534513636,
+        "right": 0.6833949076310564,
+        "top": 0.43438662455475674
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.4591956212742012,
+        "left": 0.6833949076310564,
+        "right": 0.7179288370046208,
+        "top": 0.43438662455475674
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.4591956212742012,
+        "left": 0.7179288370046208,
+        "right": 0.838299607244922,
+        "top": 0.43438662455475674
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5020098081636899,
+        "left": 0.07427753487582597,
+        "right": 0.44463104434618383,
+        "top": 0.4591956212742012
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5020098081636899,
+        "left": 0.44463104434618383,
+        "right": 0.5235827759826215,
+        "top": 0.4591956212742012
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5020098081636899,
+        "left": 0.5235827759826215,
+        "right": 0.6043247534513636,
+        "top": 0.4591956212742012
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5020098081636899,
+        "left": 0.6043247534513636,
+        "right": 0.6833949076310564,
+        "top": 0.4591956212742012
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5020098081636899,
+        "left": 0.6833949076310564,
+        "right": 0.7179288370046208,
+        "top": 0.4591956212742012
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.5020098081636899,
+        "left": 0.7179288370046208,
+        "right": 0.838299607244922,
+        "top": 0.4591956212742012
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5967780478630846,
+        "left": 0.07427753487582597,
+        "right": 0.44463104434618383,
+        "top": 0.5020098081636899
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5967780478630846,
+        "left": 0.44463104434618383,
+        "right": 0.5235827759826215,
+        "top": 0.5020098081636899
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5967780478630846,
+        "left": 0.5235827759826215,
+        "right": 0.6043247534513636,
+        "top": 0.5020098081636899
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5967780478630846,
+        "left": 0.6043247534513636,
+        "right": 0.6833949076310564,
+        "top": 0.5020098081636899
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5967780478630846,
+        "left": 0.6833949076310564,
+        "right": 0.7179288370046208,
+        "top": 0.5020098081636899
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5967780478630846,
+        "left": 0.7179288370046208,
+        "right": 0.838299607244922,
+        "top": 0.5020098081636899
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.6173177772291023,
+        "left": 0.07427753487582597,
+        "right": 0.44463104434618383,
+        "top": 0.5967780478630846
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.6173177772291023,
+        "left": 0.44463104434618383,
+        "right": 0.5235827759826215,
+        "top": 0.5967780478630846
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.6173177772291023,
+        "left": 0.5235827759826215,
+        "right": 0.6043247534513636,
+        "top": 0.5967780478630846
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.6173177772291023,
+        "left": 0.6043247534513636,
+        "right": 0.6833949076310564,
+        "top": 0.5967780478630846
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.6173177772291023,
+        "left": 0.6833949076310564,
+        "right": 0.7179288370046208,
+        "top": 0.5967780478630846
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.6173177772291023,
+        "left": 0.7179288370046208,
+        "right": 0.838299607244922,
+        "top": 0.5967780478630846
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "7a084fd5-5b9c-4afe-b443-c2906ed05c90": {
+      "box": {
+        "bottom": 0.8153880834579468,
+        "left": 0.06953784823417664,
+        "right": 0.84192955493927,
+        "top": 0.61434006690979
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.8118661754718133,
+        "left": 0.07469669909823519,
+        "right": 0.8385772422244884,
+        "top": 0.6172212337798951
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.6617950145506661,
+        "left": 0.07469669909823519,
+        "right": 0.4527441693623899,
+        "top": 0.6172212337798951
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.6617950145506661,
+        "left": 0.4527441693623899,
+        "right": 0.8385077706813302,
+        "top": 0.6172212337798951
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.7091702606273458,
+        "left": 0.07469669909823519,
+        "right": 0.4527441693623899,
+        "top": 0.6617950145506661
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.8118661754718133,
+        "left": 0.4527441693623899,
+        "right": 0.8385077706813302,
+        "top": 0.6617950145506661
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.8118661754718133,
+        "left": 0.07469669909823519,
+        "right": 0.8385077706813302,
+        "top": 0.7091702606273458
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.8118661754718133,
+        "left": 0.07469669909823519,
+        "right": 0.4527441693623899,
+        "top": 0.7594204371529187
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.8118661754718133,
+        "left": 0.4527441693623899,
+        "right": 0.8385077706813302,
+        "top": 0.7594204371529187
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "de78d5e5-30c5-4820-842a-19786d1ebbd6": {
+      "box": {
+        "bottom": 0.8364787101745605,
+        "left": 0.31841030716896057,
+        "right": 0.5589956045150757,
+        "top": 0.8178292512893677
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

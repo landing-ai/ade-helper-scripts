@@ -1,0 +1,841 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_number": "O-0023-14214",
+      "invoice_date_raw": "MAY 27, 2024 11:27 AM",
+      "invoice_date": "2024-05-27",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "ANDREA KROPP",
+      "sold_to_address": "227 N 5TH AVE RIDGEFIELD, WA 98642",
+      "customer_email": "ANDR3AKROPP@GMAIL.COM"
+    },
+    "company_info": {
+      "supplier_name": "OILSTOP",
+      "supplier_address": "1316 NE 134TH ST, VANCOUVER, WA 98685",
+      "representative": "TY WALLACE; WILLIAM HOLLINGSWORTH; MALIQUE TULCHINSKY; GRIFFIN HUNT",
+      "email": null,
+      "phone": "(360) 571 9950",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": null,
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$ 228.19",
+      "total_due": 228.19,
+      "subtotal": 210.32,
+      "tax": 17.87,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "SYNTHETIC 33-POINT SERVICE",
+        "quantity": 1,
+        "unit_price": 105.99,
+        "price": null,
+        "amount": 105.99,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "WASTE DISPOSAL FEE",
+        "quantity": 1,
+        "unit_price": 4.5,
+        "price": null,
+        "amount": 4.5,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "CHARITABLE DONATION- $1",
+        "quantity": 1,
+        "unit_price": 1,
+        "price": null,
+        "amount": 1,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "OTHER",
+        "quantity": 1,
+        "unit_price": 0,
+        "price": null,
+        "amount": 0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "T108; T111TB",
+        "description": "OIL SYSTEM CLEANER 8 OZ. ENGINE MAX TREATMENT",
+        "quantity": 1,
+        "unit_price": 16.99,
+        "price": null,
+        "amount": 16.99,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "T111; 12449",
+        "description": "W/PTFE 11OZ (T111) 12449 - 12MM NISSAN COPPER GASKET",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "price": null,
+        "amount": 19.99,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "DP6925; DPG-6925; PL14612",
+        "description": "PUROLATOR ONE PREMIUM",
+        "quantity": 1,
+        "unit_price": 0,
+        "price": null,
+        "amount": 0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "PL14612; PG4612EX; POS4612; PAF4727",
+        "description": "AIR FILTER #PAF4727",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "price": null,
+        "amount": 14.99,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "AF7845; A4727; CHS530",
+        "description": "5W30 SYNTH",
+        "quantity": 1,
+        "unit_price": 28.67,
+        "price": null,
+        "amount": 28.67,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "CHS530",
+        "description": "CHEVRON/HAVOLINE API GF5SN+/DEXOS G CHS530 - 5W30 SYNTH",
+        "quantity": 0.1,
+        "unit_price": 1.2,
+        "price": null,
+        "amount": 1.2,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "CHEVRON/HAVOLINE API GF5SN+/DEXOS G5 quarts CHTECHRON - TECHRON FUEL SYSTEM",
+        "quantity": null,
+        "unit_price": 0,
+        "price": null,
+        "amount": 0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "CLEANER 20 OZ.",
+        "quantity": 1,
+        "unit_price": 16.99,
+        "price": null,
+        "amount": 16.99,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_number": {
+        "value": "O-0023-14214",
+        "references": [
+          "c9766ec5-e39e-4aa6-bffd-e23559d56125",
+          "8f073c9e-ec5a-4730-84da-206833625a33"
+        ]
+      },
+      "invoice_date_raw": {
+        "value": "MAY 27, 2024 11:27 AM",
+        "references": [
+          "c9766ec5-e39e-4aa6-bffd-e23559d56125",
+          "9f68b3ef-8c74-47c0-94c4-f61e32488313"
+        ]
+      },
+      "invoice_date": {
+        "value": "2024-05-27",
+        "references": [
+          "c9766ec5-e39e-4aa6-bffd-e23559d56125",
+          "9f68b3ef-8c74-47c0-94c4-f61e32488313"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "ANDREA KROPP",
+        "references": [
+          "73837e0d-d713-4912-87da-32c02affb955",
+          "8f073c9e-ec5a-4730-84da-206833625a33"
+        ]
+      },
+      "sold_to_address": {
+        "value": "227 N 5TH AVE RIDGEFIELD, WA 98642",
+        "references": [
+          "73837e0d-d713-4912-87da-32c02affb955"
+        ]
+      },
+      "customer_email": {
+        "value": "ANDR3AKROPP@GMAIL.COM",
+        "references": [
+          "73837e0d-d713-4912-87da-32c02affb955"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "OILSTOP",
+        "references": [
+          "e532217c-58f0-424d-86f7-b5f0bb920e8e"
+        ]
+      },
+      "supplier_address": {
+        "value": "1316 NE 134TH ST, VANCOUVER, WA 98685",
+        "references": [
+          "4d69d46b-10d9-4e37-897f-769929357667"
+        ]
+      },
+      "representative": {
+        "value": "TY WALLACE; WILLIAM HOLLINGSWORTH; MALIQUE TULCHINSKY; GRIFFIN HUNT",
+        "references": [
+          "c9766ec5-e39e-4aa6-bffd-e23559d56125"
+        ]
+      },
+      "email": {
+        "value": null,
+        "references": []
+      },
+      "phone": {
+        "value": "(360) 571 9950",
+        "references": [
+          "4d69d46b-10d9-4e37-897f-769929357667"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": null,
+        "references": []
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "0-L"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$ 228.19",
+        "references": [
+          "0-L"
+        ]
+      },
+      "total_due": {
+        "value": 228.19,
+        "references": [
+          "0-L"
+        ]
+      },
+      "subtotal": {
+        "value": 210.32,
+        "references": [
+          "0-H"
+        ]
+      },
+      "tax": {
+        "value": 17.87,
+        "references": [
+          "0-J"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "SYNTHETIC 33-POINT SERVICE",
+          "references": [
+            "0-6"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-7"
+          ]
+        },
+        "unit_price": {
+          "value": 105.99,
+          "references": [
+            "0-8"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 105.99,
+          "references": [
+            "0-8"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "WASTE DISPOSAL FEE",
+          "references": [
+            "0-9"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-a"
+          ]
+        },
+        "unit_price": {
+          "value": 4.5,
+          "references": [
+            "0-b"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 4.5,
+          "references": [
+            "0-b"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "CHARITABLE DONATION- $1",
+          "references": [
+            "0-c"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-d"
+          ]
+        },
+        "unit_price": {
+          "value": 1,
+          "references": [
+            "0-e"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 1,
+          "references": [
+            "0-e"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "OTHER",
+          "references": [
+            "0-f"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-g"
+          ]
+        },
+        "unit_price": {
+          "value": 0,
+          "references": [
+            "0-h"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 0,
+          "references": [
+            "0-h"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "T108; T111TB",
+          "references": [
+            "0-i"
+          ]
+        },
+        "description": {
+          "value": "OIL SYSTEM CLEANER 8 OZ. ENGINE MAX TREATMENT",
+          "references": [
+            "0-i"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-j"
+          ]
+        },
+        "unit_price": {
+          "value": 16.99,
+          "references": [
+            "0-k"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 16.99,
+          "references": [
+            "0-k"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "T111; 12449",
+          "references": [
+            "0-l"
+          ]
+        },
+        "description": {
+          "value": "W/PTFE 11OZ (T111) 12449 - 12MM NISSAN COPPER GASKET",
+          "references": [
+            "0-l"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-m"
+          ]
+        },
+        "unit_price": {
+          "value": 19.99,
+          "references": [
+            "0-n"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 19.99,
+          "references": [
+            "0-n"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "DP6925; DPG-6925; PL14612",
+          "references": [
+            "0-o"
+          ]
+        },
+        "description": {
+          "value": "PUROLATOR ONE PREMIUM",
+          "references": [
+            "0-o"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-p"
+          ]
+        },
+        "unit_price": {
+          "value": 0,
+          "references": [
+            "0-q"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 0,
+          "references": [
+            "0-q"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "PL14612; PG4612EX; POS4612; PAF4727",
+          "references": [
+            "0-r"
+          ]
+        },
+        "description": {
+          "value": "AIR FILTER #PAF4727",
+          "references": [
+            "0-r"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-s"
+          ]
+        },
+        "unit_price": {
+          "value": 14.99,
+          "references": [
+            "0-t"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 14.99,
+          "references": [
+            "0-t"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "AF7845; A4727; CHS530",
+          "references": [
+            "0-u"
+          ]
+        },
+        "description": {
+          "value": "5W30 SYNTH",
+          "references": [
+            "0-u"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-v"
+          ]
+        },
+        "unit_price": {
+          "value": 28.67,
+          "references": [
+            "0-w"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 28.67,
+          "references": [
+            "0-w"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "CHS530",
+          "references": [
+            "0-x"
+          ]
+        },
+        "description": {
+          "value": "CHEVRON/HAVOLINE API GF5SN+/DEXOS G CHS530 - 5W30 SYNTH",
+          "references": [
+            "0-x"
+          ]
+        },
+        "quantity": {
+          "value": 0.1,
+          "references": [
+            "0-y"
+          ]
+        },
+        "unit_price": {
+          "value": 1.2,
+          "references": [
+            "0-z"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 1.2,
+          "references": [
+            "0-z"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "CHEVRON/HAVOLINE API GF5SN+/DEXOS G5 quarts CHTECHRON - TECHRON FUEL SYSTEM",
+          "references": [
+            "0-A"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": 0,
+          "references": [
+            "0-B"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 0,
+          "references": [
+            "0-B"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "CLEANER 20 OZ.",
+          "references": [
+            "0-C"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-D"
+          ]
+        },
+        "unit_price": {
+          "value": 16.99,
+          "references": [
+            "0-E"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 16.99,
+          "references": [
+            "0-E"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 5.8,
+    "duration_ms": 81926,
+    "filename": "upload",
+    "job_id": "h0exez77nd55ov9xxnyftfx09",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

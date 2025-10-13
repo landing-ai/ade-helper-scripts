@@ -1,0 +1,253 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "08/30/2021",
+      "invoice_date": "2021-08-30",
+      "invoice_number": "2071221",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Souhail Martesse",
+      "sold_to_address": "4 Rue des \u00c9coles\n28120, Nogent-sur-Eure\nFRANCE",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "DollarFulfillment",
+      "supplier_address": "10450 N Airport Rd Hayden, ID 83835\nUnited States",
+      "representative": null,
+      "email": "Support@DollarFulfillment.com",
+      "phone": "+1 855-441-7447",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": null,
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$1800.87",
+      "total_due": 1800.87,
+      "subtotal": null,
+      "tax": null,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Apple iPhone 12 Pro Max 256 GB Excellent Condition",
+        "quantity": 3,
+        "unit_price": 600.29,
+        "price": null,
+        "amount": 1800.87,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "08/30/2021",
+        "references": [
+          "b8b164c2-6b64-4293-ba7f-e8f937cdcb36"
+        ]
+      },
+      "invoice_date": {
+        "value": "2021-08-30",
+        "references": [
+          "b8b164c2-6b64-4293-ba7f-e8f937cdcb36"
+        ]
+      },
+      "invoice_number": {
+        "value": "2071221",
+        "references": [
+          "3de14277-4459-422f-b66a-0dc5080bdd55",
+          "b8b164c2-6b64-4293-ba7f-e8f937cdcb36"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Souhail Martesse",
+        "references": [
+          "af0e6d58-018e-4f62-b1f8-5fee518b0a2f"
+        ]
+      },
+      "sold_to_address": {
+        "value": "4 Rue des \u00c9coles\n28120, Nogent-sur-Eure\nFRANCE",
+        "references": [
+          "af0e6d58-018e-4f62-b1f8-5fee518b0a2f"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "DollarFulfillment",
+        "references": [
+          "de09e0d6-f0de-449a-bb02-b20ee107a567"
+        ]
+      },
+      "supplier_address": {
+        "value": "10450 N Airport Rd Hayden, ID 83835\nUnited States",
+        "references": [
+          "a2f19cdb-8bd6-45a0-8cf9-9f0d22f5ae8a"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "Support@DollarFulfillment.com",
+        "references": [
+          "a2f19cdb-8bd6-45a0-8cf9-9f0d22f5ae8a",
+          "e5281ce6-612d-45a6-bc82-c825e8c46b65"
+        ]
+      },
+      "phone": {
+        "value": "+1 855-441-7447",
+        "references": [
+          "e5281ce6-612d-45a6-bc82-c825e8c46b65"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": null,
+        "references": []
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "0-8",
+          "0-9",
+          "0-d"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$1800.87",
+        "references": [
+          "0-d"
+        ]
+      },
+      "total_due": {
+        "value": 1800.87,
+        "references": [
+          "0-d"
+        ]
+      },
+      "subtotal": {
+        "value": null,
+        "references": []
+      },
+      "tax": {
+        "value": null,
+        "references": []
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Apple iPhone 12 Pro Max 256 GB Excellent Condition",
+          "references": [
+            "0-6"
+          ]
+        },
+        "quantity": {
+          "value": 3,
+          "references": [
+            "0-7"
+          ]
+        },
+        "unit_price": {
+          "value": 600.29,
+          "references": [
+            "0-8"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 1800.87,
+          "references": [
+            "0-9"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.4,
+    "duration_ms": 22759,
+    "filename": "upload",
+    "job_id": "y9zkfl6etzib8wqvqqvvhmmbt",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

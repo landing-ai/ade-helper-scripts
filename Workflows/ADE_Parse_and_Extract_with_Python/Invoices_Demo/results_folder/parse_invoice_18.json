@@ -1,0 +1,1214 @@
+{
+  "chunks": [
+    {
+      "id": "f77087fe-490b-4e2a-9b12-c6ecdca451d4",
+      "grounding": {
+        "box": {
+          "bottom": 0.17650283873081207,
+          "left": 0.08387713134288788,
+          "right": 0.3913699984550476,
+          "top": 0.067371666431427
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f77087fe-490b-4e2a-9b12-c6ecdca451d4'></a>\n\n<::logo: HOWARD CUSTOM TRANSFERS, INC.\nHOWARD\nCUSTOM TRANSFERS, INC.\n1925 Holmes Rd #400\nElgin IL 60123\nA stylized green 'h' inside a black outlined circle::>",
+      "type": "logo"
+    },
+    {
+      "id": "081466e6-1ef7-4da8-9661-281673279761",
+      "grounding": {
+        "box": {
+          "bottom": 0.12003587931394577,
+          "left": 0.4575788676738739,
+          "right": 0.5416440367698669,
+          "top": 0.08609601110219955
+        },
+        "page": 0
+      },
+      "markdown": "<a id='081466e6-1ef7-4da8-9661-281673279761'></a>\n\n<::attestation: Status indicator\nStatus indicators - PAID\nReadable Text: PAID\nThe word \"PAID\" is prominently displayed in red, centered on a white background.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "6dfc67ac-0e9f-494b-87c9-01a635ecfaf1",
+      "grounding": {
+        "box": {
+          "bottom": 0.13334384560585022,
+          "left": 0.7167072296142578,
+          "right": 0.9097530841827393,
+          "top": 0.07587598264217377
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6dfc67ac-0e9f-494b-87c9-01a635ecfaf1'></a>\n\n*116271*\n\nInvoice: 00000116271",
+      "type": "text"
+    },
+    {
+      "id": "b1478114-65f8-4ad0-a0f1-e82f9d845a65",
+      "grounding": {
+        "box": {
+          "bottom": 0.3478654623031616,
+          "left": 0.08380518853664398,
+          "right": 0.4186515808105469,
+          "top": 0.1932252049446106
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b1478114-65f8-4ad0-a0f1-e82f9d845a65'></a>\n\n## Customer Information\n\nSold To: Meridian Venture Services, LLC\nAddress: 227 N 5th Avenue\nCity, State, ZIP: Ridgefield, WA 98642\nContact: Andrea Kropp\nOffice Phone: **360-624-2355**\nHome Phone: [None]\nCell Phone: [None]\nTerms: Prepay",
+      "type": "text"
+    },
+    {
+      "id": "d5379bad-dd59-4a74-a18a-9236d1108238",
+      "grounding": {
+        "box": {
+          "bottom": 0.34940293431282043,
+          "left": 0.49407392740249634,
+          "right": 0.8300791382789612,
+          "top": 0.21537694334983826
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d5379bad-dd59-4a74-a18a-9236d1108238'></a>\n\nShip To: Meridian Venture Services, LLC\nAddress: 227 N 5th Avenue\nCity, State, ZIP: Ridgefield, WA 98642\nFax: [None]\nEmail: pololifeshop@gmail.com\nShip Date: **2/10/2020**\nShipping: Ground\nUPS Tracking #: 1Z77Y5Y70365096016",
+      "type": "text"
+    },
+    {
+      "id": "ed1b872f-2cca-434a-80bb-c6023c8d2679",
+      "grounding": {
+        "box": {
+          "bottom": 0.590835452079773,
+          "left": 0.08393040299415588,
+          "right": 0.9087662696838379,
+          "top": 0.3604520857334137
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ed1b872f-2cca-434a-80bb-c6023c8d2679'></a>\n\nOrder Information\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Order ID</td><td id=\"0-3\">Customer</td><td id=\"0-4\">Description</td><td id=\"0-5\">Product Line</td><td id=\"0-6\">Colors</td><td id=\"0-7\">Qty</td><td id=\"0-8\">Status</td><td id=\"0-9\">Shipping</td><td id=\"0-a\">Ship Date</td><td id=\"0-b\">Total</td></tr>\n<tr><td id=\"0-c\">02102007-DP</td><td id=\"0-d\">Meridian Venture Services, LLC</td><td id=\"0-e\">Polo Bear Gang **NEW ACCOUNT**</td><td id=\"0-f\">Heat Transfers</td><td id=\"0-g\">2</td><td id=\"0-h\">24</td><td id=\"0-i\">Shipped</td><td id=\"0-j\">Ground</td><td id=\"0-k\">2/10/2020</td><td id=\"0-l\">$144.00</td></tr>\n<tr><td id=\"0-m\">02102008-DP</td><td id=\"0-n\">Meridian Venture Services, LLC</td><td id=\"0-o\">Water polo stamps **NEW ACCOUNT**</td><td id=\"0-p\">Digital Transfers</td><td id=\"0-q\">0</td><td id=\"0-r\">24</td><td id=\"0-s\">Shipped</td><td id=\"0-t\">Ground</td><td id=\"0-u\">2/10/2020</td><td id=\"0-v\">$126.00</td></tr>\n<tr><td id=\"0-w\">Total:</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\">$270.00</td></tr>\n<tr><td id=\"0-G\">Discount:</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\">($50.00)</td></tr>\n<tr><td id=\"0-Q\">Freight Cost:</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\">$24.31</td></tr>\n<tr><td id=\"0-10\">Handling Fee:</td><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\">$3.00</td></tr>\n<tr><td id=\"0-1a\">Grand Total:</td><td id=\"0-1b\"></td><td id=\"0-1c\"></td><td id=\"0-1d\"></td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\">$247.31</td></tr>\n<tr><td id=\"0-1k\">Amount Paid:</td><td id=\"0-1l\"></td><td id=\"0-1m\"></td><td id=\"0-1n\"></td><td id=\"0-1o\"></td><td id=\"0-1p\"></td><td id=\"0-1q\"></td><td id=\"0-1r\"></td><td id=\"0-1s\"></td><td id=\"0-1t\">($247.31)</td></tr>\n<tr><td id=\"0-1u\">Balance Due:</td><td id=\"0-1v\"></td><td id=\"0-1w\"></td><td id=\"0-1x\"></td><td id=\"0-1y\"></td><td id=\"0-1z\"></td><td id=\"0-1A\"></td><td id=\"0-1B\"></td><td id=\"0-1C\"></td><td id=\"0-1D\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "42838d74-acdc-4bdc-be3a-09ad0fb7f0e2",
+      "grounding": {
+        "box": {
+          "bottom": 0.6289862394332886,
+          "left": 0.09263288974761963,
+          "right": 0.9068159461021423,
+          "top": 0.5965675115585327
+        },
+        "page": 0
+      },
+      "markdown": "<a id='42838d74-acdc-4bdc-be3a-09ad0fb7f0e2'></a>\n\nPlease remit payment per your terms. If you have any questions or concerns please feel free to contact us at (866)695-8195 or send an email to accounting@howardct.com. Thank you for your business!",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='f77087fe-490b-4e2a-9b12-c6ecdca451d4'></a>\n\n<::logo: HOWARD CUSTOM TRANSFERS, INC.\nHOWARD\nCUSTOM TRANSFERS, INC.\n1925 Holmes Rd #400\nElgin IL 60123\nA stylized green 'h' inside a black outlined circle::>\n\n<a id='081466e6-1ef7-4da8-9661-281673279761'></a>\n\n<::attestation: Status indicator\nStatus indicators - PAID\nReadable Text: PAID\nThe word \"PAID\" is prominently displayed in red, centered on a white background.::>\n\n<a id='6dfc67ac-0e9f-494b-87c9-01a635ecfaf1'></a>\n\n*116271*\n\nInvoice: 00000116271\n\n<a id='b1478114-65f8-4ad0-a0f1-e82f9d845a65'></a>\n\n## Customer Information\n\nSold To: Meridian Venture Services, LLC\nAddress: 227 N 5th Avenue\nCity, State, ZIP: Ridgefield, WA 98642\nContact: Andrea Kropp\nOffice Phone: **360-624-2355**\nHome Phone: [None]\nCell Phone: [None]\nTerms: Prepay\n\n<a id='d5379bad-dd59-4a74-a18a-9236d1108238'></a>\n\nShip To: Meridian Venture Services, LLC\nAddress: 227 N 5th Avenue\nCity, State, ZIP: Ridgefield, WA 98642\nFax: [None]\nEmail: pololifeshop@gmail.com\nShip Date: **2/10/2020**\nShipping: Ground\nUPS Tracking #: 1Z77Y5Y70365096016\n\n<a id='ed1b872f-2cca-434a-80bb-c6023c8d2679'></a>\n\nOrder Information\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Order ID</td><td id=\"0-3\">Customer</td><td id=\"0-4\">Description</td><td id=\"0-5\">Product Line</td><td id=\"0-6\">Colors</td><td id=\"0-7\">Qty</td><td id=\"0-8\">Status</td><td id=\"0-9\">Shipping</td><td id=\"0-a\">Ship Date</td><td id=\"0-b\">Total</td></tr>\n<tr><td id=\"0-c\">02102007-DP</td><td id=\"0-d\">Meridian Venture Services, LLC</td><td id=\"0-e\">Polo Bear Gang **NEW ACCOUNT**</td><td id=\"0-f\">Heat Transfers</td><td id=\"0-g\">2</td><td id=\"0-h\">24</td><td id=\"0-i\">Shipped</td><td id=\"0-j\">Ground</td><td id=\"0-k\">2/10/2020</td><td id=\"0-l\">$144.00</td></tr>\n<tr><td id=\"0-m\">02102008-DP</td><td id=\"0-n\">Meridian Venture Services, LLC</td><td id=\"0-o\">Water polo stamps **NEW ACCOUNT**</td><td id=\"0-p\">Digital Transfers</td><td id=\"0-q\">0</td><td id=\"0-r\">24</td><td id=\"0-s\">Shipped</td><td id=\"0-t\">Ground</td><td id=\"0-u\">2/10/2020</td><td id=\"0-v\">$126.00</td></tr>\n<tr><td id=\"0-w\">Total:</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\">$270.00</td></tr>\n<tr><td id=\"0-G\">Discount:</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\">($50.00)</td></tr>\n<tr><td id=\"0-Q\">Freight Cost:</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\">$24.31</td></tr>\n<tr><td id=\"0-10\">Handling Fee:</td><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\">$3.00</td></tr>\n<tr><td id=\"0-1a\">Grand Total:</td><td id=\"0-1b\"></td><td id=\"0-1c\"></td><td id=\"0-1d\"></td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\">$247.31</td></tr>\n<tr><td id=\"0-1k\">Amount Paid:</td><td id=\"0-1l\"></td><td id=\"0-1m\"></td><td id=\"0-1n\"></td><td id=\"0-1o\"></td><td id=\"0-1p\"></td><td id=\"0-1q\"></td><td id=\"0-1r\"></td><td id=\"0-1s\"></td><td id=\"0-1t\">($247.31)</td></tr>\n<tr><td id=\"0-1u\">Balance Due:</td><td id=\"0-1v\"></td><td id=\"0-1w\"></td><td id=\"0-1x\"></td><td id=\"0-1y\"></td><td id=\"0-1z\"></td><td id=\"0-1A\"></td><td id=\"0-1B\"></td><td id=\"0-1C\"></td><td id=\"0-1D\">$0.00</td></tr>\n</table>\n\n<a id='42838d74-acdc-4bdc-be3a-09ad0fb7f0e2'></a>\n\nPlease remit payment per your terms. If you have any questions or concerns please feel free to contact us at (866)695-8195 or send an email to accounting@howardct.com. Thank you for your business!",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 7391,
+    "filename": "invoice_18.pdf",
+    "job_id": "mcji92a3k4helirmxsfctvron",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "f77087fe-490b-4e2a-9b12-c6ecdca451d4",
+        "081466e6-1ef7-4da8-9661-281673279761",
+        "6dfc67ac-0e9f-494b-87c9-01a635ecfaf1",
+        "b1478114-65f8-4ad0-a0f1-e82f9d845a65",
+        "d5379bad-dd59-4a74-a18a-9236d1108238",
+        "ed1b872f-2cca-434a-80bb-c6023c8d2679",
+        "42838d74-acdc-4bdc-be3a-09ad0fb7f0e2"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='f77087fe-490b-4e2a-9b12-c6ecdca451d4'></a>\n\n<::logo: HOWARD CUSTOM TRANSFERS, INC.\nHOWARD\nCUSTOM TRANSFERS, INC.\n1925 Holmes Rd #400\nElgin IL 60123\nA stylized green 'h' inside a black outlined circle::>\n\n<a id='081466e6-1ef7-4da8-9661-281673279761'></a>\n\n<::attestation: Status indicator\nStatus indicators - PAID\nReadable Text: PAID\nThe word \"PAID\" is prominently displayed in red, centered on a white background.::>\n\n<a id='6dfc67ac-0e9f-494b-87c9-01a635ecfaf1'></a>\n\n*116271*\n\nInvoice: 00000116271\n\n<a id='b1478114-65f8-4ad0-a0f1-e82f9d845a65'></a>\n\n## Customer Information\n\nSold To: Meridian Venture Services, LLC\nAddress: 227 N 5th Avenue\nCity, State, ZIP: Ridgefield, WA 98642\nContact: Andrea Kropp\nOffice Phone: **360-624-2355**\nHome Phone: [None]\nCell Phone: [None]\nTerms: Prepay\n\n<a id='d5379bad-dd59-4a74-a18a-9236d1108238'></a>\n\nShip To: Meridian Venture Services, LLC\nAddress: 227 N 5th Avenue\nCity, State, ZIP: Ridgefield, WA 98642\nFax: [None]\nEmail: pololifeshop@gmail.com\nShip Date: **2/10/2020**\nShipping: Ground\nUPS Tracking #: 1Z77Y5Y70365096016\n\n<a id='ed1b872f-2cca-434a-80bb-c6023c8d2679'></a>\n\nOrder Information\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Order ID</td><td id=\"0-3\">Customer</td><td id=\"0-4\">Description</td><td id=\"0-5\">Product Line</td><td id=\"0-6\">Colors</td><td id=\"0-7\">Qty</td><td id=\"0-8\">Status</td><td id=\"0-9\">Shipping</td><td id=\"0-a\">Ship Date</td><td id=\"0-b\">Total</td></tr>\n<tr><td id=\"0-c\">02102007-DP</td><td id=\"0-d\">Meridian Venture Services, LLC</td><td id=\"0-e\">Polo Bear Gang **NEW ACCOUNT**</td><td id=\"0-f\">Heat Transfers</td><td id=\"0-g\">2</td><td id=\"0-h\">24</td><td id=\"0-i\">Shipped</td><td id=\"0-j\">Ground</td><td id=\"0-k\">2/10/2020</td><td id=\"0-l\">$144.00</td></tr>\n<tr><td id=\"0-m\">02102008-DP</td><td id=\"0-n\">Meridian Venture Services, LLC</td><td id=\"0-o\">Water polo stamps **NEW ACCOUNT**</td><td id=\"0-p\">Digital Transfers</td><td id=\"0-q\">0</td><td id=\"0-r\">24</td><td id=\"0-s\">Shipped</td><td id=\"0-t\">Ground</td><td id=\"0-u\">2/10/2020</td><td id=\"0-v\">$126.00</td></tr>\n<tr><td id=\"0-w\">Total:</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\">$270.00</td></tr>\n<tr><td id=\"0-G\">Discount:</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\">($50.00)</td></tr>\n<tr><td id=\"0-Q\">Freight Cost:</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\">$24.31</td></tr>\n<tr><td id=\"0-10\">Handling Fee:</td><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\">$3.00</td></tr>\n<tr><td id=\"0-1a\">Grand Total:</td><td id=\"0-1b\"></td><td id=\"0-1c\"></td><td id=\"0-1d\"></td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\">$247.31</td></tr>\n<tr><td id=\"0-1k\">Amount Paid:</td><td id=\"0-1l\"></td><td id=\"0-1m\"></td><td id=\"0-1n\"></td><td id=\"0-1o\"></td><td id=\"0-1p\"></td><td id=\"0-1q\"></td><td id=\"0-1r\"></td><td id=\"0-1s\"></td><td id=\"0-1t\">($247.31)</td></tr>\n<tr><td id=\"0-1u\">Balance Due:</td><td id=\"0-1v\"></td><td id=\"0-1w\"></td><td id=\"0-1x\"></td><td id=\"0-1y\"></td><td id=\"0-1z\"></td><td id=\"0-1A\"></td><td id=\"0-1B\"></td><td id=\"0-1C\"></td><td id=\"0-1D\">$0.00</td></tr>\n</table>\n\n<a id='42838d74-acdc-4bdc-be3a-09ad0fb7f0e2'></a>\n\nPlease remit payment per your terms. If you have any questions or concerns please feel free to contact us at (866)695-8195 or send an email to accounting@howardct.com. Thank you for your business!",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "f77087fe-490b-4e2a-9b12-c6ecdca451d4": {
+      "box": {
+        "bottom": 0.17650283873081207,
+        "left": 0.08387713134288788,
+        "right": 0.3913699984550476,
+        "top": 0.067371666431427
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "081466e6-1ef7-4da8-9661-281673279761": {
+      "box": {
+        "bottom": 0.12003587931394577,
+        "left": 0.4575788676738739,
+        "right": 0.5416440367698669,
+        "top": 0.08609601110219955
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "6dfc67ac-0e9f-494b-87c9-01a635ecfaf1": {
+      "box": {
+        "bottom": 0.13334384560585022,
+        "left": 0.7167072296142578,
+        "right": 0.9097530841827393,
+        "top": 0.07587598264217377
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b1478114-65f8-4ad0-a0f1-e82f9d845a65": {
+      "box": {
+        "bottom": 0.3478654623031616,
+        "left": 0.08380518853664398,
+        "right": 0.4186515808105469,
+        "top": 0.1932252049446106
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d5379bad-dd59-4a74-a18a-9236d1108238": {
+      "box": {
+        "bottom": 0.34940293431282043,
+        "left": 0.49407392740249634,
+        "right": 0.8300791382789612,
+        "top": 0.21537694334983826
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ed1b872f-2cca-434a-80bb-c6023c8d2679": {
+      "box": {
+        "bottom": 0.590835452079773,
+        "left": 0.08393040299415588,
+        "right": 0.9087662696838379,
+        "top": 0.3604520857334137
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.09282248710912852,
+        "right": 0.9039287730990093,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.41087852002366176,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.388775007442989
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.4466173489859102,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.41087852002366176
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.4823766797027975,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.4466173489859102
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.5008486507770584,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.4823766797027975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.5149613418642911,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.5008486507770584
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-W": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-X": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Y": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Z": {
+      "box": {
+        "bottom": 0.5286401592478605,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.5149613418642911
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-10": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-11": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-12": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-13": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-14": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-15": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-16": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-17": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-18": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-19": {
+      "box": {
+        "bottom": 0.5424602094153954,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.5286401592478605
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1a": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1b": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1c": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1d": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1e": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1f": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1g": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1h": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1i": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1j": {
+      "box": {
+        "bottom": 0.5555765674084707,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.5424602094153954
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1k": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1l": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1m": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1n": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1o": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1p": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1q": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1r": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1s": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1t": {
+      "box": {
+        "bottom": 0.5697346424870506,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.5555765674084707
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1u": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.09282248710912852,
+        "right": 0.19056509856573856,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1v": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.19056509856573856,
+        "right": 0.3091897011282594,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1w": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.3091897011282594,
+        "right": 0.45673371569589705,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1x": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.45673371569589705,
+        "right": 0.5508494376560478,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1y": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.5508494376560478,
+        "right": 0.6001214507393229,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1z": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.6001214507393229,
+        "right": 0.6319134812446592,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1A": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.6319134812446592,
+        "right": 0.6910299068098666,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1B": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.6910299068098666,
+        "right": 0.7532989278423798,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1C": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.7532989278423798,
+        "right": 0.8300368792821136,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-1D": {
+      "box": {
+        "bottom": 0.5865743141157882,
+        "left": 0.8300368792821136,
+        "right": 0.9040220372996437,
+        "top": 0.5697346424870506
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "42838d74-acdc-4bdc-be3a-09ad0fb7f0e2": {
+      "box": {
+        "bottom": 0.6289862394332886,
+        "left": 0.09263288974761963,
+        "right": 0.9068159461021423,
+        "top": 0.5965675115585327
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

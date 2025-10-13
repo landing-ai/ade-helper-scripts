@@ -1,0 +1,309 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_number": "6DC1AEAF-0023",
+      "invoice_date_raw": "May 26, 2024",
+      "invoice_date": "2024-05-26",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Andrea Kropp",
+      "sold_to_address": "227 N 5TH AVE\nPO BOX 1168\nRIDGEFIELD, Washington 98642\nUnited States",
+      "customer_email": "andr3akropp@gmail.com"
+    },
+    "company_info": {
+      "supplier_name": "Posit Software PBC",
+      "supplier_address": "250 Northern Avenue\nSuite #410\nBoston, Massachusetts 02210\nUnited States",
+      "representative": null,
+      "email": "support@posit.co",
+      "phone": "+1 844-448-1212",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": null,
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$14.14 USD",
+      "total_due": 14.14,
+      "subtotal": 14.14,
+      "tax": 1.14,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Starter Plan (Monthly) May 26 \u2013 Jun 26, 2024",
+        "quantity": 1,
+        "unit_price": 13.0,
+        "price": null,
+        "amount": 13.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Sales Tax",
+        "quantity": 1,
+        "unit_price": 1.14,
+        "price": null,
+        "amount": 1.14,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_number": {
+        "value": "6DC1AEAF-0023",
+        "references": [
+          "c62a7cd6-532b-4588-853d-97f9eb738668"
+        ]
+      },
+      "invoice_date_raw": {
+        "value": "May 26, 2024",
+        "references": [
+          "c62a7cd6-532b-4588-853d-97f9eb738668"
+        ]
+      },
+      "invoice_date": {
+        "value": "2024-05-26",
+        "references": [
+          "c62a7cd6-532b-4588-853d-97f9eb738668"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Andrea Kropp",
+        "references": [
+          "484ea0b7-ca09-4981-8e0b-54c6ec4ba89d"
+        ]
+      },
+      "sold_to_address": {
+        "value": "227 N 5TH AVE\nPO BOX 1168\nRIDGEFIELD, Washington 98642\nUnited States",
+        "references": [
+          "484ea0b7-ca09-4981-8e0b-54c6ec4ba89d"
+        ]
+      },
+      "customer_email": {
+        "value": "andr3akropp@gmail.com",
+        "references": [
+          "484ea0b7-ca09-4981-8e0b-54c6ec4ba89d"
+        ]
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Posit Software PBC",
+        "references": [
+          "97f949c5-5a25-4a9b-b087-f943d7a42b07"
+        ]
+      },
+      "supplier_address": {
+        "value": "250 Northern Avenue\nSuite #410\nBoston, Massachusetts 02210\nUnited States",
+        "references": [
+          "97f949c5-5a25-4a9b-b087-f943d7a42b07"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": "support@posit.co",
+        "references": [
+          "97f949c5-5a25-4a9b-b087-f943d7a42b07"
+        ]
+      },
+      "phone": {
+        "value": "+1 844-448-1212",
+        "references": [
+          "97f949c5-5a25-4a9b-b087-f943d7a42b07"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": null,
+        "references": []
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "9fa6a841-2f53-4e8e-b16f-05d51c5bde30",
+          "0-v"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$14.14 USD",
+        "references": [
+          "9fa6a841-2f53-4e8e-b16f-05d51c5bde30",
+          "0-v"
+        ]
+      },
+      "total_due": {
+        "value": 14.14,
+        "references": [
+          "0-v"
+        ]
+      },
+      "subtotal": {
+        "value": 14.14,
+        "references": [
+          "0-l"
+        ]
+      },
+      "tax": {
+        "value": 1.14,
+        "references": [
+          "0-g"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Starter Plan (Monthly) May 26 \u2013 Jun 26, 2024",
+          "references": [
+            "0-7"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-9"
+          ]
+        },
+        "unit_price": {
+          "value": 13.0,
+          "references": [
+            "0-a"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 13.0,
+          "references": [
+            "0-b"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Sales Tax",
+          "references": [
+            "0-c"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-e"
+          ]
+        },
+        "unit_price": {
+          "value": 1.14,
+          "references": [
+            "0-f"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 1.14,
+          "references": [
+            "0-g"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.8,
+    "duration_ms": 35012,
+    "filename": "upload",
+    "job_id": "v0in3vxaz1puf8aj3h7or0r8g",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

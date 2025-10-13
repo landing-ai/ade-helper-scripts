@@ -1,0 +1,614 @@
+{
+  "chunks": [
+    {
+      "id": "ca67c751-22bc-4f1a-850b-66ee66a5830a",
+      "grounding": {
+        "box": {
+          "bottom": 0.1561681628227234,
+          "left": 0.09205104410648346,
+          "right": 0.33779531717300415,
+          "top": 0.06309394538402557
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ca67c751-22bc-4f1a-850b-66ee66a5830a'></a>\n\nThree 60 Decks\n15807 NE Lucia Falls Rd\nBattle Ground, WA 98604-8258\n5033104017\nTanamallory@gmail.com",
+      "type": "text"
+    },
+    {
+      "id": "b475267c-1801-41e4-afff-6a8a081986af",
+      "grounding": {
+        "box": {
+          "bottom": 0.12525202333927155,
+          "left": 0.5261691808700562,
+          "right": 0.8914904594421387,
+          "top": 0.059340063482522964
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b475267c-1801-41e4-afff-6a8a081986af'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "e743bbc9-8cd7-494c-99bd-13a3a45f637a",
+      "grounding": {
+        "box": {
+          "bottom": 0.1892501711845398,
+          "left": 0.09711841493844986,
+          "right": 0.24315321445465088,
+          "top": 0.16131490468978882
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e743bbc9-8cd7-494c-99bd-13a3a45f637a'></a>\n\nINVOICE",
+      "type": "text"
+    },
+    {
+      "id": "a14d793b-b274-4c9e-903c-187e7a22471b",
+      "grounding": {
+        "box": {
+          "bottom": 0.2782374620437622,
+          "left": 0.0961376205086708,
+          "right": 0.27310702204704285,
+          "top": 0.20290811359882355
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a14d793b-b274-4c9e-903c-187e7a22471b'></a>\n\nBILL TO\nKarl & Andrea Kropp\n227 N. 5th Ave.\nRidgefield, WA 98642",
+      "type": "text"
+    },
+    {
+      "id": "da6b9f62-3af1-498e-8285-8b955ac5ae3d",
+      "grounding": {
+        "box": {
+          "bottom": 0.2785053551197052,
+          "left": 0.3503403663635254,
+          "right": 0.5265328884124756,
+          "top": 0.20334742963314056
+        },
+        "page": 0
+      },
+      "markdown": "<a id='da6b9f62-3af1-498e-8285-8b955ac5ae3d'></a>\n\nSHIP TO\nKarl & Andrea Kropp\n227 N. 5th Ave.\nRidgefield, WA 98642",
+      "type": "text"
+    },
+    {
+      "id": "0b9b2546-68de-4e19-8b2a-568a510a348d",
+      "grounding": {
+        "box": {
+          "bottom": 0.27686944603919983,
+          "left": 0.6512652039527893,
+          "right": 0.8609481453895569,
+          "top": 0.20345567166805267
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0b9b2546-68de-4e19-8b2a-568a510a348d'></a>\n\nINVOICE # 2990\n\nDATE 08/08/2024\n\nDUE DATE 08/08/2024\n\nTERMS Due on receipt",
+      "type": "text"
+    },
+    {
+      "id": "736eed97-45a9-4a78-b06b-938689e13afb",
+      "grounding": {
+        "box": {
+          "bottom": 0.3432459235191345,
+          "left": 0.09840589761734009,
+          "right": 0.20842579007148743,
+          "top": 0.3067415952682495
+        },
+        "page": 0
+      },
+      "markdown": "<a id='736eed97-45a9-4a78-b06b-938689e13afb'></a>\n\nPO NUMBER\nKropp",
+      "type": "text"
+    },
+    {
+      "id": "b1b14648-5103-42b7-b30d-0920faf3e9c3",
+      "grounding": {
+        "box": {
+          "bottom": 0.8317298889160156,
+          "left": 0.054755181074142456,
+          "right": 0.9450470209121704,
+          "top": 0.36383256316185
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b1b14648-5103-42b7-b30d-0920faf3e9c3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ACTIVITY</td><td id=\"0-3\">QTY</td><td id=\"0-4\">RATE</td><td id=\"0-5\">AMOUNT</td></tr>\n<tr><td id=\"0-6\">Deck Replace (3) existing deck per sketch (600sf). Price includes: - demo and disposal of existing - new pressure treated framing, footings/piers and brackets - Trex Select Decking with picture framing (Lava Rock) - Trex hidden fastening system - Trex fascia & stair risers - Trex 50 year materials warranty - Trex 5 year labor warranty for Pro Platinur installation</td><td id=\"0-7\">0.70</td><td id=\"0-8\">29,515.00</td><td id=\"0-9\">20,660.50T</td></tr>\n<tr><td id=\"0-a\">Railing 118LF of American Structures aluminum picket railing, 36\"h, TR200 toprail on deck, Black. This is quoted with a TOP of deck surfact mount posts.</td><td id=\"0-b\">0.70</td><td id=\"0-c\">12,154.00</td><td id=\"0-d\">8,507.80T</td></tr>\n<tr><td id=\"0-e\">Deck Add Metal roofing panel under the upper side deck, white. Includes a gutter and downspout, color white</td><td id=\"0-f\">0.70</td><td id=\"0-g\">2,675.00</td><td id=\"0-h\">1,872.50T</td></tr>\n<tr><td id=\"0-i\">Lighting Dekor Dot lighting along edge of front entry deck/bridge and upper deck. 28 lights total with all wiring, timers and/or remotes.</td><td id=\"0-j\">1</td><td id=\"0-k\">2,610.00</td><td id=\"0-l\">2,610.00T</td></tr>\n<tr><td id=\"0-m\" colspan=\"2\">SUBTOTAL</td><td id=\"0-n\"></td><td id=\"0-o\">33,650.80</td></tr>\n<tr><td id=\"0-p\" colspan=\"2\">TAX</td><td id=\"0-q\"></td><td id=\"0-r\">2,927.62</td></tr>\n<tr><td id=\"0-s\" colspan=\"2\">Pay invoice TOTAL</td><td id=\"0-t\"></td><td id=\"0-u\">36,578.42</td></tr>\n<tr><td id=\"0-v\" colspan=\"2\">PAYMENT</td><td id=\"0-w\"></td><td id=\"0-x\">36,578.42</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">BALANCE DUE</td><td id=\"0-z\"></td><td id=\"0-A\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "010c5570-da53-4f9e-8ecd-a196eee64f29",
+      "grounding": {
+        "box": {
+          "bottom": 0.9783483743667603,
+          "left": 0.367353230714798,
+          "right": 0.6335045099258423,
+          "top": 0.9581781625747681
+        },
+        "page": 0
+      },
+      "markdown": "<a id='010c5570-da53-4f9e-8ecd-a196eee64f29'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='ca67c751-22bc-4f1a-850b-66ee66a5830a'></a>\n\nThree 60 Decks\n15807 NE Lucia Falls Rd\nBattle Ground, WA 98604-8258\n5033104017\nTanamallory@gmail.com\n\n<a id='b475267c-1801-41e4-afff-6a8a081986af'></a>\n\nCAPTION ERROR\n\n<a id='e743bbc9-8cd7-494c-99bd-13a3a45f637a'></a>\n\nINVOICE\n\n<a id='a14d793b-b274-4c9e-903c-187e7a22471b'></a>\n\nBILL TO\nKarl & Andrea Kropp\n227 N. 5th Ave.\nRidgefield, WA 98642\n\n<a id='da6b9f62-3af1-498e-8285-8b955ac5ae3d'></a>\n\nSHIP TO\nKarl & Andrea Kropp\n227 N. 5th Ave.\nRidgefield, WA 98642\n\n<a id='0b9b2546-68de-4e19-8b2a-568a510a348d'></a>\n\nINVOICE # 2990\n\nDATE 08/08/2024\n\nDUE DATE 08/08/2024\n\nTERMS Due on receipt\n\n<a id='736eed97-45a9-4a78-b06b-938689e13afb'></a>\n\nPO NUMBER\nKropp\n\n<a id='b1b14648-5103-42b7-b30d-0920faf3e9c3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ACTIVITY</td><td id=\"0-3\">QTY</td><td id=\"0-4\">RATE</td><td id=\"0-5\">AMOUNT</td></tr>\n<tr><td id=\"0-6\">Deck Replace (3) existing deck per sketch (600sf). Price includes: - demo and disposal of existing - new pressure treated framing, footings/piers and brackets - Trex Select Decking with picture framing (Lava Rock) - Trex hidden fastening system - Trex fascia & stair risers - Trex 50 year materials warranty - Trex 5 year labor warranty for Pro Platinur installation</td><td id=\"0-7\">0.70</td><td id=\"0-8\">29,515.00</td><td id=\"0-9\">20,660.50T</td></tr>\n<tr><td id=\"0-a\">Railing 118LF of American Structures aluminum picket railing, 36\"h, TR200 toprail on deck, Black. This is quoted with a TOP of deck surfact mount posts.</td><td id=\"0-b\">0.70</td><td id=\"0-c\">12,154.00</td><td id=\"0-d\">8,507.80T</td></tr>\n<tr><td id=\"0-e\">Deck Add Metal roofing panel under the upper side deck, white. Includes a gutter and downspout, color white</td><td id=\"0-f\">0.70</td><td id=\"0-g\">2,675.00</td><td id=\"0-h\">1,872.50T</td></tr>\n<tr><td id=\"0-i\">Lighting Dekor Dot lighting along edge of front entry deck/bridge and upper deck. 28 lights total with all wiring, timers and/or remotes.</td><td id=\"0-j\">1</td><td id=\"0-k\">2,610.00</td><td id=\"0-l\">2,610.00T</td></tr>\n<tr><td id=\"0-m\" colspan=\"2\">SUBTOTAL</td><td id=\"0-n\"></td><td id=\"0-o\">33,650.80</td></tr>\n<tr><td id=\"0-p\" colspan=\"2\">TAX</td><td id=\"0-q\"></td><td id=\"0-r\">2,927.62</td></tr>\n<tr><td id=\"0-s\" colspan=\"2\">Pay invoice TOTAL</td><td id=\"0-t\"></td><td id=\"0-u\">36,578.42</td></tr>\n<tr><td id=\"0-v\" colspan=\"2\">PAYMENT</td><td id=\"0-w\"></td><td id=\"0-x\">36,578.42</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">BALANCE DUE</td><td id=\"0-z\"></td><td id=\"0-A\">$0.00</td></tr>\n</table>\n\n<a id='010c5570-da53-4f9e-8ecd-a196eee64f29'></a>\n\nCAPTION ERROR",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 7430,
+    "filename": "invoice_26.pdf",
+    "job_id": "gtpz0jp7f895neymyxt5acsrj",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "ca67c751-22bc-4f1a-850b-66ee66a5830a",
+        "b475267c-1801-41e4-afff-6a8a081986af",
+        "e743bbc9-8cd7-494c-99bd-13a3a45f637a",
+        "a14d793b-b274-4c9e-903c-187e7a22471b",
+        "da6b9f62-3af1-498e-8285-8b955ac5ae3d",
+        "0b9b2546-68de-4e19-8b2a-568a510a348d",
+        "736eed97-45a9-4a78-b06b-938689e13afb",
+        "b1b14648-5103-42b7-b30d-0920faf3e9c3",
+        "010c5570-da53-4f9e-8ecd-a196eee64f29"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='ca67c751-22bc-4f1a-850b-66ee66a5830a'></a>\n\nThree 60 Decks\n15807 NE Lucia Falls Rd\nBattle Ground, WA 98604-8258\n5033104017\nTanamallory@gmail.com\n\n<a id='b475267c-1801-41e4-afff-6a8a081986af'></a>\n\nCAPTION ERROR\n\n<a id='e743bbc9-8cd7-494c-99bd-13a3a45f637a'></a>\n\nINVOICE\n\n<a id='a14d793b-b274-4c9e-903c-187e7a22471b'></a>\n\nBILL TO\nKarl & Andrea Kropp\n227 N. 5th Ave.\nRidgefield, WA 98642\n\n<a id='da6b9f62-3af1-498e-8285-8b955ac5ae3d'></a>\n\nSHIP TO\nKarl & Andrea Kropp\n227 N. 5th Ave.\nRidgefield, WA 98642\n\n<a id='0b9b2546-68de-4e19-8b2a-568a510a348d'></a>\n\nINVOICE # 2990\n\nDATE 08/08/2024\n\nDUE DATE 08/08/2024\n\nTERMS Due on receipt\n\n<a id='736eed97-45a9-4a78-b06b-938689e13afb'></a>\n\nPO NUMBER\nKropp\n\n<a id='b1b14648-5103-42b7-b30d-0920faf3e9c3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ACTIVITY</td><td id=\"0-3\">QTY</td><td id=\"0-4\">RATE</td><td id=\"0-5\">AMOUNT</td></tr>\n<tr><td id=\"0-6\">Deck Replace (3) existing deck per sketch (600sf). Price includes: - demo and disposal of existing - new pressure treated framing, footings/piers and brackets - Trex Select Decking with picture framing (Lava Rock) - Trex hidden fastening system - Trex fascia & stair risers - Trex 50 year materials warranty - Trex 5 year labor warranty for Pro Platinur installation</td><td id=\"0-7\">0.70</td><td id=\"0-8\">29,515.00</td><td id=\"0-9\">20,660.50T</td></tr>\n<tr><td id=\"0-a\">Railing 118LF of American Structures aluminum picket railing, 36\"h, TR200 toprail on deck, Black. This is quoted with a TOP of deck surfact mount posts.</td><td id=\"0-b\">0.70</td><td id=\"0-c\">12,154.00</td><td id=\"0-d\">8,507.80T</td></tr>\n<tr><td id=\"0-e\">Deck Add Metal roofing panel under the upper side deck, white. Includes a gutter and downspout, color white</td><td id=\"0-f\">0.70</td><td id=\"0-g\">2,675.00</td><td id=\"0-h\">1,872.50T</td></tr>\n<tr><td id=\"0-i\">Lighting Dekor Dot lighting along edge of front entry deck/bridge and upper deck. 28 lights total with all wiring, timers and/or remotes.</td><td id=\"0-j\">1</td><td id=\"0-k\">2,610.00</td><td id=\"0-l\">2,610.00T</td></tr>\n<tr><td id=\"0-m\" colspan=\"2\">SUBTOTAL</td><td id=\"0-n\"></td><td id=\"0-o\">33,650.80</td></tr>\n<tr><td id=\"0-p\" colspan=\"2\">TAX</td><td id=\"0-q\"></td><td id=\"0-r\">2,927.62</td></tr>\n<tr><td id=\"0-s\" colspan=\"2\">Pay invoice TOTAL</td><td id=\"0-t\"></td><td id=\"0-u\">36,578.42</td></tr>\n<tr><td id=\"0-v\" colspan=\"2\">PAYMENT</td><td id=\"0-w\"></td><td id=\"0-x\">36,578.42</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">BALANCE DUE</td><td id=\"0-z\"></td><td id=\"0-A\">$0.00</td></tr>\n</table>\n\n<a id='010c5570-da53-4f9e-8ecd-a196eee64f29'></a>\n\nCAPTION ERROR",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "ca67c751-22bc-4f1a-850b-66ee66a5830a": {
+      "box": {
+        "bottom": 0.1561681628227234,
+        "left": 0.09205104410648346,
+        "right": 0.33779531717300415,
+        "top": 0.06309394538402557
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b475267c-1801-41e4-afff-6a8a081986af": {
+      "box": {
+        "bottom": 0.12525202333927155,
+        "left": 0.5261691808700562,
+        "right": 0.8914904594421387,
+        "top": 0.059340063482522964
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "e743bbc9-8cd7-494c-99bd-13a3a45f637a": {
+      "box": {
+        "bottom": 0.1892501711845398,
+        "left": 0.09711841493844986,
+        "right": 0.24315321445465088,
+        "top": 0.16131490468978882
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a14d793b-b274-4c9e-903c-187e7a22471b": {
+      "box": {
+        "bottom": 0.2782374620437622,
+        "left": 0.0961376205086708,
+        "right": 0.27310702204704285,
+        "top": 0.20290811359882355
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "da6b9f62-3af1-498e-8285-8b955ac5ae3d": {
+      "box": {
+        "bottom": 0.2785053551197052,
+        "left": 0.3503403663635254,
+        "right": 0.5265328884124756,
+        "top": 0.20334742963314056
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0b9b2546-68de-4e19-8b2a-568a510a348d": {
+      "box": {
+        "bottom": 0.27686944603919983,
+        "left": 0.6512652039527893,
+        "right": 0.8609481453895569,
+        "top": 0.20345567166805267
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "736eed97-45a9-4a78-b06b-938689e13afb": {
+      "box": {
+        "bottom": 0.3432459235191345,
+        "left": 0.09840589761734009,
+        "right": 0.20842579007148743,
+        "top": 0.3067415952682495
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b1b14648-5103-42b7-b30d-0920faf3e9c3": {
+      "box": {
+        "bottom": 0.8317298889160156,
+        "left": 0.054755181074142456,
+        "right": 0.9450470209121704,
+        "top": 0.36383256316185
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.8317254824771005,
+        "left": 0.05924893464405946,
+        "right": 0.9429300777693594,
+        "top": 0.36819822508643507
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.39047486372316975,
+        "left": 0.05924893464405946,
+        "right": 0.5559260943976518,
+        "top": 0.36819822508643507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.39047486372316975,
+        "left": 0.5559260943976518,
+        "right": 0.6550045841355239,
+        "top": 0.36819822508643507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.39047486372316975,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.36819822508643507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.39047486372316975,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.36819822508643507
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.533755278158818,
+        "left": 0.05924893464405946,
+        "right": 0.5559260943976518,
+        "top": 0.39047486372316975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.533755278158818,
+        "left": 0.5559260943976518,
+        "right": 0.6550045841355239,
+        "top": 0.39047486372316975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.533755278158818,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.39047486372316975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.533755278158818,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.39047486372316975
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.598978857091657,
+        "left": 0.05924893464405946,
+        "right": 0.5559260943976518,
+        "top": 0.533755278158818
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.598978857091657,
+        "left": 0.5559260943976518,
+        "right": 0.6550045841355239,
+        "top": 0.533755278158818
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.598978857091657,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.533755278158818
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.598978857091657,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.533755278158818
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.6489247266399705,
+        "left": 0.05924893464405946,
+        "right": 0.5559260943976518,
+        "top": 0.598978857091657
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.6489247266399705,
+        "left": 0.5559260943976518,
+        "right": 0.6550045841355239,
+        "top": 0.598978857091657
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.6489247266399705,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.598978857091657
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.6489247266399705,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.598978857091657
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.7375771460623302,
+        "left": 0.05924893464405946,
+        "right": 0.5559260943976518,
+        "top": 0.6489247266399705
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.7375771460623302,
+        "left": 0.5559260943976518,
+        "right": 0.6550045841355239,
+        "top": 0.6489247266399705
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.7375771460623302,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.6489247266399705
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.7375771460623302,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.6489247266399705
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.7797356109381202,
+        "left": 0.05924893464405946,
+        "right": 0.7959922120769072,
+        "top": 0.7375771460623302
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.7621273973668856,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.7375771460623302
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.7621273973668856,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.7375771460623302
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.798838109300938,
+        "left": 0.05924893464405946,
+        "right": 0.7959922120769072,
+        "top": 0.7621273973668856
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.7797356109381202,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.7621273973668856
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.7797356109381202,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.7621273973668856
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.8153911201962796,
+        "left": 0.05924893464405946,
+        "right": 0.7959922120769072,
+        "top": 0.7797356109381202
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.798838109300938,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.7797356109381202
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.798838109300938,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.7797356109381202
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.8317254824771005,
+        "left": 0.05924893464405946,
+        "right": 0.7959922120769072,
+        "top": 0.798838109300938
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.8153911201962796,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.798838109300938
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.8153911201962796,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.798838109300938
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.8317254824771005,
+        "left": 0.05924893464405946,
+        "right": 0.7959922120769072,
+        "top": 0.8153911201962796
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.8317254824771005,
+        "left": 0.6550045841355239,
+        "right": 0.7959922120769072,
+        "top": 0.8153911201962796
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.8317254824771005,
+        "left": 0.7959922120769072,
+        "right": 0.9413836951928509,
+        "top": 0.8153911201962796
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "010c5570-da53-4f9e-8ecd-a196eee64f29": {
+      "box": {
+        "bottom": 0.9783483743667603,
+        "left": 0.367353230714798,
+        "right": 0.6335045099258423,
+        "top": 0.9581781625747681
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

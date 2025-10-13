@@ -1,0 +1,999 @@
+{
+  "chunks": [
+    {
+      "id": "6957286c-ffe7-43e1-b3a8-834ec22ab5fd",
+      "grounding": {
+        "box": {
+          "bottom": 0.09650953114032745,
+          "left": 0.05878354609012604,
+          "right": 0.5021988749504089,
+          "top": 0.013142645359039307
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6957286c-ffe7-43e1-b3a8-834ec22ab5fd'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "c400d92f-fd77-4475-91df-a9bb8c5f4fa2",
+      "grounding": {
+        "box": {
+          "bottom": 0.08235161751508713,
+          "left": 0.5509417057037354,
+          "right": 0.8767545223236084,
+          "top": 0.016951650381088257
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c400d92f-fd77-4475-91df-a9bb8c5f4fa2'></a>\n\nA.E. Blake Sales Ltd.\n100 Consilium Place\nSuite 200\nScarborough, ON\nM1H 3E3\n\nTel. 416 431 0440\nFax. 416 431 0450\ntorontosales@aeblake.ca\nwww.aeblake.ca",
+      "type": "text"
+    },
+    {
+      "id": "b24bb964-2145-479d-a65e-9450c897f6fb",
+      "grounding": {
+        "box": {
+          "bottom": 0.11690240353345871,
+          "left": 0.10290729999542236,
+          "right": 0.2706083655357361,
+          "top": 0.09697272628545761
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b24bb964-2145-479d-a65e-9450c897f6fb'></a>\n\nInvoice - Facture",
+      "type": "text"
+    },
+    {
+      "id": "4180f400-3b63-407f-a50a-11ff7005ef9d",
+      "grounding": {
+        "box": {
+          "bottom": 0.13068684935569763,
+          "left": 0.6350473165512085,
+          "right": 0.7999763488769531,
+          "top": 0.09403908997774124
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4180f400-3b63-407f-a50a-11ff7005ef9d'></a>\n\nNO: 138277\n\nDATE: Jan 24 2022",
+      "type": "text"
+    },
+    {
+      "id": "cbbc6070-50db-479e-90d5-f5759786cd4a",
+      "grounding": {
+        "box": {
+          "bottom": 0.2333766520023346,
+          "left": 0.13812921941280365,
+          "right": 0.41680794954299927,
+          "top": 0.13466733694076538
+        },
+        "page": 0
+      },
+      "markdown": "<a id='cbbc6070-50db-479e-90d5-f5759786cd4a'></a>\n\nVendu \u00e0 - Sold To\n\nNELSON INDUSTRIAL FABRICATORS\n1155 Squires Beach Road\nInvoices: ap@nelsonindust.com\nPICKERING, Ontario, Canada\nL1W 3T9",
+      "type": "text"
+    },
+    {
+      "id": "c7976ee5-2498-4610-ba90-7e918fcd92fe",
+      "grounding": {
+        "box": {
+          "bottom": 0.23240059614181519,
+          "left": 0.5110799074172974,
+          "right": 0.7881810665130615,
+          "top": 0.1358688771724701
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c7976ee5-2498-4610-ba90-7e918fcd92fe'></a>\n\nLivr\u00e9 \u00e0 - Ship To\n\nNELSON INDUSTRIAL FABRICATORS\n1155 Squires Beach Road\nInvoices: ap@nelsonindust.com\nPICKERING, Ontario, Canada\nL1W 3T9",
+      "type": "text"
+    },
+    {
+      "id": "ac231ae4-c0a6-4312-9e7b-571cbe105274",
+      "grounding": {
+        "box": {
+          "bottom": 0.32946836948394775,
+          "left": 0.060353100299835205,
+          "right": 0.9491824507713318,
+          "top": 0.25160765647888184
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ac231ae4-c0a6-4312-9e7b-571cbe105274'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COMPTE CLIENT/ CUSTOMER ACCOUNT</td><td id=\"0-3\">BON D'ACHAT CLIENT/ CUSTOMER PO</td><td id=\"0-4\">DATE COMMAND\u00c9/ ORDER DATE</td><td id=\"0-5\">COMMANDE AEB/ AEB ORDER</td></tr>\n<tr><td id=\"0-6\">10101978</td><td id=\"0-7\">P.067967</td><td id=\"0-8\">Jan 19 2022</td><td id=\"0-9\">50002892</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "ddb7e8ef-fa02-41d8-a9ee-324c4d1ba165",
+      "grounding": {
+        "box": {
+          "bottom": 0.3908047676086426,
+          "left": 0.06116980314254761,
+          "right": 0.9437374472618103,
+          "top": 0.3324648141860962
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ddb7e8ef-fa02-41d8-a9ee-324c4d1ba165'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\">TERMES/ TERMS</td><td id=\"0-c\">REPR\u00c9SENTANT/ REPRESENTATIVE</td><td id=\"0-d\">CONDITIONS D'EXP\u00c9DITION/ SHIPPING TERMS</td><td id=\"0-e\">LIVR\u00c9 PAR/ SHIP VIA</td></tr>\n<tr><td id=\"0-f\">Net 30 Days</td><td id=\"0-g\">Perry Chan OR Jeff Kang</td><td id=\"0-h\">Prepaid on orders over $600</td><td id=\"0-i\">UPS 3rd Party 139 2X5</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "812078b4-60d1-4c19-9249-9b7f6c53856c",
+      "grounding": {
+        "box": {
+          "bottom": 0.5613189339637756,
+          "left": 0.06151372194290161,
+          "right": 0.9459529519081116,
+          "top": 0.3898407220840454
+        },
+        "page": 0
+      },
+      "markdown": "<a id='812078b4-60d1-4c19-9249-9b7f6c53856c'></a>\n\n<table id=\"0-j\">\n<tr><td id=\"0-k\">#</td><td id=\"0-l\">ITEM</td><td id=\"0-m\">DESCRIPTION</td><td id=\"0-n\">QT\u00c9/QTY</td><td id=\"0-o\">PRIX/PRICE</td><td id=\"0-p\">U/M</td><td id=\"0-q\">EXTENSION</td></tr>\n<tr><td id=\"0-r\">30</td><td id=\"0-s\">110947</td><td id=\"0-t\">HD Graphite Canvas 6\"x 50yds 50 yards/roll</td><td id=\"0-u\">1</td><td id=\"0-v\">$734.27</td><td id=\"0-w\">Each</td><td id=\"0-x\">$734.27</td></tr>\n<tr><td id=\"0-y\">40</td><td id=\"0-z\">102044</td><td id=\"0-A\">3M 777F RBC Belt 6\"x202\" 60YF 10belts/case (+/-10%)</td><td id=\"0-B\">20</td><td id=\"0-C\">$68.45</td><td id=\"0-D\">Each</td><td id=\"0-E\">$1,369.00</td></tr>\n<tr><td id=\"0-F\">50</td><td id=\"0-G\">102046</td><td id=\"0-H\">3M 777F RBC Belt 6\"x202\" 80YF 10belts/case (+/-10%)</td><td id=\"0-I\">10</td><td id=\"0-J\">$63.98</td><td id=\"0-K\">Each</td><td id=\"0-L\">$639.80</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "fb115654-3a08-4fbe-a200-797e1d290c7e",
+      "grounding": {
+        "box": {
+          "bottom": 0.8306714296340942,
+          "left": 0.06526479125022888,
+          "right": 0.24079859256744385,
+          "top": 0.8141883611679077
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fb115654-3a08-4fbe-a200-797e1d290c7e'></a>\n\nCourrier / Carrier: JD SMITH",
+      "type": "text"
+    },
+    {
+      "id": "89a2ee3f-e349-4578-bb27-7dd5e3852069",
+      "grounding": {
+        "box": {
+          "bottom": 0.8501620888710022,
+          "left": 0.6180179715156555,
+          "right": 0.9115516543388367,
+          "top": 0.8137614130973816
+        },
+        "page": 0
+      },
+      "markdown": "<a id='89a2ee3f-e349-4578-bb27-7dd5e3852069'></a>\n\nBon d'emballage / Packing Slip: 50002892-10659\nDate D'exp\u00e9dition / Shipping Date: Jan 24 2022",
+      "type": "text"
+    },
+    {
+      "id": "3f53573f-a239-438f-8571-89b579880237",
+      "grounding": {
+        "box": {
+          "bottom": 0.9282081723213196,
+          "left": 0.05981507897377014,
+          "right": 0.9294843673706055,
+          "top": 0.8506236672401428
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3f53573f-a239-438f-8571-89b579880237'></a>\n\n<table id=\"0-M\">\n<tr><td id=\"0-N\"></td><td id=\"0-O\">S. Total:</td><td id=\"0-P\">$ 2,743.07</td></tr>\n<tr><td id=\"0-Q\">http://www.aeblake.ca/en/terms.php</td><td id=\"0-R\">13% HST:</td><td id=\"0-S\">$ 356.60</td></tr>\n<tr><td id=\"0-T\">Merci - Thank you Votre contact - Your contact: DRAKE</td><td id=\"0-U\">Total:</td><td id=\"0-V\">$ 3,099.67 CAD</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "bf211874-86fc-4a53-8b6c-fc60dc47c775",
+      "grounding": {
+        "box": {
+          "bottom": 0.9556403160095215,
+          "left": 0.06378458440303802,
+          "right": 0.50380539894104,
+          "top": 0.9391276836395264
+        },
+        "page": 0
+      },
+      "markdown": "<a id='bf211874-86fc-4a53-8b6c-fc60dc47c775'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    },
+    {
+      "id": "46481aa8-d371-41c3-8db0-687dd399c49b",
+      "grounding": {
+        "box": {
+          "bottom": 0.9559795260429382,
+          "left": 0.825284481048584,
+          "right": 0.8762195110321045,
+          "top": 0.9408475756645203
+        },
+        "page": 0
+      },
+      "markdown": "<a id='46481aa8-d371-41c3-8db0-687dd399c49b'></a>\n\nPage 1/1",
+      "type": "marginalia"
+    },
+    {
+      "id": "3b4c95fc-c8af-4e06-9121-048060e0c8ab",
+      "grounding": {
+        "box": {
+          "bottom": 0.9862309694290161,
+          "left": 0.4311559200286865,
+          "right": 0.5561078190803528,
+          "top": 0.9718036651611328
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3b4c95fc-c8af-4e06-9121-048060e0c8ab'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    },
+    {
+      "id": "02453c9d-d173-47dc-a162-46d734162f0e",
+      "grounding": {
+        "box": {
+          "bottom": 0.8518003821372986,
+          "left": 0.06466025114059448,
+          "right": 0.17183570563793182,
+          "top": 0.8335221409797668
+        },
+        "page": 0
+      },
+      "markdown": "<a id='02453c9d-d173-47dc-a162-46d734162f0e'></a>\n\nWaybill: 1078685",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='6957286c-ffe7-43e1-b3a8-834ec22ab5fd'></a>\n\nCAPTION ERROR\n\n<a id='c400d92f-fd77-4475-91df-a9bb8c5f4fa2'></a>\n\nA.E. Blake Sales Ltd.\n100 Consilium Place\nSuite 200\nScarborough, ON\nM1H 3E3\n\nTel. 416 431 0440\nFax. 416 431 0450\ntorontosales@aeblake.ca\nwww.aeblake.ca\n\n<a id='b24bb964-2145-479d-a65e-9450c897f6fb'></a>\n\nInvoice - Facture\n\n<a id='4180f400-3b63-407f-a50a-11ff7005ef9d'></a>\n\nNO: 138277\n\nDATE: Jan 24 2022\n\n<a id='cbbc6070-50db-479e-90d5-f5759786cd4a'></a>\n\nVendu \u00e0 - Sold To\n\nNELSON INDUSTRIAL FABRICATORS\n1155 Squires Beach Road\nInvoices: ap@nelsonindust.com\nPICKERING, Ontario, Canada\nL1W 3T9\n\n<a id='c7976ee5-2498-4610-ba90-7e918fcd92fe'></a>\n\nLivr\u00e9 \u00e0 - Ship To\n\nNELSON INDUSTRIAL FABRICATORS\n1155 Squires Beach Road\nInvoices: ap@nelsonindust.com\nPICKERING, Ontario, Canada\nL1W 3T9\n\n<a id='ac231ae4-c0a6-4312-9e7b-571cbe105274'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COMPTE CLIENT/ CUSTOMER ACCOUNT</td><td id=\"0-3\">BON D'ACHAT CLIENT/ CUSTOMER PO</td><td id=\"0-4\">DATE COMMAND\u00c9/ ORDER DATE</td><td id=\"0-5\">COMMANDE AEB/ AEB ORDER</td></tr>\n<tr><td id=\"0-6\">10101978</td><td id=\"0-7\">P.067967</td><td id=\"0-8\">Jan 19 2022</td><td id=\"0-9\">50002892</td></tr>\n</table>\n\n<a id='ddb7e8ef-fa02-41d8-a9ee-324c4d1ba165'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\">TERMES/ TERMS</td><td id=\"0-c\">REPR\u00c9SENTANT/ REPRESENTATIVE</td><td id=\"0-d\">CONDITIONS D'EXP\u00c9DITION/ SHIPPING TERMS</td><td id=\"0-e\">LIVR\u00c9 PAR/ SHIP VIA</td></tr>\n<tr><td id=\"0-f\">Net 30 Days</td><td id=\"0-g\">Perry Chan OR Jeff Kang</td><td id=\"0-h\">Prepaid on orders over $600</td><td id=\"0-i\">UPS 3rd Party 139 2X5</td></tr>\n</table>\n\n<a id='812078b4-60d1-4c19-9249-9b7f6c53856c'></a>\n\n<table id=\"0-j\">\n<tr><td id=\"0-k\">#</td><td id=\"0-l\">ITEM</td><td id=\"0-m\">DESCRIPTION</td><td id=\"0-n\">QT\u00c9/QTY</td><td id=\"0-o\">PRIX/PRICE</td><td id=\"0-p\">U/M</td><td id=\"0-q\">EXTENSION</td></tr>\n<tr><td id=\"0-r\">30</td><td id=\"0-s\">110947</td><td id=\"0-t\">HD Graphite Canvas 6\"x 50yds 50 yards/roll</td><td id=\"0-u\">1</td><td id=\"0-v\">$734.27</td><td id=\"0-w\">Each</td><td id=\"0-x\">$734.27</td></tr>\n<tr><td id=\"0-y\">40</td><td id=\"0-z\">102044</td><td id=\"0-A\">3M 777F RBC Belt 6\"x202\" 60YF 10belts/case (+/-10%)</td><td id=\"0-B\">20</td><td id=\"0-C\">$68.45</td><td id=\"0-D\">Each</td><td id=\"0-E\">$1,369.00</td></tr>\n<tr><td id=\"0-F\">50</td><td id=\"0-G\">102046</td><td id=\"0-H\">3M 777F RBC Belt 6\"x202\" 80YF 10belts/case (+/-10%)</td><td id=\"0-I\">10</td><td id=\"0-J\">$63.98</td><td id=\"0-K\">Each</td><td id=\"0-L\">$639.80</td></tr>\n</table>\n\n<a id='fb115654-3a08-4fbe-a200-797e1d290c7e'></a>\n\nCourrier / Carrier: JD SMITH\n\n<a id='89a2ee3f-e349-4578-bb27-7dd5e3852069'></a>\n\nBon d'emballage / Packing Slip: 50002892-10659\nDate D'exp\u00e9dition / Shipping Date: Jan 24 2022\n\n<a id='3f53573f-a239-438f-8571-89b579880237'></a>\n\n<table id=\"0-M\">\n<tr><td id=\"0-N\"></td><td id=\"0-O\">S. Total:</td><td id=\"0-P\">$ 2,743.07</td></tr>\n<tr><td id=\"0-Q\">http://www.aeblake.ca/en/terms.php</td><td id=\"0-R\">13% HST:</td><td id=\"0-S\">$ 356.60</td></tr>\n<tr><td id=\"0-T\">Merci - Thank you Votre contact - Your contact: DRAKE</td><td id=\"0-U\">Total:</td><td id=\"0-V\">$ 3,099.67 CAD</td></tr>\n</table>\n\n<a id='bf211874-86fc-4a53-8b6c-fc60dc47c775'></a>\n\nCAPTION ERROR\n\n<a id='46481aa8-d371-41c3-8db0-687dd399c49b'></a>\n\nPage 1/1\n\n<a id='3b4c95fc-c8af-4e06-9121-048060e0c8ab'></a>\n\nCAPTION ERROR\n\n<a id='02453c9d-d173-47dc-a162-46d734162f0e'></a>\n\nWaybill: 1078685",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 10077,
+    "filename": "invoice_4.pdf",
+    "job_id": "memm79p14yxb2ovmg0l8kvusf",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "6957286c-ffe7-43e1-b3a8-834ec22ab5fd",
+        "c400d92f-fd77-4475-91df-a9bb8c5f4fa2",
+        "b24bb964-2145-479d-a65e-9450c897f6fb",
+        "4180f400-3b63-407f-a50a-11ff7005ef9d",
+        "cbbc6070-50db-479e-90d5-f5759786cd4a",
+        "c7976ee5-2498-4610-ba90-7e918fcd92fe",
+        "ac231ae4-c0a6-4312-9e7b-571cbe105274",
+        "ddb7e8ef-fa02-41d8-a9ee-324c4d1ba165",
+        "812078b4-60d1-4c19-9249-9b7f6c53856c",
+        "fb115654-3a08-4fbe-a200-797e1d290c7e",
+        "89a2ee3f-e349-4578-bb27-7dd5e3852069",
+        "3f53573f-a239-438f-8571-89b579880237",
+        "bf211874-86fc-4a53-8b6c-fc60dc47c775",
+        "46481aa8-d371-41c3-8db0-687dd399c49b",
+        "3b4c95fc-c8af-4e06-9121-048060e0c8ab",
+        "02453c9d-d173-47dc-a162-46d734162f0e"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='6957286c-ffe7-43e1-b3a8-834ec22ab5fd'></a>\n\nCAPTION ERROR\n\n<a id='c400d92f-fd77-4475-91df-a9bb8c5f4fa2'></a>\n\nA.E. Blake Sales Ltd.\n100 Consilium Place\nSuite 200\nScarborough, ON\nM1H 3E3\n\nTel. 416 431 0440\nFax. 416 431 0450\ntorontosales@aeblake.ca\nwww.aeblake.ca\n\n<a id='b24bb964-2145-479d-a65e-9450c897f6fb'></a>\n\nInvoice - Facture\n\n<a id='4180f400-3b63-407f-a50a-11ff7005ef9d'></a>\n\nNO: 138277\n\nDATE: Jan 24 2022\n\n<a id='cbbc6070-50db-479e-90d5-f5759786cd4a'></a>\n\nVendu \u00e0 - Sold To\n\nNELSON INDUSTRIAL FABRICATORS\n1155 Squires Beach Road\nInvoices: ap@nelsonindust.com\nPICKERING, Ontario, Canada\nL1W 3T9\n\n<a id='c7976ee5-2498-4610-ba90-7e918fcd92fe'></a>\n\nLivr\u00e9 \u00e0 - Ship To\n\nNELSON INDUSTRIAL FABRICATORS\n1155 Squires Beach Road\nInvoices: ap@nelsonindust.com\nPICKERING, Ontario, Canada\nL1W 3T9\n\n<a id='ac231ae4-c0a6-4312-9e7b-571cbe105274'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COMPTE CLIENT/ CUSTOMER ACCOUNT</td><td id=\"0-3\">BON D'ACHAT CLIENT/ CUSTOMER PO</td><td id=\"0-4\">DATE COMMAND\u00c9/ ORDER DATE</td><td id=\"0-5\">COMMANDE AEB/ AEB ORDER</td></tr>\n<tr><td id=\"0-6\">10101978</td><td id=\"0-7\">P.067967</td><td id=\"0-8\">Jan 19 2022</td><td id=\"0-9\">50002892</td></tr>\n</table>\n\n<a id='ddb7e8ef-fa02-41d8-a9ee-324c4d1ba165'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\">TERMES/ TERMS</td><td id=\"0-c\">REPR\u00c9SENTANT/ REPRESENTATIVE</td><td id=\"0-d\">CONDITIONS D'EXP\u00c9DITION/ SHIPPING TERMS</td><td id=\"0-e\">LIVR\u00c9 PAR/ SHIP VIA</td></tr>\n<tr><td id=\"0-f\">Net 30 Days</td><td id=\"0-g\">Perry Chan OR Jeff Kang</td><td id=\"0-h\">Prepaid on orders over $600</td><td id=\"0-i\">UPS 3rd Party 139 2X5</td></tr>\n</table>\n\n<a id='812078b4-60d1-4c19-9249-9b7f6c53856c'></a>\n\n<table id=\"0-j\">\n<tr><td id=\"0-k\">#</td><td id=\"0-l\">ITEM</td><td id=\"0-m\">DESCRIPTION</td><td id=\"0-n\">QT\u00c9/QTY</td><td id=\"0-o\">PRIX/PRICE</td><td id=\"0-p\">U/M</td><td id=\"0-q\">EXTENSION</td></tr>\n<tr><td id=\"0-r\">30</td><td id=\"0-s\">110947</td><td id=\"0-t\">HD Graphite Canvas 6\"x 50yds 50 yards/roll</td><td id=\"0-u\">1</td><td id=\"0-v\">$734.27</td><td id=\"0-w\">Each</td><td id=\"0-x\">$734.27</td></tr>\n<tr><td id=\"0-y\">40</td><td id=\"0-z\">102044</td><td id=\"0-A\">3M 777F RBC Belt 6\"x202\" 60YF 10belts/case (+/-10%)</td><td id=\"0-B\">20</td><td id=\"0-C\">$68.45</td><td id=\"0-D\">Each</td><td id=\"0-E\">$1,369.00</td></tr>\n<tr><td id=\"0-F\">50</td><td id=\"0-G\">102046</td><td id=\"0-H\">3M 777F RBC Belt 6\"x202\" 80YF 10belts/case (+/-10%)</td><td id=\"0-I\">10</td><td id=\"0-J\">$63.98</td><td id=\"0-K\">Each</td><td id=\"0-L\">$639.80</td></tr>\n</table>\n\n<a id='fb115654-3a08-4fbe-a200-797e1d290c7e'></a>\n\nCourrier / Carrier: JD SMITH\n\n<a id='89a2ee3f-e349-4578-bb27-7dd5e3852069'></a>\n\nBon d'emballage / Packing Slip: 50002892-10659\nDate D'exp\u00e9dition / Shipping Date: Jan 24 2022\n\n<a id='3f53573f-a239-438f-8571-89b579880237'></a>\n\n<table id=\"0-M\">\n<tr><td id=\"0-N\"></td><td id=\"0-O\">S. Total:</td><td id=\"0-P\">$ 2,743.07</td></tr>\n<tr><td id=\"0-Q\">http://www.aeblake.ca/en/terms.php</td><td id=\"0-R\">13% HST:</td><td id=\"0-S\">$ 356.60</td></tr>\n<tr><td id=\"0-T\">Merci - Thank you Votre contact - Your contact: DRAKE</td><td id=\"0-U\">Total:</td><td id=\"0-V\">$ 3,099.67 CAD</td></tr>\n</table>\n\n<a id='bf211874-86fc-4a53-8b6c-fc60dc47c775'></a>\n\nCAPTION ERROR\n\n<a id='46481aa8-d371-41c3-8db0-687dd399c49b'></a>\n\nPage 1/1\n\n<a id='3b4c95fc-c8af-4e06-9121-048060e0c8ab'></a>\n\nCAPTION ERROR\n\n<a id='02453c9d-d173-47dc-a162-46d734162f0e'></a>\n\nWaybill: 1078685",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "6957286c-ffe7-43e1-b3a8-834ec22ab5fd": {
+      "box": {
+        "bottom": 0.09650953114032745,
+        "left": 0.05878354609012604,
+        "right": 0.5021988749504089,
+        "top": 0.013142645359039307
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "c400d92f-fd77-4475-91df-a9bb8c5f4fa2": {
+      "box": {
+        "bottom": 0.08235161751508713,
+        "left": 0.5509417057037354,
+        "right": 0.8767545223236084,
+        "top": 0.016951650381088257
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b24bb964-2145-479d-a65e-9450c897f6fb": {
+      "box": {
+        "bottom": 0.11690240353345871,
+        "left": 0.10290729999542236,
+        "right": 0.2706083655357361,
+        "top": 0.09697272628545761
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4180f400-3b63-407f-a50a-11ff7005ef9d": {
+      "box": {
+        "bottom": 0.13068684935569763,
+        "left": 0.6350473165512085,
+        "right": 0.7999763488769531,
+        "top": 0.09403908997774124
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "cbbc6070-50db-479e-90d5-f5759786cd4a": {
+      "box": {
+        "bottom": 0.2333766520023346,
+        "left": 0.13812921941280365,
+        "right": 0.41680794954299927,
+        "top": 0.13466733694076538
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c7976ee5-2498-4610-ba90-7e918fcd92fe": {
+      "box": {
+        "bottom": 0.23240059614181519,
+        "left": 0.5110799074172974,
+        "right": 0.7881810665130615,
+        "top": 0.1358688771724701
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ac231ae4-c0a6-4312-9e7b-571cbe105274": {
+      "box": {
+        "bottom": 0.32946836948394775,
+        "left": 0.060353100299835205,
+        "right": 0.9491824507713318,
+        "top": 0.25160765647888184
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.3114117758208437,
+        "left": 0.06503347910541979,
+        "right": 0.9491676168311756,
+        "top": 0.2557818128702718
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.29090385662716045,
+        "left": 0.06503347910541979,
+        "right": 0.31337778965718854,
+        "top": 0.2557818128702718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.29090385662716045,
+        "left": 0.31337778965718854,
+        "right": 0.52569094216922,
+        "top": 0.2557818128702718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.29090385662716045,
+        "left": 0.52569094216922,
+        "right": 0.7371395938402898,
+        "top": 0.2557818128702718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.29090385662716045,
+        "left": 0.7371395938402898,
+        "right": 0.9491243864912917,
+        "top": 0.2557818128702718
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3114117758208437,
+        "left": 0.06503347910541979,
+        "right": 0.31337778965718854,
+        "top": 0.29090385662716045
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3114117758208437,
+        "left": 0.31337778965718854,
+        "right": 0.52569094216922,
+        "top": 0.29090385662716045
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3114117758208437,
+        "left": 0.52569094216922,
+        "right": 0.7371395938402898,
+        "top": 0.29090385662716045
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3114117758208437,
+        "left": 0.7371395938402898,
+        "right": 0.9491243864912917,
+        "top": 0.29090385662716045
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "ddb7e8ef-fa02-41d8-a9ee-324c4d1ba165": {
+      "box": {
+        "bottom": 0.3908047676086426,
+        "left": 0.06116980314254761,
+        "right": 0.9437374472618103,
+        "top": 0.3324648141860962
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.3908042494861448,
+        "left": 0.06628725616983677,
+        "right": 0.9361738289332919,
+        "top": 0.33381710651600915
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.36942008563990214,
+        "left": 0.06628725616983677,
+        "right": 0.25215950385088703,
+        "top": 0.33381710651600915
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.36942008563990214,
+        "left": 0.25215950385088703,
+        "right": 0.5009264193439336,
+        "top": 0.33381710651600915
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.36942008563990214,
+        "left": 0.5009264193439336,
+        "right": 0.7492652211302868,
+        "top": 0.33381710651600915
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.36942008563990214,
+        "left": 0.7492652211302868,
+        "right": 0.9362243824641041,
+        "top": 0.33381710651600915
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3908042494861448,
+        "left": 0.06628725616983677,
+        "right": 0.25215950385088703,
+        "top": 0.36942008563990214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.3908042494861448,
+        "left": 0.25215950385088703,
+        "right": 0.5009264193439336,
+        "top": 0.36942008563990214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.3908042494861448,
+        "left": 0.5009264193439336,
+        "right": 0.7492652211302868,
+        "top": 0.36942008563990214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.3908042494861448,
+        "left": 0.7492652211302868,
+        "right": 0.9362243824641041,
+        "top": 0.36942008563990214
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "812078b4-60d1-4c19-9249-9b7f6c53856c": {
+      "box": {
+        "bottom": 0.5613189339637756,
+        "left": 0.06151372194290161,
+        "right": 0.9459529519081116,
+        "top": 0.3898407220840454
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.06637796429287646,
+        "right": 0.9433630865520399,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.41168609759013286,
+        "left": 0.06637796429287646,
+        "right": 0.1294990779423788,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.41168609759013286,
+        "left": 0.1294990779423788,
+        "right": 0.22427921845005372,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.41168609759013286,
+        "left": 0.22427921845005372,
+        "right": 0.5344342697256934,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.41168609759013286,
+        "left": 0.5344342697256934,
+        "right": 0.6293132869677862,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.41168609759013286,
+        "left": 0.6293132869677862,
+        "right": 0.7548020898597514,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.41168609759013286,
+        "left": 0.7548020898597514,
+        "right": 0.8187800617611174,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.41168609759013286,
+        "left": 0.8187800617611174,
+        "right": 0.9433885487114395,
+        "top": 0.392184892844118
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.4489882354826893,
+        "left": 0.06637796429287646,
+        "right": 0.1294990779423788,
+        "top": 0.41168609759013286
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.4489882354826893,
+        "left": 0.1294990779423788,
+        "right": 0.22427921845005372,
+        "top": 0.41168609759013286
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.4489882354826893,
+        "left": 0.22427921845005372,
+        "right": 0.5344342697256934,
+        "top": 0.41168609759013286
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.4489882354826893,
+        "left": 0.5344342697256934,
+        "right": 0.6293132869677862,
+        "top": 0.41168609759013286
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.4489882354826893,
+        "left": 0.6293132869677862,
+        "right": 0.7548020898597514,
+        "top": 0.41168609759013286
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.4489882354826893,
+        "left": 0.7548020898597514,
+        "right": 0.8187800617611174,
+        "top": 0.41168609759013286
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.4489882354826893,
+        "left": 0.8187800617611174,
+        "right": 0.9433885487114395,
+        "top": 0.41168609759013286
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5078479488381014,
+        "left": 0.06637796429287646,
+        "right": 0.1294990779423788,
+        "top": 0.4489882354826893
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5078479488381014,
+        "left": 0.1294990779423788,
+        "right": 0.22427921845005372,
+        "top": 0.4489882354826893
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5078479488381014,
+        "left": 0.22427921845005372,
+        "right": 0.5344342697256934,
+        "top": 0.4489882354826893
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5078479488381014,
+        "left": 0.5344342697256934,
+        "right": 0.6293132869677862,
+        "top": 0.4489882354826893
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5078479488381014,
+        "left": 0.6293132869677862,
+        "right": 0.7548020898597514,
+        "top": 0.4489882354826893
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5078479488381014,
+        "left": 0.7548020898597514,
+        "right": 0.8187800617611174,
+        "top": 0.4489882354826893
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.5078479488381014,
+        "left": 0.8187800617611174,
+        "right": 0.9433885487114395,
+        "top": 0.4489882354826893
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.06637796429287646,
+        "right": 0.1294990779423788,
+        "top": 0.5078479488381014
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.1294990779423788,
+        "right": 0.22427921845005372,
+        "top": 0.5078479488381014
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.22427921845005372,
+        "right": 0.5344342697256934,
+        "top": 0.5078479488381014
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.5344342697256934,
+        "right": 0.6293132869677862,
+        "top": 0.5078479488381014
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.6293132869677862,
+        "right": 0.7548020898597514,
+        "top": 0.5078479488381014
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.7548020898597514,
+        "right": 0.8187800617611174,
+        "top": 0.5078479488381014
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.5613172577365191,
+        "left": 0.8187800617611174,
+        "right": 0.9433885487114395,
+        "top": 0.5078479488381014
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "fb115654-3a08-4fbe-a200-797e1d290c7e": {
+      "box": {
+        "bottom": 0.8306714296340942,
+        "left": 0.06526479125022888,
+        "right": 0.24079859256744385,
+        "top": 0.8141883611679077
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "89a2ee3f-e349-4578-bb27-7dd5e3852069": {
+      "box": {
+        "bottom": 0.8501620888710022,
+        "left": 0.6180179715156555,
+        "right": 0.9115516543388367,
+        "top": 0.8137614130973816
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3f53573f-a239-438f-8571-89b579880237": {
+      "box": {
+        "bottom": 0.9282081723213196,
+        "left": 0.05981507897377014,
+        "right": 0.9294843673706055,
+        "top": 0.8506236672401428
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.9252165297547492,
+        "left": 0.06407248617377358,
+        "right": 0.9257909252562015,
+        "top": 0.8544807830215682
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.8696822449100381,
+        "left": 0.06407248617377358,
+        "right": 0.6176313100685427,
+        "top": 0.8544807830215682
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.8696822449100381,
+        "left": 0.6176313100685427,
+        "right": 0.8447808511024792,
+        "top": 0.8544807830215682
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.8696822449100381,
+        "left": 0.8447808511024792,
+        "right": 0.9259676871381153,
+        "top": 0.8544807830215682
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.8838692378288471,
+        "left": 0.06407248617377358,
+        "right": 0.6176313100685427,
+        "top": 0.8696822449100381
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.8838692378288471,
+        "left": 0.6176313100685427,
+        "right": 0.8447808511024792,
+        "top": 0.8696822449100381
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.8838692378288471,
+        "left": 0.8447808511024792,
+        "right": 0.9259676871381153,
+        "top": 0.8696822449100381
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.9252165297547492,
+        "left": 0.06407248617377358,
+        "right": 0.6176313100685427,
+        "top": 0.8838692378288471
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.9252165297547492,
+        "left": 0.6176313100685427,
+        "right": 0.8447808511024792,
+        "top": 0.8838692378288471
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.9252165297547492,
+        "left": 0.8447808511024792,
+        "right": 0.9259676871381153,
+        "top": 0.8838692378288471
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "bf211874-86fc-4a53-8b6c-fc60dc47c775": {
+      "box": {
+        "bottom": 0.9556403160095215,
+        "left": 0.06378458440303802,
+        "right": 0.50380539894104,
+        "top": 0.9391276836395264
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "46481aa8-d371-41c3-8db0-687dd399c49b": {
+      "box": {
+        "bottom": 0.9559795260429382,
+        "left": 0.825284481048584,
+        "right": 0.8762195110321045,
+        "top": 0.9408475756645203
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "3b4c95fc-c8af-4e06-9121-048060e0c8ab": {
+      "box": {
+        "bottom": 0.9862309694290161,
+        "left": 0.4311559200286865,
+        "right": 0.5561078190803528,
+        "top": 0.9718036651611328
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "02453c9d-d173-47dc-a162-46d734162f0e": {
+      "box": {
+        "bottom": 0.8518003821372986,
+        "left": 0.06466025114059448,
+        "right": 0.17183570563793182,
+        "top": 0.8335221409797668
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

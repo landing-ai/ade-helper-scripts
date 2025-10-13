@@ -1,0 +1,579 @@
+{
+  "chunks": [
+    {
+      "id": "db3db89b-5c7a-4812-a86f-401235cb9cd5",
+      "grounding": {
+        "box": {
+          "bottom": 0.07924627512693405,
+          "left": 0.04936695098876953,
+          "right": 0.38628801703453064,
+          "top": 0.03653863072395325
+        },
+        "page": 0
+      },
+      "markdown": "<a id='db3db89b-5c7a-4812-a86f-401235cb9cd5'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "6d149151-bc92-4f75-83ea-94f38ad4c800",
+      "grounding": {
+        "box": {
+          "bottom": 0.109286829829216,
+          "left": 0.05204516649246216,
+          "right": 0.13319005072116852,
+          "top": 0.08241285383701324
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6d149151-bc92-4f75-83ea-94f38ad4c800'></a>\n\n<::logo: Campers CardCAMPERS CARDThe logo features a stylized outline of a camper van and a tent within a card-like shape, in monochrome gray.::>",
+      "type": "logo"
+    },
+    {
+      "id": "2d15f9bd-d2db-4a3d-bc35-db8dd53c1d2a",
+      "grounding": {
+        "box": {
+          "bottom": 0.10664746165275574,
+          "left": 0.14527423679828644,
+          "right": 0.20883627235889435,
+          "top": 0.08346956968307495
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2d15f9bd-d2db-4a3d-bc35-db8dd53c1d2a'></a>\n\n<::logo: Boondockers Welcome\nBW\nBOONDOCKERS\nWelcome\nA dark grey rectangular shape, resembling a travel trailer, contains the white letters \"BW\"; below it, \"BOONDOCKERS\" is in a sans-serif font, and \"Welcome\" is in a script font.::>",
+      "type": "logo"
+    },
+    {
+      "id": "0a79fc30-65db-4343-b430-549e8368518f",
+      "grounding": {
+        "box": {
+          "bottom": 0.1076815202832222,
+          "left": 0.22208364307880402,
+          "right": 0.29736483097076416,
+          "top": 0.08356808871030807
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0a79fc30-65db-4343-b430-549e8368518f'></a>\n\n<::logo: CampScanner\nCampScanner\nA stylized grey tent icon with Wi-Fi-like signal waves emanating from its peak.::>",
+      "type": "logo"
+    },
+    {
+      "id": "1f429e03-2b57-447c-90df-4139b7ce62eb",
+      "grounding": {
+        "box": {
+          "bottom": 0.1081189289689064,
+          "left": 0.3051208257675171,
+          "right": 0.38373565673828125,
+          "top": 0.08458463102579117
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1f429e03-2b57-447c-90df-4139b7ce62eb'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "bb2570b5-009f-44a5-ac91-f34324b5cdd6",
+      "grounding": {
+        "box": {
+          "bottom": 0.15478065609931946,
+          "left": 0.6054606437683105,
+          "right": 0.8690721988677979,
+          "top": 0.03983939811587334
+        },
+        "page": 0
+      },
+      "markdown": "<a id='bb2570b5-009f-44a5-ac91-f34324b5cdd6'></a>\n\nINVOICE\n\nInvoice # 1457274\nInvoice Date Aug 31, 2024\nInvoice Amount $172.83 (USD)\nCustomer ID 16Bj5ATG7ptQz8kux",
+      "type": "text"
+    },
+    {
+      "id": "376ea936-2670-4d57-a198-f003c4e5eca4",
+      "grounding": {
+        "box": {
+          "bottom": 0.1860499531030655,
+          "left": 0.049865081906318665,
+          "right": 0.26117008924484253,
+          "top": 0.12652640044689178
+        },
+        "page": 0
+      },
+      "markdown": "<a id='376ea936-2670-4d57-a198-f003c4e5eca4'></a>\n\nHarvest Hosts\n1300 N. Frontage Rd, #1594\nVail, Colorado 81657\nUnited States",
+      "type": "text"
+    },
+    {
+      "id": "c573bdd0-75cd-4ebc-8cef-9aaa8a2aded6",
+      "grounding": {
+        "box": {
+          "bottom": 0.17348316311836243,
+          "left": 0.609686017036438,
+          "right": 0.6607712507247925,
+          "top": 0.15762859582901
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c573bdd0-75cd-4ebc-8cef-9aaa8a2aded6'></a>\n\n<::attestation: Status indicator\nPAID\nReadable Text: PAID\nThe word \"PAID\" in green, centered on a white background.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa",
+      "grounding": {
+        "box": {
+          "bottom": 0.28466683626174927,
+          "left": 0.0481177493929863,
+          "right": 0.2770002484321594,
+          "top": 0.21088920533657074
+        },
+        "page": 0
+      },
+      "markdown": "<a id='36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa'></a>\n\nBILLED TO\nAndrea Kropp\n227 N 5th Ave, PO Box 1168\nRidgefield, Washington 98642\nUnited States",
+      "type": "text"
+    },
+    {
+      "id": "02263f5d-15dc-44f2-8c36-8ab3b96add1b",
+      "grounding": {
+        "box": {
+          "bottom": 0.2767300307750702,
+          "left": 0.6061282157897949,
+          "right": 0.9336230754852295,
+          "top": 0.21116694808006287
+        },
+        "page": 0
+      },
+      "markdown": "<a id='02263f5d-15dc-44f2-8c36-8ab3b96add1b'></a>\n\nSUBSCRIPTION\n\nID: 16Bj5ATG7ptQz8kux\nBilling Period: Aug 31, 2024 to Aug 31, 2025\nNext Billing Date: Aug 31, 2025",
+      "type": "text"
+    },
+    {
+      "id": "3b12ee35-0ead-4ffb-ab89-2f28ddc8f239",
+      "grounding": {
+        "box": {
+          "bottom": 0.5761691331863403,
+          "left": 0.04722929000854492,
+          "right": 0.9495929479598999,
+          "top": 0.30446454882621765
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3b12ee35-0ead-4ffb-ab89-2f28ddc8f239'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\"></td><td id=\"0-4\">AMOUNT (USD)</td></tr>\n<tr><td id=\"0-5\">Harvest Hosts</td><td id=\"0-6\"></td><td id=\"0-7\">$159.00</td></tr>\n<tr><td id=\"0-8\">Annual Harvest Hosts + Golf + Boondockers Welcome Subscription (Billed Every 365 Days)</td><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\">Sub Total</td><td id=\"0-d\">$159.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Tax @ 8.7%</td><td id=\"0-g\">$13.83</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Total</td><td id=\"0-j\">$172.83</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">Payments</td><td id=\"0-m\">($172.83)</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">Amount Due (USD)</td><td id=\"0-p\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "95c19a79-d238-4d6b-a020-261f43a5ce33",
+      "grounding": {
+        "box": {
+          "bottom": 0.6369203925132751,
+          "left": 0.047163963317871094,
+          "right": 0.564118504524231,
+          "top": 0.5883037447929382
+        },
+        "page": 0
+      },
+      "markdown": "<a id='95c19a79-d238-4d6b-a020-261f43a5ce33'></a>\n\nPAYMENTS\n---\n$172.83 was paid on 31 Aug, 2024 21:19 UTC by Visa card ending 8366.",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='db3db89b-5c7a-4812-a86f-401235cb9cd5'></a>\n\nCAPTION ERROR\n\n<a id='6d149151-bc92-4f75-83ea-94f38ad4c800'></a>\n\n<::logo: Campers CardCAMPERS CARDThe logo features a stylized outline of a camper van and a tent within a card-like shape, in monochrome gray.::>\n\n<a id='2d15f9bd-d2db-4a3d-bc35-db8dd53c1d2a'></a>\n\n<::logo: Boondockers Welcome\nBW\nBOONDOCKERS\nWelcome\nA dark grey rectangular shape, resembling a travel trailer, contains the white letters \"BW\"; below it, \"BOONDOCKERS\" is in a sans-serif font, and \"Welcome\" is in a script font.::>\n\n<a id='0a79fc30-65db-4343-b430-549e8368518f'></a>\n\n<::logo: CampScanner\nCampScanner\nA stylized grey tent icon with Wi-Fi-like signal waves emanating from its peak.::>\n\n<a id='1f429e03-2b57-447c-90df-4139b7ce62eb'></a>\n\nCAPTION ERROR\n\n<a id='bb2570b5-009f-44a5-ac91-f34324b5cdd6'></a>\n\nINVOICE\n\nInvoice # 1457274\nInvoice Date Aug 31, 2024\nInvoice Amount $172.83 (USD)\nCustomer ID 16Bj5ATG7ptQz8kux\n\n<a id='376ea936-2670-4d57-a198-f003c4e5eca4'></a>\n\nHarvest Hosts\n1300 N. Frontage Rd, #1594\nVail, Colorado 81657\nUnited States\n\n<a id='c573bdd0-75cd-4ebc-8cef-9aaa8a2aded6'></a>\n\n<::attestation: Status indicator\nPAID\nReadable Text: PAID\nThe word \"PAID\" in green, centered on a white background.::>\n\n<a id='36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa'></a>\n\nBILLED TO\nAndrea Kropp\n227 N 5th Ave, PO Box 1168\nRidgefield, Washington 98642\nUnited States\n\n<a id='02263f5d-15dc-44f2-8c36-8ab3b96add1b'></a>\n\nSUBSCRIPTION\n\nID: 16Bj5ATG7ptQz8kux\nBilling Period: Aug 31, 2024 to Aug 31, 2025\nNext Billing Date: Aug 31, 2025\n\n<a id='3b12ee35-0ead-4ffb-ab89-2f28ddc8f239'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\"></td><td id=\"0-4\">AMOUNT (USD)</td></tr>\n<tr><td id=\"0-5\">Harvest Hosts</td><td id=\"0-6\"></td><td id=\"0-7\">$159.00</td></tr>\n<tr><td id=\"0-8\">Annual Harvest Hosts + Golf + Boondockers Welcome Subscription (Billed Every 365 Days)</td><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\">Sub Total</td><td id=\"0-d\">$159.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Tax @ 8.7%</td><td id=\"0-g\">$13.83</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Total</td><td id=\"0-j\">$172.83</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">Payments</td><td id=\"0-m\">($172.83)</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">Amount Due (USD)</td><td id=\"0-p\">$0.00</td></tr>\n</table>\n\n<a id='95c19a79-d238-4d6b-a020-261f43a5ce33'></a>\n\nPAYMENTS\n---\n$172.83 was paid on 31 Aug, 2024 21:19 UTC by Visa card ending 8366.",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 16414,
+    "filename": "invoice_19.pdf",
+    "job_id": "ro1muio7ok4phdlzz3nn0i66g",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "db3db89b-5c7a-4812-a86f-401235cb9cd5",
+        "6d149151-bc92-4f75-83ea-94f38ad4c800",
+        "2d15f9bd-d2db-4a3d-bc35-db8dd53c1d2a",
+        "0a79fc30-65db-4343-b430-549e8368518f",
+        "1f429e03-2b57-447c-90df-4139b7ce62eb",
+        "bb2570b5-009f-44a5-ac91-f34324b5cdd6",
+        "376ea936-2670-4d57-a198-f003c4e5eca4",
+        "c573bdd0-75cd-4ebc-8cef-9aaa8a2aded6",
+        "36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa",
+        "02263f5d-15dc-44f2-8c36-8ab3b96add1b",
+        "3b12ee35-0ead-4ffb-ab89-2f28ddc8f239",
+        "95c19a79-d238-4d6b-a020-261f43a5ce33"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='db3db89b-5c7a-4812-a86f-401235cb9cd5'></a>\n\nCAPTION ERROR\n\n<a id='6d149151-bc92-4f75-83ea-94f38ad4c800'></a>\n\n<::logo: Campers CardCAMPERS CARDThe logo features a stylized outline of a camper van and a tent within a card-like shape, in monochrome gray.::>\n\n<a id='2d15f9bd-d2db-4a3d-bc35-db8dd53c1d2a'></a>\n\n<::logo: Boondockers Welcome\nBW\nBOONDOCKERS\nWelcome\nA dark grey rectangular shape, resembling a travel trailer, contains the white letters \"BW\"; below it, \"BOONDOCKERS\" is in a sans-serif font, and \"Welcome\" is in a script font.::>\n\n<a id='0a79fc30-65db-4343-b430-549e8368518f'></a>\n\n<::logo: CampScanner\nCampScanner\nA stylized grey tent icon with Wi-Fi-like signal waves emanating from its peak.::>\n\n<a id='1f429e03-2b57-447c-90df-4139b7ce62eb'></a>\n\nCAPTION ERROR\n\n<a id='bb2570b5-009f-44a5-ac91-f34324b5cdd6'></a>\n\nINVOICE\n\nInvoice # 1457274\nInvoice Date Aug 31, 2024\nInvoice Amount $172.83 (USD)\nCustomer ID 16Bj5ATG7ptQz8kux\n\n<a id='376ea936-2670-4d57-a198-f003c4e5eca4'></a>\n\nHarvest Hosts\n1300 N. Frontage Rd, #1594\nVail, Colorado 81657\nUnited States\n\n<a id='c573bdd0-75cd-4ebc-8cef-9aaa8a2aded6'></a>\n\n<::attestation: Status indicator\nPAID\nReadable Text: PAID\nThe word \"PAID\" in green, centered on a white background.::>\n\n<a id='36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa'></a>\n\nBILLED TO\nAndrea Kropp\n227 N 5th Ave, PO Box 1168\nRidgefield, Washington 98642\nUnited States\n\n<a id='02263f5d-15dc-44f2-8c36-8ab3b96add1b'></a>\n\nSUBSCRIPTION\n\nID: 16Bj5ATG7ptQz8kux\nBilling Period: Aug 31, 2024 to Aug 31, 2025\nNext Billing Date: Aug 31, 2025\n\n<a id='3b12ee35-0ead-4ffb-ab89-2f28ddc8f239'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\"></td><td id=\"0-4\">AMOUNT (USD)</td></tr>\n<tr><td id=\"0-5\">Harvest Hosts</td><td id=\"0-6\"></td><td id=\"0-7\">$159.00</td></tr>\n<tr><td id=\"0-8\">Annual Harvest Hosts + Golf + Boondockers Welcome Subscription (Billed Every 365 Days)</td><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\">Sub Total</td><td id=\"0-d\">$159.00</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Tax @ 8.7%</td><td id=\"0-g\">$13.83</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\">Total</td><td id=\"0-j\">$172.83</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">Payments</td><td id=\"0-m\">($172.83)</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">Amount Due (USD)</td><td id=\"0-p\">$0.00</td></tr>\n</table>\n\n<a id='95c19a79-d238-4d6b-a020-261f43a5ce33'></a>\n\nPAYMENTS\n---\n$172.83 was paid on 31 Aug, 2024 21:19 UTC by Visa card ending 8366.",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "db3db89b-5c7a-4812-a86f-401235cb9cd5": {
+      "box": {
+        "bottom": 0.07924627512693405,
+        "left": 0.04936695098876953,
+        "right": 0.38628801703453064,
+        "top": 0.03653863072395325
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "6d149151-bc92-4f75-83ea-94f38ad4c800": {
+      "box": {
+        "bottom": 0.109286829829216,
+        "left": 0.05204516649246216,
+        "right": 0.13319005072116852,
+        "top": 0.08241285383701324
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "2d15f9bd-d2db-4a3d-bc35-db8dd53c1d2a": {
+      "box": {
+        "bottom": 0.10664746165275574,
+        "left": 0.14527423679828644,
+        "right": 0.20883627235889435,
+        "top": 0.08346956968307495
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "0a79fc30-65db-4343-b430-549e8368518f": {
+      "box": {
+        "bottom": 0.1076815202832222,
+        "left": 0.22208364307880402,
+        "right": 0.29736483097076416,
+        "top": 0.08356808871030807
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "1f429e03-2b57-447c-90df-4139b7ce62eb": {
+      "box": {
+        "bottom": 0.1081189289689064,
+        "left": 0.3051208257675171,
+        "right": 0.38373565673828125,
+        "top": 0.08458463102579117
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "bb2570b5-009f-44a5-ac91-f34324b5cdd6": {
+      "box": {
+        "bottom": 0.15478065609931946,
+        "left": 0.6054606437683105,
+        "right": 0.8690721988677979,
+        "top": 0.03983939811587334
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "376ea936-2670-4d57-a198-f003c4e5eca4": {
+      "box": {
+        "bottom": 0.1860499531030655,
+        "left": 0.049865081906318665,
+        "right": 0.26117008924484253,
+        "top": 0.12652640044689178
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c573bdd0-75cd-4ebc-8cef-9aaa8a2aded6": {
+      "box": {
+        "bottom": 0.17348316311836243,
+        "left": 0.609686017036438,
+        "right": 0.6607712507247925,
+        "top": 0.15762859582901
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "36fad96b-3f85-4a9b-b534-f0f5fa7cb6aa": {
+      "box": {
+        "bottom": 0.28466683626174927,
+        "left": 0.0481177493929863,
+        "right": 0.2770002484321594,
+        "top": 0.21088920533657074
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "02263f5d-15dc-44f2-8c36-8ab3b96add1b": {
+      "box": {
+        "bottom": 0.2767300307750702,
+        "left": 0.6061282157897949,
+        "right": 0.9336230754852295,
+        "top": 0.21116694808006287
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3b12ee35-0ead-4ffb-ab89-2f28ddc8f239": {
+      "box": {
+        "bottom": 0.5761691331863403,
+        "left": 0.04722929000854492,
+        "right": 0.9495929479598999,
+        "top": 0.30446454882621765
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.572848216171927,
+        "left": 0.05381912486924484,
+        "right": 0.9422376789262401,
+        "top": 0.30723636940516086
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3392874917586295,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.30723636940516086
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3392874917586295,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.30723636940516086
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3392874917586295,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.30723636940516086
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3724055051113604,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.3392874917586295
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3724055051113604,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.3392874917586295
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3724055051113604,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.3392874917586295
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.40162619011345324,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.3724055051113604
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.40162619011345324,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.3724055051113604
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.40162619011345324,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.3724055051113604
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.43039852864580297,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.40162619011345324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.43039852864580297,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.40162619011345324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.43039852864580297,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.40162619011345324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.466446138677199,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.43039852864580297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.466446138677199,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.43039852864580297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.466446138677199,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.43039852864580297
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4971467743300533,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.466446138677199
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.4971467743300533,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.466446138677199
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4971467743300533,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.466446138677199
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.5312717635377044,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.4971467743300533
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.5312717635377044,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.4971467743300533
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.5312717635377044,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.4971467743300533
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.572848216171927,
+        "left": 0.05381912486924484,
+        "right": 0.647551995453334,
+        "top": 0.5312717635377044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.572848216171927,
+        "left": 0.647551995453334,
+        "right": 0.848674039908083,
+        "top": 0.5312717635377044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.572848216171927,
+        "left": 0.848674039908083,
+        "right": 0.9425136500962452,
+        "top": 0.5312717635377044
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "95c19a79-d238-4d6b-a020-261f43a5ce33": {
+      "box": {
+        "bottom": 0.6369203925132751,
+        "left": 0.047163963317871094,
+        "right": 0.564118504524231,
+        "top": 0.5883037447929382
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

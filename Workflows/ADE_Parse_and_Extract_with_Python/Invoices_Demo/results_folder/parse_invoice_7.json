@@ -1,0 +1,754 @@
+{
+  "chunks": [
+    {
+      "id": "44730328-611d-4a9e-92a8-24823bf439e5",
+      "grounding": {
+        "box": {
+          "bottom": 0.1368197649717331,
+          "left": 0.06940925121307373,
+          "right": 0.5219409465789795,
+          "top": 0.020484324544668198
+        },
+        "page": 0
+      },
+      "markdown": "<a id='44730328-611d-4a9e-92a8-24823bf439e5'></a>\n\nRELIANCE RETAIL LIMITED\n\nTax Invoice\nOriginal for Recipient\n\nSeller/Consignor:\nReliance Retail Ltd,\nC/O Survey No.461/2C, Redhills-Ambattur Road, Puzhal Village,\nAmbattur Taluk Chennai,\nTN 600062\n\nState Code : 33\nGSTIN:33AABCR1718E1ZW\n\nC",
+      "type": "text"
+    },
+    {
+      "id": "994d9b87-8dd0-4bf2-aba8-e15d31ec42b9",
+      "grounding": {
+        "box": {
+          "bottom": 0.1212768405675888,
+          "left": 0.5101484060287476,
+          "right": 0.7249085903167725,
+          "top": 0.021704595535993576
+        },
+        "page": 0
+      },
+      "markdown": "<a id='994d9b87-8dd0-4bf2-aba8-e15d31ec42b9'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "28b21717-cff0-4242-846d-3f705c1a6338",
+      "grounding": {
+        "box": {
+          "bottom": 0.26181545853614807,
+          "left": 0.07066148519515991,
+          "right": 0.9291213750839233,
+          "top": 0.13445964455604553
+        },
+        "page": 0
+      },
+      "markdown": "<a id='28b21717-cff0-4242-846d-3f705c1a6338'></a>\n\nTax Invoice No: D33Y350102708514\n\nDate: 27-03-2023\n\nRecipient Address:\nManjula Kannan\n52, Mettu street,\nThenkodipakkam, Vanur taluk,,\nVillupuram TN\nIN Pin: 604102\nState Code: 33\nPlace of supply: Tamil Nadu, 33\nCarrier Name: ECOM\n\nMobile: 7708588356\nCustomer GSTIN: UNREGISTERED\nEwayBillNo: 501481630466\nEwayBillDate: 27-03-2023\n\nAWB Number: 2068019154",
+      "type": "text"
+    },
+    {
+      "id": "11d30f83-2d6a-4bd9-9ed8-f73735f257a7",
+      "grounding": {
+        "box": {
+          "bottom": 0.381592720746994,
+          "left": 0.07033756375312805,
+          "right": 0.92940354347229,
+          "top": 0.2576926052570343
+        },
+        "page": 0
+      },
+      "markdown": "<a id='11d30f83-2d6a-4bd9-9ed8-f73735f257a7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"9\">ORDER NUMBER: RDF49344959 SHIPMENT NO: DI102135784 PRE-PAID</td></tr>\n<tr><td id=\"0-3\">Article ID</td><td id=\"0-4\">Item Details</td><td id=\"0-5\">HSN Code</td><td id=\"0-6\">Item Qty</td><td id=\"0-7\">Unit Price (Rs.)</td><td id=\"0-8\">Discount (Rs.)</td><td id=\"0-9\">Net Price (Rs.)</td><td id=\"0-a\">Tax Amount (Rs.)</td><td id=\"0-b\">Total (Rs.)</td></tr>\n<tr><td id=\"0-c\">493665043</td><td id=\"0-d\">OnePlus 11 5G 128 GB, 8 GB Ram, Eternal Green, Mobile Phone SNo/IMEI: 865111062487193,865111062487193</td><td id=\"0-e\">85171300</td><td id=\"0-f\">1</td><td id=\"0-g\">48304.24</td><td id=\"0-h\"></td><td id=\"0-i\">48304.24</td><td id=\"0-j\">8694.76</td><td id=\"0-k\">56999.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "d6bbc224-a7eb-4ead-a317-8cddc58181a9",
+      "grounding": {
+        "box": {
+          "bottom": 0.7913161516189575,
+          "left": 0.06849294900894165,
+          "right": 0.9305547475814819,
+          "top": 0.676488995552063
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d6bbc224-a7eb-4ead-a317-8cddc58181a9'></a>\n\n<table id=\"0-l\">\n<tr><td id=\"0-m\" colspan=\"4\">Total :</td><td id=\"0-n\">1</td><td id=\"0-o\" colspan=\"2\"></td><td id=\"0-p\" colspan=\"3\">48304.24</td><td id=\"0-q\" colspan=\"2\">8694.76</td><td id=\"0-r\">56999.00</td></tr>\n<tr><td id=\"0-s\" colspan=\"13\">Tax Summary</td></tr>\n<tr><td id=\"0-t\" rowspan=\"2\">HSN Code</td><td id=\"0-u\" colspan=\"2\">CGST</td><td id=\"0-v\" colspan=\"3\">SGST/UTGST</td><td id=\"0-w\" colspan=\"3\">IGST</td><td id=\"0-x\" rowspan=\"2\" colspan=\"2\">Cess</td><td id=\"0-y\" rowspan=\"2\" colspan=\"2\">Total Tax Value</td></tr>\n<tr><td id=\"0-z\">Rate %</td><td id=\"0-A\">Amount</td><td id=\"0-B\" colspan=\"3\">Rate %</td><td id=\"0-C\">Rate %</td><td id=\"0-D\" colspan=\"2\">Amount</td></tr>\n<tr><td id=\"0-E\">85171300</td><td id=\"0-F\">9.00</td><td id=\"0-G\">4347.38</td><td id=\"0-H\" colspan=\"3\">9.00</td><td id=\"0-I\"></td><td id=\"0-J\" colspan=\"2\"></td><td id=\"0-K\" colspan=\"2\"></td><td id=\"0-L\" colspan=\"2\">8694.76</td></tr>\n<tr><td id=\"0-M\" colspan=\"2\">Total Tax Amount</td><td id=\"0-N\">4347.38</td><td id=\"0-O\" colspan=\"3\">4347.38</td><td id=\"0-P\" colspan=\"5\"></td><td id=\"0-Q\" colspan=\"2\">8694.76</td></tr>\n<tr><td id=\"0-R\" colspan=\"11\">Total Invoice Value</td><td id=\"0-S\" colspan=\"2\">56999.00</td></tr>\n<tr><td id=\"0-T\" colspan=\"13\">Total in Words: Fifty Six Thousand Nine Hundred and Ninety Nine Rupees Only</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "b80eb06a-0419-4357-9fe5-d630f36351c2",
+      "grounding": {
+        "box": {
+          "bottom": 0.8968703150749207,
+          "left": 0.06917351484298706,
+          "right": 0.9303354620933533,
+          "top": 0.7900398373603821
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b80eb06a-0419-4357-9fe5-d630f36351c2'></a>\n\nThank you for shopping with us!\n\nMode of Payment: EMI\nPayment Date and Time: 2023-03-27 09:36:28\nPayment Reference: 140101657\n\nTax is not payable under Reverse Charge basis for this supply.\nAn Electronic document issued in accordance with the provisions of the Information Technology Act, 2000 (21 of 2000)",
+      "type": "text"
+    },
+    {
+      "id": "4750ba85-0590-449f-b6ac-798e07951f7c",
+      "grounding": {
+        "box": {
+          "bottom": 0.9282287955284119,
+          "left": 0.06961151957511902,
+          "right": 0.9304511547088623,
+          "top": 0.8917707800865173
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4750ba85-0590-449f-b6ac-798e07951f7c'></a>\n\nPrincipal Place of Business: 89, 5, A1 Towers, Dr. Radhakrishnan Salai, Mylapore, Chennai, 600004\nRegd Office: 3rd floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai 400002\nCIN: U01100MH1999PLC120563\nWWW.RELIANCEDIGITAL.IN\nPage 1 of 1\nE. & O.E.",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='44730328-611d-4a9e-92a8-24823bf439e5'></a>\n\nRELIANCE RETAIL LIMITED\n\nTax Invoice\nOriginal for Recipient\n\nSeller/Consignor:\nReliance Retail Ltd,\nC/O Survey No.461/2C, Redhills-Ambattur Road, Puzhal Village,\nAmbattur Taluk Chennai,\nTN 600062\n\nState Code : 33\nGSTIN:33AABCR1718E1ZW\n\nC\n\n<a id='994d9b87-8dd0-4bf2-aba8-e15d31ec42b9'></a>\n\nCAPTION ERROR\n\n<a id='28b21717-cff0-4242-846d-3f705c1a6338'></a>\n\nTax Invoice No: D33Y350102708514\n\nDate: 27-03-2023\n\nRecipient Address:\nManjula Kannan\n52, Mettu street,\nThenkodipakkam, Vanur taluk,,\nVillupuram TN\nIN Pin: 604102\nState Code: 33\nPlace of supply: Tamil Nadu, 33\nCarrier Name: ECOM\n\nMobile: 7708588356\nCustomer GSTIN: UNREGISTERED\nEwayBillNo: 501481630466\nEwayBillDate: 27-03-2023\n\nAWB Number: 2068019154\n\n<a id='11d30f83-2d6a-4bd9-9ed8-f73735f257a7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"9\">ORDER NUMBER: RDF49344959 SHIPMENT NO: DI102135784 PRE-PAID</td></tr>\n<tr><td id=\"0-3\">Article ID</td><td id=\"0-4\">Item Details</td><td id=\"0-5\">HSN Code</td><td id=\"0-6\">Item Qty</td><td id=\"0-7\">Unit Price (Rs.)</td><td id=\"0-8\">Discount (Rs.)</td><td id=\"0-9\">Net Price (Rs.)</td><td id=\"0-a\">Tax Amount (Rs.)</td><td id=\"0-b\">Total (Rs.)</td></tr>\n<tr><td id=\"0-c\">493665043</td><td id=\"0-d\">OnePlus 11 5G 128 GB, 8 GB Ram, Eternal Green, Mobile Phone SNo/IMEI: 865111062487193,865111062487193</td><td id=\"0-e\">85171300</td><td id=\"0-f\">1</td><td id=\"0-g\">48304.24</td><td id=\"0-h\"></td><td id=\"0-i\">48304.24</td><td id=\"0-j\">8694.76</td><td id=\"0-k\">56999.00</td></tr>\n</table>\n\n<a id='d6bbc224-a7eb-4ead-a317-8cddc58181a9'></a>\n\n<table id=\"0-l\">\n<tr><td id=\"0-m\" colspan=\"4\">Total :</td><td id=\"0-n\">1</td><td id=\"0-o\" colspan=\"2\"></td><td id=\"0-p\" colspan=\"3\">48304.24</td><td id=\"0-q\" colspan=\"2\">8694.76</td><td id=\"0-r\">56999.00</td></tr>\n<tr><td id=\"0-s\" colspan=\"13\">Tax Summary</td></tr>\n<tr><td id=\"0-t\" rowspan=\"2\">HSN Code</td><td id=\"0-u\" colspan=\"2\">CGST</td><td id=\"0-v\" colspan=\"3\">SGST/UTGST</td><td id=\"0-w\" colspan=\"3\">IGST</td><td id=\"0-x\" rowspan=\"2\" colspan=\"2\">Cess</td><td id=\"0-y\" rowspan=\"2\" colspan=\"2\">Total Tax Value</td></tr>\n<tr><td id=\"0-z\">Rate %</td><td id=\"0-A\">Amount</td><td id=\"0-B\" colspan=\"3\">Rate %</td><td id=\"0-C\">Rate %</td><td id=\"0-D\" colspan=\"2\">Amount</td></tr>\n<tr><td id=\"0-E\">85171300</td><td id=\"0-F\">9.00</td><td id=\"0-G\">4347.38</td><td id=\"0-H\" colspan=\"3\">9.00</td><td id=\"0-I\"></td><td id=\"0-J\" colspan=\"2\"></td><td id=\"0-K\" colspan=\"2\"></td><td id=\"0-L\" colspan=\"2\">8694.76</td></tr>\n<tr><td id=\"0-M\" colspan=\"2\">Total Tax Amount</td><td id=\"0-N\">4347.38</td><td id=\"0-O\" colspan=\"3\">4347.38</td><td id=\"0-P\" colspan=\"5\"></td><td id=\"0-Q\" colspan=\"2\">8694.76</td></tr>\n<tr><td id=\"0-R\" colspan=\"11\">Total Invoice Value</td><td id=\"0-S\" colspan=\"2\">56999.00</td></tr>\n<tr><td id=\"0-T\" colspan=\"13\">Total in Words: Fifty Six Thousand Nine Hundred and Ninety Nine Rupees Only</td></tr>\n</table>\n\n<a id='b80eb06a-0419-4357-9fe5-d630f36351c2'></a>\n\nThank you for shopping with us!\n\nMode of Payment: EMI\nPayment Date and Time: 2023-03-27 09:36:28\nPayment Reference: 140101657\n\nTax is not payable under Reverse Charge basis for this supply.\nAn Electronic document issued in accordance with the provisions of the Information Technology Act, 2000 (21 of 2000)\n\n<a id='4750ba85-0590-449f-b6ac-798e07951f7c'></a>\n\nPrincipal Place of Business: 89, 5, A1 Towers, Dr. Radhakrishnan Salai, Mylapore, Chennai, 600004\nRegd Office: 3rd floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai 400002\nCIN: U01100MH1999PLC120563\nWWW.RELIANCEDIGITAL.IN\nPage 1 of 1\nE. & O.E.",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 10020,
+    "filename": "invoice_7.pdf",
+    "job_id": "ihkc9jvzlrexuxp0jhd60axdc",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "44730328-611d-4a9e-92a8-24823bf439e5",
+        "994d9b87-8dd0-4bf2-aba8-e15d31ec42b9",
+        "28b21717-cff0-4242-846d-3f705c1a6338",
+        "11d30f83-2d6a-4bd9-9ed8-f73735f257a7",
+        "d6bbc224-a7eb-4ead-a317-8cddc58181a9",
+        "b80eb06a-0419-4357-9fe5-d630f36351c2",
+        "4750ba85-0590-449f-b6ac-798e07951f7c"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='44730328-611d-4a9e-92a8-24823bf439e5'></a>\n\nRELIANCE RETAIL LIMITED\n\nTax Invoice\nOriginal for Recipient\n\nSeller/Consignor:\nReliance Retail Ltd,\nC/O Survey No.461/2C, Redhills-Ambattur Road, Puzhal Village,\nAmbattur Taluk Chennai,\nTN 600062\n\nState Code : 33\nGSTIN:33AABCR1718E1ZW\n\nC\n\n<a id='994d9b87-8dd0-4bf2-aba8-e15d31ec42b9'></a>\n\nCAPTION ERROR\n\n<a id='28b21717-cff0-4242-846d-3f705c1a6338'></a>\n\nTax Invoice No: D33Y350102708514\n\nDate: 27-03-2023\n\nRecipient Address:\nManjula Kannan\n52, Mettu street,\nThenkodipakkam, Vanur taluk,,\nVillupuram TN\nIN Pin: 604102\nState Code: 33\nPlace of supply: Tamil Nadu, 33\nCarrier Name: ECOM\n\nMobile: 7708588356\nCustomer GSTIN: UNREGISTERED\nEwayBillNo: 501481630466\nEwayBillDate: 27-03-2023\n\nAWB Number: 2068019154\n\n<a id='11d30f83-2d6a-4bd9-9ed8-f73735f257a7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"9\">ORDER NUMBER: RDF49344959 SHIPMENT NO: DI102135784 PRE-PAID</td></tr>\n<tr><td id=\"0-3\">Article ID</td><td id=\"0-4\">Item Details</td><td id=\"0-5\">HSN Code</td><td id=\"0-6\">Item Qty</td><td id=\"0-7\">Unit Price (Rs.)</td><td id=\"0-8\">Discount (Rs.)</td><td id=\"0-9\">Net Price (Rs.)</td><td id=\"0-a\">Tax Amount (Rs.)</td><td id=\"0-b\">Total (Rs.)</td></tr>\n<tr><td id=\"0-c\">493665043</td><td id=\"0-d\">OnePlus 11 5G 128 GB, 8 GB Ram, Eternal Green, Mobile Phone SNo/IMEI: 865111062487193,865111062487193</td><td id=\"0-e\">85171300</td><td id=\"0-f\">1</td><td id=\"0-g\">48304.24</td><td id=\"0-h\"></td><td id=\"0-i\">48304.24</td><td id=\"0-j\">8694.76</td><td id=\"0-k\">56999.00</td></tr>\n</table>\n\n<a id='d6bbc224-a7eb-4ead-a317-8cddc58181a9'></a>\n\n<table id=\"0-l\">\n<tr><td id=\"0-m\" colspan=\"4\">Total :</td><td id=\"0-n\">1</td><td id=\"0-o\" colspan=\"2\"></td><td id=\"0-p\" colspan=\"3\">48304.24</td><td id=\"0-q\" colspan=\"2\">8694.76</td><td id=\"0-r\">56999.00</td></tr>\n<tr><td id=\"0-s\" colspan=\"13\">Tax Summary</td></tr>\n<tr><td id=\"0-t\" rowspan=\"2\">HSN Code</td><td id=\"0-u\" colspan=\"2\">CGST</td><td id=\"0-v\" colspan=\"3\">SGST/UTGST</td><td id=\"0-w\" colspan=\"3\">IGST</td><td id=\"0-x\" rowspan=\"2\" colspan=\"2\">Cess</td><td id=\"0-y\" rowspan=\"2\" colspan=\"2\">Total Tax Value</td></tr>\n<tr><td id=\"0-z\">Rate %</td><td id=\"0-A\">Amount</td><td id=\"0-B\" colspan=\"3\">Rate %</td><td id=\"0-C\">Rate %</td><td id=\"0-D\" colspan=\"2\">Amount</td></tr>\n<tr><td id=\"0-E\">85171300</td><td id=\"0-F\">9.00</td><td id=\"0-G\">4347.38</td><td id=\"0-H\" colspan=\"3\">9.00</td><td id=\"0-I\"></td><td id=\"0-J\" colspan=\"2\"></td><td id=\"0-K\" colspan=\"2\"></td><td id=\"0-L\" colspan=\"2\">8694.76</td></tr>\n<tr><td id=\"0-M\" colspan=\"2\">Total Tax Amount</td><td id=\"0-N\">4347.38</td><td id=\"0-O\" colspan=\"3\">4347.38</td><td id=\"0-P\" colspan=\"5\"></td><td id=\"0-Q\" colspan=\"2\">8694.76</td></tr>\n<tr><td id=\"0-R\" colspan=\"11\">Total Invoice Value</td><td id=\"0-S\" colspan=\"2\">56999.00</td></tr>\n<tr><td id=\"0-T\" colspan=\"13\">Total in Words: Fifty Six Thousand Nine Hundred and Ninety Nine Rupees Only</td></tr>\n</table>\n\n<a id='b80eb06a-0419-4357-9fe5-d630f36351c2'></a>\n\nThank you for shopping with us!\n\nMode of Payment: EMI\nPayment Date and Time: 2023-03-27 09:36:28\nPayment Reference: 140101657\n\nTax is not payable under Reverse Charge basis for this supply.\nAn Electronic document issued in accordance with the provisions of the Information Technology Act, 2000 (21 of 2000)\n\n<a id='4750ba85-0590-449f-b6ac-798e07951f7c'></a>\n\nPrincipal Place of Business: 89, 5, A1 Towers, Dr. Radhakrishnan Salai, Mylapore, Chennai, 600004\nRegd Office: 3rd floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai 400002\nCIN: U01100MH1999PLC120563\nWWW.RELIANCEDIGITAL.IN\nPage 1 of 1\nE. & O.E.",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "44730328-611d-4a9e-92a8-24823bf439e5": {
+      "box": {
+        "bottom": 0.1368197649717331,
+        "left": 0.06940925121307373,
+        "right": 0.5219409465789795,
+        "top": 0.020484324544668198
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "994d9b87-8dd0-4bf2-aba8-e15d31ec42b9": {
+      "box": {
+        "bottom": 0.1212768405675888,
+        "left": 0.5101484060287476,
+        "right": 0.7249085903167725,
+        "top": 0.021704595535993576
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "28b21717-cff0-4242-846d-3f705c1a6338": {
+      "box": {
+        "bottom": 0.26181545853614807,
+        "left": 0.07066148519515991,
+        "right": 0.9291213750839233,
+        "top": 0.13445964455604553
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "11d30f83-2d6a-4bd9-9ed8-f73735f257a7": {
+      "box": {
+        "bottom": 0.381592720746994,
+        "left": 0.07033756375312805,
+        "right": 0.92940354347229,
+        "top": 0.2576926052570343
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.07407076010160758,
+        "right": 0.9269510100346441,
+        "top": 0.2606362814053905
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.07407076010160758,
+        "right": 0.9267748159607159,
+        "top": 0.2606362814053905
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.07407076010160758,
+        "right": 0.1598045083619195,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.1598045083619195,
+        "right": 0.3966264075619339,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.3966264075619339,
+        "right": 0.46432254152528873,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.46432254152528873,
+        "right": 0.5224435183742866,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.5224435183742866,
+        "right": 0.5992132887146866,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.5992132887146866,
+        "right": 0.6750139148419976,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.6750139148419976,
+        "right": 0.7487420460137013,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.7487420460137013,
+        "right": 0.842772947101972,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.31486551358062087,
+        "left": 0.842772947101972,
+        "right": 0.9267748159607159,
+        "top": 0.2841222673277688
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.07407076010160758,
+        "right": 0.1598045083619195,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.1598045083619195,
+        "right": 0.3966264075619339,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.3966264075619339,
+        "right": 0.46432254152528873,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.46432254152528873,
+        "right": 0.5224435183742866,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.5224435183742866,
+        "right": 0.5992132887146866,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.5992132887146866,
+        "right": 0.6750139148419976,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.6750139148419976,
+        "right": 0.7487420460137013,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.7487420460137013,
+        "right": 0.842772947101972,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.3782184744854078,
+        "left": 0.842772947101972,
+        "right": 0.9267748159607159,
+        "top": 0.31486551358062087
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "d6bbc224-a7eb-4ead-a317-8cddc58181a9": {
+      "box": {
+        "bottom": 0.7913161516189575,
+        "left": 0.06849294900894165,
+        "right": 0.9305547475814819,
+        "top": 0.676488995552063
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.7911358950847784,
+        "left": 0.07324762915750882,
+        "right": 0.9269765460771922,
+        "top": 0.6805920885900889
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.7116235859741664,
+        "left": 0.07324762915750882,
+        "right": 0.5038040428054984,
+        "top": 0.6805920885900889
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.6985847545215478,
+        "left": 0.4316153509590599,
+        "right": 0.5038040428054984,
+        "top": 0.6805920885900889
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.7116235859741664,
+        "left": 0.5038040428054984,
+        "right": 0.6486408408935311,
+        "top": 0.6805920885900889
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.7116235859741664,
+        "left": 0.6084054710102187,
+        "right": 0.7972375817581572,
+        "top": 0.6805920885900889
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.7116235859741664,
+        "left": 0.7608062925516101,
+        "right": 0.9269859491455641,
+        "top": 0.6805920885900889
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.6985847545215478,
+        "left": 0.837718356311111,
+        "right": 0.9269859491455641,
+        "top": 0.6805920885900889
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.7235525756119614,
+        "left": 0.07324762915750882,
+        "right": 0.9269859491455641,
+        "top": 0.6985847545215478
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.07324762915750882,
+        "right": 0.27258995213814163,
+        "top": 0.7116235859741664
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.7353241479172539,
+        "left": 0.209222558768154,
+        "right": 0.4316153509590599,
+        "top": 0.7116235859741664
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.7353241479172539,
+        "left": 0.37571261938415645,
+        "right": 0.6084054710102187,
+        "top": 0.7116235859741664
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.7353241479172539,
+        "left": 0.5389508625958612,
+        "right": 0.7608062925516101,
+        "top": 0.7116235859741664
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.7005624777449952,
+        "right": 0.837718356311111,
+        "top": 0.7116235859741664
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.7972375817581572,
+        "right": 0.9269859491455641,
+        "top": 0.7116235859741664
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.7353241479172539,
+        "left": 0.209222558768154,
+        "right": 0.27258995213814163,
+        "top": 0.7235525756119614
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.7353241479172539,
+        "left": 0.27258995213814163,
+        "right": 0.37571261938415645,
+        "top": 0.7235525756119614
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.37571261938415645,
+        "right": 0.6084054710102187,
+        "top": 0.7235525756119614
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.7353241479172539,
+        "left": 0.5389508625958612,
+        "right": 0.6084054710102187,
+        "top": 0.7235525756119614
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.6084054710102187,
+        "right": 0.7608062925516101,
+        "top": 0.7235525756119614
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.07324762915750882,
+        "right": 0.209222558768154,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.209222558768154,
+        "right": 0.27258995213814163,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.27258995213814163,
+        "right": 0.37571261938415645,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.7604371402983361,
+        "left": 0.37571261938415645,
+        "right": 0.6084054710102187,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.7478208186772122,
+        "left": 0.5389508625958612,
+        "right": 0.6084054710102187,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.7604371402983361,
+        "left": 0.6084054710102187,
+        "right": 0.7608062925516101,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.7604371402983361,
+        "left": 0.7005624777449952,
+        "right": 0.837718356311111,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.7604371402983361,
+        "left": 0.7972375817581572,
+        "right": 0.9269859491455641,
+        "top": 0.7353241479172539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.7757868085714108,
+        "left": 0.07324762915750882,
+        "right": 0.37571261938415645,
+        "top": 0.7478208186772122
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.7604371402983361,
+        "left": 0.27258995213814163,
+        "right": 0.37571261938415645,
+        "top": 0.7478208186772122
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.7757868085714108,
+        "left": 0.37571261938415645,
+        "right": 0.6084054710102187,
+        "top": 0.7478208186772122
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.7757868085714108,
+        "left": 0.5389508625958612,
+        "right": 0.837718356311111,
+        "top": 0.7478208186772122
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.7757868085714108,
+        "left": 0.7972375817581572,
+        "right": 0.9269859491455641,
+        "top": 0.7478208186772122
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.7911358950847784,
+        "left": 0.07324762915750882,
+        "right": 0.837718356311111,
+        "top": 0.7604371402983361
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.7911358950847784,
+        "left": 0.7972375817581572,
+        "right": 0.9269859491455641,
+        "top": 0.7604371402983361
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.7911358950847784,
+        "left": 0.07324762915750882,
+        "right": 0.9269859491455641,
+        "top": 0.7757868085714108
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "b80eb06a-0419-4357-9fe5-d630f36351c2": {
+      "box": {
+        "bottom": 0.8968703150749207,
+        "left": 0.06917351484298706,
+        "right": 0.9303354620933533,
+        "top": 0.7900398373603821
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4750ba85-0590-449f-b6ac-798e07951f7c": {
+      "box": {
+        "bottom": 0.9282287955284119,
+        "left": 0.06961151957511902,
+        "right": 0.9304511547088623,
+        "top": 0.8917707800865173
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

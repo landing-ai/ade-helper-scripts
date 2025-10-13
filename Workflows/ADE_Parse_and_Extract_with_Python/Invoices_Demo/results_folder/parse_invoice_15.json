@@ -1,0 +1,724 @@
+{
+  "chunks": [
+    {
+      "id": "eaca9ccf-8a89-40c9-ac67-c4877366c0b9",
+      "grounding": {
+        "box": {
+          "bottom": 0.08716528117656708,
+          "left": 0.022913455963134766,
+          "right": 0.2863876223564148,
+          "top": 0.017957549542188644
+        },
+        "page": 0
+      },
+      "markdown": "<a id='eaca9ccf-8a89-40c9-ac67-c4877366c0b9'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "6c658393-333b-456c-a7e5-976486bfc598",
+      "grounding": {
+        "box": {
+          "bottom": 0.1407920867204666,
+          "left": 0.6449650526046753,
+          "right": 0.9567375183105469,
+          "top": 0.02188776060938835
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6c658393-333b-456c-a7e5-976486bfc598'></a>\n\nJade E-Services Pakistan Private Limited\n12/B, 12th floor\nExecutive Tower, Dolmen City\nPlot # HC-3, Block 4, Scheme #5\nClifton, Saddar Town, Karachi South\nSNTN/PNTN #: 4012118-6\nSTRN #: 1700401211818",
+      "type": "text"
+    },
+    {
+      "id": "dfcfdabb-5d9a-4fa3-9623-579036eedda9",
+      "grounding": {
+        "box": {
+          "bottom": 0.18744777143001556,
+          "left": 0.03520745038986206,
+          "right": 0.9643518924713135,
+          "top": 0.1607861965894699
+        },
+        "page": 0
+      },
+      "markdown": "<a id='dfcfdabb-5d9a-4fa3-9623-579036eedda9'></a>\n\nSALES INVOICE",
+      "type": "text"
+    },
+    {
+      "id": "d49158c6-7c0d-4828-bfe2-29425d206721",
+      "grounding": {
+        "box": {
+          "bottom": 0.2806667983531952,
+          "left": 0.03313189744949341,
+          "right": 0.4678438901901245,
+          "top": 0.19335509836673737
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d49158c6-7c0d-4828-bfe2-29425d206721'></a>\n\nBilling Address\nNazish\nR 44 block-D sadat e amroha society karachi, Karachi -\nCantonment, Sindh\nPakistan",
+      "type": "text"
+    },
+    {
+      "id": "ced5ddc7-bdc4-490c-8318-53c55b9b644a",
+      "grounding": {
+        "box": {
+          "bottom": 0.2299986183643341,
+          "left": 0.6007700562477112,
+          "right": 0.927922785282135,
+          "top": 0.19346383213996887
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ced5ddc7-bdc4-490c-8318-53c55b9b644a'></a>\n\nInvoice No.: 0000329003\nInvoice Date: 2019-04-04T23:55:50+08:00",
+      "type": "text"
+    },
+    {
+      "id": "ba1cdb9a-3f79-4638-8e91-a13b37083592",
+      "grounding": {
+        "box": {
+          "bottom": 0.28022393584251404,
+          "left": 0.6017388105392456,
+          "right": 0.91569983959198,
+          "top": 0.24439637362957
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ba1cdb9a-3f79-4638-8e91-a13b37083592'></a>\n\nOrder Number: 102618708576448\nOrder Date: 2019-03-29T00:16:24+08:00",
+      "type": "text"
+    },
+    {
+      "id": "5f41dcb2-3965-447b-aedb-3b0bd95f4f10",
+      "grounding": {
+        "box": {
+          "bottom": 0.3300575613975525,
+          "left": 0.033279433846473694,
+          "right": 0.2893490195274353,
+          "top": 0.30913615226745605
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5f41dcb2-3965-447b-aedb-3b0bd95f4f10'></a>\n\nType of Supply: Cash On Delivery",
+      "type": "text"
+    },
+    {
+      "id": "2fb36b08-2c1d-4a9d-ba51-858b21edab6e",
+      "grounding": {
+        "box": {
+          "bottom": 0.6253002882003784,
+          "left": 0.0343799889087677,
+          "right": 0.966549277305603,
+          "top": 0.3487485945224762
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2fb36b08-2c1d-4a9d-ba51-858b21edab6e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">S/N</td><td id=\"0-3\">Item ID</td><td id=\"0-4\">Description</td><td id=\"0-5\">Item SKU</td><td id=\"0-6\">Qty</td><td id=\"0-7\">Unit Price*</td><td id=\"0-8\">Discount*</td><td id=\"0-9\">Total Price*</td></tr>\n<tr><td id=\"0-a\">1</td><td id=\"0-b\">102618708776448</td><td id=\"0-c\">11% off on Bundle of Knorr Chilli Garlic Ketchup 300gm and Knorr Tomato Ketchup 300gm</td><td id=\"0-d\">100858625_PK-1 246231949</td><td id=\"0-e\">1</td><td id=\"0-f\">Rs 147.00</td><td id=\"0-g\">- Rs 0.00</td><td id=\"0-h\">Rs 147.00</td></tr>\n<tr><td id=\"0-i\" colspan=\"7\">TOTAL:</td><td id=\"0-j\">Rs 147.00</td></tr>\n</table>\n<table id=\"0-k\">\n<tr><td id=\"0-l\">Total Unit Price*</td><td id=\"0-m\">Rs</td><td id=\"0-n\">147.00</td></tr>\n<tr><td id=\"0-o\">Total Discount*</td><td id=\"0-p\">Rs</td><td id=\"0-q\">-0.00</td></tr>\n<tr><td id=\"0-r\">Total Shipping*</td><td id=\"0-s\">Rs</td><td id=\"0-t\">0.00</td></tr>\n<tr><td id=\"0-u\">Total</td><td id=\"0-v\">Rs</td><td id=\"0-w\">147.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "3bdf00e9-7842-49de-a84c-e3ae5ca52983",
+      "grounding": {
+        "box": {
+          "bottom": 0.6758351922035217,
+          "left": 0.03367406129837036,
+          "right": 0.9257170557975769,
+          "top": 0.6435793042182922
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3bdf00e9-7842-49de-a84c-e3ae5ca52983'></a>\n\n*Total charges for this shipment includes prepaid custom duties and other taxes as applicable for the merchandise to be delivered to the address in the country specified by the customer.",
+      "type": "text"
+    },
+    {
+      "id": "6a7eede2-7c3d-4848-8852-1ba0fe66e101",
+      "grounding": {
+        "box": {
+          "bottom": 0.7035892605781555,
+          "left": 0.033727794885635376,
+          "right": 0.7542737722396851,
+          "top": 0.6849076151847839
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6a7eede2-7c3d-4848-8852-1ba0fe66e101'></a>\n\nFor return policy and return form, please visit: https://pages.daraz.pk/wow/i/pk/help/returns-refunds?hybrid=1/",
+      "type": "text"
+    },
+    {
+      "id": "733c7201-5a1f-4b59-a26e-9206f8843a2c",
+      "grounding": {
+        "box": {
+          "bottom": 0.7281565070152283,
+          "left": 0.03432293236255646,
+          "right": 0.4433337450027466,
+          "top": 0.7106810212135315
+        },
+        "page": 0
+      },
+      "markdown": "<a id='733c7201-5a1f-4b59-a26e-9206f8843a2c'></a>\n\nNEED HELP? Contact us at https://www.daraz.pk/contact-us/",
+      "type": "text"
+    },
+    {
+      "id": "c21bcdb8-f53c-42e8-a003-ebd1a6d24b4c",
+      "grounding": {
+        "box": {
+          "bottom": 0.7533319592475891,
+          "left": 0.034499138593673706,
+          "right": 0.44518211483955383,
+          "top": 0.7360616326332092
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c21bcdb8-f53c-42e8-a003-ebd1a6d24b4c'></a>\n\nLIKE US on FACEBOOK: https://www.facebook.com/darazpk/",
+      "type": "text"
+    },
+    {
+      "id": "da0757a2-7da6-4fa1-9af5-aca922e4554b",
+      "grounding": {
+        "box": {
+          "bottom": 0.781244695186615,
+          "left": 0.03488381206989288,
+          "right": 0.4004225730895996,
+          "top": 0.7629371285438538
+        },
+        "page": 0
+      },
+      "markdown": "<a id='da0757a2-7da6-4fa1-9af5-aca922e4554b'></a>\n\nFOLLOW US on TWITTER: https://twitter.com/darazpk",
+      "type": "text"
+    },
+    {
+      "id": "45bd70d2-4dbe-41f4-a80d-bd34223ef2b4",
+      "grounding": {
+        "box": {
+          "bottom": 0.8211577534675598,
+          "left": 0.03393493592739105,
+          "right": 0.47926026582717896,
+          "top": 0.8020185828208923
+        },
+        "page": 0
+      },
+      "markdown": "<a id='45bd70d2-4dbe-41f4-a80d-bd34223ef2b4'></a>\n\nHave a great day! Thank. you for shopping on http://www.daraz.pk/",
+      "type": "text"
+    },
+    {
+      "id": "b4d73e66-7a46-4ef5-b04d-9cdff61e0bcd",
+      "grounding": {
+        "box": {
+          "bottom": 0.9930805563926697,
+          "left": 0.2275991439819336,
+          "right": 0.7733620405197144,
+          "top": 0.9744821190834045
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b4d73e66-7a46-4ef5-b04d-9cdff61e0bcd'></a>\n\nCAPTION ERROR",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='eaca9ccf-8a89-40c9-ac67-c4877366c0b9'></a>\n\nCAPTION ERROR\n\n<a id='6c658393-333b-456c-a7e5-976486bfc598'></a>\n\nJade E-Services Pakistan Private Limited\n12/B, 12th floor\nExecutive Tower, Dolmen City\nPlot # HC-3, Block 4, Scheme #5\nClifton, Saddar Town, Karachi South\nSNTN/PNTN #: 4012118-6\nSTRN #: 1700401211818\n\n<a id='dfcfdabb-5d9a-4fa3-9623-579036eedda9'></a>\n\nSALES INVOICE\n\n<a id='d49158c6-7c0d-4828-bfe2-29425d206721'></a>\n\nBilling Address\nNazish\nR 44 block-D sadat e amroha society karachi, Karachi -\nCantonment, Sindh\nPakistan\n\n<a id='ced5ddc7-bdc4-490c-8318-53c55b9b644a'></a>\n\nInvoice No.: 0000329003\nInvoice Date: 2019-04-04T23:55:50+08:00\n\n<a id='ba1cdb9a-3f79-4638-8e91-a13b37083592'></a>\n\nOrder Number: 102618708576448\nOrder Date: 2019-03-29T00:16:24+08:00\n\n<a id='5f41dcb2-3965-447b-aedb-3b0bd95f4f10'></a>\n\nType of Supply: Cash On Delivery\n\n<a id='2fb36b08-2c1d-4a9d-ba51-858b21edab6e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">S/N</td><td id=\"0-3\">Item ID</td><td id=\"0-4\">Description</td><td id=\"0-5\">Item SKU</td><td id=\"0-6\">Qty</td><td id=\"0-7\">Unit Price*</td><td id=\"0-8\">Discount*</td><td id=\"0-9\">Total Price*</td></tr>\n<tr><td id=\"0-a\">1</td><td id=\"0-b\">102618708776448</td><td id=\"0-c\">11% off on Bundle of Knorr Chilli Garlic Ketchup 300gm and Knorr Tomato Ketchup 300gm</td><td id=\"0-d\">100858625_PK-1 246231949</td><td id=\"0-e\">1</td><td id=\"0-f\">Rs 147.00</td><td id=\"0-g\">- Rs 0.00</td><td id=\"0-h\">Rs 147.00</td></tr>\n<tr><td id=\"0-i\" colspan=\"7\">TOTAL:</td><td id=\"0-j\">Rs 147.00</td></tr>\n</table>\n<table id=\"0-k\">\n<tr><td id=\"0-l\">Total Unit Price*</td><td id=\"0-m\">Rs</td><td id=\"0-n\">147.00</td></tr>\n<tr><td id=\"0-o\">Total Discount*</td><td id=\"0-p\">Rs</td><td id=\"0-q\">-0.00</td></tr>\n<tr><td id=\"0-r\">Total Shipping*</td><td id=\"0-s\">Rs</td><td id=\"0-t\">0.00</td></tr>\n<tr><td id=\"0-u\">Total</td><td id=\"0-v\">Rs</td><td id=\"0-w\">147.00</td></tr>\n</table>\n\n<a id='3bdf00e9-7842-49de-a84c-e3ae5ca52983'></a>\n\n*Total charges for this shipment includes prepaid custom duties and other taxes as applicable for the merchandise to be delivered to the address in the country specified by the customer.\n\n<a id='6a7eede2-7c3d-4848-8852-1ba0fe66e101'></a>\n\nFor return policy and return form, please visit: https://pages.daraz.pk/wow/i/pk/help/returns-refunds?hybrid=1/\n\n<a id='733c7201-5a1f-4b59-a26e-9206f8843a2c'></a>\n\nNEED HELP? Contact us at https://www.daraz.pk/contact-us/\n\n<a id='c21bcdb8-f53c-42e8-a003-ebd1a6d24b4c'></a>\n\nLIKE US on FACEBOOK: https://www.facebook.com/darazpk/\n\n<a id='da0757a2-7da6-4fa1-9af5-aca922e4554b'></a>\n\nFOLLOW US on TWITTER: https://twitter.com/darazpk\n\n<a id='45bd70d2-4dbe-41f4-a80d-bd34223ef2b4'></a>\n\nHave a great day! Thank. you for shopping on http://www.daraz.pk/\n\n<a id='b4d73e66-7a46-4ef5-b04d-9cdff61e0bcd'></a>\n\nCAPTION ERROR",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 20513,
+    "filename": "invoice_15.pdf",
+    "job_id": "afwvib8o43t6ch1tt9f9qwsph",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "eaca9ccf-8a89-40c9-ac67-c4877366c0b9",
+        "6c658393-333b-456c-a7e5-976486bfc598",
+        "dfcfdabb-5d9a-4fa3-9623-579036eedda9",
+        "d49158c6-7c0d-4828-bfe2-29425d206721",
+        "ced5ddc7-bdc4-490c-8318-53c55b9b644a",
+        "ba1cdb9a-3f79-4638-8e91-a13b37083592",
+        "5f41dcb2-3965-447b-aedb-3b0bd95f4f10",
+        "2fb36b08-2c1d-4a9d-ba51-858b21edab6e",
+        "3bdf00e9-7842-49de-a84c-e3ae5ca52983",
+        "6a7eede2-7c3d-4848-8852-1ba0fe66e101",
+        "733c7201-5a1f-4b59-a26e-9206f8843a2c",
+        "c21bcdb8-f53c-42e8-a003-ebd1a6d24b4c",
+        "da0757a2-7da6-4fa1-9af5-aca922e4554b",
+        "45bd70d2-4dbe-41f4-a80d-bd34223ef2b4",
+        "b4d73e66-7a46-4ef5-b04d-9cdff61e0bcd"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='eaca9ccf-8a89-40c9-ac67-c4877366c0b9'></a>\n\nCAPTION ERROR\n\n<a id='6c658393-333b-456c-a7e5-976486bfc598'></a>\n\nJade E-Services Pakistan Private Limited\n12/B, 12th floor\nExecutive Tower, Dolmen City\nPlot # HC-3, Block 4, Scheme #5\nClifton, Saddar Town, Karachi South\nSNTN/PNTN #: 4012118-6\nSTRN #: 1700401211818\n\n<a id='dfcfdabb-5d9a-4fa3-9623-579036eedda9'></a>\n\nSALES INVOICE\n\n<a id='d49158c6-7c0d-4828-bfe2-29425d206721'></a>\n\nBilling Address\nNazish\nR 44 block-D sadat e amroha society karachi, Karachi -\nCantonment, Sindh\nPakistan\n\n<a id='ced5ddc7-bdc4-490c-8318-53c55b9b644a'></a>\n\nInvoice No.: 0000329003\nInvoice Date: 2019-04-04T23:55:50+08:00\n\n<a id='ba1cdb9a-3f79-4638-8e91-a13b37083592'></a>\n\nOrder Number: 102618708576448\nOrder Date: 2019-03-29T00:16:24+08:00\n\n<a id='5f41dcb2-3965-447b-aedb-3b0bd95f4f10'></a>\n\nType of Supply: Cash On Delivery\n\n<a id='2fb36b08-2c1d-4a9d-ba51-858b21edab6e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">S/N</td><td id=\"0-3\">Item ID</td><td id=\"0-4\">Description</td><td id=\"0-5\">Item SKU</td><td id=\"0-6\">Qty</td><td id=\"0-7\">Unit Price*</td><td id=\"0-8\">Discount*</td><td id=\"0-9\">Total Price*</td></tr>\n<tr><td id=\"0-a\">1</td><td id=\"0-b\">102618708776448</td><td id=\"0-c\">11% off on Bundle of Knorr Chilli Garlic Ketchup 300gm and Knorr Tomato Ketchup 300gm</td><td id=\"0-d\">100858625_PK-1 246231949</td><td id=\"0-e\">1</td><td id=\"0-f\">Rs 147.00</td><td id=\"0-g\">- Rs 0.00</td><td id=\"0-h\">Rs 147.00</td></tr>\n<tr><td id=\"0-i\" colspan=\"7\">TOTAL:</td><td id=\"0-j\">Rs 147.00</td></tr>\n</table>\n<table id=\"0-k\">\n<tr><td id=\"0-l\">Total Unit Price*</td><td id=\"0-m\">Rs</td><td id=\"0-n\">147.00</td></tr>\n<tr><td id=\"0-o\">Total Discount*</td><td id=\"0-p\">Rs</td><td id=\"0-q\">-0.00</td></tr>\n<tr><td id=\"0-r\">Total Shipping*</td><td id=\"0-s\">Rs</td><td id=\"0-t\">0.00</td></tr>\n<tr><td id=\"0-u\">Total</td><td id=\"0-v\">Rs</td><td id=\"0-w\">147.00</td></tr>\n</table>\n\n<a id='3bdf00e9-7842-49de-a84c-e3ae5ca52983'></a>\n\n*Total charges for this shipment includes prepaid custom duties and other taxes as applicable for the merchandise to be delivered to the address in the country specified by the customer.\n\n<a id='6a7eede2-7c3d-4848-8852-1ba0fe66e101'></a>\n\nFor return policy and return form, please visit: https://pages.daraz.pk/wow/i/pk/help/returns-refunds?hybrid=1/\n\n<a id='733c7201-5a1f-4b59-a26e-9206f8843a2c'></a>\n\nNEED HELP? Contact us at https://www.daraz.pk/contact-us/\n\n<a id='c21bcdb8-f53c-42e8-a003-ebd1a6d24b4c'></a>\n\nLIKE US on FACEBOOK: https://www.facebook.com/darazpk/\n\n<a id='da0757a2-7da6-4fa1-9af5-aca922e4554b'></a>\n\nFOLLOW US on TWITTER: https://twitter.com/darazpk\n\n<a id='45bd70d2-4dbe-41f4-a80d-bd34223ef2b4'></a>\n\nHave a great day! Thank. you for shopping on http://www.daraz.pk/\n\n<a id='b4d73e66-7a46-4ef5-b04d-9cdff61e0bcd'></a>\n\nCAPTION ERROR",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "eaca9ccf-8a89-40c9-ac67-c4877366c0b9": {
+      "box": {
+        "bottom": 0.08716528117656708,
+        "left": 0.022913455963134766,
+        "right": 0.2863876223564148,
+        "top": 0.017957549542188644
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "6c658393-333b-456c-a7e5-976486bfc598": {
+      "box": {
+        "bottom": 0.1407920867204666,
+        "left": 0.6449650526046753,
+        "right": 0.9567375183105469,
+        "top": 0.02188776060938835
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "dfcfdabb-5d9a-4fa3-9623-579036eedda9": {
+      "box": {
+        "bottom": 0.18744777143001556,
+        "left": 0.03520745038986206,
+        "right": 0.9643518924713135,
+        "top": 0.1607861965894699
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d49158c6-7c0d-4828-bfe2-29425d206721": {
+      "box": {
+        "bottom": 0.2806667983531952,
+        "left": 0.03313189744949341,
+        "right": 0.4678438901901245,
+        "top": 0.19335509836673737
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ced5ddc7-bdc4-490c-8318-53c55b9b644a": {
+      "box": {
+        "bottom": 0.2299986183643341,
+        "left": 0.6007700562477112,
+        "right": 0.927922785282135,
+        "top": 0.19346383213996887
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ba1cdb9a-3f79-4638-8e91-a13b37083592": {
+      "box": {
+        "bottom": 0.28022393584251404,
+        "left": 0.6017388105392456,
+        "right": 0.91569983959198,
+        "top": 0.24439637362957
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5f41dcb2-3965-447b-aedb-3b0bd95f4f10": {
+      "box": {
+        "bottom": 0.3300575613975525,
+        "left": 0.033279433846473694,
+        "right": 0.2893490195274353,
+        "top": 0.30913615226745605
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2fb36b08-2c1d-4a9d-ba51-858b21edab6e": {
+      "box": {
+        "bottom": 0.6253002882003784,
+        "left": 0.0343799889087677,
+        "right": 0.966549277305603,
+        "top": 0.3487485945224762
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.5306066106403602,
+        "left": 0.039888164265461504,
+        "right": 0.9614152169969241,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.039888164265461504,
+        "right": 0.09624996334688873,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.09624996334688873,
+        "right": 0.2620248191717658,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.2620248191717658,
+        "right": 0.4258705200127393,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.4258705200127393,
+        "right": 0.5889471785905016,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.5889471785905016,
+        "right": 0.642735159884456,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.642735159884456,
+        "right": 0.7489846999346863,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.7489846999346863,
+        "right": 0.8485235076052078,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3904992402579128,
+        "left": 0.8485235076052078,
+        "right": 0.961260200079062,
+        "top": 0.3527900740940726
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.039888164265461504,
+        "right": 0.09624996334688873,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.09624996334688873,
+        "right": 0.2620248191717658,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.2620248191717658,
+        "right": 0.4258705200127393,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.4258705200127393,
+        "right": 0.5889471785905016,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.5889471785905016,
+        "right": 0.642735159884456,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.642735159884456,
+        "right": 0.7489846999346863,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.7489846999346863,
+        "right": 0.8485235076052078,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.49375395509574993,
+        "left": 0.8485235076052078,
+        "right": 0.961260200079062,
+        "top": 0.3904992402579128
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.5306066106403602,
+        "left": 0.039888164265461504,
+        "right": 0.961260200079062,
+        "top": 0.49375395509574993
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.5306066106403602,
+        "left": 0.8485235076052078,
+        "right": 0.961260200079062,
+        "top": 0.49375395509574993
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.6227551123939552,
+        "left": 0.5946190198124377,
+        "right": 0.9428473572493417,
+        "top": 0.5541430375765373
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.5702977870815857,
+        "left": 0.5946190198124377,
+        "right": 0.8205292857727446,
+        "top": 0.5541430375765373
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.5702977870815857,
+        "left": 0.8205292857727446,
+        "right": 0.8643170090160126,
+        "top": 0.5541430375765373
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.5702977870815857,
+        "left": 0.8643170090160126,
+        "right": 0.9410027114884016,
+        "top": 0.5541430375765373
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.5870576226492759,
+        "left": 0.5946190198124377,
+        "right": 0.8205292857727446,
+        "top": 0.5702977870815857
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.5870576226492759,
+        "left": 0.8205292857727446,
+        "right": 0.8643170090160126,
+        "top": 0.5702977870815857
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.5870576226492759,
+        "left": 0.8643170090160126,
+        "right": 0.9410027114884016,
+        "top": 0.5702977870815857
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.6051017083842432,
+        "left": 0.5946190198124377,
+        "right": 0.8205292857727446,
+        "top": 0.5870576226492759
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.6051017083842432,
+        "left": 0.8205292857727446,
+        "right": 0.8643170090160126,
+        "top": 0.5870576226492759
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.6051017083842432,
+        "left": 0.8643170090160126,
+        "right": 0.9410027114884016,
+        "top": 0.5870576226492759
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.6227551123939552,
+        "left": 0.5946190198124377,
+        "right": 0.8205292857727446,
+        "top": 0.6051017083842432
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.6227551123939552,
+        "left": 0.8205292857727446,
+        "right": 0.8643170090160126,
+        "top": 0.6051017083842432
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.6227551123939552,
+        "left": 0.8643170090160126,
+        "right": 0.9410027114884016,
+        "top": 0.6051017083842432
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "3bdf00e9-7842-49de-a84c-e3ae5ca52983": {
+      "box": {
+        "bottom": 0.6758351922035217,
+        "left": 0.03367406129837036,
+        "right": 0.9257170557975769,
+        "top": 0.6435793042182922
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "6a7eede2-7c3d-4848-8852-1ba0fe66e101": {
+      "box": {
+        "bottom": 0.7035892605781555,
+        "left": 0.033727794885635376,
+        "right": 0.7542737722396851,
+        "top": 0.6849076151847839
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "733c7201-5a1f-4b59-a26e-9206f8843a2c": {
+      "box": {
+        "bottom": 0.7281565070152283,
+        "left": 0.03432293236255646,
+        "right": 0.4433337450027466,
+        "top": 0.7106810212135315
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c21bcdb8-f53c-42e8-a003-ebd1a6d24b4c": {
+      "box": {
+        "bottom": 0.7533319592475891,
+        "left": 0.034499138593673706,
+        "right": 0.44518211483955383,
+        "top": 0.7360616326332092
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "da0757a2-7da6-4fa1-9af5-aca922e4554b": {
+      "box": {
+        "bottom": 0.781244695186615,
+        "left": 0.03488381206989288,
+        "right": 0.4004225730895996,
+        "top": 0.7629371285438538
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "45bd70d2-4dbe-41f4-a80d-bd34223ef2b4": {
+      "box": {
+        "bottom": 0.8211577534675598,
+        "left": 0.03393493592739105,
+        "right": 0.47926026582717896,
+        "top": 0.8020185828208923
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b4d73e66-7a46-4ef5-b04d-9cdff61e0bcd": {
+      "box": {
+        "bottom": 0.9930805563926697,
+        "left": 0.2275991439819336,
+        "right": 0.7733620405197144,
+        "top": 0.9744821190834045
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

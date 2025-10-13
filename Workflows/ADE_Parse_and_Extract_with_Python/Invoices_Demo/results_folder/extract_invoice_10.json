@@ -1,0 +1,648 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "15-MAY-25",
+      "invoice_date": "2025-05-15",
+      "invoice_number": "1000110140",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "ANDREA KROPP",
+      "sold_to_address": null,
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "Sheraton Tucson Hotel & Suites",
+      "supplier_address": "5151 East Grant Rd\nTucson, AZ 85712\nUnited States",
+      "representative": null,
+      "email": null,
+      "phone": "520-323-6262",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": null,
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "1030.53",
+      "total_due": 1030.53,
+      "subtotal": null,
+      "tax": null,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "Room Chrg - Premium Retail",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 322.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "City/Local Tax",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 4.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "Occupancy/Tourism",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 38.8,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "Room Chrg - Premium Retail",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 322.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "City/Local Tax",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 4.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "Occupancy/Tourism",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 38.8,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "Room Chrg - Premium Retail",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 265.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "City/Local Tax",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 4.0,
+        "total": null
+      },
+      {
+        "line_number": null,
+        "sku": "RT459",
+        "description": "Occupancy/Tourism",
+        "quantity": null,
+        "unit_price": null,
+        "price": null,
+        "amount": 31.93,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "15-MAY-25",
+        "references": [
+          "57a2b401-f0b3-4f8e-9a40-82544d5e75c0"
+        ]
+      },
+      "invoice_date": {
+        "value": "2025-05-15",
+        "references": [
+          "57a2b401-f0b3-4f8e-9a40-82544d5e75c0"
+        ]
+      },
+      "invoice_number": {
+        "value": "1000110140",
+        "references": [
+          "57a2b401-f0b3-4f8e-9a40-82544d5e75c0",
+          "ad58d3cd-1c80-4da1-a098-dc689c3c3f44"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "ANDREA KROPP",
+        "references": [
+          "ceb23dc2-a3fb-4f22-92bb-eeffeec875a6",
+          "b5555648-07e1-48a3-af7b-070905344b44"
+        ]
+      },
+      "sold_to_address": {
+        "value": null,
+        "references": []
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Sheraton Tucson Hotel & Suites",
+        "references": [
+          "521ae904-f82f-486a-a0f4-6b30415d1d79",
+          "17c968d1-2073-41ba-803e-cd9fdc2c2802"
+        ]
+      },
+      "supplier_address": {
+        "value": "5151 East Grant Rd\nTucson, AZ 85712\nUnited States",
+        "references": [
+          "521ae904-f82f-486a-a0f4-6b30415d1d79",
+          "17c968d1-2073-41ba-803e-cd9fdc2c2802"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": null,
+        "references": []
+      },
+      "phone": {
+        "value": "520-323-6262",
+        "references": [
+          "521ae904-f82f-486a-a0f4-6b30415d1d79",
+          "17c968d1-2073-41ba-803e-cd9fdc2c2802"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": null,
+        "references": []
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "ff39c9a7-d075-4d3b-9c97-d77410ff75f6"
+        ]
+      },
+      "total_due_raw": {
+        "value": "1030.53",
+        "references": [
+          "1-G"
+        ]
+      },
+      "total_due": {
+        "value": 1030.53,
+        "references": [
+          "1-G"
+        ]
+      },
+      "subtotal": {
+        "value": null,
+        "references": []
+      },
+      "tax": {
+        "value": null,
+        "references": []
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-8"
+          ]
+        },
+        "description": {
+          "value": "Room Chrg - Premium Retail",
+          "references": [
+            "0-9"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 322.0,
+          "references": [
+            "0-a"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-d"
+          ]
+        },
+        "description": {
+          "value": "City/Local Tax",
+          "references": [
+            "0-e"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 4.0,
+          "references": [
+            "0-f"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-i"
+          ]
+        },
+        "description": {
+          "value": "Occupancy/Tourism",
+          "references": [
+            "0-j"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 38.8,
+          "references": [
+            "0-k"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-n"
+          ]
+        },
+        "description": {
+          "value": "Room Chrg - Premium Retail",
+          "references": [
+            "0-o"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 322.0,
+          "references": [
+            "0-p"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-s"
+          ]
+        },
+        "description": {
+          "value": "City/Local Tax",
+          "references": [
+            "0-t"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 4.0,
+          "references": [
+            "0-v"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-x"
+          ]
+        },
+        "description": {
+          "value": "Occupancy/Tourism",
+          "references": [
+            "0-y"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 38.8,
+          "references": [
+            "0-A"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-C"
+          ]
+        },
+        "description": {
+          "value": "Room Chrg - Premium Retail",
+          "references": [
+            "0-D"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 265.0,
+          "references": [
+            "0-F"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-H"
+          ]
+        },
+        "description": {
+          "value": "City/Local Tax",
+          "references": [
+            "0-I"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 4.0,
+          "references": [
+            "0-K"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      },
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "RT459",
+          "references": [
+            "0-M"
+          ]
+        },
+        "description": {
+          "value": "Occupancy/Tourism",
+          "references": [
+            "0-N"
+          ]
+        },
+        "quantity": {
+          "value": null,
+          "references": []
+        },
+        "unit_price": {
+          "value": null,
+          "references": []
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 31.93,
+          "references": [
+            "0-P"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 3.4,
+    "duration_ms": 19378,
+    "filename": "upload",
+    "job_id": "kmsifpc8p0fp0d5pbd4kch8sz",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "chunks": [
+    {
+      "id": "7c84c99c-acec-4060-82b4-0dcd9a562632",
+      "grounding": {
+        "box": {
+          "bottom": 0.10919807106256485,
+          "left": 0.11976630985736847,
+          "right": 0.19842807948589325,
+          "top": 0.05390600115060806
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7c84c99c-acec-4060-82b4-0dcd9a562632'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "a80ab2e6-e0cf-4676-81c1-fb69010521ad",
+      "grounding": {
+        "box": {
+          "bottom": 0.10153798758983612,
+          "left": 0.391993910074234,
+          "right": 0.6605697870254517,
+          "top": 0.04730214178562164
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a80ab2e6-e0cf-4676-81c1-fb69010521ad'></a>\n\nInvoice #: 1009748\n\nIssued date: 8/21/2018\n\nDue Date: 9/5/2018\n\nSubject: RHS Tennis Practice Shirts",
+      "type": "text"
+    },
+    {
+      "id": "edcfd1db-a383-4f03-b0f1-396661572ef5",
+      "grounding": {
+        "box": {
+          "bottom": 0.08474509418010712,
+          "left": 0.8395805358886719,
+          "right": 0.9094070196151733,
+          "top": 0.04842417314648628
+        },
+        "page": 0
+      },
+      "markdown": "<a id='edcfd1db-a383-4f03-b0f1-396661572ef5'></a>\n\n<::attestation: Status indicator\nStatus indicators - paid\nReadable Text: Paid\nA black rectangular box containing the word \"Paid\" in the center of the image.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "b573516f-9cb9-494a-be4a-bb705a578c72",
+      "grounding": {
+        "box": {
+          "bottom": 0.25540125370025635,
+          "left": 0.10831734538078308,
+          "right": 0.6259841918945312,
+          "top": 0.15434280037879944
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b573516f-9cb9-494a-be4a-bb705a578c72'></a>\n\nFROM\n\nBrainless Tees, Inc.\n12401 NE 60th Way\nUnit A8\nVancouver, WA 98682\n360-721-6459\nsteve@brainlesstees.com\nStephen Miller\n\nTO\n\nAndrea Kropp\nRidgefield Tennis\nandrea.kropp@ridgefieldsd.org",
+      "type": "text"
+    },
+    {
+      "id": "5b10e3fe-af5b-48f8-a4e3-e361990ac79f",
+      "grounding": {
+        "box": {
+          "bottom": 0.46950286626815796,
+          "left": 0.10666084289550781,
+          "right": 0.8905749917030334,
+          "top": 0.28040170669555664
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5b10e3fe-af5b-48f8-a4e3-e361990ac79f'></a>\n\nITEM OVERVIEW\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1009748 Ridgefield Tennis Seps</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">ITEM DESCRIPTION</td><td id=\"0-9\">COLOR</td><td id=\"0-a\">QTY</td><td id=\"0-b\">SIZE</td><td id=\"0-c\">UNIT PRICE</td><td id=\"0-d\">SUBTOTAL</td></tr>\n<tr><td id=\"0-e\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-f\">Silver</td><td id=\"0-g\">3</td><td id=\"0-h\">S</td><td id=\"0-i\">$13.95</td><td id=\"0-j\">$41.85</td></tr>\n<tr><td id=\"0-k\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-l\">Silver</td><td id=\"0-m\">12</td><td id=\"0-n\">M</td><td id=\"0-o\">$13.95</td><td id=\"0-p\">$167.40</td></tr>\n<tr><td id=\"0-q\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-r\">Silver</td><td id=\"0-s\">4</td><td id=\"0-t\">L</td><td id=\"0-u\">$13.95</td><td id=\"0-v\">$55.80</td></tr>\n<tr><td id=\"0-w\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-x\">Silver</td><td id=\"0-y\">1</td><td id=\"0-z\">XL</td><td id=\"0-A\">$13.95</td><td id=\"0-B\">$13.95</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td><td id=\"0-H\"></td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "d7b571c3-e9bc-431b-90e6-429139afbfaf",
+      "grounding": {
+        "box": {
+          "bottom": 0.6041637659072876,
+          "left": 0.1069139838218689,
+          "right": 0.8892548084259033,
+          "top": 0.4915604889392853
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d7b571c3-e9bc-431b-90e6-429139afbfaf'></a>\n\n<table id=\"0-I\">\n<tr><td id=\"0-J\"></td><td id=\"0-K\">Subtotal</td><td id=\"0-L\">$279.00</td></tr>\n<tr><td id=\"0-M\"></td><td id=\"0-N\">Tax</td><td id=\"0-O\">$23.44</td></tr>\n<tr><td id=\"0-P\"></td><td id=\"0-Q\">Paid</td><td id=\"0-R\">$302.44</td></tr>\n<tr><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td></tr>\n<tr><td id=\"0-V\"></td><td id=\"0-W\">Total</td><td id=\"0-X\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "fba548d8-c64a-40a4-8a64-51b382fb942f",
+      "grounding": {
+        "box": {
+          "bottom": 0.6939335465431213,
+          "left": 0.106853187084198,
+          "right": 0.889879047870636,
+          "top": 0.6299408078193665
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fba548d8-c64a-40a4-8a64-51b382fb942f'></a>\n\n**TERMS**\n---\nThanks you for your business! Payment is due upon approval.\n\n**NOTES**\n---",
+      "type": "text"
+    },
+    {
+      "id": "3108e1f8-72be-4f55-8bc0-8703c2e2d050",
+      "grounding": {
+        "box": {
+          "bottom": 0.7217987179756165,
+          "left": 0.11965031921863556,
+          "right": 0.43039560317993164,
+          "top": 0.702870786190033
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3108e1f8-72be-4f55-8bc0-8703c2e2d050'></a>\n\nemail andrea.kropp@ridgefieldsd.org when complete",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='7c84c99c-acec-4060-82b4-0dcd9a562632'></a>\n\nCAPTION ERROR\n\n<a id='a80ab2e6-e0cf-4676-81c1-fb69010521ad'></a>\n\nInvoice #: 1009748\n\nIssued date: 8/21/2018\n\nDue Date: 9/5/2018\n\nSubject: RHS Tennis Practice Shirts\n\n<a id='edcfd1db-a383-4f03-b0f1-396661572ef5'></a>\n\n<::attestation: Status indicator\nStatus indicators - paid\nReadable Text: Paid\nA black rectangular box containing the word \"Paid\" in the center of the image.::>\n\n<a id='b573516f-9cb9-494a-be4a-bb705a578c72'></a>\n\nFROM\n\nBrainless Tees, Inc.\n12401 NE 60th Way\nUnit A8\nVancouver, WA 98682\n360-721-6459\nsteve@brainlesstees.com\nStephen Miller\n\nTO\n\nAndrea Kropp\nRidgefield Tennis\nandrea.kropp@ridgefieldsd.org\n\n<a id='5b10e3fe-af5b-48f8-a4e3-e361990ac79f'></a>\n\nITEM OVERVIEW\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1009748 Ridgefield Tennis Seps</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">ITEM DESCRIPTION</td><td id=\"0-9\">COLOR</td><td id=\"0-a\">QTY</td><td id=\"0-b\">SIZE</td><td id=\"0-c\">UNIT PRICE</td><td id=\"0-d\">SUBTOTAL</td></tr>\n<tr><td id=\"0-e\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-f\">Silver</td><td id=\"0-g\">3</td><td id=\"0-h\">S</td><td id=\"0-i\">$13.95</td><td id=\"0-j\">$41.85</td></tr>\n<tr><td id=\"0-k\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-l\">Silver</td><td id=\"0-m\">12</td><td id=\"0-n\">M</td><td id=\"0-o\">$13.95</td><td id=\"0-p\">$167.40</td></tr>\n<tr><td id=\"0-q\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-r\">Silver</td><td id=\"0-s\">4</td><td id=\"0-t\">L</td><td id=\"0-u\">$13.95</td><td id=\"0-v\">$55.80</td></tr>\n<tr><td id=\"0-w\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-x\">Silver</td><td id=\"0-y\">1</td><td id=\"0-z\">XL</td><td id=\"0-A\">$13.95</td><td id=\"0-B\">$13.95</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td><td id=\"0-H\"></td></tr>\n</table>\n\n<a id='d7b571c3-e9bc-431b-90e6-429139afbfaf'></a>\n\n<table id=\"0-I\">\n<tr><td id=\"0-J\"></td><td id=\"0-K\">Subtotal</td><td id=\"0-L\">$279.00</td></tr>\n<tr><td id=\"0-M\"></td><td id=\"0-N\">Tax</td><td id=\"0-O\">$23.44</td></tr>\n<tr><td id=\"0-P\"></td><td id=\"0-Q\">Paid</td><td id=\"0-R\">$302.44</td></tr>\n<tr><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td></tr>\n<tr><td id=\"0-V\"></td><td id=\"0-W\">Total</td><td id=\"0-X\">$0.00</td></tr>\n</table>\n\n<a id='fba548d8-c64a-40a4-8a64-51b382fb942f'></a>\n\n**TERMS**\n---\nThanks you for your business! Payment is due upon approval.\n\n**NOTES**\n---\n\n<a id='3108e1f8-72be-4f55-8bc0-8703c2e2d050'></a>\n\nemail andrea.kropp@ridgefieldsd.org when complete",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 10066,
+    "filename": "invoice_22.pdf",
+    "job_id": "orkb6xq8ag10t2fa8yl3ihqnm",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "7c84c99c-acec-4060-82b4-0dcd9a562632",
+        "a80ab2e6-e0cf-4676-81c1-fb69010521ad",
+        "edcfd1db-a383-4f03-b0f1-396661572ef5",
+        "b573516f-9cb9-494a-be4a-bb705a578c72",
+        "5b10e3fe-af5b-48f8-a4e3-e361990ac79f",
+        "d7b571c3-e9bc-431b-90e6-429139afbfaf",
+        "fba548d8-c64a-40a4-8a64-51b382fb942f",
+        "3108e1f8-72be-4f55-8bc0-8703c2e2d050"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='7c84c99c-acec-4060-82b4-0dcd9a562632'></a>\n\nCAPTION ERROR\n\n<a id='a80ab2e6-e0cf-4676-81c1-fb69010521ad'></a>\n\nInvoice #: 1009748\n\nIssued date: 8/21/2018\n\nDue Date: 9/5/2018\n\nSubject: RHS Tennis Practice Shirts\n\n<a id='edcfd1db-a383-4f03-b0f1-396661572ef5'></a>\n\n<::attestation: Status indicator\nStatus indicators - paid\nReadable Text: Paid\nA black rectangular box containing the word \"Paid\" in the center of the image.::>\n\n<a id='b573516f-9cb9-494a-be4a-bb705a578c72'></a>\n\nFROM\n\nBrainless Tees, Inc.\n12401 NE 60th Way\nUnit A8\nVancouver, WA 98682\n360-721-6459\nsteve@brainlesstees.com\nStephen Miller\n\nTO\n\nAndrea Kropp\nRidgefield Tennis\nandrea.kropp@ridgefieldsd.org\n\n<a id='5b10e3fe-af5b-48f8-a4e3-e361990ac79f'></a>\n\nITEM OVERVIEW\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1009748 Ridgefield Tennis Seps</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">ITEM DESCRIPTION</td><td id=\"0-9\">COLOR</td><td id=\"0-a\">QTY</td><td id=\"0-b\">SIZE</td><td id=\"0-c\">UNIT PRICE</td><td id=\"0-d\">SUBTOTAL</td></tr>\n<tr><td id=\"0-e\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-f\">Silver</td><td id=\"0-g\">3</td><td id=\"0-h\">S</td><td id=\"0-i\">$13.95</td><td id=\"0-j\">$41.85</td></tr>\n<tr><td id=\"0-k\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-l\">Silver</td><td id=\"0-m\">12</td><td id=\"0-n\">M</td><td id=\"0-o\">$13.95</td><td id=\"0-p\">$167.40</td></tr>\n<tr><td id=\"0-q\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-r\">Silver</td><td id=\"0-s\">4</td><td id=\"0-t\">L</td><td id=\"0-u\">$13.95</td><td id=\"0-v\">$55.80</td></tr>\n<tr><td id=\"0-w\">Sport-Tek Competitor Tee, SKU ST350</td><td id=\"0-x\">Silver</td><td id=\"0-y\">1</td><td id=\"0-z\">XL</td><td id=\"0-A\">$13.95</td><td id=\"0-B\">$13.95</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td><td id=\"0-H\"></td></tr>\n</table>\n\n<a id='d7b571c3-e9bc-431b-90e6-429139afbfaf'></a>\n\n<table id=\"0-I\">\n<tr><td id=\"0-J\"></td><td id=\"0-K\">Subtotal</td><td id=\"0-L\">$279.00</td></tr>\n<tr><td id=\"0-M\"></td><td id=\"0-N\">Tax</td><td id=\"0-O\">$23.44</td></tr>\n<tr><td id=\"0-P\"></td><td id=\"0-Q\">Paid</td><td id=\"0-R\">$302.44</td></tr>\n<tr><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td></tr>\n<tr><td id=\"0-V\"></td><td id=\"0-W\">Total</td><td id=\"0-X\">$0.00</td></tr>\n</table>\n\n<a id='fba548d8-c64a-40a4-8a64-51b382fb942f'></a>\n\n**TERMS**\n---\nThanks you for your business! Payment is due upon approval.\n\n**NOTES**\n---\n\n<a id='3108e1f8-72be-4f55-8bc0-8703c2e2d050'></a>\n\nemail andrea.kropp@ridgefieldsd.org when complete",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "7c84c99c-acec-4060-82b4-0dcd9a562632": {
+      "box": {
+        "bottom": 0.10919807106256485,
+        "left": 0.11976630985736847,
+        "right": 0.19842807948589325,
+        "top": 0.05390600115060806
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "a80ab2e6-e0cf-4676-81c1-fb69010521ad": {
+      "box": {
+        "bottom": 0.10153798758983612,
+        "left": 0.391993910074234,
+        "right": 0.6605697870254517,
+        "top": 0.04730214178562164
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "edcfd1db-a383-4f03-b0f1-396661572ef5": {
+      "box": {
+        "bottom": 0.08474509418010712,
+        "left": 0.8395805358886719,
+        "right": 0.9094070196151733,
+        "top": 0.04842417314648628
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "b573516f-9cb9-494a-be4a-bb705a578c72": {
+      "box": {
+        "bottom": 0.25540125370025635,
+        "left": 0.10831734538078308,
+        "right": 0.6259841918945312,
+        "top": 0.15434280037879944
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5b10e3fe-af5b-48f8-a4e3-e361990ac79f": {
+      "box": {
+        "bottom": 0.46950286626815796,
+        "left": 0.10666084289550781,
+        "right": 0.8905749917030334,
+        "top": 0.28040170669555664
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.46584583421175907,
+        "left": 0.11138053115691787,
+        "right": 0.8855904702206558,
+        "top": 0.30079812234404324
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3206369266885396,
+        "left": 0.11138053115691787,
+        "right": 0.3333669986636636,
+        "top": 0.30079812234404324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3206369266885396,
+        "left": 0.3333669986636636,
+        "right": 0.49079740316954634,
+        "top": 0.30079812234404324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3206369266885396,
+        "left": 0.49079740316954634,
+        "right": 0.569561351199841,
+        "top": 0.30079812234404324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3206369266885396,
+        "left": 0.569561351199841,
+        "right": 0.6417158016903386,
+        "top": 0.30079812234404324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3206369266885396,
+        "left": 0.6417158016903386,
+        "right": 0.7613632875866969,
+        "top": 0.30079812234404324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3206369266885396,
+        "left": 0.7613632875866969,
+        "right": 0.8855254291259271,
+        "top": 0.30079812234404324
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3403068347177438,
+        "left": 0.11138053115691787,
+        "right": 0.3333669986636636,
+        "top": 0.3206369266885396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3403068347177438,
+        "left": 0.3333669986636636,
+        "right": 0.49079740316954634,
+        "top": 0.3206369266885396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.3403068347177438,
+        "left": 0.49079740316954634,
+        "right": 0.569561351199841,
+        "top": 0.3206369266885396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.3403068347177438,
+        "left": 0.569561351199841,
+        "right": 0.6417158016903386,
+        "top": 0.3206369266885396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.3403068347177438,
+        "left": 0.6417158016903386,
+        "right": 0.7613632875866969,
+        "top": 0.3206369266885396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.3403068347177438,
+        "left": 0.7613632875866969,
+        "right": 0.8855254291259271,
+        "top": 0.3206369266885396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.3666357804633531,
+        "left": 0.11138053115691787,
+        "right": 0.3333669986636636,
+        "top": 0.3403068347177438
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3666357804633531,
+        "left": 0.3333669986636636,
+        "right": 0.49079740316954634,
+        "top": 0.3403068347177438
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.3666357804633531,
+        "left": 0.49079740316954634,
+        "right": 0.569561351199841,
+        "top": 0.3403068347177438
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.3666357804633531,
+        "left": 0.569561351199841,
+        "right": 0.6417158016903386,
+        "top": 0.3403068347177438
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.3666357804633531,
+        "left": 0.6417158016903386,
+        "right": 0.7613632875866969,
+        "top": 0.3403068347177438
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.3666357804633531,
+        "left": 0.7613632875866969,
+        "right": 0.8855254291259271,
+        "top": 0.3403068347177438
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.39306044215176783,
+        "left": 0.11138053115691787,
+        "right": 0.3333669986636636,
+        "top": 0.3666357804633531
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.39306044215176783,
+        "left": 0.3333669986636636,
+        "right": 0.49079740316954634,
+        "top": 0.3666357804633531
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.39306044215176783,
+        "left": 0.49079740316954634,
+        "right": 0.569561351199841,
+        "top": 0.3666357804633531
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.39306044215176783,
+        "left": 0.569561351199841,
+        "right": 0.6417158016903386,
+        "top": 0.3666357804633531
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.39306044215176783,
+        "left": 0.6417158016903386,
+        "right": 0.7613632875866969,
+        "top": 0.3666357804633531
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.39306044215176783,
+        "left": 0.7613632875866969,
+        "right": 0.8855254291259271,
+        "top": 0.3666357804633531
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.41942818937324944,
+        "left": 0.11138053115691787,
+        "right": 0.3333669986636636,
+        "top": 0.39306044215176783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.41942818937324944,
+        "left": 0.3333669986636636,
+        "right": 0.49079740316954634,
+        "top": 0.39306044215176783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.41942818937324944,
+        "left": 0.49079740316954634,
+        "right": 0.569561351199841,
+        "top": 0.39306044215176783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.41942818937324944,
+        "left": 0.569561351199841,
+        "right": 0.6417158016903386,
+        "top": 0.39306044215176783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.41942818937324944,
+        "left": 0.6417158016903386,
+        "right": 0.7613632875866969,
+        "top": 0.39306044215176783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.41942818937324944,
+        "left": 0.7613632875866969,
+        "right": 0.8855254291259271,
+        "top": 0.39306044215176783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.4458007269003943,
+        "left": 0.11138053115691787,
+        "right": 0.3333669986636636,
+        "top": 0.41942818937324944
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.4458007269003943,
+        "left": 0.3333669986636636,
+        "right": 0.49079740316954634,
+        "top": 0.41942818937324944
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.4458007269003943,
+        "left": 0.49079740316954634,
+        "right": 0.569561351199841,
+        "top": 0.41942818937324944
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.4458007269003943,
+        "left": 0.569561351199841,
+        "right": 0.6417158016903386,
+        "top": 0.41942818937324944
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.4458007269003943,
+        "left": 0.6417158016903386,
+        "right": 0.7613632875866969,
+        "top": 0.41942818937324944
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.4458007269003943,
+        "left": 0.7613632875866969,
+        "right": 0.8855254291259271,
+        "top": 0.41942818937324944
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.46584583421175907,
+        "left": 0.11138053115691787,
+        "right": 0.3333669986636636,
+        "top": 0.4458007269003943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.46584583421175907,
+        "left": 0.3333669986636636,
+        "right": 0.49079740316954634,
+        "top": 0.4458007269003943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.46584583421175907,
+        "left": 0.49079740316954634,
+        "right": 0.569561351199841,
+        "top": 0.4458007269003943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.46584583421175907,
+        "left": 0.569561351199841,
+        "right": 0.6417158016903386,
+        "top": 0.4458007269003943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.46584583421175907,
+        "left": 0.6417158016903386,
+        "right": 0.7613632875866969,
+        "top": 0.4458007269003943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.46584583421175907,
+        "left": 0.7613632875866969,
+        "right": 0.8855254291259271,
+        "top": 0.4458007269003943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "d7b571c3-e9bc-431b-90e6-429139afbfaf": {
+      "box": {
+        "bottom": 0.6041637659072876,
+        "left": 0.1069139838218689,
+        "right": 0.8892548084259033,
+        "top": 0.4915604889392853
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.6028780902308561,
+        "left": 0.10991054923069547,
+        "right": 0.8848781954983451,
+        "top": 0.49681204709731197
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.5107704046288579,
+        "left": 0.10991054923069547,
+        "right": 0.2701228349161884,
+        "top": 0.49681204709731197
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.5107704046288579,
+        "left": 0.2701228349161884,
+        "right": 0.7355839620741911,
+        "top": 0.49681204709731197
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.5107704046288579,
+        "left": 0.7355839620741911,
+        "right": 0.8848904594899913,
+        "top": 0.49681204709731197
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.534598911419657,
+        "left": 0.10991054923069547,
+        "right": 0.2701228349161884,
+        "top": 0.5107704046288579
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.534598911419657,
+        "left": 0.2701228349161884,
+        "right": 0.7355839620741911,
+        "top": 0.5107704046288579
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.534598911419657,
+        "left": 0.7355839620741911,
+        "right": 0.8848904594899913,
+        "top": 0.5107704046288579
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.562788718801043,
+        "left": 0.10991054923069547,
+        "right": 0.2701228349161884,
+        "top": 0.534598911419657
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.562788718801043,
+        "left": 0.2701228349161884,
+        "right": 0.7355839620741911,
+        "top": 0.534598911419657
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.562788718801043,
+        "left": 0.7355839620741911,
+        "right": 0.8848904594899913,
+        "top": 0.534598911419657
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.5746266629307755,
+        "left": 0.10991054923069547,
+        "right": 0.2701228349161884,
+        "top": 0.562788718801043
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.5746266629307755,
+        "left": 0.2701228349161884,
+        "right": 0.7355839620741911,
+        "top": 0.562788718801043
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.5746266629307755,
+        "left": 0.7355839620741911,
+        "right": 0.8848904594899913,
+        "top": 0.562788718801043
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.6028780902308561,
+        "left": 0.10991054923069547,
+        "right": 0.2701228349161884,
+        "top": 0.5746266629307755
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-W": {
+      "box": {
+        "bottom": 0.6028780902308561,
+        "left": 0.2701228349161884,
+        "right": 0.7355839620741911,
+        "top": 0.5746266629307755
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-X": {
+      "box": {
+        "bottom": 0.6028780902308561,
+        "left": 0.7355839620741911,
+        "right": 0.8848904594899913,
+        "top": 0.5746266629307755
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "fba548d8-c64a-40a4-8a64-51b382fb942f": {
+      "box": {
+        "bottom": 0.6939335465431213,
+        "left": 0.106853187084198,
+        "right": 0.889879047870636,
+        "top": 0.6299408078193665
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3108e1f8-72be-4f55-8bc0-8703c2e2d050": {
+      "box": {
+        "bottom": 0.7217987179756165,
+        "left": 0.11965031921863556,
+        "right": 0.43039560317993164,
+        "top": 0.702870786190033
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

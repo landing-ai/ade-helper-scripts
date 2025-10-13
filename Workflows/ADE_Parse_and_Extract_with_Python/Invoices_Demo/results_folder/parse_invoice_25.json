@@ -1,0 +1,2550 @@
+{
+  "chunks": [
+    {
+      "id": "18c4d42b-4593-4f1a-aaa6-7c5100a232b6",
+      "grounding": {
+        "box": {
+          "bottom": 0.03920275717973709,
+          "left": 0.1006113588809967,
+          "right": 0.8576185703277588,
+          "top": 0.016705742105841637
+        },
+        "page": 0
+      },
+      "markdown": "<a id='18c4d42b-4593-4f1a-aaa6-7c5100a232b6'></a>\n\n**We will serve people with excellence, humbly, with a servant`s heart.**",
+      "type": "text"
+    },
+    {
+      "id": "8906ac3c-30a6-49fe-a48f-aa1f63c2d4fc",
+      "grounding": {
+        "box": {
+          "bottom": 0.12491058558225632,
+          "left": 0.03259032964706421,
+          "right": 0.4197806417942047,
+          "top": 0.05825043469667435
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8906ac3c-30a6-49fe-a48f-aa1f63c2d4fc'></a>\n\nCAPTION ERROR",
+      "type": "logo"
+    },
+    {
+      "id": "4d69d46b-10d9-4e37-897f-769929357667",
+      "grounding": {
+        "box": {
+          "bottom": 0.15998153388500214,
+          "left": 0.05478683114051819,
+          "right": 0.39733490347862244,
+          "top": 0.13290788233280182
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4d69d46b-10d9-4e37-897f-769929357667'></a>\n\n1316 NE 134TH ST, VANCOUVER, WA 98685,\n(360) 571 9950",
+      "type": "text"
+    },
+    {
+      "id": "73837e0d-d713-4912-87da-32c02affb955",
+      "grounding": {
+        "box": {
+          "bottom": 0.29312556982040405,
+          "left": 0.021175503730773926,
+          "right": 0.42283669114112854,
+          "top": 0.16760343313217163
+        },
+        "page": 0
+      },
+      "markdown": "<a id='73837e0d-d713-4912-87da-32c02affb955'></a>\n\n# Guest Information\n\nGuest: ANDREA KROPP\n\nAddress: 227 N 5TH AVE\nRIDGEFIELD, WA 98642\n\nPhone: (360) 624 2355\n\nE-Mail: ANDR3AKROPP@GMAIL.COM\n\nDriver: ANDREA KROPP\n\nUnique Guest Number: 2899731",
+      "type": "text"
+    },
+    {
+      "id": "746658ec-5b4f-4b7f-847f-2774970bfbda",
+      "grounding": {
+        "box": {
+          "bottom": 0.6113816499710083,
+          "left": 0.02176976203918457,
+          "right": 0.42237168550491333,
+          "top": 0.2909051179885864
+        },
+        "page": 0
+      },
+      "markdown": "<a id='746658ec-5b4f-4b7f-847f-2774970bfbda'></a>\n\n# Service Notes\n\n1. *PRIVACY POLICY* WE DON'T SHARE YOUR PERSONAL INFORMATION (NAME, ADDRESS, PHONE, EMAIL) WITH ANY THIRD PARTY. WE SHARE YOUR VEHICLE AND SERVICES WITH CARFAX IN ORDER TO OBTAIN TECHNICAL INFORMATION, BASED ON YOUR VIN. MYPERSONALINFO@OILSTOPINC.COM\n2. BASED ON THE VEHICLE MILEAGE THE POWER STEERING SERVICE IS DUE.\n3. RADIATOR DRAIN AND FILL SERVICE RECOMMENDED. OILSTOP RECOMMENDS THAT THIS SERVICE BE PERFORMED FOR MAXIMUM PROTECTION AND SYSTEM LIFE.\n4. AUTOMATIC TRANSMISSION FLUID SERVICE RECOMMENDED. (BASED ON 15,000 MILEAGE INTERVAL)\n5. POWER STEERING FLUID LEAKAGE VISIBLE. EXACT SOURCE UNKNOWN.\n6. SHOULD YOU HAVE ANY QUESTIONS OR CONCERNS REGARDING YOUR SERVICE AT OILSTOP, IMMEDIATELY CALL THE # ON THIS INVOICE AND ASK FOR THE MANAGER.\n7. YOUR VEHICLE'S MANUFACTURER PUBLISHES OIL CHANGE INTERVALS, AND THE CONDITIONS AND FACTORS THAT INFLUENCE THOSE INTERVALS, IN THE OWNER'S MANUAL.ALL PARTS USED ARE NEW UNLESS OTHERWISE SPECIFIED",
+      "type": "text"
+    },
+    {
+      "id": "f8ac1c3d-9c47-476e-a452-77418b77f3cd",
+      "grounding": {
+        "box": {
+          "bottom": 0.8286008238792419,
+          "left": 0.02184392511844635,
+          "right": 0.421955406665802,
+          "top": 0.6132410168647766
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f8ac1c3d-9c47-476e-a452-77418b77f3cd'></a>\n\n# OILSTOP\u00ae Commitment\n\n## Goals\n1. To serve you quickly and professionally with high quality products that meet or exceed your manufacturer's specifications.\n2. To maintain a electronic service history to help you maintain vehicle warranties and service contracts.\n\n## Warranty\n1. Oilstop warrants the parts installed on your vehicle to your satisfaction or we will refund the cost of the parts.\n2. Oilstop warrants the service performed on your vehicle to your satisfaction.",
+      "type": "text"
+    },
+    {
+      "id": "c9766ec5-e39e-4aa6-bffd-e23559d56125",
+      "grounding": {
+        "box": {
+          "bottom": 0.1669788807630539,
+          "left": 0.4473838806152344,
+          "right": 0.9434194564819336,
+          "top": 0.05113255977630615
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c9766ec5-e39e-4aa6-bffd-e23559d56125'></a>\n\nService Information\n\nWork Order #: O-0023-14214\nService Completed: MAY 27, 2024 11:27 AM\nService Coordinator: TY WALLACE\nService Writer: WILLIAM HOLLINGSWORTH\nLube Technician: MALIQUE TULCHINSKY\nManager: GRIFFIN HUNT",
+      "type": "text"
+    },
+    {
+      "id": "40a62789-8c32-45e1-8daa-e67366d67051",
+      "grounding": {
+        "box": {
+          "bottom": 0.292341947555542,
+          "left": 0.4484177529811859,
+          "right": 0.9422575235366821,
+          "top": 0.16835156083106995
+        },
+        "page": 0
+      },
+      "markdown": "<a id='40a62789-8c32-45e1-8daa-e67366d67051'></a>\n\n# Guest Auto Information\n\nLic #: ANX5193 Last Service: JAN 31, 2023\n\nYear: 2006 Make: NISSAN\n\nMileage: 192492 Model: XTERRA OFF-ROAD\n\nEngine: 4.0L V6 (VQ40DE) GAS FI\n\nOIL: 5W30 SYNTH CHEVRON/HAVOLINE API GF5SN+/DEXOS G\n\nVIN#: 5N1AN08W26C526308 Tire Pressure: F 35 R 35",
+      "type": "text"
+    },
+    {
+      "id": "73efe845-395d-4641-86ae-6809a9cf1b85",
+      "grounding": {
+        "box": {
+          "bottom": 0.6887462139129639,
+          "left": 0.4488900601863861,
+          "right": 0.9425753355026245,
+          "top": 0.29105469584465027
+        },
+        "page": 0
+      },
+      "markdown": "<a id='73efe845-395d-4641-86ae-6809a9cf1b85'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Guest Service Detail</td></tr>\n<tr><td id=\"0-3\">Service Name</td><td id=\"0-4\">Qty</td><td id=\"0-5\">Ext. Price</td></tr>\n<tr><td id=\"0-6\">SYNTHETIC 33-POINT SERVICE</td><td id=\"0-7\">1 ea</td><td id=\"0-8\">$ 105.99</td></tr>\n<tr><td id=\"0-9\">WASTE DISPOSAL FEE</td><td id=\"0-a\">1 ea</td><td id=\"0-b\">$ 4.50</td></tr>\n<tr><td id=\"0-c\">CHARITABLE DONATION- $1</td><td id=\"0-d\">1 ea</td><td id=\"0-e\">$ 1.00</td></tr>\n<tr><td id=\"0-f\">OTHER</td><td id=\"0-g\">1 each</td><td id=\"0-h\">$0.00</td></tr>\n<tr><td id=\"0-i\">T108 - OIL SYSTEM CLEANER 8 OZ. T111TB - ENGINE MAX TREATMENT</td><td id=\"0-j\">1 each</td><td id=\"0-k\">$16.99</td></tr>\n<tr><td id=\"0-l\">W/PTFE 11OZ (T111) 12449 - 12MM NISSAN COPPER GASKET</td><td id=\"0-m\">1 each</td><td id=\"0-n\">$19.99</td></tr>\n<tr><td id=\"0-o\">(DP6925) (DPG-6925) PL14612 - PUROLATOR ONE PREMIUM</td><td id=\"0-p\">1 each</td><td id=\"0-q\">$0.00</td></tr>\n<tr><td id=\"0-r\">#PL14612 (PG4612EX)(POS4612) PAF4727 - AIR FILTER #PAF4727</td><td id=\"0-s\">1 each</td><td id=\"0-t\">$14.99</td></tr>\n<tr><td id=\"0-u\">(AF7845) (A4727) CHS530 - 5W30 SYNTH</td><td id=\"0-v\">1 each</td><td id=\"0-w\">$ 28.67</td></tr>\n<tr><td id=\"0-x\">CHEVRON/HAVOLINE API GF5SN+/DEXOS G CHS530 - 5W30 SYNTH</td><td id=\"0-y\">0.1 quarts</td><td id=\"0-z\">$ 1.20</td></tr>\n<tr><td id=\"0-A\" colspan=\"2\">CHEVRON/HAVOLINE API GF5SN+/DEXOS G5 quarts CHTECHRON - TECHRON FUEL SYSTEM</td><td id=\"0-B\">$ 0.00</td></tr>\n<tr><td id=\"0-C\">CLEANER 20 OZ.</td><td id=\"0-D\">1 each</td><td id=\"0-E\">$ 16.99</td></tr>\n</table>\n<table id=\"0-F\">\n<tr><td id=\"0-G\">Sub Total:</td><td id=\"0-H\">$ 210.32</td></tr>\n<tr><td id=\"0-I\">Tax:</td><td id=\"0-J\">$ 17.87</td></tr>\n<tr><td id=\"0-K\">Total:</td><td id=\"0-L\">$ 228.19</td></tr>\n<tr><td id=\"0-M\">Payment (CC)</td><td id=\"0-N\">$ 228.19</td></tr>\n<tr><td id=\"0-O\">Change:</td><td id=\"0-P\">$ 0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "0ff738ee-8b8e-4978-b0af-ea00132dba78",
+      "grounding": {
+        "box": {
+          "bottom": 0.8259259462356567,
+          "left": 0.4485793113708496,
+          "right": 0.9427781105041504,
+          "top": 0.6877522468566895
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0ff738ee-8b8e-4978-b0af-ea00132dba78'></a>\n\nCAPTION ERROR",
+      "type": "attestation"
+    },
+    {
+      "id": "e532217c-58f0-424d-86f7-b5f0bb920e8e",
+      "grounding": {
+        "box": {
+          "bottom": 0.9705730080604553,
+          "left": 0.0372031107544899,
+          "right": 0.25213563442230225,
+          "top": 0.8348686099052429
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e532217c-58f0-424d-86f7-b5f0bb920e8e'></a>\n\n# Thank You!\n\nThank you for the privilege of serving you and your car. You\nwill receive high-quality service, health, and a fair price.\nThat is our promise. We would appreciate your time to let us\nknow how we are doing. Please be candid.\n\nDate of Service: 1-18-18\nService Advisor: Jon Marold H.\n\nPLEASE RATE YOUR SERVICE EXPERIENCE:\n\nOverall Service:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nSpeed of Service:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nFriendliness of Staff:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nKnowledge of Staff:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nCleanliness of Facility:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nDid you receive a table [illegible]?\nDid you receive a [illegible] [illegible] [illegible]?\nWould you recommend us to a friend?\noption Yes: [x]\noption No: [ ]\n\nYou are always A-mazing\nso kind, helpful and fast. Thank\nYou people are great!!\n\nName: La Piani\nEmail: lapiani@gmail.com\nTel: 925-787-7777\n\nOILSTOP",
+      "type": "text"
+    },
+    {
+      "id": "61ea30b1-5e5c-4214-b78b-1ef8ce3016ed",
+      "grounding": {
+        "box": {
+          "bottom": 0.9342026710510254,
+          "left": 0.06326724588871002,
+          "right": 0.24329359829425812,
+          "top": 0.841505765914917
+        },
+        "page": 0
+      },
+      "markdown": "<a id='61ea30b1-5e5c-4214-b78b-1ef8ce3016ed'></a>\n\nCAPTION ERROR",
+      "type": "text"
+    },
+    {
+      "id": "08cf79eb-70bf-4897-946d-452aa224b43e",
+      "grounding": {
+        "box": {
+          "bottom": 0.9440605044364929,
+          "left": 0.2518456280231476,
+          "right": 0.9101684093475342,
+          "top": 0.8350993990898132
+        },
+        "page": 0
+      },
+      "markdown": "<a id='08cf79eb-70bf-4897-946d-452aa224b43e'></a>\n\nAn Oilstop Guest from Half Moon Bay, CA, writes,\n\"Same as always. The cars I bring in\nrun better and last longer.\"",
+      "type": "text"
+    },
+    {
+      "id": "d8f2db61-4ad4-427e-8b19-fbd85156f169",
+      "grounding": {
+        "box": {
+          "bottom": 0.9671686291694641,
+          "left": 0.2641145586967468,
+          "right": 0.9171872735023499,
+          "top": 0.9501039385795593
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d8f2db61-4ad4-427e-8b19-fbd85156f169'></a>\n\nPlease take a moment to complete and mail your Comment Card to us. We would love to hear from you!",
+      "type": "text"
+    },
+    {
+      "id": "f845ac4a-bdad-4a66-a210-ed0ff84b7b33",
+      "grounding": {
+        "box": {
+          "bottom": 0.06783390045166016,
+          "left": 0.03503403067588806,
+          "right": 0.930317759513855,
+          "top": 0.011158403009176254
+        },
+        "page": 1
+      },
+      "markdown": "<a id='f845ac4a-bdad-4a66-a210-ed0ff84b7b33'></a>\n\nService Check List\nWe will serve people with excellence, humbly, with a servant`s heart.\n<table id=\"1-1\">\n<tr><td id=\"1-2\" colspan=\"2\">Pre-Service Oil level: OVER 1 QUART LOW</td></tr>\n<tr><td id=\"1-3\">Check List</td><td id=\"1-4\">Status</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "b34e5c5f-62d9-4de5-aa96-77ea4111015c",
+      "grounding": {
+        "box": {
+          "bottom": 0.14173583686351776,
+          "left": 0.03470936417579651,
+          "right": 0.9295408725738525,
+          "top": 0.06681299209594727
+        },
+        "page": 1
+      },
+      "markdown": "<a id='b34e5c5f-62d9-4de5-aa96-77ea4111015c'></a>\n\nSECONDARY SEAL\n<table id=\"1-5\">\n<tr><td id=\"1-6\">1.0</td><td id=\"1-7\">NO SECONDARY SEAL/FILTER STUD TIGHT (MALIQUE TULCHINSKY)</td><td id=\"1-8\">CONFIRMED</td></tr>\n<tr><td id=\"1-9\" colspan=\"3\">DOWNSTAIRS CALL</td></tr>\n<tr><td id=\"1-a\">1.0</td><td id=\"1-b\">CHASSIS LUBE</td><td id=\"1-c\">COMPLETE-NO FITTINGS</td></tr>\n<tr><td id=\"1-d\">2.0</td><td id=\"1-e\">DRIVELINE FITTINGS</td><td id=\"1-f\">VEHICLE NOT EQUIPPED- N/A</td></tr>\n<tr><td id=\"1-g\">3.0</td><td id=\"1-h\">C.V. BOOT INSPECTION</td><td id=\"1-i\">GOOD</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "8c994422-7315-41b9-9fd7-befca0330afa",
+      "grounding": {
+        "box": {
+          "bottom": 0.3295515477657318,
+          "left": 0.03536331653594971,
+          "right": 0.9306637644767761,
+          "top": 0.1376616358757019
+        },
+        "page": 1
+      },
+      "markdown": "<a id='8c994422-7315-41b9-9fd7-befca0330afa'></a>\n\nENGINE OIL FILL\n<table id=\"1-j\">\n<tr><td id=\"1-k\">1.0</td><td id=\"1-l\">NEW ENGINE OIL LEVEL CONFIRMED/SHOWN</td><td id=\"1-m\">LEVEL CONFIRMED/SHOWN</td></tr>\n<tr><td id=\"1-n\" colspan=\"3\">EXCELLENCE CHECK</td></tr>\n<tr><td id=\"1-o\">1.0</td><td id=\"1-p\">OIL FILTER</td><td id=\"1-q\">CONFIRMED TIGHT #PL14612</td></tr>\n<tr><td id=\"1-r\">2.0</td><td id=\"1-s\">AUTO TRANS. CHECK/FILL PLUG</td><td id=\"1-t\">1 DIPSTICK</td></tr>\n<tr><td id=\"1-u\">2.5</td><td id=\"1-v\">AUTO TRANS. CHECK/FILL PLUG TORQ</td><td id=\"1-w\">FT / LBS</td></tr>\n<tr><td id=\"1-x\">3.0</td><td id=\"1-y\">AUTO TRANS. DRAIN PLUG</td><td id=\"1-z\">19 MM</td></tr>\n<tr><td id=\"1-A\">4.0</td><td id=\"1-B\">AUTO TRANS. PLUG TORQ</td><td id=\"1-C\">20 FT/LBS</td></tr>\n<tr><td id=\"1-D\">6.0</td><td id=\"1-E\">OIL PAN DRAIN PLUG(S)</td><td id=\"1-F\">14 MM</td></tr>\n<tr><td id=\"1-G\">7.0</td><td id=\"1-H\">OIL PAN DRAIN PLUG(S) TORQ</td><td id=\"1-I\">25 FT/LBS</td></tr>\n<tr><td id=\"1-J\">8.0</td><td id=\"1-K\">FRONT DIFF CHECK FILL PLUG</td><td id=\"1-L\">10 MM HEX</td></tr>\n<tr><td id=\"1-M\">9.0</td><td id=\"1-N\">FRONT DIFF DRAIN PLUG</td><td id=\"1-O\">10 MM HEX</td></tr>\n<tr><td id=\"1-P\">14.0</td><td id=\"1-Q\">TRANSFER CASE CHECK FILL PLUG</td><td id=\"1-R\">10 MM HEX</td></tr>\n<tr><td id=\"1-S\">15.0</td><td id=\"1-T\">TRANSFER CASE DRAIN PLUG</td><td id=\"1-U\">10 MM HEX</td></tr>\n<tr><td id=\"1-V\">16.0</td><td id=\"1-W\">REAR DIFFERENTIAL CHECK FILL PLUG</td><td id=\"1-X\">14 MM HEX</td></tr>\n<tr><td id=\"1-Y\">17.0</td><td id=\"1-Z\">REAR DIFFERENTIAL DRAIN PLUG</td><td id=\"1-10\">10 MM HEX</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "130dce3c-6554-4ee6-907f-f956d7aba938",
+      "grounding": {
+        "box": {
+          "bottom": 0.391292929649353,
+          "left": 0.034857988357543945,
+          "right": 0.9299829602241516,
+          "top": 0.32785505056381226
+        },
+        "page": 1
+      },
+      "markdown": "<a id='130dce3c-6554-4ee6-907f-f956d7aba938'></a>\n\n<table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td colspan=\"3\"><b>OIL FILTER</b></td></tr><tr><td>2.0</td><td>OIL FILTER INSPECTION</td><td>CONFIRMED AND LUBRICATED #PL14612</td></tr><tr><td colspan=\"3\"><b>PLUG AND SEAL</b></td></tr><tr><td>1.0</td><td>OIL PAN DRAIN PLUG</td><td>GOOD</td></tr><tr><td>2.0</td><td>OIL PAN PLUG SEAL</td><td>REPLACED</td></tr></tbody></table>",
+      "type": "table"
+    },
+    {
+      "id": "9d3bc0ac-e45b-4020-aaeb-ee6a88f13ce7",
+      "grounding": {
+        "box": {
+          "bottom": 0.43765556812286377,
+          "left": 0.03505769371986389,
+          "right": 0.9293545484542847,
+          "top": 0.38725167512893677
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9d3bc0ac-e45b-4020-aaeb-ee6a88f13ce7'></a>\n\nSAMPLE CARD\n<table id=\"1-11\">\n<tr><td id=\"1-12\">1.0 FRONT DIFFERENTIAL LUID</td><td id=\"1-13\">DUE FOR SERVICE - FULL</td></tr>\n<tr><td id=\"1-14\">3.0 TRANSFER CASE FLUID</td><td id=\"1-15\">DUE FOR SERVICE-FULL</td></tr>\n<tr><td id=\"1-16\">4.0 REAR DIFFERENTIAL FLUID</td><td id=\"1-17\">DUE FOR SERVICE-FULL</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "ff96117d-ba99-4512-bfcf-b38537400dc4",
+      "grounding": {
+        "box": {
+          "bottom": 0.6264878511428833,
+          "left": 0.03558969497680664,
+          "right": 0.9302050471305847,
+          "top": 0.4349251985549927
+        },
+        "page": 1
+      },
+      "markdown": "<a id='ff96117d-ba99-4512-bfcf-b38537400dc4'></a>\n\n<table id=\"1-18\">\n<tr><td id=\"1-19\" colspan=\"2\">SERVICE COORDINATOR ITEMS</td><td id=\"1-1a\"></td></tr>\n<tr><td id=\"1-1b\" colspan=\"2\">1.1 CHEVRON OIL UPCHARGE</td><td id=\"1-1c\">NO UPCHARGE REQUIRED</td></tr>\n<tr><td id=\"1-1d\" colspan=\"2\">3.0 O - AUTO TRANSMISSION FLUID STATUS</td><td id=\"1-1e\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1f\" colspan=\"2\">3.1 O - AUTO TRANSMISSION FLUID LEVEL</td><td id=\"1-1g\">CONFIRMED FULL (IN THE FULL RANGE)</td></tr>\n<tr><td id=\"1-1h\" colspan=\"2\">3.2 O - POWER STEERING FLUID STATUS</td><td id=\"1-1i\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1j\" colspan=\"2\">3.3 O - POWER STEERING FLUID LEVEL</td><td id=\"1-1k\">CONFIRMED FULL</td></tr>\n<tr><td id=\"1-1l\" colspan=\"2\">6.0 O - COOLANT/ANTIFREEZE PROTECTION LEVEL</td><td id=\"1-1m\">-15 F</td></tr>\n<tr><td id=\"1-1n\" colspan=\"2\">7.0 O - COOLANT/ANTIFREEZE STATUS</td><td id=\"1-1o\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1p\" colspan=\"2\">8.0 O - COOLANT/ANTIFREEZE FLUID LEVEL</td><td id=\"1-1q\">2 FILLED (TOPPED OFF) # OF UNITS</td></tr>\n<tr><td id=\"1-1r\" colspan=\"2\">9.0 O - WINDSHIELD WASHER FLUID</td><td id=\"1-1s\">FILLED</td></tr>\n<tr><td id=\"1-1t\" colspan=\"2\">10.0 CLEAN WINDSHIELDS FRONT AND REAR</td><td id=\"1-1u\">NOT CLEANED - CAR WASH</td></tr>\n<tr><td id=\"1-1v\" colspan=\"2\">11.0 CHECK WIPER BLADES</td><td id=\"1-1w\">GUEST OK-GOOD</td></tr>\n<tr><td id=\"1-1x\" colspan=\"2\">12.0 LUBRICATE LATCHES AND HINGES</td><td id=\"1-1y\">COMPLETED</td></tr>\n<tr><td id=\"1-1z\" colspan=\"2\">13.0 FRONT TIRE PRESSURE CHECK</td><td id=\"1-1A\">:35, FRONT PRESSURE</td></tr>\n<tr><td id=\"1-1B\" colspan=\"2\">13.5 REAR TIRE PRESSURE CHECK</td><td id=\"1-1C\">:35, REAR PRESSURE</td></tr>\n<tr><td id=\"1-1D\" colspan=\"2\">14.0 VALVE CAPS</td><td id=\"1-1E\">ON AND TIGHT</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "9d085101-7319-413c-a8be-6314a48e3fa3",
+      "grounding": {
+        "box": {
+          "bottom": 0.7934675216674805,
+          "left": 0.03579598665237427,
+          "right": 0.9307441711425781,
+          "top": 0.6265532970428467
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9d085101-7319-413c-a8be-6314a48e3fa3'></a>\n\n<table id=\"1-1F\">\n<tr><td id=\"1-1G\">SERVICE WRITER ITEMS</td><td id=\"1-1H\"></td></tr>\n<tr><td id=\"1-1I\">12.0 OIL SEALS</td><td id=\"1-1J\">GOOD-NO VISIBLE LEAKAGE</td></tr>\n<tr><td id=\"1-1K\">16.0 PT15 ENGINE TREATMENT</td><td id=\"1-1L\">ENGINE TREATMENT RECOMMENDED EVERY 12000</td></tr>\n<tr><td id=\"1-1M\">18.0 AIR FILTER RECOMMENDATION</td><td id=\"1-1N\">REPLACED</td></tr>\n<tr><td id=\"1-1O\">23.0 CABIN AIR FILTER INSPECTION</td><td id=\"1-1P\">NOT CHECKED - GUEST REQUEST</td></tr>\n<tr><td id=\"1-1Q\">24.0 BRAKE FLUID CHECK</td><td id=\"1-1R\">GOOD-NOT FILLED</td></tr>\n<tr><td id=\"1-1S\">27.0 POWER STEERING LEAKAGE CHECK</td><td id=\"1-1T\">LEAKAGE-SOURCE UNKNOWN</td></tr>\n<tr><td id=\"1-1U\">28.0 UPPER/LOWER RADIATOR HOSES- VISUAL INSPECTION</td><td id=\"1-1V\">GOOD</td></tr>\n<tr><td id=\"1-1W\">29.1 DRIVE BELT INSPECTION</td><td id=\"1-1X\">GOOD</td></tr>\n<tr><td id=\"1-1Y\">31.0 BATTERY TERMINALS CLEANED AND PROTECTED</td><td id=\"1-1Z\">COMPLETED</td></tr>\n<tr><td id=\"1-20\">32.0 FUEL SYSTEM CLEANER</td><td id=\"1-21\">TECHRON RECOMMENDED</td></tr>\n<tr><td id=\"1-22\">3.0 SKOD PLATE EXCELLENCE CHECK</td><td id=\"1-23\">CONFERMED ON AND TIGHT</td></tr>\n<tr><td id=\"1-24\">37.0 CAPS AND DIPSTICKS CHECK MAILIAM HALINGSWORTH)</td><td id=\"1-25\">TIGHT</td></tr>\n<tr><td id=\"1-26\">380 RESET CHANGE OL LIGHT</td><td id=\"1-27\">COMPLETED</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "291b747f-2683-4097-bd27-8307034e9c52",
+      "grounding": {
+        "box": {
+          "bottom": 0.9704273343086243,
+          "left": 0.03062015026807785,
+          "right": 0.16340932250022888,
+          "top": 0.8941166996955872
+        },
+        "page": 1
+      },
+      "markdown": "<a id='291b747f-2683-4097-bd27-8307034e9c52'></a>\n\nCAPTION ERROR",
+      "type": "scan_code"
+    },
+    {
+      "id": "7cb08b8c-74e0-4528-9e93-c95edb7f1b09",
+      "grounding": {
+        "box": {
+          "bottom": 0.9178084135055542,
+          "left": 0.15776154398918152,
+          "right": 0.9034925699234009,
+          "top": 0.8918776512145996
+        },
+        "page": 1
+      },
+      "markdown": "<a id='7cb08b8c-74e0-4528-9e93-c95edb7f1b09'></a>\n\n--- --- --- --- --- --- --- --- --- ---\nFREE EXT CAR WASH AT HAPPY'S CARWASH. PRESENT THIS BARCODE.",
+      "type": "text"
+    },
+    {
+      "id": "2069d9f3-25d6-4e2d-818b-04adb5807215",
+      "grounding": {
+        "box": {
+          "bottom": 0.9659795165061951,
+          "left": 0.1615269035100937,
+          "right": 0.36057376861572266,
+          "top": 0.9214077591896057
+        },
+        "page": 1
+      },
+      "markdown": "<a id='2069d9f3-25d6-4e2d-818b-04adb5807215'></a>\n\nHappy's\nDRIVE-THRU\nESPRESSO\n\nNext Door\n1316 Northeast 134th St.\nVancouver, WA",
+      "type": "text"
+    },
+    {
+      "id": "8f073c9e-ec5a-4730-84da-206833625a33",
+      "grounding": {
+        "box": {
+          "bottom": 0.960869312286377,
+          "left": 0.3673820495605469,
+          "right": 0.8814307451248169,
+          "top": 0.9125193357467651
+        },
+        "page": 1
+      },
+      "markdown": "<a id='8f073c9e-ec5a-4730-84da-206833625a33'></a>\n\nGuest: ANDREA KROPP\nLicense: ANX5193\nInvoice: O-0023-14214\n\nMake: NISSAN\nModel: XTERRA OFF-ROAD\n\n<::scan_code: 10450065::>",
+      "type": "text"
+    },
+    {
+      "id": "9f68b3ef-8c74-47c0-94c4-f61e32488313",
+      "grounding": {
+        "box": {
+          "bottom": 0.9883043766021729,
+          "left": 0.0758109986782074,
+          "right": 0.8788578510284424,
+          "top": 0.9579142332077026
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9f68b3ef-8c74-47c0-94c4-f61e32488313'></a>\n\nReceipt\n\nService Date: MAY 27, 2024 11:27 AM\n\nValid at Happy's carwash. Not valid with any other offer. Not redeemable for cash. Valid for 30 dyas from invoice da",
+      "type": "text"
+    },
+    {
+      "id": "6fb96d88-418c-4dee-8b64-339138ec4d32",
+      "grounding": {
+        "box": {
+          "bottom": 0.9902832508087158,
+          "left": 0.9292409420013428,
+          "right": 0.9830200672149658,
+          "top": 0.890640377998352
+        },
+        "page": 1
+      },
+      "markdown": "<a id='6fb96d88-418c-4dee-8b64-339138ec4d32'></a>\n\n<::A simple abstract line drawing composed of two disconnected black line segments, one resembling the top and right side of a square bracket or the top part of a '7', and the other a short horizontal line with a vertical line extending upwards from its left end.: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "d427dbc3-9827-4d05-aee8-a8dfe662d3bd",
+      "grounding": {
+        "box": {
+          "bottom": 0.9862736463546753,
+          "left": 0.052443597465753555,
+          "right": 0.08034953474998474,
+          "top": 0.9678549766540527
+        },
+        "page": 1
+      },
+      "markdown": "<a id='d427dbc3-9827-4d05-aee8-a8dfe662d3bd'></a>\n\nCC",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='18c4d42b-4593-4f1a-aaa6-7c5100a232b6'></a>\n\n**We will serve people with excellence, humbly, with a servant`s heart.**\n\n<a id='8906ac3c-30a6-49fe-a48f-aa1f63c2d4fc'></a>\n\nCAPTION ERROR\n\n<a id='4d69d46b-10d9-4e37-897f-769929357667'></a>\n\n1316 NE 134TH ST, VANCOUVER, WA 98685,\n(360) 571 9950\n\n<a id='73837e0d-d713-4912-87da-32c02affb955'></a>\n\n# Guest Information\n\nGuest: ANDREA KROPP\n\nAddress: 227 N 5TH AVE\nRIDGEFIELD, WA 98642\n\nPhone: (360) 624 2355\n\nE-Mail: ANDR3AKROPP@GMAIL.COM\n\nDriver: ANDREA KROPP\n\nUnique Guest Number: 2899731\n\n<a id='746658ec-5b4f-4b7f-847f-2774970bfbda'></a>\n\n# Service Notes\n\n1. *PRIVACY POLICY* WE DON'T SHARE YOUR PERSONAL INFORMATION (NAME, ADDRESS, PHONE, EMAIL) WITH ANY THIRD PARTY. WE SHARE YOUR VEHICLE AND SERVICES WITH CARFAX IN ORDER TO OBTAIN TECHNICAL INFORMATION, BASED ON YOUR VIN. MYPERSONALINFO@OILSTOPINC.COM\n2. BASED ON THE VEHICLE MILEAGE THE POWER STEERING SERVICE IS DUE.\n3. RADIATOR DRAIN AND FILL SERVICE RECOMMENDED. OILSTOP RECOMMENDS THAT THIS SERVICE BE PERFORMED FOR MAXIMUM PROTECTION AND SYSTEM LIFE.\n4. AUTOMATIC TRANSMISSION FLUID SERVICE RECOMMENDED. (BASED ON 15,000 MILEAGE INTERVAL)\n5. POWER STEERING FLUID LEAKAGE VISIBLE. EXACT SOURCE UNKNOWN.\n6. SHOULD YOU HAVE ANY QUESTIONS OR CONCERNS REGARDING YOUR SERVICE AT OILSTOP, IMMEDIATELY CALL THE # ON THIS INVOICE AND ASK FOR THE MANAGER.\n7. YOUR VEHICLE'S MANUFACTURER PUBLISHES OIL CHANGE INTERVALS, AND THE CONDITIONS AND FACTORS THAT INFLUENCE THOSE INTERVALS, IN THE OWNER'S MANUAL.ALL PARTS USED ARE NEW UNLESS OTHERWISE SPECIFIED\n\n<a id='f8ac1c3d-9c47-476e-a452-77418b77f3cd'></a>\n\n# OILSTOP\u00ae Commitment\n\n## Goals\n1. To serve you quickly and professionally with high quality products that meet or exceed your manufacturer's specifications.\n2. To maintain a electronic service history to help you maintain vehicle warranties and service contracts.\n\n## Warranty\n1. Oilstop warrants the parts installed on your vehicle to your satisfaction or we will refund the cost of the parts.\n2. Oilstop warrants the service performed on your vehicle to your satisfaction.\n\n<a id='c9766ec5-e39e-4aa6-bffd-e23559d56125'></a>\n\nService Information\n\nWork Order #: O-0023-14214\nService Completed: MAY 27, 2024 11:27 AM\nService Coordinator: TY WALLACE\nService Writer: WILLIAM HOLLINGSWORTH\nLube Technician: MALIQUE TULCHINSKY\nManager: GRIFFIN HUNT\n\n<a id='40a62789-8c32-45e1-8daa-e67366d67051'></a>\n\n# Guest Auto Information\n\nLic #: ANX5193 Last Service: JAN 31, 2023\n\nYear: 2006 Make: NISSAN\n\nMileage: 192492 Model: XTERRA OFF-ROAD\n\nEngine: 4.0L V6 (VQ40DE) GAS FI\n\nOIL: 5W30 SYNTH CHEVRON/HAVOLINE API GF5SN+/DEXOS G\n\nVIN#: 5N1AN08W26C526308 Tire Pressure: F 35 R 35\n\n<a id='73efe845-395d-4641-86ae-6809a9cf1b85'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Guest Service Detail</td></tr>\n<tr><td id=\"0-3\">Service Name</td><td id=\"0-4\">Qty</td><td id=\"0-5\">Ext. Price</td></tr>\n<tr><td id=\"0-6\">SYNTHETIC 33-POINT SERVICE</td><td id=\"0-7\">1 ea</td><td id=\"0-8\">$ 105.99</td></tr>\n<tr><td id=\"0-9\">WASTE DISPOSAL FEE</td><td id=\"0-a\">1 ea</td><td id=\"0-b\">$ 4.50</td></tr>\n<tr><td id=\"0-c\">CHARITABLE DONATION- $1</td><td id=\"0-d\">1 ea</td><td id=\"0-e\">$ 1.00</td></tr>\n<tr><td id=\"0-f\">OTHER</td><td id=\"0-g\">1 each</td><td id=\"0-h\">$0.00</td></tr>\n<tr><td id=\"0-i\">T108 - OIL SYSTEM CLEANER 8 OZ. T111TB - ENGINE MAX TREATMENT</td><td id=\"0-j\">1 each</td><td id=\"0-k\">$16.99</td></tr>\n<tr><td id=\"0-l\">W/PTFE 11OZ (T111) 12449 - 12MM NISSAN COPPER GASKET</td><td id=\"0-m\">1 each</td><td id=\"0-n\">$19.99</td></tr>\n<tr><td id=\"0-o\">(DP6925) (DPG-6925) PL14612 - PUROLATOR ONE PREMIUM</td><td id=\"0-p\">1 each</td><td id=\"0-q\">$0.00</td></tr>\n<tr><td id=\"0-r\">#PL14612 (PG4612EX)(POS4612) PAF4727 - AIR FILTER #PAF4727</td><td id=\"0-s\">1 each</td><td id=\"0-t\">$14.99</td></tr>\n<tr><td id=\"0-u\">(AF7845) (A4727) CHS530 - 5W30 SYNTH</td><td id=\"0-v\">1 each</td><td id=\"0-w\">$ 28.67</td></tr>\n<tr><td id=\"0-x\">CHEVRON/HAVOLINE API GF5SN+/DEXOS G CHS530 - 5W30 SYNTH</td><td id=\"0-y\">0.1 quarts</td><td id=\"0-z\">$ 1.20</td></tr>\n<tr><td id=\"0-A\" colspan=\"2\">CHEVRON/HAVOLINE API GF5SN+/DEXOS G5 quarts CHTECHRON - TECHRON FUEL SYSTEM</td><td id=\"0-B\">$ 0.00</td></tr>\n<tr><td id=\"0-C\">CLEANER 20 OZ.</td><td id=\"0-D\">1 each</td><td id=\"0-E\">$ 16.99</td></tr>\n</table>\n<table id=\"0-F\">\n<tr><td id=\"0-G\">Sub Total:</td><td id=\"0-H\">$ 210.32</td></tr>\n<tr><td id=\"0-I\">Tax:</td><td id=\"0-J\">$ 17.87</td></tr>\n<tr><td id=\"0-K\">Total:</td><td id=\"0-L\">$ 228.19</td></tr>\n<tr><td id=\"0-M\">Payment (CC)</td><td id=\"0-N\">$ 228.19</td></tr>\n<tr><td id=\"0-O\">Change:</td><td id=\"0-P\">$ 0.00</td></tr>\n</table>\n\n<a id='0ff738ee-8b8e-4978-b0af-ea00132dba78'></a>\n\nCAPTION ERROR\n\n<a id='e532217c-58f0-424d-86f7-b5f0bb920e8e'></a>\n\n# Thank You!\n\nThank you for the privilege of serving you and your car. You\nwill receive high-quality service, health, and a fair price.\nThat is our promise. We would appreciate your time to let us\nknow how we are doing. Please be candid.\n\nDate of Service: 1-18-18\nService Advisor: Jon Marold H.\n\nPLEASE RATE YOUR SERVICE EXPERIENCE:\n\nOverall Service:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nSpeed of Service:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nFriendliness of Staff:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nKnowledge of Staff:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nCleanliness of Facility:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nDid you receive a table [illegible]?\nDid you receive a [illegible] [illegible] [illegible]?\nWould you recommend us to a friend?\noption Yes: [x]\noption No: [ ]\n\nYou are always A-mazing\nso kind, helpful and fast. Thank\nYou people are great!!\n\nName: La Piani\nEmail: lapiani@gmail.com\nTel: 925-787-7777\n\nOILSTOP\n\n<a id='61ea30b1-5e5c-4214-b78b-1ef8ce3016ed'></a>\n\nCAPTION ERROR\n\n<a id='08cf79eb-70bf-4897-946d-452aa224b43e'></a>\n\nAn Oilstop Guest from Half Moon Bay, CA, writes,\n\"Same as always. The cars I bring in\nrun better and last longer.\"\n\n<a id='d8f2db61-4ad4-427e-8b19-fbd85156f169'></a>\n\nPlease take a moment to complete and mail your Comment Card to us. We would love to hear from you!\n\n<a id='f845ac4a-bdad-4a66-a210-ed0ff84b7b33'></a>\n\nService Check List\nWe will serve people with excellence, humbly, with a servant`s heart.\n<table id=\"1-1\">\n<tr><td id=\"1-2\" colspan=\"2\">Pre-Service Oil level: OVER 1 QUART LOW</td></tr>\n<tr><td id=\"1-3\">Check List</td><td id=\"1-4\">Status</td></tr>\n</table>\n\n<a id='b34e5c5f-62d9-4de5-aa96-77ea4111015c'></a>\n\nSECONDARY SEAL\n<table id=\"1-5\">\n<tr><td id=\"1-6\">1.0</td><td id=\"1-7\">NO SECONDARY SEAL/FILTER STUD TIGHT (MALIQUE TULCHINSKY)</td><td id=\"1-8\">CONFIRMED</td></tr>\n<tr><td id=\"1-9\" colspan=\"3\">DOWNSTAIRS CALL</td></tr>\n<tr><td id=\"1-a\">1.0</td><td id=\"1-b\">CHASSIS LUBE</td><td id=\"1-c\">COMPLETE-NO FITTINGS</td></tr>\n<tr><td id=\"1-d\">2.0</td><td id=\"1-e\">DRIVELINE FITTINGS</td><td id=\"1-f\">VEHICLE NOT EQUIPPED- N/A</td></tr>\n<tr><td id=\"1-g\">3.0</td><td id=\"1-h\">C.V. BOOT INSPECTION</td><td id=\"1-i\">GOOD</td></tr>\n</table>\n\n<a id='8c994422-7315-41b9-9fd7-befca0330afa'></a>\n\nENGINE OIL FILL\n<table id=\"1-j\">\n<tr><td id=\"1-k\">1.0</td><td id=\"1-l\">NEW ENGINE OIL LEVEL CONFIRMED/SHOWN</td><td id=\"1-m\">LEVEL CONFIRMED/SHOWN</td></tr>\n<tr><td id=\"1-n\" colspan=\"3\">EXCELLENCE CHECK</td></tr>\n<tr><td id=\"1-o\">1.0</td><td id=\"1-p\">OIL FILTER</td><td id=\"1-q\">CONFIRMED TIGHT #PL14612</td></tr>\n<tr><td id=\"1-r\">2.0</td><td id=\"1-s\">AUTO TRANS. CHECK/FILL PLUG</td><td id=\"1-t\">1 DIPSTICK</td></tr>\n<tr><td id=\"1-u\">2.5</td><td id=\"1-v\">AUTO TRANS. CHECK/FILL PLUG TORQ</td><td id=\"1-w\">FT / LBS</td></tr>\n<tr><td id=\"1-x\">3.0</td><td id=\"1-y\">AUTO TRANS. DRAIN PLUG</td><td id=\"1-z\">19 MM</td></tr>\n<tr><td id=\"1-A\">4.0</td><td id=\"1-B\">AUTO TRANS. PLUG TORQ</td><td id=\"1-C\">20 FT/LBS</td></tr>\n<tr><td id=\"1-D\">6.0</td><td id=\"1-E\">OIL PAN DRAIN PLUG(S)</td><td id=\"1-F\">14 MM</td></tr>\n<tr><td id=\"1-G\">7.0</td><td id=\"1-H\">OIL PAN DRAIN PLUG(S) TORQ</td><td id=\"1-I\">25 FT/LBS</td></tr>\n<tr><td id=\"1-J\">8.0</td><td id=\"1-K\">FRONT DIFF CHECK FILL PLUG</td><td id=\"1-L\">10 MM HEX</td></tr>\n<tr><td id=\"1-M\">9.0</td><td id=\"1-N\">FRONT DIFF DRAIN PLUG</td><td id=\"1-O\">10 MM HEX</td></tr>\n<tr><td id=\"1-P\">14.0</td><td id=\"1-Q\">TRANSFER CASE CHECK FILL PLUG</td><td id=\"1-R\">10 MM HEX</td></tr>\n<tr><td id=\"1-S\">15.0</td><td id=\"1-T\">TRANSFER CASE DRAIN PLUG</td><td id=\"1-U\">10 MM HEX</td></tr>\n<tr><td id=\"1-V\">16.0</td><td id=\"1-W\">REAR DIFFERENTIAL CHECK FILL PLUG</td><td id=\"1-X\">14 MM HEX</td></tr>\n<tr><td id=\"1-Y\">17.0</td><td id=\"1-Z\">REAR DIFFERENTIAL DRAIN PLUG</td><td id=\"1-10\">10 MM HEX</td></tr>\n</table>\n\n<a id='130dce3c-6554-4ee6-907f-f956d7aba938'></a>\n\n<table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td colspan=\"3\"><b>OIL FILTER</b></td></tr><tr><td>2.0</td><td>OIL FILTER INSPECTION</td><td>CONFIRMED AND LUBRICATED #PL14612</td></tr><tr><td colspan=\"3\"><b>PLUG AND SEAL</b></td></tr><tr><td>1.0</td><td>OIL PAN DRAIN PLUG</td><td>GOOD</td></tr><tr><td>2.0</td><td>OIL PAN PLUG SEAL</td><td>REPLACED</td></tr></tbody></table>\n\n<a id='9d3bc0ac-e45b-4020-aaeb-ee6a88f13ce7'></a>\n\nSAMPLE CARD\n<table id=\"1-11\">\n<tr><td id=\"1-12\">1.0 FRONT DIFFERENTIAL LUID</td><td id=\"1-13\">DUE FOR SERVICE - FULL</td></tr>\n<tr><td id=\"1-14\">3.0 TRANSFER CASE FLUID</td><td id=\"1-15\">DUE FOR SERVICE-FULL</td></tr>\n<tr><td id=\"1-16\">4.0 REAR DIFFERENTIAL FLUID</td><td id=\"1-17\">DUE FOR SERVICE-FULL</td></tr>\n</table>\n\n<a id='ff96117d-ba99-4512-bfcf-b38537400dc4'></a>\n\n<table id=\"1-18\">\n<tr><td id=\"1-19\" colspan=\"2\">SERVICE COORDINATOR ITEMS</td><td id=\"1-1a\"></td></tr>\n<tr><td id=\"1-1b\" colspan=\"2\">1.1 CHEVRON OIL UPCHARGE</td><td id=\"1-1c\">NO UPCHARGE REQUIRED</td></tr>\n<tr><td id=\"1-1d\" colspan=\"2\">3.0 O - AUTO TRANSMISSION FLUID STATUS</td><td id=\"1-1e\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1f\" colspan=\"2\">3.1 O - AUTO TRANSMISSION FLUID LEVEL</td><td id=\"1-1g\">CONFIRMED FULL (IN THE FULL RANGE)</td></tr>\n<tr><td id=\"1-1h\" colspan=\"2\">3.2 O - POWER STEERING FLUID STATUS</td><td id=\"1-1i\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1j\" colspan=\"2\">3.3 O - POWER STEERING FLUID LEVEL</td><td id=\"1-1k\">CONFIRMED FULL</td></tr>\n<tr><td id=\"1-1l\" colspan=\"2\">6.0 O - COOLANT/ANTIFREEZE PROTECTION LEVEL</td><td id=\"1-1m\">-15 F</td></tr>\n<tr><td id=\"1-1n\" colspan=\"2\">7.0 O - COOLANT/ANTIFREEZE STATUS</td><td id=\"1-1o\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1p\" colspan=\"2\">8.0 O - COOLANT/ANTIFREEZE FLUID LEVEL</td><td id=\"1-1q\">2 FILLED (TOPPED OFF) # OF UNITS</td></tr>\n<tr><td id=\"1-1r\" colspan=\"2\">9.0 O - WINDSHIELD WASHER FLUID</td><td id=\"1-1s\">FILLED</td></tr>\n<tr><td id=\"1-1t\" colspan=\"2\">10.0 CLEAN WINDSHIELDS FRONT AND REAR</td><td id=\"1-1u\">NOT CLEANED - CAR WASH</td></tr>\n<tr><td id=\"1-1v\" colspan=\"2\">11.0 CHECK WIPER BLADES</td><td id=\"1-1w\">GUEST OK-GOOD</td></tr>\n<tr><td id=\"1-1x\" colspan=\"2\">12.0 LUBRICATE LATCHES AND HINGES</td><td id=\"1-1y\">COMPLETED</td></tr>\n<tr><td id=\"1-1z\" colspan=\"2\">13.0 FRONT TIRE PRESSURE CHECK</td><td id=\"1-1A\">:35, FRONT PRESSURE</td></tr>\n<tr><td id=\"1-1B\" colspan=\"2\">13.5 REAR TIRE PRESSURE CHECK</td><td id=\"1-1C\">:35, REAR PRESSURE</td></tr>\n<tr><td id=\"1-1D\" colspan=\"2\">14.0 VALVE CAPS</td><td id=\"1-1E\">ON AND TIGHT</td></tr>\n</table>\n\n<a id='9d085101-7319-413c-a8be-6314a48e3fa3'></a>\n\n<table id=\"1-1F\">\n<tr><td id=\"1-1G\">SERVICE WRITER ITEMS</td><td id=\"1-1H\"></td></tr>\n<tr><td id=\"1-1I\">12.0 OIL SEALS</td><td id=\"1-1J\">GOOD-NO VISIBLE LEAKAGE</td></tr>\n<tr><td id=\"1-1K\">16.0 PT15 ENGINE TREATMENT</td><td id=\"1-1L\">ENGINE TREATMENT RECOMMENDED EVERY 12000</td></tr>\n<tr><td id=\"1-1M\">18.0 AIR FILTER RECOMMENDATION</td><td id=\"1-1N\">REPLACED</td></tr>\n<tr><td id=\"1-1O\">23.0 CABIN AIR FILTER INSPECTION</td><td id=\"1-1P\">NOT CHECKED - GUEST REQUEST</td></tr>\n<tr><td id=\"1-1Q\">24.0 BRAKE FLUID CHECK</td><td id=\"1-1R\">GOOD-NOT FILLED</td></tr>\n<tr><td id=\"1-1S\">27.0 POWER STEERING LEAKAGE CHECK</td><td id=\"1-1T\">LEAKAGE-SOURCE UNKNOWN</td></tr>\n<tr><td id=\"1-1U\">28.0 UPPER/LOWER RADIATOR HOSES- VISUAL INSPECTION</td><td id=\"1-1V\">GOOD</td></tr>\n<tr><td id=\"1-1W\">29.1 DRIVE BELT INSPECTION</td><td id=\"1-1X\">GOOD</td></tr>\n<tr><td id=\"1-1Y\">31.0 BATTERY TERMINALS CLEANED AND PROTECTED</td><td id=\"1-1Z\">COMPLETED</td></tr>\n<tr><td id=\"1-20\">32.0 FUEL SYSTEM CLEANER</td><td id=\"1-21\">TECHRON RECOMMENDED</td></tr>\n<tr><td id=\"1-22\">3.0 SKOD PLATE EXCELLENCE CHECK</td><td id=\"1-23\">CONFERMED ON AND TIGHT</td></tr>\n<tr><td id=\"1-24\">37.0 CAPS AND DIPSTICKS CHECK MAILIAM HALINGSWORTH)</td><td id=\"1-25\">TIGHT</td></tr>\n<tr><td id=\"1-26\">380 RESET CHANGE OL LIGHT</td><td id=\"1-27\">COMPLETED</td></tr>\n</table>\n\n<a id='291b747f-2683-4097-bd27-8307034e9c52'></a>\n\nCAPTION ERROR\n\n<a id='7cb08b8c-74e0-4528-9e93-c95edb7f1b09'></a>\n\n--- --- --- --- --- --- --- --- --- ---\nFREE EXT CAR WASH AT HAPPY'S CARWASH. PRESENT THIS BARCODE.\n\n<a id='2069d9f3-25d6-4e2d-818b-04adb5807215'></a>\n\nHappy's\nDRIVE-THRU\nESPRESSO\n\nNext Door\n1316 Northeast 134th St.\nVancouver, WA\n\n<a id='8f073c9e-ec5a-4730-84da-206833625a33'></a>\n\nGuest: ANDREA KROPP\nLicense: ANX5193\nInvoice: O-0023-14214\n\nMake: NISSAN\nModel: XTERRA OFF-ROAD\n\n<::scan_code: 10450065::>\n\n<a id='9f68b3ef-8c74-47c0-94c4-f61e32488313'></a>\n\nReceipt\n\nService Date: MAY 27, 2024 11:27 AM\n\nValid at Happy's carwash. Not valid with any other offer. Not redeemable for cash. Valid for 30 dyas from invoice da\n\n<a id='6fb96d88-418c-4dee-8b64-339138ec4d32'></a>\n\n<::A simple abstract line drawing composed of two disconnected black line segments, one resembling the top and right side of a square bracket or the top part of a '7', and the other a short horizontal line with a vertical line extending upwards from its left end.: figure::>\n\n<a id='d427dbc3-9827-4d05-aee8-a8dfe662d3bd'></a>\n\nCC",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 25052,
+    "filename": "invoice_25.pdf",
+    "job_id": "mdlp2sx7bs87dye24piqvoxaa",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "18c4d42b-4593-4f1a-aaa6-7c5100a232b6",
+        "8906ac3c-30a6-49fe-a48f-aa1f63c2d4fc",
+        "4d69d46b-10d9-4e37-897f-769929357667",
+        "73837e0d-d713-4912-87da-32c02affb955",
+        "746658ec-5b4f-4b7f-847f-2774970bfbda",
+        "f8ac1c3d-9c47-476e-a452-77418b77f3cd",
+        "c9766ec5-e39e-4aa6-bffd-e23559d56125",
+        "40a62789-8c32-45e1-8daa-e67366d67051",
+        "73efe845-395d-4641-86ae-6809a9cf1b85",
+        "0ff738ee-8b8e-4978-b0af-ea00132dba78",
+        "e532217c-58f0-424d-86f7-b5f0bb920e8e",
+        "61ea30b1-5e5c-4214-b78b-1ef8ce3016ed",
+        "08cf79eb-70bf-4897-946d-452aa224b43e",
+        "d8f2db61-4ad4-427e-8b19-fbd85156f169",
+        "f845ac4a-bdad-4a66-a210-ed0ff84b7b33",
+        "b34e5c5f-62d9-4de5-aa96-77ea4111015c",
+        "8c994422-7315-41b9-9fd7-befca0330afa",
+        "130dce3c-6554-4ee6-907f-f956d7aba938",
+        "9d3bc0ac-e45b-4020-aaeb-ee6a88f13ce7",
+        "ff96117d-ba99-4512-bfcf-b38537400dc4",
+        "9d085101-7319-413c-a8be-6314a48e3fa3",
+        "291b747f-2683-4097-bd27-8307034e9c52",
+        "7cb08b8c-74e0-4528-9e93-c95edb7f1b09",
+        "2069d9f3-25d6-4e2d-818b-04adb5807215",
+        "8f073c9e-ec5a-4730-84da-206833625a33",
+        "9f68b3ef-8c74-47c0-94c4-f61e32488313",
+        "6fb96d88-418c-4dee-8b64-339138ec4d32",
+        "d427dbc3-9827-4d05-aee8-a8dfe662d3bd"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='18c4d42b-4593-4f1a-aaa6-7c5100a232b6'></a>\n\n**We will serve people with excellence, humbly, with a servant`s heart.**\n\n<a id='8906ac3c-30a6-49fe-a48f-aa1f63c2d4fc'></a>\n\nCAPTION ERROR\n\n<a id='4d69d46b-10d9-4e37-897f-769929357667'></a>\n\n1316 NE 134TH ST, VANCOUVER, WA 98685,\n(360) 571 9950\n\n<a id='73837e0d-d713-4912-87da-32c02affb955'></a>\n\n# Guest Information\n\nGuest: ANDREA KROPP\n\nAddress: 227 N 5TH AVE\nRIDGEFIELD, WA 98642\n\nPhone: (360) 624 2355\n\nE-Mail: ANDR3AKROPP@GMAIL.COM\n\nDriver: ANDREA KROPP\n\nUnique Guest Number: 2899731\n\n<a id='746658ec-5b4f-4b7f-847f-2774970bfbda'></a>\n\n# Service Notes\n\n1. *PRIVACY POLICY* WE DON'T SHARE YOUR PERSONAL INFORMATION (NAME, ADDRESS, PHONE, EMAIL) WITH ANY THIRD PARTY. WE SHARE YOUR VEHICLE AND SERVICES WITH CARFAX IN ORDER TO OBTAIN TECHNICAL INFORMATION, BASED ON YOUR VIN. MYPERSONALINFO@OILSTOPINC.COM\n2. BASED ON THE VEHICLE MILEAGE THE POWER STEERING SERVICE IS DUE.\n3. RADIATOR DRAIN AND FILL SERVICE RECOMMENDED. OILSTOP RECOMMENDS THAT THIS SERVICE BE PERFORMED FOR MAXIMUM PROTECTION AND SYSTEM LIFE.\n4. AUTOMATIC TRANSMISSION FLUID SERVICE RECOMMENDED. (BASED ON 15,000 MILEAGE INTERVAL)\n5. POWER STEERING FLUID LEAKAGE VISIBLE. EXACT SOURCE UNKNOWN.\n6. SHOULD YOU HAVE ANY QUESTIONS OR CONCERNS REGARDING YOUR SERVICE AT OILSTOP, IMMEDIATELY CALL THE # ON THIS INVOICE AND ASK FOR THE MANAGER.\n7. YOUR VEHICLE'S MANUFACTURER PUBLISHES OIL CHANGE INTERVALS, AND THE CONDITIONS AND FACTORS THAT INFLUENCE THOSE INTERVALS, IN THE OWNER'S MANUAL.ALL PARTS USED ARE NEW UNLESS OTHERWISE SPECIFIED\n\n<a id='f8ac1c3d-9c47-476e-a452-77418b77f3cd'></a>\n\n# OILSTOP\u00ae Commitment\n\n## Goals\n1. To serve you quickly and professionally with high quality products that meet or exceed your manufacturer's specifications.\n2. To maintain a electronic service history to help you maintain vehicle warranties and service contracts.\n\n## Warranty\n1. Oilstop warrants the parts installed on your vehicle to your satisfaction or we will refund the cost of the parts.\n2. Oilstop warrants the service performed on your vehicle to your satisfaction.\n\n<a id='c9766ec5-e39e-4aa6-bffd-e23559d56125'></a>\n\nService Information\n\nWork Order #: O-0023-14214\nService Completed: MAY 27, 2024 11:27 AM\nService Coordinator: TY WALLACE\nService Writer: WILLIAM HOLLINGSWORTH\nLube Technician: MALIQUE TULCHINSKY\nManager: GRIFFIN HUNT\n\n<a id='40a62789-8c32-45e1-8daa-e67366d67051'></a>\n\n# Guest Auto Information\n\nLic #: ANX5193 Last Service: JAN 31, 2023\n\nYear: 2006 Make: NISSAN\n\nMileage: 192492 Model: XTERRA OFF-ROAD\n\nEngine: 4.0L V6 (VQ40DE) GAS FI\n\nOIL: 5W30 SYNTH CHEVRON/HAVOLINE API GF5SN+/DEXOS G\n\nVIN#: 5N1AN08W26C526308 Tire Pressure: F 35 R 35\n\n<a id='73efe845-395d-4641-86ae-6809a9cf1b85'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Guest Service Detail</td></tr>\n<tr><td id=\"0-3\">Service Name</td><td id=\"0-4\">Qty</td><td id=\"0-5\">Ext. Price</td></tr>\n<tr><td id=\"0-6\">SYNTHETIC 33-POINT SERVICE</td><td id=\"0-7\">1 ea</td><td id=\"0-8\">$ 105.99</td></tr>\n<tr><td id=\"0-9\">WASTE DISPOSAL FEE</td><td id=\"0-a\">1 ea</td><td id=\"0-b\">$ 4.50</td></tr>\n<tr><td id=\"0-c\">CHARITABLE DONATION- $1</td><td id=\"0-d\">1 ea</td><td id=\"0-e\">$ 1.00</td></tr>\n<tr><td id=\"0-f\">OTHER</td><td id=\"0-g\">1 each</td><td id=\"0-h\">$0.00</td></tr>\n<tr><td id=\"0-i\">T108 - OIL SYSTEM CLEANER 8 OZ. T111TB - ENGINE MAX TREATMENT</td><td id=\"0-j\">1 each</td><td id=\"0-k\">$16.99</td></tr>\n<tr><td id=\"0-l\">W/PTFE 11OZ (T111) 12449 - 12MM NISSAN COPPER GASKET</td><td id=\"0-m\">1 each</td><td id=\"0-n\">$19.99</td></tr>\n<tr><td id=\"0-o\">(DP6925) (DPG-6925) PL14612 - PUROLATOR ONE PREMIUM</td><td id=\"0-p\">1 each</td><td id=\"0-q\">$0.00</td></tr>\n<tr><td id=\"0-r\">#PL14612 (PG4612EX)(POS4612) PAF4727 - AIR FILTER #PAF4727</td><td id=\"0-s\">1 each</td><td id=\"0-t\">$14.99</td></tr>\n<tr><td id=\"0-u\">(AF7845) (A4727) CHS530 - 5W30 SYNTH</td><td id=\"0-v\">1 each</td><td id=\"0-w\">$ 28.67</td></tr>\n<tr><td id=\"0-x\">CHEVRON/HAVOLINE API GF5SN+/DEXOS G CHS530 - 5W30 SYNTH</td><td id=\"0-y\">0.1 quarts</td><td id=\"0-z\">$ 1.20</td></tr>\n<tr><td id=\"0-A\" colspan=\"2\">CHEVRON/HAVOLINE API GF5SN+/DEXOS G5 quarts CHTECHRON - TECHRON FUEL SYSTEM</td><td id=\"0-B\">$ 0.00</td></tr>\n<tr><td id=\"0-C\">CLEANER 20 OZ.</td><td id=\"0-D\">1 each</td><td id=\"0-E\">$ 16.99</td></tr>\n</table>\n<table id=\"0-F\">\n<tr><td id=\"0-G\">Sub Total:</td><td id=\"0-H\">$ 210.32</td></tr>\n<tr><td id=\"0-I\">Tax:</td><td id=\"0-J\">$ 17.87</td></tr>\n<tr><td id=\"0-K\">Total:</td><td id=\"0-L\">$ 228.19</td></tr>\n<tr><td id=\"0-M\">Payment (CC)</td><td id=\"0-N\">$ 228.19</td></tr>\n<tr><td id=\"0-O\">Change:</td><td id=\"0-P\">$ 0.00</td></tr>\n</table>\n\n<a id='0ff738ee-8b8e-4978-b0af-ea00132dba78'></a>\n\nCAPTION ERROR\n\n<a id='e532217c-58f0-424d-86f7-b5f0bb920e8e'></a>\n\n# Thank You!\n\nThank you for the privilege of serving you and your car. You\nwill receive high-quality service, health, and a fair price.\nThat is our promise. We would appreciate your time to let us\nknow how we are doing. Please be candid.\n\nDate of Service: 1-18-18\nService Advisor: Jon Marold H.\n\nPLEASE RATE YOUR SERVICE EXPERIENCE:\n\nOverall Service:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nSpeed of Service:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nFriendliness of Staff:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nKnowledge of Staff:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nCleanliness of Facility:\noption Excellent: [x]\noption Good: [ ]\noption Fair: [ ]\noption Poor: [ ]\n\nDid you receive a table [illegible]?\nDid you receive a [illegible] [illegible] [illegible]?\nWould you recommend us to a friend?\noption Yes: [x]\noption No: [ ]\n\nYou are always A-mazing\nso kind, helpful and fast. Thank\nYou people are great!!\n\nName: La Piani\nEmail: lapiani@gmail.com\nTel: 925-787-7777\n\nOILSTOP\n\n<a id='61ea30b1-5e5c-4214-b78b-1ef8ce3016ed'></a>\n\nCAPTION ERROR\n\n<a id='08cf79eb-70bf-4897-946d-452aa224b43e'></a>\n\nAn Oilstop Guest from Half Moon Bay, CA, writes,\n\"Same as always. The cars I bring in\nrun better and last longer.\"\n\n<a id='d8f2db61-4ad4-427e-8b19-fbd85156f169'></a>\n\nPlease take a moment to complete and mail your Comment Card to us. We would love to hear from you!\n\n<a id='f845ac4a-bdad-4a66-a210-ed0ff84b7b33'></a>\n\nService Check List\nWe will serve people with excellence, humbly, with a servant`s heart.\n<table id=\"1-1\">\n<tr><td id=\"1-2\" colspan=\"2\">Pre-Service Oil level: OVER 1 QUART LOW</td></tr>\n<tr><td id=\"1-3\">Check List</td><td id=\"1-4\">Status</td></tr>\n</table>\n\n<a id='b34e5c5f-62d9-4de5-aa96-77ea4111015c'></a>\n\nSECONDARY SEAL\n<table id=\"1-5\">\n<tr><td id=\"1-6\">1.0</td><td id=\"1-7\">NO SECONDARY SEAL/FILTER STUD TIGHT (MALIQUE TULCHINSKY)</td><td id=\"1-8\">CONFIRMED</td></tr>\n<tr><td id=\"1-9\" colspan=\"3\">DOWNSTAIRS CALL</td></tr>\n<tr><td id=\"1-a\">1.0</td><td id=\"1-b\">CHASSIS LUBE</td><td id=\"1-c\">COMPLETE-NO FITTINGS</td></tr>\n<tr><td id=\"1-d\">2.0</td><td id=\"1-e\">DRIVELINE FITTINGS</td><td id=\"1-f\">VEHICLE NOT EQUIPPED- N/A</td></tr>\n<tr><td id=\"1-g\">3.0</td><td id=\"1-h\">C.V. BOOT INSPECTION</td><td id=\"1-i\">GOOD</td></tr>\n</table>\n\n<a id='8c994422-7315-41b9-9fd7-befca0330afa'></a>\n\nENGINE OIL FILL\n<table id=\"1-j\">\n<tr><td id=\"1-k\">1.0</td><td id=\"1-l\">NEW ENGINE OIL LEVEL CONFIRMED/SHOWN</td><td id=\"1-m\">LEVEL CONFIRMED/SHOWN</td></tr>\n<tr><td id=\"1-n\" colspan=\"3\">EXCELLENCE CHECK</td></tr>\n<tr><td id=\"1-o\">1.0</td><td id=\"1-p\">OIL FILTER</td><td id=\"1-q\">CONFIRMED TIGHT #PL14612</td></tr>\n<tr><td id=\"1-r\">2.0</td><td id=\"1-s\">AUTO TRANS. CHECK/FILL PLUG</td><td id=\"1-t\">1 DIPSTICK</td></tr>\n<tr><td id=\"1-u\">2.5</td><td id=\"1-v\">AUTO TRANS. CHECK/FILL PLUG TORQ</td><td id=\"1-w\">FT / LBS</td></tr>\n<tr><td id=\"1-x\">3.0</td><td id=\"1-y\">AUTO TRANS. DRAIN PLUG</td><td id=\"1-z\">19 MM</td></tr>\n<tr><td id=\"1-A\">4.0</td><td id=\"1-B\">AUTO TRANS. PLUG TORQ</td><td id=\"1-C\">20 FT/LBS</td></tr>\n<tr><td id=\"1-D\">6.0</td><td id=\"1-E\">OIL PAN DRAIN PLUG(S)</td><td id=\"1-F\">14 MM</td></tr>\n<tr><td id=\"1-G\">7.0</td><td id=\"1-H\">OIL PAN DRAIN PLUG(S) TORQ</td><td id=\"1-I\">25 FT/LBS</td></tr>\n<tr><td id=\"1-J\">8.0</td><td id=\"1-K\">FRONT DIFF CHECK FILL PLUG</td><td id=\"1-L\">10 MM HEX</td></tr>\n<tr><td id=\"1-M\">9.0</td><td id=\"1-N\">FRONT DIFF DRAIN PLUG</td><td id=\"1-O\">10 MM HEX</td></tr>\n<tr><td id=\"1-P\">14.0</td><td id=\"1-Q\">TRANSFER CASE CHECK FILL PLUG</td><td id=\"1-R\">10 MM HEX</td></tr>\n<tr><td id=\"1-S\">15.0</td><td id=\"1-T\">TRANSFER CASE DRAIN PLUG</td><td id=\"1-U\">10 MM HEX</td></tr>\n<tr><td id=\"1-V\">16.0</td><td id=\"1-W\">REAR DIFFERENTIAL CHECK FILL PLUG</td><td id=\"1-X\">14 MM HEX</td></tr>\n<tr><td id=\"1-Y\">17.0</td><td id=\"1-Z\">REAR DIFFERENTIAL DRAIN PLUG</td><td id=\"1-10\">10 MM HEX</td></tr>\n</table>\n\n<a id='130dce3c-6554-4ee6-907f-f956d7aba938'></a>\n\n<table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td colspan=\"3\"><b>OIL FILTER</b></td></tr><tr><td>2.0</td><td>OIL FILTER INSPECTION</td><td>CONFIRMED AND LUBRICATED #PL14612</td></tr><tr><td colspan=\"3\"><b>PLUG AND SEAL</b></td></tr><tr><td>1.0</td><td>OIL PAN DRAIN PLUG</td><td>GOOD</td></tr><tr><td>2.0</td><td>OIL PAN PLUG SEAL</td><td>REPLACED</td></tr></tbody></table>\n\n<a id='9d3bc0ac-e45b-4020-aaeb-ee6a88f13ce7'></a>\n\nSAMPLE CARD\n<table id=\"1-11\">\n<tr><td id=\"1-12\">1.0 FRONT DIFFERENTIAL LUID</td><td id=\"1-13\">DUE FOR SERVICE - FULL</td></tr>\n<tr><td id=\"1-14\">3.0 TRANSFER CASE FLUID</td><td id=\"1-15\">DUE FOR SERVICE-FULL</td></tr>\n<tr><td id=\"1-16\">4.0 REAR DIFFERENTIAL FLUID</td><td id=\"1-17\">DUE FOR SERVICE-FULL</td></tr>\n</table>\n\n<a id='ff96117d-ba99-4512-bfcf-b38537400dc4'></a>\n\n<table id=\"1-18\">\n<tr><td id=\"1-19\" colspan=\"2\">SERVICE COORDINATOR ITEMS</td><td id=\"1-1a\"></td></tr>\n<tr><td id=\"1-1b\" colspan=\"2\">1.1 CHEVRON OIL UPCHARGE</td><td id=\"1-1c\">NO UPCHARGE REQUIRED</td></tr>\n<tr><td id=\"1-1d\" colspan=\"2\">3.0 O - AUTO TRANSMISSION FLUID STATUS</td><td id=\"1-1e\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1f\" colspan=\"2\">3.1 O - AUTO TRANSMISSION FLUID LEVEL</td><td id=\"1-1g\">CONFIRMED FULL (IN THE FULL RANGE)</td></tr>\n<tr><td id=\"1-1h\" colspan=\"2\">3.2 O - POWER STEERING FLUID STATUS</td><td id=\"1-1i\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1j\" colspan=\"2\">3.3 O - POWER STEERING FLUID LEVEL</td><td id=\"1-1k\">CONFIRMED FULL</td></tr>\n<tr><td id=\"1-1l\" colspan=\"2\">6.0 O - COOLANT/ANTIFREEZE PROTECTION LEVEL</td><td id=\"1-1m\">-15 F</td></tr>\n<tr><td id=\"1-1n\" colspan=\"2\">7.0 O - COOLANT/ANTIFREEZE STATUS</td><td id=\"1-1o\">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>\n<tr><td id=\"1-1p\" colspan=\"2\">8.0 O - COOLANT/ANTIFREEZE FLUID LEVEL</td><td id=\"1-1q\">2 FILLED (TOPPED OFF) # OF UNITS</td></tr>\n<tr><td id=\"1-1r\" colspan=\"2\">9.0 O - WINDSHIELD WASHER FLUID</td><td id=\"1-1s\">FILLED</td></tr>\n<tr><td id=\"1-1t\" colspan=\"2\">10.0 CLEAN WINDSHIELDS FRONT AND REAR</td><td id=\"1-1u\">NOT CLEANED - CAR WASH</td></tr>\n<tr><td id=\"1-1v\" colspan=\"2\">11.0 CHECK WIPER BLADES</td><td id=\"1-1w\">GUEST OK-GOOD</td></tr>\n<tr><td id=\"1-1x\" colspan=\"2\">12.0 LUBRICATE LATCHES AND HINGES</td><td id=\"1-1y\">COMPLETED</td></tr>\n<tr><td id=\"1-1z\" colspan=\"2\">13.0 FRONT TIRE PRESSURE CHECK</td><td id=\"1-1A\">:35, FRONT PRESSURE</td></tr>\n<tr><td id=\"1-1B\" colspan=\"2\">13.5 REAR TIRE PRESSURE CHECK</td><td id=\"1-1C\">:35, REAR PRESSURE</td></tr>\n<tr><td id=\"1-1D\" colspan=\"2\">14.0 VALVE CAPS</td><td id=\"1-1E\">ON AND TIGHT</td></tr>\n</table>\n\n<a id='9d085101-7319-413c-a8be-6314a48e3fa3'></a>\n\n<table id=\"1-1F\">\n<tr><td id=\"1-1G\">SERVICE WRITER ITEMS</td><td id=\"1-1H\"></td></tr>\n<tr><td id=\"1-1I\">12.0 OIL SEALS</td><td id=\"1-1J\">GOOD-NO VISIBLE LEAKAGE</td></tr>\n<tr><td id=\"1-1K\">16.0 PT15 ENGINE TREATMENT</td><td id=\"1-1L\">ENGINE TREATMENT RECOMMENDED EVERY 12000</td></tr>\n<tr><td id=\"1-1M\">18.0 AIR FILTER RECOMMENDATION</td><td id=\"1-1N\">REPLACED</td></tr>\n<tr><td id=\"1-1O\">23.0 CABIN AIR FILTER INSPECTION</td><td id=\"1-1P\">NOT CHECKED - GUEST REQUEST</td></tr>\n<tr><td id=\"1-1Q\">24.0 BRAKE FLUID CHECK</td><td id=\"1-1R\">GOOD-NOT FILLED</td></tr>\n<tr><td id=\"1-1S\">27.0 POWER STEERING LEAKAGE CHECK</td><td id=\"1-1T\">LEAKAGE-SOURCE UNKNOWN</td></tr>\n<tr><td id=\"1-1U\">28.0 UPPER/LOWER RADIATOR HOSES- VISUAL INSPECTION</td><td id=\"1-1V\">GOOD</td></tr>\n<tr><td id=\"1-1W\">29.1 DRIVE BELT INSPECTION</td><td id=\"1-1X\">GOOD</td></tr>\n<tr><td id=\"1-1Y\">31.0 BATTERY TERMINALS CLEANED AND PROTECTED</td><td id=\"1-1Z\">COMPLETED</td></tr>\n<tr><td id=\"1-20\">32.0 FUEL SYSTEM CLEANER</td><td id=\"1-21\">TECHRON RECOMMENDED</td></tr>\n<tr><td id=\"1-22\">3.0 SKOD PLATE EXCELLENCE CHECK</td><td id=\"1-23\">CONFERMED ON AND TIGHT</td></tr>\n<tr><td id=\"1-24\">37.0 CAPS AND DIPSTICKS CHECK MAILIAM HALINGSWORTH)</td><td id=\"1-25\">TIGHT</td></tr>\n<tr><td id=\"1-26\">380 RESET CHANGE OL LIGHT</td><td id=\"1-27\">COMPLETED</td></tr>\n</table>\n\n<a id='291b747f-2683-4097-bd27-8307034e9c52'></a>\n\nCAPTION ERROR\n\n<a id='7cb08b8c-74e0-4528-9e93-c95edb7f1b09'></a>\n\n--- --- --- --- --- --- --- --- --- ---\nFREE EXT CAR WASH AT HAPPY'S CARWASH. PRESENT THIS BARCODE.\n\n<a id='2069d9f3-25d6-4e2d-818b-04adb5807215'></a>\n\nHappy's\nDRIVE-THRU\nESPRESSO\n\nNext Door\n1316 Northeast 134th St.\nVancouver, WA\n\n<a id='8f073c9e-ec5a-4730-84da-206833625a33'></a>\n\nGuest: ANDREA KROPP\nLicense: ANX5193\nInvoice: O-0023-14214\n\nMake: NISSAN\nModel: XTERRA OFF-ROAD\n\n<::scan_code: 10450065::>\n\n<a id='9f68b3ef-8c74-47c0-94c4-f61e32488313'></a>\n\nReceipt\n\nService Date: MAY 27, 2024 11:27 AM\n\nValid at Happy's carwash. Not valid with any other offer. Not redeemable for cash. Valid for 30 dyas from invoice da\n\n<a id='6fb96d88-418c-4dee-8b64-339138ec4d32'></a>\n\n<::A simple abstract line drawing composed of two disconnected black line segments, one resembling the top and right side of a square bracket or the top part of a '7', and the other a short horizontal line with a vertical line extending upwards from its left end.: figure::>\n\n<a id='d427dbc3-9827-4d05-aee8-a8dfe662d3bd'></a>\n\nCC",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "18c4d42b-4593-4f1a-aaa6-7c5100a232b6": {
+      "box": {
+        "bottom": 0.03920275717973709,
+        "left": 0.1006113588809967,
+        "right": 0.8576185703277588,
+        "top": 0.016705742105841637
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8906ac3c-30a6-49fe-a48f-aa1f63c2d4fc": {
+      "box": {
+        "bottom": 0.12491058558225632,
+        "left": 0.03259032964706421,
+        "right": 0.4197806417942047,
+        "top": 0.05825043469667435
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "4d69d46b-10d9-4e37-897f-769929357667": {
+      "box": {
+        "bottom": 0.15998153388500214,
+        "left": 0.05478683114051819,
+        "right": 0.39733490347862244,
+        "top": 0.13290788233280182
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "73837e0d-d713-4912-87da-32c02affb955": {
+      "box": {
+        "bottom": 0.29312556982040405,
+        "left": 0.021175503730773926,
+        "right": 0.42283669114112854,
+        "top": 0.16760343313217163
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "746658ec-5b4f-4b7f-847f-2774970bfbda": {
+      "box": {
+        "bottom": 0.6113816499710083,
+        "left": 0.02176976203918457,
+        "right": 0.42237168550491333,
+        "top": 0.2909051179885864
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f8ac1c3d-9c47-476e-a452-77418b77f3cd": {
+      "box": {
+        "bottom": 0.8286008238792419,
+        "left": 0.02184392511844635,
+        "right": 0.421955406665802,
+        "top": 0.6132410168647766
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c9766ec5-e39e-4aa6-bffd-e23559d56125": {
+      "box": {
+        "bottom": 0.1669788807630539,
+        "left": 0.4473838806152344,
+        "right": 0.9434194564819336,
+        "top": 0.05113255977630615
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "40a62789-8c32-45e1-8daa-e67366d67051": {
+      "box": {
+        "bottom": 0.292341947555542,
+        "left": 0.4484177529811859,
+        "right": 0.9422575235366821,
+        "top": 0.16835156083106995
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "73efe845-395d-4641-86ae-6809a9cf1b85": {
+      "box": {
+        "bottom": 0.6887462139129639,
+        "left": 0.4488900601863861,
+        "right": 0.9425753355026245,
+        "top": 0.29105469584465027
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.6105274127657161,
+        "left": 0.45289305318037115,
+        "right": 0.9385036393862496,
+        "top": 0.2936916793965667
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.32046011096472027,
+        "left": 0.45289305318037115,
+        "right": 0.9386916711138777,
+        "top": 0.2936916793965667
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.32046011096472027,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.30781333920557974
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.32046011096472027,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.30781333920557974
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.32046011096472027,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.30781333920557974
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3330065633254633,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.32046011096472027
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3330065633254633,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.32046011096472027
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3330065633254633,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.32046011096472027
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3434921079164277,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.3330065633254633
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.3434921079164277,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.3330065633254633
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.3434921079164277,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.3330065633254633
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.35393813750319714,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.3434921079164277
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.35393813750319714,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.3434921079164277
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.35393813750319714,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.3434921079164277
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3644068698465759,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.35393813750319714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.3644068698465759,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.35393813750319714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.3644068698465759,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.35393813750319714
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.3848530400060719,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.3644068698465759
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.3848530400060719,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.3644068698465759
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.3848530400060719,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.3644068698465759
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.40551701677387353,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.3848530400060719
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.40551701677387353,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.3848530400060719
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.40551701677387353,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.3848530400060719
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.4267508202878316,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.40551701677387353
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.4267508202878316,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.40551701677387353
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.4267508202878316,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.40551701677387353
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.4474872965399346,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.4267508202878316
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.4474872965399346,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.4267508202878316
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.4474872965399346,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.4267508202878316
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.46827001980654526,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.4474872965399346
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.46827001980654526,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.4474872965399346
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.46827001980654526,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.4474872965399346
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.4888992461267465,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.46827001980654526
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.4888992461267465,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.46827001980654526
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.4888992461267465,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.46827001980654526
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.6105274127657161,
+        "left": 0.45289305318037115,
+        "right": 0.9386916711138777,
+        "top": 0.4888992461267465
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5100460194440029,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.4888992461267465
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.6105274127657161,
+        "left": 0.45289305318037115,
+        "right": 0.7668137815747844,
+        "top": 0.5100460194440029
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.6105274127657161,
+        "left": 0.7668137815747844,
+        "right": 0.8648768591269302,
+        "top": 0.5100460194440029
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.6105274127657161,
+        "left": 0.8648768591269302,
+        "right": 0.9386916711138777,
+        "top": 0.5100460194440029
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.6886768552433331,
+        "left": 0.652034815853205,
+        "right": 0.9403107743610271,
+        "top": 0.6119787772989191
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.6247569862259574,
+        "left": 0.652034815853205,
+        "right": 0.7688511156427129,
+        "top": 0.6119787772989191
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.6247569862259574,
+        "left": 0.7688511156427129,
+        "right": 0.9394447690802608,
+        "top": 0.6119787772989191
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.6493507977180943,
+        "left": 0.652034815853205,
+        "right": 0.7688511156427129,
+        "top": 0.6247569862259574
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.6493507977180943,
+        "left": 0.7688511156427129,
+        "right": 0.9394447690802608,
+        "top": 0.6247569862259574
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.6627727432791595,
+        "left": 0.652034815853205,
+        "right": 0.7688511156427129,
+        "top": 0.6493507977180943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.6627727432791595,
+        "left": 0.7688511156427129,
+        "right": 0.9394447690802608,
+        "top": 0.6493507977180943
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.6758535845148703,
+        "left": 0.652034815853205,
+        "right": 0.7688511156427129,
+        "top": 0.6627727432791595
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.6758535845148703,
+        "left": 0.7688511156427129,
+        "right": 0.9394447690802608,
+        "top": 0.6627727432791595
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.6886768552433331,
+        "left": 0.652034815853205,
+        "right": 0.7688511156427129,
+        "top": 0.6758535845148703
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.6886768552433331,
+        "left": 0.7688511156427129,
+        "right": 0.9394447690802608,
+        "top": 0.6758535845148703
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0ff738ee-8b8e-4978-b0af-ea00132dba78": {
+      "box": {
+        "bottom": 0.8259259462356567,
+        "left": 0.4485793113708496,
+        "right": 0.9427781105041504,
+        "top": 0.6877522468566895
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "e532217c-58f0-424d-86f7-b5f0bb920e8e": {
+      "box": {
+        "bottom": 0.9705730080604553,
+        "left": 0.0372031107544899,
+        "right": 0.25213563442230225,
+        "top": 0.8348686099052429
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "61ea30b1-5e5c-4214-b78b-1ef8ce3016ed": {
+      "box": {
+        "bottom": 0.9342026710510254,
+        "left": 0.06326724588871002,
+        "right": 0.24329359829425812,
+        "top": 0.841505765914917
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "08cf79eb-70bf-4897-946d-452aa224b43e": {
+      "box": {
+        "bottom": 0.9440605044364929,
+        "left": 0.2518456280231476,
+        "right": 0.9101684093475342,
+        "top": 0.8350993990898132
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d8f2db61-4ad4-427e-8b19-fbd85156f169": {
+      "box": {
+        "bottom": 0.9671686291694641,
+        "left": 0.2641145586967468,
+        "right": 0.9171872735023499,
+        "top": 0.9501039385795593
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f845ac4a-bdad-4a66-a210-ed0ff84b7b33": {
+      "box": {
+        "bottom": 0.06783390045166016,
+        "left": 0.03503403067588806,
+        "right": 0.930317759513855,
+        "top": 0.011158403009176254
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.06540429703926498,
+        "left": 0.0390214167183244,
+        "right": 0.9229896761141614,
+        "top": 0.044909779462453114
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.06540429703926498,
+        "left": 0.0390214167183244,
+        "right": 0.92293556596257,
+        "top": 0.044909779462453114
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.06540429703926498,
+        "left": 0.0390214167183244,
+        "right": 0.575359434119747,
+        "top": 0.05409815549582753
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.06540429703926498,
+        "left": 0.575359434119747,
+        "right": 0.92293556596257,
+        "top": 0.05409815549582753
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "b34e5c5f-62d9-4de5-aa96-77ea4111015c": {
+      "box": {
+        "bottom": 0.14173583686351776,
+        "left": 0.03470936417579651,
+        "right": 0.9295408725738525,
+        "top": 0.06681299209594727
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.13522825730727916,
+        "left": 0.040622275798759655,
+        "right": 0.923544293255258,
+        "top": 0.07627552910068092
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.08763033592848535,
+        "left": 0.040622275798759655,
+        "right": 0.075743930318243,
+        "top": 0.07627552910068092
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.08763033592848535,
+        "left": 0.075743930318243,
+        "right": 0.5750750312993205,
+        "top": 0.07627552910068092
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.08763033592848535,
+        "left": 0.5750750312993205,
+        "right": 0.9234148465061143,
+        "top": 0.07627552910068092
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.1113123553837827,
+        "left": 0.040622275798759655,
+        "right": 0.9234148465061143,
+        "top": 0.08763033592848535
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.1113123553837827,
+        "left": 0.040622275798759655,
+        "right": 0.075743930318243,
+        "top": 0.10012342659006146
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.1113123553837827,
+        "left": 0.075743930318243,
+        "right": 0.5750750312993205,
+        "top": 0.10012342659006146
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.1113123553837827,
+        "left": 0.5750750312993205,
+        "right": 0.9234148465061143,
+        "top": 0.10012342659006146
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.12333466226226619,
+        "left": 0.040622275798759655,
+        "right": 0.075743930318243,
+        "top": 0.1113123553837827
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.12333466226226619,
+        "left": 0.075743930318243,
+        "right": 0.5750750312993205,
+        "top": 0.1113123553837827
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.12333466226226619,
+        "left": 0.5750750312993205,
+        "right": 0.9234148465061143,
+        "top": 0.1113123553837827
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.13522825730727916,
+        "left": 0.040622275798759655,
+        "right": 0.075743930318243,
+        "top": 0.12333466226226619
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.13522825730727916,
+        "left": 0.075743930318243,
+        "right": 0.5750750312993205,
+        "top": 0.12333466226226619
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.13522825730727916,
+        "left": 0.5750750312993205,
+        "right": 0.9234148465061143,
+        "top": 0.12333466226226619
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "8c994422-7315-41b9-9fd7-befca0330afa": {
+      "box": {
+        "bottom": 0.3295515477657318,
+        "left": 0.03536331653594971,
+        "right": 0.9306637644767761,
+        "top": 0.1376616358757019
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.3254491459305999,
+        "left": 0.040034926869794596,
+        "right": 0.9241141259385337,
+        "top": 0.14752491213928465
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.15902837167081607,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.14752491213928465
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.15902837167081607,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.14752491213928465
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.15902837167081607,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.14752491213928465
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.1825895462908793,
+        "left": 0.040034926869794596,
+        "right": 0.9238768159407371,
+        "top": 0.15902837167081607
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.1825895462908793,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.17148721023063995
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.1825895462908793,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.17148721023063995
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-q": {
+      "box": {
+        "bottom": 0.1825895462908793,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.17148721023063995
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-r": {
+      "box": {
+        "bottom": 0.19464002499712763,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.1825895462908793
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-s": {
+      "box": {
+        "bottom": 0.19464002499712763,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.1825895462908793
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-t": {
+      "box": {
+        "bottom": 0.19464002499712763,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.1825895462908793
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-u": {
+      "box": {
+        "bottom": 0.20667415375419207,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.19464002499712763
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-v": {
+      "box": {
+        "bottom": 0.20667415375419207,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.19464002499712763
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-w": {
+      "box": {
+        "bottom": 0.20667415375419207,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.19464002499712763
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-x": {
+      "box": {
+        "bottom": 0.2182704652990779,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.20667415375419207
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-y": {
+      "box": {
+        "bottom": 0.2182704652990779,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.20667415375419207
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-z": {
+      "box": {
+        "bottom": 0.2182704652990779,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.20667415375419207
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-A": {
+      "box": {
+        "bottom": 0.23033534385563925,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.2182704652990779
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-B": {
+      "box": {
+        "bottom": 0.23033534385563925,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.2182704652990779
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-C": {
+      "box": {
+        "bottom": 0.23033534385563925,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.2182704652990779
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-D": {
+      "box": {
+        "bottom": 0.24239069494968213,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.23033534385563925
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-E": {
+      "box": {
+        "bottom": 0.24239069494968213,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.23033534385563925
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-F": {
+      "box": {
+        "bottom": 0.24239069494968213,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.23033534385563925
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-G": {
+      "box": {
+        "bottom": 0.254044897552836,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.24239069494968213
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-H": {
+      "box": {
+        "bottom": 0.254044897552836,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.24239069494968213
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-I": {
+      "box": {
+        "bottom": 0.254044897552836,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.24239069494968213
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-J": {
+      "box": {
+        "bottom": 0.2660647923037729,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.254044897552836
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-K": {
+      "box": {
+        "bottom": 0.2660647923037729,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.254044897552836
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-L": {
+      "box": {
+        "bottom": 0.2660647923037729,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.254044897552836
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-M": {
+      "box": {
+        "bottom": 0.2780716025203507,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.2660647923037729
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-N": {
+      "box": {
+        "bottom": 0.2780716025203507,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.2660647923037729
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-O": {
+      "box": {
+        "bottom": 0.2780716025203507,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.2660647923037729
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-P": {
+      "box": {
+        "bottom": 0.28969991055550715,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.2780716025203507
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-Q": {
+      "box": {
+        "bottom": 0.28969991055550715,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.2780716025203507
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-R": {
+      "box": {
+        "bottom": 0.28969991055550715,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.2780716025203507
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-S": {
+      "box": {
+        "bottom": 0.3017219669996205,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.28969991055550715
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-T": {
+      "box": {
+        "bottom": 0.3017219669996205,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.28969991055550715
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-U": {
+      "box": {
+        "bottom": 0.3017219669996205,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.28969991055550715
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-V": {
+      "box": {
+        "bottom": 0.3137536767190827,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.3017219669996205
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-W": {
+      "box": {
+        "bottom": 0.3137536767190827,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.3017219669996205
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-X": {
+      "box": {
+        "bottom": 0.3137536767190827,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.3017219669996205
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-Y": {
+      "box": {
+        "bottom": 0.3254491459305999,
+        "left": 0.040034926869794596,
+        "right": 0.07589908734914275,
+        "top": 0.3137536767190827
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-Z": {
+      "box": {
+        "bottom": 0.3254491459305999,
+        "left": 0.07589908734914275,
+        "right": 0.5753109603374895,
+        "top": 0.3137536767190827
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-10": {
+      "box": {
+        "bottom": 0.3254491459305999,
+        "left": 0.5753109603374895,
+        "right": 0.9238768159407371,
+        "top": 0.3137536767190827
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "130dce3c-6554-4ee6-907f-f956d7aba938": {
+      "box": {
+        "bottom": 0.391292929649353,
+        "left": 0.034857988357543945,
+        "right": 0.9299829602241516,
+        "top": 0.32785505056381226
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "9d3bc0ac-e45b-4020-aaeb-ee6a88f13ce7": {
+      "box": {
+        "bottom": 0.43765556812286377,
+        "left": 0.03505769371986389,
+        "right": 0.9293545484542847,
+        "top": 0.38725167512893677
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-11": {
+      "box": {
+        "bottom": 0.43306493126340584,
+        "left": 0.04103500203101229,
+        "right": 0.9235629354798434,
+        "top": 0.3975862929610052
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-12": {
+      "box": {
+        "bottom": 0.40909420650328343,
+        "left": 0.04103500203101229,
+        "right": 0.5755007588723284,
+        "top": 0.3975862929610052
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-13": {
+      "box": {
+        "bottom": 0.40909420650328343,
+        "left": 0.5755007588723284,
+        "right": 0.9236592562529982,
+        "top": 0.3975862929610052
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-14": {
+      "box": {
+        "bottom": 0.420993542079259,
+        "left": 0.04103500203101229,
+        "right": 0.5755007588723284,
+        "top": 0.40909420650328343
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-15": {
+      "box": {
+        "bottom": 0.420993542079259,
+        "left": 0.5755007588723284,
+        "right": 0.9236592562529982,
+        "top": 0.40909420650328343
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-16": {
+      "box": {
+        "bottom": 0.43306493126340584,
+        "left": 0.04103500203101229,
+        "right": 0.5755007588723284,
+        "top": 0.420993542079259
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-17": {
+      "box": {
+        "bottom": 0.43306493126340584,
+        "left": 0.5755007588723284,
+        "right": 0.9236592562529982,
+        "top": 0.420993542079259
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "ff96117d-ba99-4512-bfcf-b38537400dc4": {
+      "box": {
+        "bottom": 0.6264878511428833,
+        "left": 0.03558969497680664,
+        "right": 0.9302050471305847,
+        "top": 0.4349251985549927
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-18": {
+      "box": {
+        "bottom": 0.6233123388551576,
+        "left": 0.04033865728269867,
+        "right": 0.9236489559681829,
+        "top": 0.43525552606630624
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-19": {
+      "box": {
+        "bottom": 0.4566835932010349,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.43525552606630624
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1a": {
+      "box": {
+        "bottom": 0.445374087667318,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.43525552606630624
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1b": {
+      "box": {
+        "bottom": 0.46832528187565003,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.445374087667318
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1c": {
+      "box": {
+        "bottom": 0.4566835932010349,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.445374087667318
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1d": {
+      "box": {
+        "bottom": 0.4803661846274849,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.4566835932010349
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1e": {
+      "box": {
+        "bottom": 0.46832528187565003,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.4566835932010349
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1f": {
+      "box": {
+        "bottom": 0.4923633449299132,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.46832528187565003
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1g": {
+      "box": {
+        "bottom": 0.4803661846274849,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.46832528187565003
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1h": {
+      "box": {
+        "bottom": 0.504035750943217,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.4803661846274849
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1i": {
+      "box": {
+        "bottom": 0.4923633449299132,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.4803661846274849
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1j": {
+      "box": {
+        "bottom": 0.5160693490142876,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.4923633449299132
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1k": {
+      "box": {
+        "bottom": 0.504035750943217,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.4923633449299132
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1l": {
+      "box": {
+        "bottom": 0.5281239219951885,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.504035750943217
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1m": {
+      "box": {
+        "bottom": 0.5160693490142876,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.504035750943217
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1n": {
+      "box": {
+        "bottom": 0.5397635183169314,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5160693490142876
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1o": {
+      "box": {
+        "bottom": 0.5281239219951885,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5160693490142876
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1p": {
+      "box": {
+        "bottom": 0.5518403964074423,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5281239219951885
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1q": {
+      "box": {
+        "bottom": 0.5397635183169314,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5281239219951885
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1r": {
+      "box": {
+        "bottom": 0.5639133352797217,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5397635183169314
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1s": {
+      "box": {
+        "bottom": 0.5518403964074423,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5397635183169314
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1t": {
+      "box": {
+        "bottom": 0.5754610907265487,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5518403964074423
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1u": {
+      "box": {
+        "bottom": 0.5639133352797217,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5518403964074423
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1v": {
+      "box": {
+        "bottom": 0.5875330248127284,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5639133352797217
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1w": {
+      "box": {
+        "bottom": 0.5754610907265487,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5639133352797217
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1x": {
+      "box": {
+        "bottom": 0.5995513855309582,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5754610907265487
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1y": {
+      "box": {
+        "bottom": 0.5875330248127284,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5754610907265487
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1z": {
+      "box": {
+        "bottom": 0.611158914332691,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5875330248127284
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1A": {
+      "box": {
+        "bottom": 0.5995513855309582,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5875330248127284
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1B": {
+      "box": {
+        "bottom": 0.6233123388551576,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.5995513855309582
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1C": {
+      "box": {
+        "bottom": 0.611158914332691,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.5995513855309582
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1D": {
+      "box": {
+        "bottom": 0.6233123388551576,
+        "left": 0.04033865728269867,
+        "right": 0.9232771864067004,
+        "top": 0.611158914332691
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1E": {
+      "box": {
+        "bottom": 0.6233123388551576,
+        "left": 0.5751633562482574,
+        "right": 0.9232771864067004,
+        "top": 0.611158914332691
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "9d085101-7319-413c-a8be-6314a48e3fa3": {
+      "box": {
+        "bottom": 0.7934675216674805,
+        "left": 0.03579598665237427,
+        "right": 0.9307441711425781,
+        "top": 0.6265532970428467
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1F": {
+      "box": {
+        "bottom": 0.7898615164534988,
+        "left": 0.04049300220738561,
+        "right": 0.9242943006854496,
+        "top": 0.6266339576104689
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-1G": {
+      "box": {
+        "bottom": 0.6358300938898713,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.6266339576104689
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1H": {
+      "box": {
+        "bottom": 0.6358300938898713,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.6266339576104689
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1I": {
+      "box": {
+        "bottom": 0.6469186632666801,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.6358300938898713
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1J": {
+      "box": {
+        "bottom": 0.6469186632666801,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.6358300938898713
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1K": {
+      "box": {
+        "bottom": 0.659046540001949,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.6469186632666801
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1L": {
+      "box": {
+        "bottom": 0.659046540001949,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.6469186632666801
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1M": {
+      "box": {
+        "bottom": 0.6710694151928038,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.659046540001949
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1N": {
+      "box": {
+        "bottom": 0.6710694151928038,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.659046540001949
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1O": {
+      "box": {
+        "bottom": 0.6826516627000814,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.6710694151928038
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1P": {
+      "box": {
+        "bottom": 0.6826516627000814,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.6710694151928038
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1Q": {
+      "box": {
+        "bottom": 0.694683633638995,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.6826516627000814
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1R": {
+      "box": {
+        "bottom": 0.694683633638995,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.6826516627000814
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1S": {
+      "box": {
+        "bottom": 0.7066991242862386,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.694683633638995
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1T": {
+      "box": {
+        "bottom": 0.7066991242862386,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.694683633638995
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1U": {
+      "box": {
+        "bottom": 0.7183633752973435,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.7066991242862386
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1V": {
+      "box": {
+        "bottom": 0.7183633752973435,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.7066991242862386
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1W": {
+      "box": {
+        "bottom": 0.7303883770576789,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.7183633752973435
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1X": {
+      "box": {
+        "bottom": 0.7303883770576789,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.7183633752973435
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1Y": {
+      "box": {
+        "bottom": 0.7424463891456696,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.7303883770576789
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1Z": {
+      "box": {
+        "bottom": 0.7424463891456696,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.7303883770576789
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-20": {
+      "box": {
+        "bottom": 0.7540312233573445,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.7424463891456696
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-21": {
+      "box": {
+        "bottom": 0.7540312233573445,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.7424463891456696
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-22": {
+      "box": {
+        "bottom": 0.7660984580413981,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.7540312233573445
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-23": {
+      "box": {
+        "bottom": 0.7660984580413981,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.7540312233573445
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-24": {
+      "box": {
+        "bottom": 0.7781405022041668,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.7660984580413981
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-25": {
+      "box": {
+        "bottom": 0.7781405022041668,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.7660984580413981
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-26": {
+      "box": {
+        "bottom": 0.7898615164534988,
+        "left": 0.04049300220738561,
+        "right": 0.5753086362543627,
+        "top": 0.7781405022041668
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-27": {
+      "box": {
+        "bottom": 0.7898615164534988,
+        "left": 0.5753086362543627,
+        "right": 0.9236395678610982,
+        "top": 0.7781405022041668
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "291b747f-2683-4097-bd27-8307034e9c52": {
+      "box": {
+        "bottom": 0.9704273343086243,
+        "left": 0.03062015026807785,
+        "right": 0.16340932250022888,
+        "top": 0.8941166996955872
+      },
+      "page": 1,
+      "type": "chunkScanCode"
+    },
+    "7cb08b8c-74e0-4528-9e93-c95edb7f1b09": {
+      "box": {
+        "bottom": 0.9178084135055542,
+        "left": 0.15776154398918152,
+        "right": 0.9034925699234009,
+        "top": 0.8918776512145996
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "2069d9f3-25d6-4e2d-818b-04adb5807215": {
+      "box": {
+        "bottom": 0.9659795165061951,
+        "left": 0.1615269035100937,
+        "right": 0.36057376861572266,
+        "top": 0.9214077591896057
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "8f073c9e-ec5a-4730-84da-206833625a33": {
+      "box": {
+        "bottom": 0.960869312286377,
+        "left": 0.3673820495605469,
+        "right": 0.8814307451248169,
+        "top": 0.9125193357467651
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "9f68b3ef-8c74-47c0-94c4-f61e32488313": {
+      "box": {
+        "bottom": 0.9883043766021729,
+        "left": 0.0758109986782074,
+        "right": 0.8788578510284424,
+        "top": 0.9579142332077026
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "6fb96d88-418c-4dee-8b64-339138ec4d32": {
+      "box": {
+        "bottom": 0.9902832508087158,
+        "left": 0.9292409420013428,
+        "right": 0.9830200672149658,
+        "top": 0.890640377998352
+      },
+      "page": 1,
+      "type": "chunkFigure"
+    },
+    "d427dbc3-9827-4d05-aee8-a8dfe662d3bd": {
+      "box": {
+        "bottom": 0.9862736463546753,
+        "left": 0.052443597465753555,
+        "right": 0.08034953474998474,
+        "top": 0.9678549766540527
+      },
+      "page": 1,
+      "type": "chunkText"
+    }
+  }
+}
