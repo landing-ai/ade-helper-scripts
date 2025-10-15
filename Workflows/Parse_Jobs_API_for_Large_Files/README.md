@@ -32,7 +32,7 @@ This repository demonstrates how to process large PDF documents (up to 1GB / 1,0
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/landing-ai/ade-helper-scripts/tree/main/Workflows/Parse_Jobs_API_for_Large_Files
 cd Parse_Jobs_API_for_Large_Files
 ```
 
@@ -127,7 +127,7 @@ Complete end-to-end workflow for document processing.
 The API optimizes performance by handling results differently based on size:
 
 - **Small Files (< 1 MB)**: Results returned directly in the API response
-- **Large Files (≥ 1 MB)**: Returns a temporary URL for downloading results
+- **Large Files (≥ 1 MB)**: Returns an URL for downloading results
 
 The implementation automatically handles both scenarios transparently.
 
