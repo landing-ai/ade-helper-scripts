@@ -1,0 +1,1570 @@
+{
+  "chunks": [
+    {
+      "id": "00fc0ff5-1ced-47e1-a2b7-172d0a987671",
+      "grounding": {
+        "box": {
+          "bottom": 0.056465692818164825,
+          "left": 0.6698551177978516,
+          "right": 0.9177377223968506,
+          "top": 0.03748366981744766
+        },
+        "page": 0
+      },
+      "markdown": "<a id='00fc0ff5-1ced-47e1-a2b7-172d0a987671'></a>\n\nOpen access, freely available online",
+      "type": "marginalia"
+    },
+    {
+      "id": "12f10f86-f673-4ea3-919f-bc4f7b6c4969",
+      "grounding": {
+        "box": {
+          "bottom": 0.08223076164722443,
+          "left": 0.08220231533050537,
+          "right": 0.20663225650787354,
+          "top": 0.06343075633049011
+        },
+        "page": 0
+      },
+      "markdown": "<a id='12f10f86-f673-4ea3-919f-bc4f7b6c4969'></a>\n\nBest Practice",
+      "type": "text"
+    },
+    {
+      "id": "24e3f0eb-7d86-49f7-b323-964d68c4e4bf",
+      "grounding": {
+        "box": {
+          "bottom": 0.16273778676986694,
+          "left": 0.08076569437980652,
+          "right": 0.7767237424850464,
+          "top": 0.09175381064414978
+        },
+        "page": 0
+      },
+      "markdown": "<a id='24e3f0eb-7d86-49f7-b323-964d68c4e4bf'></a>\n\nVitamin C for Preventing and Treating the Common Cold",
+      "type": "text"
+    },
+    {
+      "id": "4b59c6b3-7f53-4326-9359-84333be05534",
+      "grounding": {
+        "box": {
+          "bottom": 0.17838002741336823,
+          "left": 0.08287008851766586,
+          "right": 0.3102880120277405,
+          "top": 0.1620534509420395
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4b59c6b3-7f53-4326-9359-84333be05534'></a>\n\n**Robert M. Douglas*, Harri Hemil\u00e4**",
+      "type": "text"
+    },
+    {
+      "id": "42ba6f6b-e5a8-4730-9ce4-d70d72ded113",
+      "grounding": {
+        "box": {
+          "bottom": 0.3687404990196228,
+          "left": 0.08200345933437347,
+          "right": 0.34084951877593994,
+          "top": 0.18725883960723877
+        },
+        "page": 0
+      },
+      "markdown": "<a id='42ba6f6b-e5a8-4730-9ce4-d70d72ded113'></a>\n\nThe role of vitamin C in the prevention and treatment of the common cold has been a subject of controversy for at least 60 years. Public interest in the subject, stimulated originally by the vigorous advocacy of Nobel laureate Linus Pauling during the 1970s [1], continues to be high. We have recently updated the Cochrane Review [2] on this topic (Text S1), incorporating 55 comparative studies that have been carried out over a period of 65 years.",
+      "type": "text"
+    },
+    {
+      "id": "08298ef4-dbbd-4832-ab59-9f327f378bf7",
+      "grounding": {
+        "box": {
+          "bottom": 0.5598935484886169,
+          "left": 0.08282750844955444,
+          "right": 0.3447687029838562,
+          "top": 0.3748592436313629
+        },
+        "page": 0
+      },
+      "markdown": "<a id='08298ef4-dbbd-4832-ab59-9f327f378bf7'></a>\n\nThe Updated Review\nWe sought to discover whether vitamin C in doses of 200 mg or more daily (Figure 1) reduces the incidence, duration, or severity of the common cold when used either as continuous prophylaxis or after the onset of cold symptoms. Criteria for inclusion were placebo-controlled trials to prevent or treat the common cold using oral doses of vitamin C of 200 mg/day or more. Literature from 1940 to 2004 was methodically screened.",
+      "type": "text"
+    },
+    {
+      "id": "cddab65e-91da-4166-b6a9-03d1e4397895",
+      "grounding": {
+        "box": {
+          "bottom": 0.7096157073974609,
+          "left": 0.08345194160938263,
+          "right": 0.3450049161911011,
+          "top": 0.560102105140686
+        },
+        "page": 0
+      },
+      "markdown": "<a id='cddab65e-91da-4166-b6a9-03d1e4397895'></a>\n\nAn overview of the results of the\nthree meta-analyses is shown in Table\n1. Incidence was not altered in the\nsubgroup of 23 community studies\nwhere prophylactic doses as high as 2\ng daily were used. But a subgroup of\nsix studies of marathon runners, skiers,\nand soldiers exposed to significant cold\nand/or physical stress experienced, on\naverage, 50% reduction in common\ncold incidence.",
+      "type": "text"
+    },
+    {
+      "id": "ad8381a8-d122-4af4-bf7b-a70762fa085b",
+      "grounding": {
+        "box": {
+          "bottom": 0.8062935471534729,
+          "left": 0.08427116274833679,
+          "right": 0.3328051269054413,
+          "top": 0.7106755375862122
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ad8381a8-d122-4af4-bf7b-a70762fa085b'></a>\n\nDuration of cold episodes that occurred during prophylaxis was significantly reduced in both children and adults. For children this represented an average reduction of 14% in symptom days, while in adults the reduction was 8%.",
+      "type": "text"
+    },
+    {
+      "id": "1918bceb-75b1-4f9c-a31b-87efd6ac2956",
+      "grounding": {
+        "box": {
+          "bottom": 0.8627212643623352,
+          "left": 0.08416986465454102,
+          "right": 0.34161534905433655,
+          "top": 0.8071950078010559
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1918bceb-75b1-4f9c-a31b-87efd6ac2956'></a>\n\nFor the seven trials that evaluated the\ntherapeutic impact of vitamin C used at\nthe onset of symptoms (all in adults),\nbenefits were not observed for duration",
+      "type": "text"
+    },
+    {
+      "id": "c6e21ae5-5cf2-4ae7-8ad8-8d0a1411eef2",
+      "grounding": {
+        "box": {
+          "bottom": 0.9125181436538696,
+          "left": 0.08430902659893036,
+          "right": 0.3426082134246826,
+          "top": 0.8831495046615601
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c6e21ae5-5cf2-4ae7-8ad8-8d0a1411eef2'></a>\n\n---The Best Practice section summarizes the current evidence on an important health intervention.",
+      "type": "text"
+    },
+    {
+      "id": "87594283-d286-4eb3-9393-0a31e594e77a",
+      "grounding": {
+        "box": {
+          "bottom": 0.3677976727485657,
+          "left": 0.3674314022064209,
+          "right": 0.5036521553993225,
+          "top": 0.1885269284248352
+        },
+        "page": 0
+      },
+      "markdown": "<a id='87594283-d286-4eb3-9393-0a31e594e77a'></a>\n\nof episodes,\nalthough one of the\nlarge trials recorded\na statistically\nsignificant\nreduction in the\nduration of colds\namong participants\nadministered a\nsingle vitamin C\ndose of 8 g on the\nday of symptom\nonset [3].",
+      "type": "text"
+    },
+    {
+      "id": "61fe25db-6967-4c09-b219-51a4147bf173",
+      "grounding": {
+        "box": {
+          "bottom": 0.6151226758956909,
+          "left": 0.3695564866065979,
+          "right": 0.6231772303581238,
+          "top": 0.37557387351989746
+        },
+        "page": 0
+      },
+      "markdown": "<a id='61fe25db-6967-4c09-b219-51a4147bf173'></a>\n\n## Implications of the Review\n\nThe lack of effect of prophylactic vitamin C supplementation on the incidence of common cold in normal populations throws doubt on the utility of this wide practice.\n\nDOI: 10.1371/journa\n\nFigure 1. 500-mg Vi\nVitamin C was ide\nwho received his I\npaprika is a partic\npossible to produ\nAnnu Rev Bioche:\nway to increase vit\nfurther research i\nsupplementation\n\nThe clinical significance of the minor reduction in duration of common cold episodes experienced during prophylaxis is questionable, although the consistency of these findings points to a genuine biological effect.",
+      "type": "text"
+    },
+    {
+      "id": "562d4aec-89e8-4618-8fb7-7e8cda60636c",
+      "grounding": {
+        "box": {
+          "bottom": 0.8087592720985413,
+          "left": 0.36829954385757446,
+          "right": 0.6292573809623718,
+          "top": 0.6158300042152405
+        },
+        "page": 0
+      },
+      "markdown": "<a id='562d4aec-89e8-4618-8fb7-7e8cda60636c'></a>\n\nIn special circumstances, where\npeople used prophylaxis prior to\nextreme physical exertion and/or\nexposure to significant cold stress,\nthe collective evidence indicates that\nvitamin C supplementation may have\na considerable beneficial effect; it was\nthe results of one of these six trials,\nwith schoolchildren in a skiing school\n[4], that particularly impressed Pauling\n[1]. However, great caution should\nbe exercised in generalizing from\nthis finding, which is based mainly on\nmarathon runners.",
+      "type": "text"
+    },
+    {
+      "id": "723f61e6-50df-41c2-898e-86d7ff4efc0b",
+      "grounding": {
+        "box": {
+          "bottom": 0.9185361862182617,
+          "left": 0.3681313693523407,
+          "right": 0.6302210092544556,
+          "top": 0.8079745769500732
+        },
+        "page": 0
+      },
+      "markdown": "<a id='723f61e6-50df-41c2-898e-86d7ff4efc0b'></a>\n\nNo benefits have been observed from therapeutic use of doses totalling 10 g that was divided for the first three days of illness. The equivocal findings of the large study, which used 8 g only on the day of onset of respiratory symptoms [3], are tantalising and deserve further assessment.",
+      "type": "text"
+    },
+    {
+      "id": "638eccbd-d3ad-432f-992c-32abcb20ccfe",
+      "grounding": {
+        "box": {
+          "bottom": 0.40214136242866516,
+          "left": 0.5120630264282227,
+          "right": 0.9157990217208862,
+          "top": 0.18893995881080627
+        },
+        "page": 0
+      },
+      "markdown": "<a id='638eccbd-d3ad-432f-992c-32abcb20ccfe'></a>\n\n<::A still life image showing three bell peppers and a pile of white pills. Two yellow bell peppers are positioned on the left and right, with a red bell pepper in the center background. In the foreground, a heap of small, round, white pills is scattered on a dark green surface. The background is a solid dark green. DOI: 10.1371/journal.pmed.0020168.g001::>",
+      "type": "figure"
+    },
+    {
+      "id": "6d9ad137-506c-4082-b314-c1c6e73ac269",
+      "grounding": {
+        "box": {
+          "bottom": 0.5153886675834656,
+          "left": 0.512050211429596,
+          "right": 0.9123194813728333,
+          "top": 0.40894144773483276
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6d9ad137-506c-4082-b314-c1c6e73ac269'></a>\n\nFigure 1. 500-mg Vitamin C Tablets and Paprikas\nVitamin C was identified in the 1930s by Albert Szent-Gy\u00f6rgyi, who received his Nobel Prize partly for this work. He found that paprika is a particularly rich source of the vitamin, which made it possible to produce kilograms of it for research purposes ([1963] Annu Rev Biochem 32: 1\u201314). Nowadays, the most convenient way to increase vitamin C intake is by way of 500-mg tablets, but further research is needed to explore the conditions in which supplementation may be beneficial.",
+      "type": "text"
+    },
+    {
+      "id": "d3e76aaa-2872-4a1d-871d-13d9d9db1b54",
+      "grounding": {
+        "box": {
+          "bottom": 0.6439531445503235,
+          "left": 0.6534745097160339,
+          "right": 0.909951388835907,
+          "top": 0.5311573147773743
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d3e76aaa-2872-4a1d-871d-13d9d9db1b54'></a>\n\nNone of the therapeutic trials carried out so far has examined the effect of vitamin C on children, even though the prophylaxis trials have shown substantially greater effect on episode duration in children.\nStudy quality for the trials included in these three meta-analyses was",
+      "type": "text"
+    },
+    {
+      "id": "973bf44e-2c2b-4f32-ad2e-102d7b3f7f6a",
+      "grounding": {
+        "box": {
+          "bottom": 0.6989102363586426,
+          "left": 0.6528424620628357,
+          "right": 0.9119799733161926,
+          "top": 0.6646862030029297
+        },
+        "page": 0
+      },
+      "markdown": "<a id='973bf44e-2c2b-4f32-ad2e-102d7b3f7f6a'></a>\n\nCitation: Douglas RM, Hemil\u00e4 H (2005) Vitamin C for\npreventing and treating the common cold. PLoS Med\n2(6):e168.",
+      "type": "text"
+    },
+    {
+      "id": "48bd84e3-05fc-493c-bccb-b7ef4cfc56db",
+      "grounding": {
+        "box": {
+          "bottom": 0.7688235640525818,
+          "left": 0.6526222825050354,
+          "right": 0.9016473889350891,
+          "top": 0.705815851688385
+        },
+        "page": 0
+      },
+      "markdown": "<a id='48bd84e3-05fc-493c-bccb-b7ef4cfc56db'></a>\n\nCopyright: \u00a9 2005 Douglas and Hemil\u00e4. This is an\nopen-access article distributed under the terms\nof the Creative Commons Attribution License,\nwhich permits unrestricted use, distribution, and\nreproduction in any medium, provided the original\nwork is properly cited.",
+      "type": "text"
+    },
+    {
+      "id": "35eafccf-ec01-4048-916b-b58d8c0dc1e4",
+      "grounding": {
+        "box": {
+          "bottom": 0.8282825350761414,
+          "left": 0.6532438397407532,
+          "right": 0.9059279561042786,
+          "top": 0.7754753232002258
+        },
+        "page": 0
+      },
+      "markdown": "<a id='35eafccf-ec01-4048-916b-b58d8c0dc1e4'></a>\n\nRobert M. Douglas is at the National Centre for\nEpidemiology and Population Health, Australian\nNational University, Canberra, Australia. Harri Hemil\u00e4\nis at the Department of Public Health, University of\nHelsinki, Finland.",
+      "type": "text"
+    },
+    {
+      "id": "bd5192c7-ecfb-41aa-af13-ac74cbad5286",
+      "grounding": {
+        "box": {
+          "bottom": 0.8691766262054443,
+          "left": 0.6528395414352417,
+          "right": 0.9146207571029663,
+          "top": 0.835169792175293
+        },
+        "page": 0
+      },
+      "markdown": "<a id='bd5192c7-ecfb-41aa-af13-ac74cbad5286'></a>\n\nCompeting Interests: RMD was an organising author\nof one of the papers considered in the review. HH\ndeclares that he has no competing interests.",
+      "type": "text"
+    },
+    {
+      "id": "362d87e6-04a3-4fb2-b213-ff139e8dd0d5",
+      "grounding": {
+        "box": {
+          "bottom": 0.8986989855766296,
+          "left": 0.6535719037055969,
+          "right": 0.8921616673469543,
+          "top": 0.8751376271247864
+        },
+        "page": 0
+      },
+      "markdown": "<a id='362d87e6-04a3-4fb2-b213-ff139e8dd0d5'></a>\n\n*To whom correspondence should be addressed.\nE-mail: bobdouglas@netspeed.com.au",
+      "type": "text"
+    },
+    {
+      "id": "92d37df9-581b-49a8-bc77-b23e31779ad9",
+      "grounding": {
+        "box": {
+          "bottom": 0.9186453819274902,
+          "left": 0.6534730792045593,
+          "right": 0.8336464762687683,
+          "top": 0.9049553871154785
+        },
+        "page": 0
+      },
+      "markdown": "<a id='92d37df9-581b-49a8-bc77-b23e31779ad9'></a>\n\nDOI: 10.1371/journal.pmed.0020168",
+      "type": "text"
+    },
+    {
+      "id": "3defb096-6945-40f2-9731-1db3eb42ee10",
+      "grounding": {
+        "box": {
+          "bottom": 0.9618099927902222,
+          "left": 0.08366657793521881,
+          "right": 0.35069406032562256,
+          "top": 0.9352167844772339
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3defb096-6945-40f2-9731-1db3eb42ee10'></a>\n\n",
+      "type": "marginalia"
+    },
+    {
+      "id": "c345e47f-1885-4e36-b398-b7c29c6dba85",
+      "grounding": {
+        "box": {
+          "bottom": 0.9569268822669983,
+          "left": 0.4818282127380371,
+          "right": 0.5189454555511475,
+          "top": 0.9413996338844299
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c345e47f-1885-4e36-b398-b7c29c6dba85'></a>\n\n0503",
+      "type": "marginalia"
+    },
+    {
+      "id": "d06713de-7f01-414a-8a9d-2e6c5c13c1db",
+      "grounding": {
+        "box": {
+          "bottom": 0.9581611156463623,
+          "left": 0.6954143643379211,
+          "right": 0.9167948365211487,
+          "top": 0.9408578872680664
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d06713de-7f01-414a-8a9d-2e6c5c13c1db'></a>\n\nJune 2005 | Volume 2 | Issue 6 | e168",
+      "type": "marginalia"
+    },
+    {
+      "id": "b3389165-8ece-46d5-b8e8-95c9ef988a0e",
+      "grounding": {
+        "box": {
+          "bottom": 0.29988065361976624,
+          "left": 0.08207571506500244,
+          "right": 0.9184337854385376,
+          "top": 0.06309247016906738
+        },
+        "page": 1
+      },
+      "markdown": "<a id='b3389165-8ece-46d5-b8e8-95c9ef988a0e'></a>\n\nTable 1. Results of the Three Meta-Analyses \\n <table id=\"1-1\">\n<tr><td id=\"1-2\">Outcome</td><td id=\"1-3\">Subgroup</td><td id=\"1-4\">Number of Trials</td><td id=\"1-5\">Number of Participants</td><td id=\"1-6\">Test of Heterogeneity a</td><td id=\"1-7\">Magnitude of the Vitamin C Effect (95% CI) b</td></tr>\n<tr><td id=\"1-8\">1. Incidence of colds during prophylaxis</td><td id=\"1-9\"></td><td id=\"1-a\">29</td><td id=\"1-b\">11,077</td><td id=\"1-c\">p = 0.02, I\u00b2 = 38%</td><td id=\"1-d\">RR = 0.96 (0.92,1.00)</td></tr>\n<tr><td id=\"1-e\"></td><td id=\"1-f\">General community studies</td><td id=\"1-g\">23</td><td id=\"1-h\">10,435</td><td id=\"1-i\">p = 0.7, I\u00b2 = 0%</td><td id=\"1-j\">RR = 0.98 (0.95, 1.00)</td></tr>\n<tr><td id=\"1-k\"></td><td id=\"1-l\">Short-term exposure to cold and/or severe physical stress</td><td id=\"1-m\">6</td><td id=\"1-n\">642</td><td id=\"1-o\">p = 0.9, I\u00b2 = 0%</td><td id=\"1-p\">RR = 0.50 (0.38,0.66)</td></tr>\n<tr><td id=\"1-q\">2. Duration of colds during prophylaxis</td><td id=\"1-r\"></td><td id=\"1-s\">30</td><td id=\"1-t\">9,676</td><td id=\"1-u\">p = 0.15, I\u00b2 = 21%</td><td id=\"1-v\">RED = -9.7% (-14.1%, -5.4%)</td></tr>\n<tr><td id=\"1-w\"></td><td id=\"1-x\">Children</td><td id=\"1-y\">12</td><td id=\"1-z\">2,434</td><td id=\"1-A\">p = 0.30, I\u00b2 = 15%</td><td id=\"1-B\">RED=-13.6% (-21.6%,-5.6%)d</td></tr>\n<tr><td id=\"1-C\"></td><td id=\"1-D\">Adults</td><td id=\"1-E\">18</td><td id=\"1-F\">7,242</td><td id=\"1-G\">p = 0.19, I\u00b2 = 22%</td><td id=\"1-H\">RED=-8.0% (-13.1%,-3.0%)d</td></tr>\n<tr><td id=\"1-I\">3. Duration of colds treated at the onset of symptoms</td><td id=\"1-J\">Adults only</td><td id=\"1-K\">7</td><td id=\"1-L\">3,294</td><td id=\"1-M\">p = 0.11, I\u00b2 = 42%</td><td id=\"1-N\">RED = -2.5% (-10.1%, +5.0%)</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "11e35c76-cb23-4d67-a0aa-3227cb5407a8",
+      "grounding": {
+        "box": {
+          "bottom": 0.36969882249832153,
+          "left": 0.08280384540557861,
+          "right": 0.9183025360107422,
+          "top": 0.2940073013305664
+        },
+        "page": 1
+      },
+      "markdown": "<a id='11e35c76-cb23-4d67-a0aa-3227cb5407a8'></a>\n\nThese meta-analyses were of placebo-controlled trials that provided data on incidence and duration of respiratory episodes during continuous oral prophylaxis, or on duration of respiratory episodes following therapy at onset of colds using doses in excess of 200 mg of vitamin C.\nProphylaxis indicates vitamin C supplementation over the entire study period. All combined results were pooled using the random effects model.\n* Heterogeneity between trial outcomes in the group: the \u03c72 test for heterogeneity with p > 0.05 indicates lack of heterogeneity, and the I\u00b2 test with P = 0% indicates no evidence of heterogeneity, with 100% being the maximum in the I\u00b2 scale [5].\nb CI, confidence interval; RED, relative effect on duration of colds (e.g., if a seven-day cold is shortened by one day, that corresponds to RED = \u221214% [= \u22121/7]); RR, relative risk of colds.\nc Statistically significant benefit favours those receiving vitamin C with p < 0.0001.\nd Statistically significant benefit favours those receiving vitamin C with p < 0.002.\nDOI: 10.1371/journal.pmed.0020168.t001",
+      "type": "text"
+    },
+    {
+      "id": "2f957918-d8c3-436e-a24b-3becbd42ab5f",
+      "grounding": {
+        "box": {
+          "bottom": 0.4669870436191559,
+          "left": 0.08019618690013885,
+          "right": 0.33761733770370483,
+          "top": 0.3825753629207611
+        },
+        "page": 1
+      },
+      "markdown": "<a id='2f957918-d8c3-436e-a24b-3becbd42ab5f'></a>\n\nvariable, but sensitivity analysis, where we excluded studies from the analysis that were less adequately blinded or randomized, did not change the general conclusions of the Cochrane Review.",
+      "type": "text"
+    },
+    {
+      "id": "3c334afb-992e-48db-8fbc-3f809cf29e71",
+      "grounding": {
+        "box": {
+          "bottom": 0.5658239722251892,
+          "left": 0.08120428025722504,
+          "right": 0.3409135937690735,
+          "top": 0.46642985939979553
+        },
+        "page": 1
+      },
+      "markdown": "<a id='3c334afb-992e-48db-8fbc-3f809cf29e71'></a>\n\nFuture work on this topic should\nexplore the value of high dose\ntherapy\u2014in particular, in children\u2014\nand the mechanisms underlying the\nobserved prophylaxis benefits in those\nexposed to substantial physical and/or\ncold stress. \u25a0",
+      "type": "text"
+    },
+    {
+      "id": "59234478-bacb-47af-b63f-3b08de87e7c2",
+      "grounding": {
+        "box": {
+          "bottom": 0.6145366430282593,
+          "left": 0.08182446658611298,
+          "right": 0.34825193881988525,
+          "top": 0.5703145265579224
+        },
+        "page": 1
+      },
+      "markdown": "<a id='59234478-bacb-47af-b63f-3b08de87e7c2'></a>\n\nText S1. Updated Cochrane Review\nDouglas RM, Hemil\u00e4 H, D'Souza R, Chalker\nEB, Treacy B (2004) Vitamin C for preventing",
+      "type": "text"
+    },
+    {
+      "id": "6dc8bac3-cae3-4ad1-a3ec-800f17fa2d46",
+      "grounding": {
+        "box": {
+          "bottom": 0.4096657931804657,
+          "left": 0.3670867085456848,
+          "right": 0.6138899326324463,
+          "top": 0.3829210698604584
+        },
+        "page": 1
+      },
+      "markdown": "<a id='6dc8bac3-cae3-4ad1-a3ec-800f17fa2d46'></a>\n\nand treating the common cold. Cochrane\nDatabase Syst Rev 4: CD000980.pub2.",
+      "type": "text"
+    },
+    {
+      "id": "5a88814e-6016-4a8c-823b-f594384dc29e",
+      "grounding": {
+        "box": {
+          "bottom": 0.43631330132484436,
+          "left": 0.36889737844467163,
+          "right": 0.6308506727218628,
+          "top": 0.4111064374446869
+        },
+        "page": 1
+      },
+      "markdown": "<a id='5a88814e-6016-4a8c-823b-f594384dc29e'></a>\n\nDate of most recent substantive amendment: 10 August 2004.",
+      "type": "text"
+    },
+    {
+      "id": "7f1cad9d-4dac-4e6f-aca6-8d992ba9c167",
+      "grounding": {
+        "box": {
+          "bottom": 0.4833027720451355,
+          "left": 0.36815232038497925,
+          "right": 0.6290097832679749,
+          "top": 0.4380221366882324
+        },
+        "page": 1
+      },
+      "markdown": "<a id='7f1cad9d-4dac-4e6f-aca6-8d992ba9c167'></a>\n\nThis data supplement can be freely accessed\non the _PLoS Medicine_ Web site, but it is not\npublished under the Creative Commons\nAttribution License.",
+      "type": "text"
+    },
+    {
+      "id": "4c53ab31-b0ad-4d95-8070-1df7dc04fc87",
+      "grounding": {
+        "box": {
+          "bottom": 0.5205654501914978,
+          "left": 0.3682737350463867,
+          "right": 0.6272403597831726,
+          "top": 0.48582392930984497
+        },
+        "page": 1
+      },
+      "markdown": "<a id='4c53ab31-b0ad-4d95-8070-1df7dc04fc87'></a>\n\nCopyright \u00a9 2004 The Cochrane\nCollaboration. Published by John Wiley and\nSons. All rights reserved.",
+      "type": "text"
+    },
+    {
+      "id": "1a9eb224-a1b4-42a9-a345-9df978aa720e",
+      "grounding": {
+        "box": {
+          "bottom": 0.5482637882232666,
+          "left": 0.36875423789024353,
+          "right": 0.5841069221496582,
+          "top": 0.5230056047439575
+        },
+        "page": 1
+      },
+      "markdown": "<a id='1a9eb224-a1b4-42a9-a345-9df978aa720e'></a>\n\nFound at DOI: 10.1371/journal. pmed.0020168.sd001 (1.3 MB PDF).",
+      "type": "text"
+    },
+    {
+      "id": "92325ae4-71f8-4e50-8777-f4c5bcdac242",
+      "grounding": {
+        "box": {
+          "bottom": 0.6140966415405273,
+          "left": 0.3682429790496826,
+          "right": 0.6258634328842163,
+          "top": 0.5593763589859009
+        },
+        "page": 1
+      },
+      "markdown": "<a id='92325ae4-71f8-4e50-8777-f4c5bcdac242'></a>\n\nReferences\n1. Pauling L (1971) The significance of the\nevidence about ascorbic acid and the common\ncold. Proc Natl Acad Sci U S A 68: 2678\u20132681.\n2. Douglas RM, Hemil\u00e4 H, D'Souza R, Chalker",
+      "type": "text"
+    },
+    {
+      "id": "753b59dd-81a6-420f-8ecd-a9d4d7b6e038",
+      "grounding": {
+        "box": {
+          "bottom": 0.5182090997695923,
+          "left": 0.6518204212188721,
+          "right": 0.9088420867919922,
+          "top": 0.3827543556690216
+        },
+        "page": 1
+      },
+      "markdown": "<a id='753b59dd-81a6-420f-8ecd-a9d4d7b6e038'></a>\n\nEB, Treacy B (2004) Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev 2004: CD000980.pub2.\n\n3. Anderson TW, Suranyi G, Beaton GH (1974) The effect on winter illness of large doses of vitamin C. Can Med Assoc J 111: 31-36.\n\n4. Ritzel G (1961) Kritische Beurteilung des Vitamins C als Prophylacticum und Therapeuticum der Erk\u00e4ltungskrankheiten. Helv Med Acta 28: 63-68.\n\n5. Higgins JPT, Thompson SG, Deeks JJ, Altman DG (2003) Measuring inconsistency in meta-analyses. BMJ 327: 557-560.",
+      "type": "text"
+    },
+    {
+      "id": "fc1179de-805e-4ab2-8973-031b15ec5636",
+      "grounding": {
+        "box": {
+          "bottom": 0.6122205853462219,
+          "left": 0.6523056626319885,
+          "right": 0.9168156981468201,
+          "top": 0.5532752871513367
+        },
+        "page": 1
+      },
+      "markdown": "<a id='fc1179de-805e-4ab2-8973-031b15ec5636'></a>\n\nonline\nQUIZ\nTake the Quiz online!",
+      "type": "text"
+    },
+    {
+      "id": "46054a3c-3f69-4cba-a01f-7fad2ebc2217",
+      "grounding": {
+        "box": {
+          "bottom": 0.9633035659790039,
+          "left": 0.0817478746175766,
+          "right": 0.35159963369369507,
+          "top": 0.9347579479217529
+        },
+        "page": 1
+      },
+      "markdown": "<a id='46054a3c-3f69-4cba-a01f-7fad2ebc2217'></a>\n\nPLoS Medicine | www.plosmedicine.org",
+      "type": "marginalia"
+    },
+    {
+      "id": "c4889cfe-16e0-44e2-9693-89584b5ab2a8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9577634334564209,
+          "left": 0.4801561236381531,
+          "right": 0.5215151906013489,
+          "top": 0.9410713911056519
+        },
+        "page": 1
+      },
+      "markdown": "<a id='c4889cfe-16e0-44e2-9693-89584b5ab2a8'></a>\n\n0504",
+      "type": "marginalia"
+    },
+    {
+      "id": "27011d3a-6ae1-4b5e-b7b3-84f30d7f98be",
+      "grounding": {
+        "box": {
+          "bottom": 0.9596846103668213,
+          "left": 0.6938611268997192,
+          "right": 0.9177858829498291,
+          "top": 0.940292239189148
+        },
+        "page": 1
+      },
+      "markdown": "<a id='27011d3a-6ae1-4b5e-b7b3-84f30d7f98be'></a>\n\nJune 2005 | Volume 2 | Issue 6 | e168",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='00fc0ff5-1ced-47e1-a2b7-172d0a987671'></a>\n\nOpen access, freely available online\n\n<a id='12f10f86-f673-4ea3-919f-bc4f7b6c4969'></a>\n\nBest Practice\n\n<a id='24e3f0eb-7d86-49f7-b323-964d68c4e4bf'></a>\n\nVitamin C for Preventing and Treating the Common Cold\n\n<a id='4b59c6b3-7f53-4326-9359-84333be05534'></a>\n\n**Robert M. Douglas*, Harri Hemil\u00e4**\n\n<a id='42ba6f6b-e5a8-4730-9ce4-d70d72ded113'></a>\n\nThe role of vitamin C in the prevention and treatment of the common cold has been a subject of controversy for at least 60 years. Public interest in the subject, stimulated originally by the vigorous advocacy of Nobel laureate Linus Pauling during the 1970s [1], continues to be high. We have recently updated the Cochrane Review [2] on this topic (Text S1), incorporating 55 comparative studies that have been carried out over a period of 65 years.\n\n<a id='08298ef4-dbbd-4832-ab59-9f327f378bf7'></a>\n\nThe Updated Review\nWe sought to discover whether vitamin C in doses of 200 mg or more daily (Figure 1) reduces the incidence, duration, or severity of the common cold when used either as continuous prophylaxis or after the onset of cold symptoms. Criteria for inclusion were placebo-controlled trials to prevent or treat the common cold using oral doses of vitamin C of 200 mg/day or more. Literature from 1940 to 2004 was methodically screened.\n\n<a id='cddab65e-91da-4166-b6a9-03d1e4397895'></a>\n\nAn overview of the results of the\nthree meta-analyses is shown in Table\n1. Incidence was not altered in the\nsubgroup of 23 community studies\nwhere prophylactic doses as high as 2\ng daily were used. But a subgroup of\nsix studies of marathon runners, skiers,\nand soldiers exposed to significant cold\nand/or physical stress experienced, on\naverage, 50% reduction in common\ncold incidence.\n\n<a id='ad8381a8-d122-4af4-bf7b-a70762fa085b'></a>\n\nDuration of cold episodes that occurred during prophylaxis was significantly reduced in both children and adults. For children this represented an average reduction of 14% in symptom days, while in adults the reduction was 8%.\n\n<a id='1918bceb-75b1-4f9c-a31b-87efd6ac2956'></a>\n\nFor the seven trials that evaluated the\ntherapeutic impact of vitamin C used at\nthe onset of symptoms (all in adults),\nbenefits were not observed for duration\n\n<a id='c6e21ae5-5cf2-4ae7-8ad8-8d0a1411eef2'></a>\n\n---The Best Practice section summarizes the current evidence on an important health intervention.\n\n<a id='87594283-d286-4eb3-9393-0a31e594e77a'></a>\n\nof episodes,\nalthough one of the\nlarge trials recorded\na statistically\nsignificant\nreduction in the\nduration of colds\namong participants\nadministered a\nsingle vitamin C\ndose of 8 g on the\nday of symptom\nonset [3].\n\n<a id='61fe25db-6967-4c09-b219-51a4147bf173'></a>\n\n## Implications of the Review\n\nThe lack of effect of prophylactic vitamin C supplementation on the incidence of common cold in normal populations throws doubt on the utility of this wide practice.\n\nDOI: 10.1371/journa\n\nFigure 1. 500-mg Vi\nVitamin C was ide\nwho received his I\npaprika is a partic\npossible to produ\nAnnu Rev Bioche:\nway to increase vit\nfurther research i\nsupplementation\n\nThe clinical significance of the minor reduction in duration of common cold episodes experienced during prophylaxis is questionable, although the consistency of these findings points to a genuine biological effect.\n\n<a id='562d4aec-89e8-4618-8fb7-7e8cda60636c'></a>\n\nIn special circumstances, where\npeople used prophylaxis prior to\nextreme physical exertion and/or\nexposure to significant cold stress,\nthe collective evidence indicates that\nvitamin C supplementation may have\na considerable beneficial effect; it was\nthe results of one of these six trials,\nwith schoolchildren in a skiing school\n[4], that particularly impressed Pauling\n[1]. However, great caution should\nbe exercised in generalizing from\nthis finding, which is based mainly on\nmarathon runners.\n\n<a id='723f61e6-50df-41c2-898e-86d7ff4efc0b'></a>\n\nNo benefits have been observed from therapeutic use of doses totalling 10 g that was divided for the first three days of illness. The equivocal findings of the large study, which used 8 g only on the day of onset of respiratory symptoms [3], are tantalising and deserve further assessment.\n\n<a id='638eccbd-d3ad-432f-992c-32abcb20ccfe'></a>\n\n<::A still life image showing three bell peppers and a pile of white pills. Two yellow bell peppers are positioned on the left and right, with a red bell pepper in the center background. In the foreground, a heap of small, round, white pills is scattered on a dark green surface. The background is a solid dark green. DOI: 10.1371/journal.pmed.0020168.g001::>\n\n<a id='6d9ad137-506c-4082-b314-c1c6e73ac269'></a>\n\nFigure 1. 500-mg Vitamin C Tablets and Paprikas\nVitamin C was identified in the 1930s by Albert Szent-Gy\u00f6rgyi, who received his Nobel Prize partly for this work. He found that paprika is a particularly rich source of the vitamin, which made it possible to produce kilograms of it for research purposes ([1963] Annu Rev Biochem 32: 1\u201314). Nowadays, the most convenient way to increase vitamin C intake is by way of 500-mg tablets, but further research is needed to explore the conditions in which supplementation may be beneficial.\n\n<a id='d3e76aaa-2872-4a1d-871d-13d9d9db1b54'></a>\n\nNone of the therapeutic trials carried out so far has examined the effect of vitamin C on children, even though the prophylaxis trials have shown substantially greater effect on episode duration in children.\nStudy quality for the trials included in these three meta-analyses was\n\n<a id='973bf44e-2c2b-4f32-ad2e-102d7b3f7f6a'></a>\n\nCitation: Douglas RM, Hemil\u00e4 H (2005) Vitamin C for\npreventing and treating the common cold. PLoS Med\n2(6):e168.\n\n<a id='48bd84e3-05fc-493c-bccb-b7ef4cfc56db'></a>\n\nCopyright: \u00a9 2005 Douglas and Hemil\u00e4. This is an\nopen-access article distributed under the terms\nof the Creative Commons Attribution License,\nwhich permits unrestricted use, distribution, and\nreproduction in any medium, provided the original\nwork is properly cited.\n\n<a id='35eafccf-ec01-4048-916b-b58d8c0dc1e4'></a>\n\nRobert M. Douglas is at the National Centre for\nEpidemiology and Population Health, Australian\nNational University, Canberra, Australia. Harri Hemil\u00e4\nis at the Department of Public Health, University of\nHelsinki, Finland.\n\n<a id='bd5192c7-ecfb-41aa-af13-ac74cbad5286'></a>\n\nCompeting Interests: RMD was an organising author\nof one of the papers considered in the review. HH\ndeclares that he has no competing interests.\n\n<a id='362d87e6-04a3-4fb2-b213-ff139e8dd0d5'></a>\n\n*To whom correspondence should be addressed.\nE-mail: bobdouglas@netspeed.com.au\n\n<a id='92d37df9-581b-49a8-bc77-b23e31779ad9'></a>\n\nDOI: 10.1371/journal.pmed.0020168\n\n<a id='3defb096-6945-40f2-9731-1db3eb42ee10'></a>\n\n\n\n<a id='c345e47f-1885-4e36-b398-b7c29c6dba85'></a>\n\n0503\n\n<a id='d06713de-7f01-414a-8a9d-2e6c5c13c1db'></a>\n\nJune 2005 | Volume 2 | Issue 6 | e168\n\n<a id='b3389165-8ece-46d5-b8e8-95c9ef988a0e'></a>\n\nTable 1. Results of the Three Meta-Analyses \\n <table id=\"1-1\">\n<tr><td id=\"1-2\">Outcome</td><td id=\"1-3\">Subgroup</td><td id=\"1-4\">Number of Trials</td><td id=\"1-5\">Number of Participants</td><td id=\"1-6\">Test of Heterogeneity a</td><td id=\"1-7\">Magnitude of the Vitamin C Effect (95% CI) b</td></tr>\n<tr><td id=\"1-8\">1. Incidence of colds during prophylaxis</td><td id=\"1-9\"></td><td id=\"1-a\">29</td><td id=\"1-b\">11,077</td><td id=\"1-c\">p = 0.02, I\u00b2 = 38%</td><td id=\"1-d\">RR = 0.96 (0.92,1.00)</td></tr>\n<tr><td id=\"1-e\"></td><td id=\"1-f\">General community studies</td><td id=\"1-g\">23</td><td id=\"1-h\">10,435</td><td id=\"1-i\">p = 0.7, I\u00b2 = 0%</td><td id=\"1-j\">RR = 0.98 (0.95, 1.00)</td></tr>\n<tr><td id=\"1-k\"></td><td id=\"1-l\">Short-term exposure to cold and/or severe physical stress</td><td id=\"1-m\">6</td><td id=\"1-n\">642</td><td id=\"1-o\">p = 0.9, I\u00b2 = 0%</td><td id=\"1-p\">RR = 0.50 (0.38,0.66)</td></tr>\n<tr><td id=\"1-q\">2. Duration of colds during prophylaxis</td><td id=\"1-r\"></td><td id=\"1-s\">30</td><td id=\"1-t\">9,676</td><td id=\"1-u\">p = 0.15, I\u00b2 = 21%</td><td id=\"1-v\">RED = -9.7% (-14.1%, -5.4%)</td></tr>\n<tr><td id=\"1-w\"></td><td id=\"1-x\">Children</td><td id=\"1-y\">12</td><td id=\"1-z\">2,434</td><td id=\"1-A\">p = 0.30, I\u00b2 = 15%</td><td id=\"1-B\">RED=-13.6% (-21.6%,-5.6%)d</td></tr>\n<tr><td id=\"1-C\"></td><td id=\"1-D\">Adults</td><td id=\"1-E\">18</td><td id=\"1-F\">7,242</td><td id=\"1-G\">p = 0.19, I\u00b2 = 22%</td><td id=\"1-H\">RED=-8.0% (-13.1%,-3.0%)d</td></tr>\n<tr><td id=\"1-I\">3. Duration of colds treated at the onset of symptoms</td><td id=\"1-J\">Adults only</td><td id=\"1-K\">7</td><td id=\"1-L\">3,294</td><td id=\"1-M\">p = 0.11, I\u00b2 = 42%</td><td id=\"1-N\">RED = -2.5% (-10.1%, +5.0%)</td></tr>\n</table>\n\n<a id='11e35c76-cb23-4d67-a0aa-3227cb5407a8'></a>\n\nThese meta-analyses were of placebo-controlled trials that provided data on incidence and duration of respiratory episodes during continuous oral prophylaxis, or on duration of respiratory episodes following therapy at onset of colds using doses in excess of 200 mg of vitamin C.\nProphylaxis indicates vitamin C supplementation over the entire study period. All combined results were pooled using the random effects model.\n* Heterogeneity between trial outcomes in the group: the \u03c72 test for heterogeneity with p > 0.05 indicates lack of heterogeneity, and the I\u00b2 test with P = 0% indicates no evidence of heterogeneity, with 100% being the maximum in the I\u00b2 scale [5].\nb CI, confidence interval; RED, relative effect on duration of colds (e.g., if a seven-day cold is shortened by one day, that corresponds to RED = \u221214% [= \u22121/7]); RR, relative risk of colds.\nc Statistically significant benefit favours those receiving vitamin C with p < 0.0001.\nd Statistically significant benefit favours those receiving vitamin C with p < 0.002.\nDOI: 10.1371/journal.pmed.0020168.t001\n\n<a id='2f957918-d8c3-436e-a24b-3becbd42ab5f'></a>\n\nvariable, but sensitivity analysis, where we excluded studies from the analysis that were less adequately blinded or randomized, did not change the general conclusions of the Cochrane Review.\n\n<a id='3c334afb-992e-48db-8fbc-3f809cf29e71'></a>\n\nFuture work on this topic should\nexplore the value of high dose\ntherapy\u2014in particular, in children\u2014\nand the mechanisms underlying the\nobserved prophylaxis benefits in those\nexposed to substantial physical and/or\ncold stress. \u25a0\n\n<a id='59234478-bacb-47af-b63f-3b08de87e7c2'></a>\n\nText S1. Updated Cochrane Review\nDouglas RM, Hemil\u00e4 H, D'Souza R, Chalker\nEB, Treacy B (2004) Vitamin C for preventing\n\n<a id='6dc8bac3-cae3-4ad1-a3ec-800f17fa2d46'></a>\n\nand treating the common cold. Cochrane\nDatabase Syst Rev 4: CD000980.pub2.\n\n<a id='5a88814e-6016-4a8c-823b-f594384dc29e'></a>\n\nDate of most recent substantive amendment: 10 August 2004.\n\n<a id='7f1cad9d-4dac-4e6f-aca6-8d992ba9c167'></a>\n\nThis data supplement can be freely accessed\non the _PLoS Medicine_ Web site, but it is not\npublished under the Creative Commons\nAttribution License.\n\n<a id='4c53ab31-b0ad-4d95-8070-1df7dc04fc87'></a>\n\nCopyright \u00a9 2004 The Cochrane\nCollaboration. Published by John Wiley and\nSons. All rights reserved.\n\n<a id='1a9eb224-a1b4-42a9-a345-9df978aa720e'></a>\n\nFound at DOI: 10.1371/journal. pmed.0020168.sd001 (1.3 MB PDF).\n\n<a id='92325ae4-71f8-4e50-8777-f4c5bcdac242'></a>\n\nReferences\n1. Pauling L (1971) The significance of the\nevidence about ascorbic acid and the common\ncold. Proc Natl Acad Sci U S A 68: 2678\u20132681.\n2. Douglas RM, Hemil\u00e4 H, D'Souza R, Chalker\n\n<a id='753b59dd-81a6-420f-8ecd-a9d4d7b6e038'></a>\n\nEB, Treacy B (2004) Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev 2004: CD000980.pub2.\n\n3. Anderson TW, Suranyi G, Beaton GH (1974) The effect on winter illness of large doses of vitamin C. Can Med Assoc J 111: 31-36.\n\n4. Ritzel G (1961) Kritische Beurteilung des Vitamins C als Prophylacticum und Therapeuticum der Erk\u00e4ltungskrankheiten. Helv Med Acta 28: 63-68.\n\n5. Higgins JPT, Thompson SG, Deeks JJ, Altman DG (2003) Measuring inconsistency in meta-analyses. BMJ 327: 557-560.\n\n<a id='fc1179de-805e-4ab2-8973-031b15ec5636'></a>\n\nonline\nQUIZ\nTake the Quiz online!\n\n<a id='46054a3c-3f69-4cba-a01f-7fad2ebc2217'></a>\n\nPLoS Medicine | www.plosmedicine.org\n\n<a id='c4889cfe-16e0-44e2-9693-89584b5ab2a8'></a>\n\n0504\n\n<a id='27011d3a-6ae1-4b5e-b7b3-84f30d7f98be'></a>\n\nJune 2005 | Volume 2 | Issue 6 | e168",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 77569,
+    "filename": "Vitamin_C_for_Preventing_and_Treating_the_Common_Cold.pdf",
+    "job_id": "jvqt7dy3jbjm6bzxmu4hzznip",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "00fc0ff5-1ced-47e1-a2b7-172d0a987671",
+        "12f10f86-f673-4ea3-919f-bc4f7b6c4969",
+        "24e3f0eb-7d86-49f7-b323-964d68c4e4bf",
+        "4b59c6b3-7f53-4326-9359-84333be05534",
+        "42ba6f6b-e5a8-4730-9ce4-d70d72ded113",
+        "08298ef4-dbbd-4832-ab59-9f327f378bf7",
+        "cddab65e-91da-4166-b6a9-03d1e4397895",
+        "ad8381a8-d122-4af4-bf7b-a70762fa085b",
+        "1918bceb-75b1-4f9c-a31b-87efd6ac2956",
+        "c6e21ae5-5cf2-4ae7-8ad8-8d0a1411eef2",
+        "87594283-d286-4eb3-9393-0a31e594e77a",
+        "61fe25db-6967-4c09-b219-51a4147bf173",
+        "562d4aec-89e8-4618-8fb7-7e8cda60636c",
+        "723f61e6-50df-41c2-898e-86d7ff4efc0b",
+        "638eccbd-d3ad-432f-992c-32abcb20ccfe",
+        "6d9ad137-506c-4082-b314-c1c6e73ac269",
+        "d3e76aaa-2872-4a1d-871d-13d9d9db1b54",
+        "973bf44e-2c2b-4f32-ad2e-102d7b3f7f6a",
+        "48bd84e3-05fc-493c-bccb-b7ef4cfc56db",
+        "35eafccf-ec01-4048-916b-b58d8c0dc1e4",
+        "bd5192c7-ecfb-41aa-af13-ac74cbad5286",
+        "362d87e6-04a3-4fb2-b213-ff139e8dd0d5",
+        "92d37df9-581b-49a8-bc77-b23e31779ad9",
+        "3defb096-6945-40f2-9731-1db3eb42ee10",
+        "c345e47f-1885-4e36-b398-b7c29c6dba85",
+        "d06713de-7f01-414a-8a9d-2e6c5c13c1db",
+        "b3389165-8ece-46d5-b8e8-95c9ef988a0e",
+        "11e35c76-cb23-4d67-a0aa-3227cb5407a8",
+        "2f957918-d8c3-436e-a24b-3becbd42ab5f",
+        "3c334afb-992e-48db-8fbc-3f809cf29e71",
+        "59234478-bacb-47af-b63f-3b08de87e7c2",
+        "6dc8bac3-cae3-4ad1-a3ec-800f17fa2d46",
+        "5a88814e-6016-4a8c-823b-f594384dc29e",
+        "7f1cad9d-4dac-4e6f-aca6-8d992ba9c167",
+        "4c53ab31-b0ad-4d95-8070-1df7dc04fc87",
+        "1a9eb224-a1b4-42a9-a345-9df978aa720e",
+        "92325ae4-71f8-4e50-8777-f4c5bcdac242",
+        "753b59dd-81a6-420f-8ecd-a9d4d7b6e038",
+        "fc1179de-805e-4ab2-8973-031b15ec5636",
+        "46054a3c-3f69-4cba-a01f-7fad2ebc2217",
+        "c4889cfe-16e0-44e2-9693-89584b5ab2a8",
+        "27011d3a-6ae1-4b5e-b7b3-84f30d7f98be"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='00fc0ff5-1ced-47e1-a2b7-172d0a987671'></a>\n\nOpen access, freely available online\n\n<a id='12f10f86-f673-4ea3-919f-bc4f7b6c4969'></a>\n\nBest Practice\n\n<a id='24e3f0eb-7d86-49f7-b323-964d68c4e4bf'></a>\n\nVitamin C for Preventing and Treating the Common Cold\n\n<a id='4b59c6b3-7f53-4326-9359-84333be05534'></a>\n\n**Robert M. Douglas*, Harri Hemil\u00e4**\n\n<a id='42ba6f6b-e5a8-4730-9ce4-d70d72ded113'></a>\n\nThe role of vitamin C in the prevention and treatment of the common cold has been a subject of controversy for at least 60 years. Public interest in the subject, stimulated originally by the vigorous advocacy of Nobel laureate Linus Pauling during the 1970s [1], continues to be high. We have recently updated the Cochrane Review [2] on this topic (Text S1), incorporating 55 comparative studies that have been carried out over a period of 65 years.\n\n<a id='08298ef4-dbbd-4832-ab59-9f327f378bf7'></a>\n\nThe Updated Review\nWe sought to discover whether vitamin C in doses of 200 mg or more daily (Figure 1) reduces the incidence, duration, or severity of the common cold when used either as continuous prophylaxis or after the onset of cold symptoms. Criteria for inclusion were placebo-controlled trials to prevent or treat the common cold using oral doses of vitamin C of 200 mg/day or more. Literature from 1940 to 2004 was methodically screened.\n\n<a id='cddab65e-91da-4166-b6a9-03d1e4397895'></a>\n\nAn overview of the results of the\nthree meta-analyses is shown in Table\n1. Incidence was not altered in the\nsubgroup of 23 community studies\nwhere prophylactic doses as high as 2\ng daily were used. But a subgroup of\nsix studies of marathon runners, skiers,\nand soldiers exposed to significant cold\nand/or physical stress experienced, on\naverage, 50% reduction in common\ncold incidence.\n\n<a id='ad8381a8-d122-4af4-bf7b-a70762fa085b'></a>\n\nDuration of cold episodes that occurred during prophylaxis was significantly reduced in both children and adults. For children this represented an average reduction of 14% in symptom days, while in adults the reduction was 8%.\n\n<a id='1918bceb-75b1-4f9c-a31b-87efd6ac2956'></a>\n\nFor the seven trials that evaluated the\ntherapeutic impact of vitamin C used at\nthe onset of symptoms (all in adults),\nbenefits were not observed for duration\n\n<a id='c6e21ae5-5cf2-4ae7-8ad8-8d0a1411eef2'></a>\n\n---The Best Practice section summarizes the current evidence on an important health intervention.\n\n<a id='87594283-d286-4eb3-9393-0a31e594e77a'></a>\n\nof episodes,\nalthough one of the\nlarge trials recorded\na statistically\nsignificant\nreduction in the\nduration of colds\namong participants\nadministered a\nsingle vitamin C\ndose of 8 g on the\nday of symptom\nonset [3].\n\n<a id='61fe25db-6967-4c09-b219-51a4147bf173'></a>\n\n## Implications of the Review\n\nThe lack of effect of prophylactic vitamin C supplementation on the incidence of common cold in normal populations throws doubt on the utility of this wide practice.\n\nDOI: 10.1371/journa\n\nFigure 1. 500-mg Vi\nVitamin C was ide\nwho received his I\npaprika is a partic\npossible to produ\nAnnu Rev Bioche:\nway to increase vit\nfurther research i\nsupplementation\n\nThe clinical significance of the minor reduction in duration of common cold episodes experienced during prophylaxis is questionable, although the consistency of these findings points to a genuine biological effect.\n\n<a id='562d4aec-89e8-4618-8fb7-7e8cda60636c'></a>\n\nIn special circumstances, where\npeople used prophylaxis prior to\nextreme physical exertion and/or\nexposure to significant cold stress,\nthe collective evidence indicates that\nvitamin C supplementation may have\na considerable beneficial effect; it was\nthe results of one of these six trials,\nwith schoolchildren in a skiing school\n[4], that particularly impressed Pauling\n[1]. However, great caution should\nbe exercised in generalizing from\nthis finding, which is based mainly on\nmarathon runners.\n\n<a id='723f61e6-50df-41c2-898e-86d7ff4efc0b'></a>\n\nNo benefits have been observed from therapeutic use of doses totalling 10 g that was divided for the first three days of illness. The equivocal findings of the large study, which used 8 g only on the day of onset of respiratory symptoms [3], are tantalising and deserve further assessment.\n\n<a id='638eccbd-d3ad-432f-992c-32abcb20ccfe'></a>\n\n<::A still life image showing three bell peppers and a pile of white pills. Two yellow bell peppers are positioned on the left and right, with a red bell pepper in the center background. In the foreground, a heap of small, round, white pills is scattered on a dark green surface. The background is a solid dark green. DOI: 10.1371/journal.pmed.0020168.g001::>\n\n<a id='6d9ad137-506c-4082-b314-c1c6e73ac269'></a>\n\nFigure 1. 500-mg Vitamin C Tablets and Paprikas\nVitamin C was identified in the 1930s by Albert Szent-Gy\u00f6rgyi, who received his Nobel Prize partly for this work. He found that paprika is a particularly rich source of the vitamin, which made it possible to produce kilograms of it for research purposes ([1963] Annu Rev Biochem 32: 1\u201314). Nowadays, the most convenient way to increase vitamin C intake is by way of 500-mg tablets, but further research is needed to explore the conditions in which supplementation may be beneficial.\n\n<a id='d3e76aaa-2872-4a1d-871d-13d9d9db1b54'></a>\n\nNone of the therapeutic trials carried out so far has examined the effect of vitamin C on children, even though the prophylaxis trials have shown substantially greater effect on episode duration in children.\nStudy quality for the trials included in these three meta-analyses was\n\n<a id='973bf44e-2c2b-4f32-ad2e-102d7b3f7f6a'></a>\n\nCitation: Douglas RM, Hemil\u00e4 H (2005) Vitamin C for\npreventing and treating the common cold. PLoS Med\n2(6):e168.\n\n<a id='48bd84e3-05fc-493c-bccb-b7ef4cfc56db'></a>\n\nCopyright: \u00a9 2005 Douglas and Hemil\u00e4. This is an\nopen-access article distributed under the terms\nof the Creative Commons Attribution License,\nwhich permits unrestricted use, distribution, and\nreproduction in any medium, provided the original\nwork is properly cited.\n\n<a id='35eafccf-ec01-4048-916b-b58d8c0dc1e4'></a>\n\nRobert M. Douglas is at the National Centre for\nEpidemiology and Population Health, Australian\nNational University, Canberra, Australia. Harri Hemil\u00e4\nis at the Department of Public Health, University of\nHelsinki, Finland.\n\n<a id='bd5192c7-ecfb-41aa-af13-ac74cbad5286'></a>\n\nCompeting Interests: RMD was an organising author\nof one of the papers considered in the review. HH\ndeclares that he has no competing interests.\n\n<a id='362d87e6-04a3-4fb2-b213-ff139e8dd0d5'></a>\n\n*To whom correspondence should be addressed.\nE-mail: bobdouglas@netspeed.com.au\n\n<a id='92d37df9-581b-49a8-bc77-b23e31779ad9'></a>\n\nDOI: 10.1371/journal.pmed.0020168\n\n<a id='3defb096-6945-40f2-9731-1db3eb42ee10'></a>\n\n\n\n<a id='c345e47f-1885-4e36-b398-b7c29c6dba85'></a>\n\n0503\n\n<a id='d06713de-7f01-414a-8a9d-2e6c5c13c1db'></a>\n\nJune 2005 | Volume 2 | Issue 6 | e168\n\n<a id='b3389165-8ece-46d5-b8e8-95c9ef988a0e'></a>\n\nTable 1. Results of the Three Meta-Analyses \\n <table id=\"1-1\">\n<tr><td id=\"1-2\">Outcome</td><td id=\"1-3\">Subgroup</td><td id=\"1-4\">Number of Trials</td><td id=\"1-5\">Number of Participants</td><td id=\"1-6\">Test of Heterogeneity a</td><td id=\"1-7\">Magnitude of the Vitamin C Effect (95% CI) b</td></tr>\n<tr><td id=\"1-8\">1. Incidence of colds during prophylaxis</td><td id=\"1-9\"></td><td id=\"1-a\">29</td><td id=\"1-b\">11,077</td><td id=\"1-c\">p = 0.02, I\u00b2 = 38%</td><td id=\"1-d\">RR = 0.96 (0.92,1.00)</td></tr>\n<tr><td id=\"1-e\"></td><td id=\"1-f\">General community studies</td><td id=\"1-g\">23</td><td id=\"1-h\">10,435</td><td id=\"1-i\">p = 0.7, I\u00b2 = 0%</td><td id=\"1-j\">RR = 0.98 (0.95, 1.00)</td></tr>\n<tr><td id=\"1-k\"></td><td id=\"1-l\">Short-term exposure to cold and/or severe physical stress</td><td id=\"1-m\">6</td><td id=\"1-n\">642</td><td id=\"1-o\">p = 0.9, I\u00b2 = 0%</td><td id=\"1-p\">RR = 0.50 (0.38,0.66)</td></tr>\n<tr><td id=\"1-q\">2. Duration of colds during prophylaxis</td><td id=\"1-r\"></td><td id=\"1-s\">30</td><td id=\"1-t\">9,676</td><td id=\"1-u\">p = 0.15, I\u00b2 = 21%</td><td id=\"1-v\">RED = -9.7% (-14.1%, -5.4%)</td></tr>\n<tr><td id=\"1-w\"></td><td id=\"1-x\">Children</td><td id=\"1-y\">12</td><td id=\"1-z\">2,434</td><td id=\"1-A\">p = 0.30, I\u00b2 = 15%</td><td id=\"1-B\">RED=-13.6% (-21.6%,-5.6%)d</td></tr>\n<tr><td id=\"1-C\"></td><td id=\"1-D\">Adults</td><td id=\"1-E\">18</td><td id=\"1-F\">7,242</td><td id=\"1-G\">p = 0.19, I\u00b2 = 22%</td><td id=\"1-H\">RED=-8.0% (-13.1%,-3.0%)d</td></tr>\n<tr><td id=\"1-I\">3. Duration of colds treated at the onset of symptoms</td><td id=\"1-J\">Adults only</td><td id=\"1-K\">7</td><td id=\"1-L\">3,294</td><td id=\"1-M\">p = 0.11, I\u00b2 = 42%</td><td id=\"1-N\">RED = -2.5% (-10.1%, +5.0%)</td></tr>\n</table>\n\n<a id='11e35c76-cb23-4d67-a0aa-3227cb5407a8'></a>\n\nThese meta-analyses were of placebo-controlled trials that provided data on incidence and duration of respiratory episodes during continuous oral prophylaxis, or on duration of respiratory episodes following therapy at onset of colds using doses in excess of 200 mg of vitamin C.\nProphylaxis indicates vitamin C supplementation over the entire study period. All combined results were pooled using the random effects model.\n* Heterogeneity between trial outcomes in the group: the \u03c72 test for heterogeneity with p > 0.05 indicates lack of heterogeneity, and the I\u00b2 test with P = 0% indicates no evidence of heterogeneity, with 100% being the maximum in the I\u00b2 scale [5].\nb CI, confidence interval; RED, relative effect on duration of colds (e.g., if a seven-day cold is shortened by one day, that corresponds to RED = \u221214% [= \u22121/7]); RR, relative risk of colds.\nc Statistically significant benefit favours those receiving vitamin C with p < 0.0001.\nd Statistically significant benefit favours those receiving vitamin C with p < 0.002.\nDOI: 10.1371/journal.pmed.0020168.t001\n\n<a id='2f957918-d8c3-436e-a24b-3becbd42ab5f'></a>\n\nvariable, but sensitivity analysis, where we excluded studies from the analysis that were less adequately blinded or randomized, did not change the general conclusions of the Cochrane Review.\n\n<a id='3c334afb-992e-48db-8fbc-3f809cf29e71'></a>\n\nFuture work on this topic should\nexplore the value of high dose\ntherapy\u2014in particular, in children\u2014\nand the mechanisms underlying the\nobserved prophylaxis benefits in those\nexposed to substantial physical and/or\ncold stress. \u25a0\n\n<a id='59234478-bacb-47af-b63f-3b08de87e7c2'></a>\n\nText S1. Updated Cochrane Review\nDouglas RM, Hemil\u00e4 H, D'Souza R, Chalker\nEB, Treacy B (2004) Vitamin C for preventing\n\n<a id='6dc8bac3-cae3-4ad1-a3ec-800f17fa2d46'></a>\n\nand treating the common cold. Cochrane\nDatabase Syst Rev 4: CD000980.pub2.\n\n<a id='5a88814e-6016-4a8c-823b-f594384dc29e'></a>\n\nDate of most recent substantive amendment: 10 August 2004.\n\n<a id='7f1cad9d-4dac-4e6f-aca6-8d992ba9c167'></a>\n\nThis data supplement can be freely accessed\non the _PLoS Medicine_ Web site, but it is not\npublished under the Creative Commons\nAttribution License.\n\n<a id='4c53ab31-b0ad-4d95-8070-1df7dc04fc87'></a>\n\nCopyright \u00a9 2004 The Cochrane\nCollaboration. Published by John Wiley and\nSons. All rights reserved.\n\n<a id='1a9eb224-a1b4-42a9-a345-9df978aa720e'></a>\n\nFound at DOI: 10.1371/journal. pmed.0020168.sd001 (1.3 MB PDF).\n\n<a id='92325ae4-71f8-4e50-8777-f4c5bcdac242'></a>\n\nReferences\n1. Pauling L (1971) The significance of the\nevidence about ascorbic acid and the common\ncold. Proc Natl Acad Sci U S A 68: 2678\u20132681.\n2. Douglas RM, Hemil\u00e4 H, D'Souza R, Chalker\n\n<a id='753b59dd-81a6-420f-8ecd-a9d4d7b6e038'></a>\n\nEB, Treacy B (2004) Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev 2004: CD000980.pub2.\n\n3. Anderson TW, Suranyi G, Beaton GH (1974) The effect on winter illness of large doses of vitamin C. Can Med Assoc J 111: 31-36.\n\n4. Ritzel G (1961) Kritische Beurteilung des Vitamins C als Prophylacticum und Therapeuticum der Erk\u00e4ltungskrankheiten. Helv Med Acta 28: 63-68.\n\n5. Higgins JPT, Thompson SG, Deeks JJ, Altman DG (2003) Measuring inconsistency in meta-analyses. BMJ 327: 557-560.\n\n<a id='fc1179de-805e-4ab2-8973-031b15ec5636'></a>\n\nonline\nQUIZ\nTake the Quiz online!\n\n<a id='46054a3c-3f69-4cba-a01f-7fad2ebc2217'></a>\n\nPLoS Medicine | www.plosmedicine.org\n\n<a id='c4889cfe-16e0-44e2-9693-89584b5ab2a8'></a>\n\n0504\n\n<a id='27011d3a-6ae1-4b5e-b7b3-84f30d7f98be'></a>\n\nJune 2005 | Volume 2 | Issue 6 | e168",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "00fc0ff5-1ced-47e1-a2b7-172d0a987671": {
+      "box": {
+        "bottom": 0.056465692818164825,
+        "left": 0.6698551177978516,
+        "right": 0.9177377223968506,
+        "top": 0.03748366981744766
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "12f10f86-f673-4ea3-919f-bc4f7b6c4969": {
+      "box": {
+        "bottom": 0.08223076164722443,
+        "left": 0.08220231533050537,
+        "right": 0.20663225650787354,
+        "top": 0.06343075633049011
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "24e3f0eb-7d86-49f7-b323-964d68c4e4bf": {
+      "box": {
+        "bottom": 0.16273778676986694,
+        "left": 0.08076569437980652,
+        "right": 0.7767237424850464,
+        "top": 0.09175381064414978
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4b59c6b3-7f53-4326-9359-84333be05534": {
+      "box": {
+        "bottom": 0.17838002741336823,
+        "left": 0.08287008851766586,
+        "right": 0.3102880120277405,
+        "top": 0.1620534509420395
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "42ba6f6b-e5a8-4730-9ce4-d70d72ded113": {
+      "box": {
+        "bottom": 0.3687404990196228,
+        "left": 0.08200345933437347,
+        "right": 0.34084951877593994,
+        "top": 0.18725883960723877
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "08298ef4-dbbd-4832-ab59-9f327f378bf7": {
+      "box": {
+        "bottom": 0.5598935484886169,
+        "left": 0.08282750844955444,
+        "right": 0.3447687029838562,
+        "top": 0.3748592436313629
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "cddab65e-91da-4166-b6a9-03d1e4397895": {
+      "box": {
+        "bottom": 0.7096157073974609,
+        "left": 0.08345194160938263,
+        "right": 0.3450049161911011,
+        "top": 0.560102105140686
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ad8381a8-d122-4af4-bf7b-a70762fa085b": {
+      "box": {
+        "bottom": 0.8062935471534729,
+        "left": 0.08427116274833679,
+        "right": 0.3328051269054413,
+        "top": 0.7106755375862122
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1918bceb-75b1-4f9c-a31b-87efd6ac2956": {
+      "box": {
+        "bottom": 0.8627212643623352,
+        "left": 0.08416986465454102,
+        "right": 0.34161534905433655,
+        "top": 0.8071950078010559
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c6e21ae5-5cf2-4ae7-8ad8-8d0a1411eef2": {
+      "box": {
+        "bottom": 0.9125181436538696,
+        "left": 0.08430902659893036,
+        "right": 0.3426082134246826,
+        "top": 0.8831495046615601
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "87594283-d286-4eb3-9393-0a31e594e77a": {
+      "box": {
+        "bottom": 0.3677976727485657,
+        "left": 0.3674314022064209,
+        "right": 0.5036521553993225,
+        "top": 0.1885269284248352
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "61fe25db-6967-4c09-b219-51a4147bf173": {
+      "box": {
+        "bottom": 0.6151226758956909,
+        "left": 0.3695564866065979,
+        "right": 0.6231772303581238,
+        "top": 0.37557387351989746
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "562d4aec-89e8-4618-8fb7-7e8cda60636c": {
+      "box": {
+        "bottom": 0.8087592720985413,
+        "left": 0.36829954385757446,
+        "right": 0.6292573809623718,
+        "top": 0.6158300042152405
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "723f61e6-50df-41c2-898e-86d7ff4efc0b": {
+      "box": {
+        "bottom": 0.9185361862182617,
+        "left": 0.3681313693523407,
+        "right": 0.6302210092544556,
+        "top": 0.8079745769500732
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "638eccbd-d3ad-432f-992c-32abcb20ccfe": {
+      "box": {
+        "bottom": 0.40214136242866516,
+        "left": 0.5120630264282227,
+        "right": 0.9157990217208862,
+        "top": 0.18893995881080627
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "6d9ad137-506c-4082-b314-c1c6e73ac269": {
+      "box": {
+        "bottom": 0.5153886675834656,
+        "left": 0.512050211429596,
+        "right": 0.9123194813728333,
+        "top": 0.40894144773483276
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d3e76aaa-2872-4a1d-871d-13d9d9db1b54": {
+      "box": {
+        "bottom": 0.6439531445503235,
+        "left": 0.6534745097160339,
+        "right": 0.909951388835907,
+        "top": 0.5311573147773743
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "973bf44e-2c2b-4f32-ad2e-102d7b3f7f6a": {
+      "box": {
+        "bottom": 0.6989102363586426,
+        "left": 0.6528424620628357,
+        "right": 0.9119799733161926,
+        "top": 0.6646862030029297
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "48bd84e3-05fc-493c-bccb-b7ef4cfc56db": {
+      "box": {
+        "bottom": 0.7688235640525818,
+        "left": 0.6526222825050354,
+        "right": 0.9016473889350891,
+        "top": 0.705815851688385
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "35eafccf-ec01-4048-916b-b58d8c0dc1e4": {
+      "box": {
+        "bottom": 0.8282825350761414,
+        "left": 0.6532438397407532,
+        "right": 0.9059279561042786,
+        "top": 0.7754753232002258
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "bd5192c7-ecfb-41aa-af13-ac74cbad5286": {
+      "box": {
+        "bottom": 0.8691766262054443,
+        "left": 0.6528395414352417,
+        "right": 0.9146207571029663,
+        "top": 0.835169792175293
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "362d87e6-04a3-4fb2-b213-ff139e8dd0d5": {
+      "box": {
+        "bottom": 0.8986989855766296,
+        "left": 0.6535719037055969,
+        "right": 0.8921616673469543,
+        "top": 0.8751376271247864
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "92d37df9-581b-49a8-bc77-b23e31779ad9": {
+      "box": {
+        "bottom": 0.9186453819274902,
+        "left": 0.6534730792045593,
+        "right": 0.8336464762687683,
+        "top": 0.9049553871154785
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3defb096-6945-40f2-9731-1db3eb42ee10": {
+      "box": {
+        "bottom": 0.9618099927902222,
+        "left": 0.08366657793521881,
+        "right": 0.35069406032562256,
+        "top": 0.9352167844772339
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "c345e47f-1885-4e36-b398-b7c29c6dba85": {
+      "box": {
+        "bottom": 0.9569268822669983,
+        "left": 0.4818282127380371,
+        "right": 0.5189454555511475,
+        "top": 0.9413996338844299
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "d06713de-7f01-414a-8a9d-2e6c5c13c1db": {
+      "box": {
+        "bottom": 0.9581611156463623,
+        "left": 0.6954143643379211,
+        "right": 0.9167948365211487,
+        "top": 0.9408578872680664
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "b3389165-8ece-46d5-b8e8-95c9ef988a0e": {
+      "box": {
+        "bottom": 0.29988065361976624,
+        "left": 0.08207571506500244,
+        "right": 0.9184337854385376,
+        "top": 0.06309247016906738
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.28447097568605884,
+        "left": 0.0870954377264681,
+        "right": 0.9121686333675143,
+        "top": 0.08746071369081165
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.11326549298065997,
+        "left": 0.08726328794214344,
+        "right": 0.22074029297018977,
+        "top": 0.08748295020729316
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.11326544958906706,
+        "left": 0.22073844127725017,
+        "right": 0.3359946422906849,
+        "top": 0.08747924613524108
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.11326541212141633,
+        "left": 0.33591071066021694,
+        "right": 0.4153854486474877,
+        "top": 0.08747669290339409
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.11326538631252475,
+        "left": 0.4152994217714676,
+        "right": 0.546464135289479,
+        "top": 0.08747247613496471
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.11326534370059313,
+        "left": 0.5464131751343179,
+        "right": 0.6790945089461182,
+        "top": 0.08746821192287624
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.11326530058422879,
+        "left": 0.6790021141329445,
+        "right": 0.912150527984319,
+        "top": 0.08746071369081165
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.1481586131053441,
+        "left": 0.08722907865371433,
+        "right": 0.22074279845246342,
+        "top": 0.11326544958906706
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.14815114461499287,
+        "left": 0.22074029297018977,
+        "right": 0.33610817117951425,
+        "top": 0.11326541212141633
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.14814469130686564,
+        "left": 0.3359946422906849,
+        "right": 0.4155017855065578,
+        "top": 0.11326538631252475
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.14814025018693094,
+        "left": 0.4153854486474877,
+        "right": 0.5465330247653163,
+        "top": 0.11326534370059313
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.1481329205615742,
+        "left": 0.546464135289479,
+        "right": 0.679219364176968,
+        "top": 0.11326530058422879
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.14812549835322641,
+        "left": 0.6790945089461182,
+        "right": 0.9121542177189192,
+        "top": 0.11326522482082743
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.17295790062820193,
+        "left": 0.08720476538001813,
+        "right": 0.22074457983507656,
+        "top": 0.14815114461499287
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.17295466097594855,
+        "left": 0.22074279845246342,
+        "right": 0.33618891626365793,
+        "top": 0.14814469130686564
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.172951860316788,
+        "left": 0.33610817117951425,
+        "right": 0.4155845465668493,
+        "top": 0.14814025018693094
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.1729499341928551,
+        "left": 0.4155017855065578,
+        "right": 0.5465820506020872,
+        "top": 0.1481329205615742
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.17294675621660233,
+        "left": 0.5465330247653163,
+        "right": 0.6793082524236134,
+        "top": 0.14812549835322641
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.17294353630244735,
+        "left": 0.679219364176968,
+        "right": 0.9121568463115399,
+        "top": 0.14811246844357545
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.2100265708684189,
+        "left": 0.08716842545843664,
+        "right": 0.22074724233077908,
+        "top": 0.17295466097594855
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.21002858345386807,
+        "left": 0.22074457983507656,
+        "right": 0.33630959763315554,
+        "top": 0.172951860316788
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.2100299662272713,
+        "left": 0.33618891626365793,
+        "right": 0.4157082395073188,
+        "top": 0.1729499341928551
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.21003224674667034,
+        "left": 0.4155845465668493,
+        "right": 0.546655322112005,
+        "top": 0.17294675621660233
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.21003455928797207,
+        "left": 0.5465820506020872,
+        "right": 0.6794410975746364,
+        "top": 0.17294353630244735
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.21003861223613676,
+        "left": 0.6793082524236134,
+        "right": 0.9121607746517404,
+        "top": 0.17293788743678912
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-q": {
+      "box": {
+        "bottom": 0.23492395789716425,
+        "left": 0.08714401372701738,
+        "right": 0.22074903033352547,
+        "top": 0.210024244515841
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-r": {
+      "box": {
+        "bottom": 0.23492226427345883,
+        "left": 0.22074724233077908,
+        "right": 0.33639061953397564,
+        "top": 0.2100265708684189
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-s": {
+      "box": {
+        "bottom": 0.2349207983604132,
+        "left": 0.33630959763315554,
+        "right": 0.4157912679069764,
+        "top": 0.21002858345386807
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-t": {
+      "box": {
+        "bottom": 0.23491979185015088,
+        "left": 0.4157082395073188,
+        "right": 0.5467044903011709,
+        "top": 0.2100299662272713
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-u": {
+      "box": {
+        "bottom": 0.23491813234856604,
+        "left": 0.546655322112005,
+        "right": 0.6795302145112371,
+        "top": 0.21003224674667034
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-v": {
+      "box": {
+        "bottom": 0.23491644860344235,
+        "left": 0.6794410975746364,
+        "right": 0.9121634084822325,
+        "top": 0.21003455928797207
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-w": {
+      "box": {
+        "bottom": 0.24703644128718497,
+        "left": 0.08713213862280195,
+        "right": 0.22074990014197718,
+        "top": 0.23492226427345883
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-x": {
+      "box": {
+        "bottom": 0.24703325491862232,
+        "left": 0.22074903033352547,
+        "right": 0.33643003550196615,
+        "top": 0.2349207983604132
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-y": {
+      "box": {
+        "bottom": 0.24703049630672486,
+        "left": 0.33639061953397564,
+        "right": 0.415831660925883,
+        "top": 0.23491979185015088
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-z": {
+      "box": {
+        "bottom": 0.24702860282459949,
+        "left": 0.4157912679069764,
+        "right": 0.5467284113476314,
+        "top": 0.23491813234856604
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-A": {
+      "box": {
+        "bottom": 0.24702548134369937,
+        "left": 0.5467044903011709,
+        "right": 0.679573572858018,
+        "top": 0.23491644860344235
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-B": {
+      "box": {
+        "bottom": 0.24702231339924707,
+        "left": 0.6795302145112371,
+        "right": 0.912164690013825,
+        "top": 0.2349134996640837
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-C": {
+      "box": {
+        "bottom": 0.25945736494294147,
+        "left": 0.08711996112310065,
+        "right": 0.22075079193292244,
+        "top": 0.24703325491862232
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-D": {
+      "box": {
+        "bottom": 0.2594503241866889,
+        "left": 0.22074990014197718,
+        "right": 0.3364704410694056,
+        "top": 0.24703049630672486
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-E": {
+      "box": {
+        "bottom": 0.25944422713679205,
+        "left": 0.33643003550196615,
+        "right": 0.4158730634683324,
+        "top": 0.24702860282459949
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-F": {
+      "box": {
+        "bottom": 0.2594400435624871,
+        "left": 0.415831660925883,
+        "right": 0.5467529257450174,
+        "top": 0.24702548134369937
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-G": {
+      "box": {
+        "bottom": 0.25943314774957416,
+        "left": 0.5467284113476314,
+        "right": 0.67961799841063,
+        "top": 0.24702231339924707
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-H": {
+      "box": {
+        "bottom": 0.2594261473396729,
+        "left": 0.679573572858018,
+        "right": 0.9121660026603182,
+        "top": 0.24701676682358803
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-I": {
+      "box": {
+        "bottom": 0.28447097568605884,
+        "left": 0.0870954377264681,
+        "right": 0.22075258644723314,
+        "top": 0.2594503241866889
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-J": {
+      "box": {
+        "bottom": 0.28443668294905217,
+        "left": 0.22075079193292244,
+        "right": 0.3365516925391379,
+        "top": 0.25944422713679205
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-K": {
+      "box": {
+        "bottom": 0.2844069720931135,
+        "left": 0.3364704410694056,
+        "right": 0.4159562811096222,
+        "top": 0.2594400435624871
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-L": {
+      "box": {
+        "bottom": 0.28438659906631303,
+        "left": 0.4158730634683324,
+        "right": 0.5468021610982304,
+        "top": 0.25943314774957416
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-M": {
+      "box": {
+        "bottom": 0.28435302762330533,
+        "left": 0.5467529257450174,
+        "right": 0.6797071543551843,
+        "top": 0.2594261473396729
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-N": {
+      "box": {
+        "bottom": 0.2843189278686401,
+        "left": 0.67961799841063,
+        "right": 0.9121686333675141,
+        "top": 0.259413894824254
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "11e35c76-cb23-4d67-a0aa-3227cb5407a8": {
+      "box": {
+        "bottom": 0.36969882249832153,
+        "left": 0.08280384540557861,
+        "right": 0.9183025360107422,
+        "top": 0.2940073013305664
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "2f957918-d8c3-436e-a24b-3becbd42ab5f": {
+      "box": {
+        "bottom": 0.4669870436191559,
+        "left": 0.08019618690013885,
+        "right": 0.33761733770370483,
+        "top": 0.3825753629207611
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "3c334afb-992e-48db-8fbc-3f809cf29e71": {
+      "box": {
+        "bottom": 0.5658239722251892,
+        "left": 0.08120428025722504,
+        "right": 0.3409135937690735,
+        "top": 0.46642985939979553
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "59234478-bacb-47af-b63f-3b08de87e7c2": {
+      "box": {
+        "bottom": 0.6145366430282593,
+        "left": 0.08182446658611298,
+        "right": 0.34825193881988525,
+        "top": 0.5703145265579224
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "6dc8bac3-cae3-4ad1-a3ec-800f17fa2d46": {
+      "box": {
+        "bottom": 0.4096657931804657,
+        "left": 0.3670867085456848,
+        "right": 0.6138899326324463,
+        "top": 0.3829210698604584
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "5a88814e-6016-4a8c-823b-f594384dc29e": {
+      "box": {
+        "bottom": 0.43631330132484436,
+        "left": 0.36889737844467163,
+        "right": 0.6308506727218628,
+        "top": 0.4111064374446869
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "7f1cad9d-4dac-4e6f-aca6-8d992ba9c167": {
+      "box": {
+        "bottom": 0.4833027720451355,
+        "left": 0.36815232038497925,
+        "right": 0.6290097832679749,
+        "top": 0.4380221366882324
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "4c53ab31-b0ad-4d95-8070-1df7dc04fc87": {
+      "box": {
+        "bottom": 0.5205654501914978,
+        "left": 0.3682737350463867,
+        "right": 0.6272403597831726,
+        "top": 0.48582392930984497
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "1a9eb224-a1b4-42a9-a345-9df978aa720e": {
+      "box": {
+        "bottom": 0.5482637882232666,
+        "left": 0.36875423789024353,
+        "right": 0.5841069221496582,
+        "top": 0.5230056047439575
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "92325ae4-71f8-4e50-8777-f4c5bcdac242": {
+      "box": {
+        "bottom": 0.6140966415405273,
+        "left": 0.3682429790496826,
+        "right": 0.6258634328842163,
+        "top": 0.5593763589859009
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "753b59dd-81a6-420f-8ecd-a9d4d7b6e038": {
+      "box": {
+        "bottom": 0.5182090997695923,
+        "left": 0.6518204212188721,
+        "right": 0.9088420867919922,
+        "top": 0.3827543556690216
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "fc1179de-805e-4ab2-8973-031b15ec5636": {
+      "box": {
+        "bottom": 0.6122205853462219,
+        "left": 0.6523056626319885,
+        "right": 0.9168156981468201,
+        "top": 0.5532752871513367
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "46054a3c-3f69-4cba-a01f-7fad2ebc2217": {
+      "box": {
+        "bottom": 0.9633035659790039,
+        "left": 0.0817478746175766,
+        "right": 0.35159963369369507,
+        "top": 0.9347579479217529
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "c4889cfe-16e0-44e2-9693-89584b5ab2a8": {
+      "box": {
+        "bottom": 0.9577634334564209,
+        "left": 0.4801561236381531,
+        "right": 0.5215151906013489,
+        "top": 0.9410713911056519
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "27011d3a-6ae1-4b5e-b7b3-84f30d7f98be": {
+      "box": {
+        "bottom": 0.9596846103668213,
+        "left": 0.6938611268997192,
+        "right": 0.9177858829498291,
+        "top": 0.940292239189148
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    }
+  }
+}

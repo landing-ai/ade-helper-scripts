@@ -1,0 +1,2672 @@
+{
+  "chunks": [
+    {
+      "id": "988dfb59-1d60-42c9-b3d3-cff72fa0b915",
+      "grounding": {
+        "box": {
+          "bottom": 0.09273563325405121,
+          "left": 0.07532083988189697,
+          "right": 0.4338415861129761,
+          "top": 0.05214908719062805
+        },
+        "page": 0
+      },
+      "markdown": "<a id='988dfb59-1d60-42c9-b3d3-cff72fa0b915'></a>\n\nJOURNAL OF CLINICAL MICROBIOLOGY, Feb. 1998, p. 539-542\n0095-1137/98/$04.00+0\nCopyright \u00a9 1998, American Society for Microbiology",
+      "type": "text"
+    },
+    {
+      "id": "abb142e1-1409-4641-92eb-cf6dabcba1a3",
+      "grounding": {
+        "box": {
+          "bottom": 0.06848827749490738,
+          "left": 0.8111617565155029,
+          "right": 0.900097131729126,
+          "top": 0.05260060727596283
+        },
+        "page": 0
+      },
+      "markdown": "<a id='abb142e1-1409-4641-92eb-cf6dabcba1a3'></a>\n\nVol. 36, No. 2",
+      "type": "marginalia"
+    },
+    {
+      "id": "1f73f9f3-6cc7-451f-af77-86b38ae2e552",
+      "grounding": {
+        "box": {
+          "bottom": 0.13915227353572845,
+          "left": 0.1513368785381317,
+          "right": 0.8275107145309448,
+          "top": 0.11202020198106766
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1f73f9f3-6cc7-451f-af77-86b38ae2e552'></a>\n\nViruses and Bacteria in the Etiology of the Common Cold",
+      "type": "text"
+    },
+    {
+      "id": "82557a7d-17e2-4022-bd30-d984b65cf696",
+      "grounding": {
+        "box": {
+          "bottom": 0.18500521779060364,
+          "left": 0.1793753206729889,
+          "right": 0.7992476224899292,
+          "top": 0.14237374067306519
+        },
+        "page": 0
+      },
+      "markdown": "<a id='82557a7d-17e2-4022-bd30-d984b65cf696'></a>\n\nMIKA J. M\u00c4KEL\u00c4, 1,2* TUOMO PUHAKKA,\u00b9 OLLI RUUSKANEN,\u00b9 MAIJA LEINONEN,\u00b3\nPEKKA SAIKKU,\u00b3 MARKO KIMPIM\u00c4KI,\u2074 SOILE BLOMQVIST,\u2074\nTIMO HYYPI\u00c4,\u2075\u2020 AND PERTTI ARSTILA\u2075",
+      "type": "text"
+    },
+    {
+      "id": "3259f4d7-b207-4b8d-9298-dce01b8a634f",
+      "grounding": {
+        "box": {
+          "bottom": 0.24074749648571014,
+          "left": 0.2080906331539154,
+          "right": 0.7670760154724121,
+          "top": 0.18657399713993073
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3259f4d7-b207-4b8d-9298-dce01b8a634f'></a>\n\nDepartments of Pediatrics,\u00b9 Pulmonary Diseases and Clinical Allergology,\u00b2 and Virology,\u2075\nUniversity of Turku, Turku, National Public Health Institute, Oulu,\u00b3 and\nDepartment of Virology, National Public Health Institute,\nHelsinki,\u2074 Finland",
+      "type": "text"
+    },
+    {
+      "id": "fb2af352-f808-47b7-92db-7c2cb6caa538",
+      "grounding": {
+        "box": {
+          "bottom": 0.2623632550239563,
+          "left": 0.20378351211547852,
+          "right": 0.7749554514884949,
+          "top": 0.24657042324543
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fb2af352-f808-47b7-92db-7c2cb6caa538'></a>\n\nReceived 13 August 1997/Returned for modification 22 October 1997/Accepted 20 November 1997",
+      "type": "text"
+    },
+    {
+      "id": "965af17c-3d38-49ca-a166-695f542c6782",
+      "grounding": {
+        "box": {
+          "bottom": 0.41760095953941345,
+          "left": 0.1348782479763031,
+          "right": 0.8429526090621948,
+          "top": 0.2731665074825287
+        },
+        "page": 0
+      },
+      "markdown": "<a id='965af17c-3d38-49ca-a166-695f542c6782'></a>\n\nTwo hundred young adults with common colds were studied during a 10-month period. Virus culture, antigen detection, PCR, and serology with paired samples were used to identify the infection. Viral etiology was established for 138 of the 200 patients (69%). Rhinoviruses were detected in 105 patients, coronavirus OC43 or 229E infection was detected in 17, influenza A or B virus was detected in 12, and single infections with parainfluenza virus, respiratory syncytial virus, adenovirus, and enterovirus were found in 14 patients. Evidence for bacterial infection was found in seven patients. Four patients had a rise in antibodies against *Chlamydia pneumoniae*, one had a rise in antibodies against *Haemophilus influenzae*, one had a rise in antibodies against *Streptococcus pneumoniae*, and one had immunoglobulin M antibodies against *Mycoplasma pneumoniae*. The results show that although approximately 50% of episodes of the common cold were caused by rhinoviruses, the etiology can vary depending on the epidemiological situation with regard to circulating viruses. Bacterial infections were rare, supporting the concept that the common cold is almost exclusively a viral disease.",
+      "type": "text"
+    },
+    {
+      "id": "38e14b57-9433-4509-a314-6a037c096cbb",
+      "grounding": {
+        "box": {
+          "bottom": 0.664844810962677,
+          "left": 0.07714304327964783,
+          "right": 0.478142648935318,
+          "top": 0.4353804290294647
+        },
+        "page": 0
+      },
+      "markdown": "<a id='38e14b57-9433-4509-a314-6a037c096cbb'></a>\n\nLarge studies, such as the Tecumseh Study, the Seattle Virus Watch, and the New York Virus Watch, performed during the 1960s clarified the crucial role of viruses in acute respiratory illness (23). Rhinoviruses were shown to be major causative agents in mild upper respiratory illness (the common cold), although the percentage of rhinoviruses detected in disease episodes was approximately 25% in the early studies (17). Rhinoviruses have been recently estimated to cause 34% of all respiratory illnesses (23). With the exception of coronaviruses, the proportion of other identified agents has been small, and in most studies the causative agent has not been identified in up to 50% of cases. Since there are several prospects for antiviral chemotherapy and new treatments for the common cold, investigation of the etiology of the disease is of importance. The present policy for treatment of the common cold should also be evaluated in view of the causative agents, since in the United States antibiotics are prescribed for 60% of patients (22).",
+      "type": "text"
+    },
+    {
+      "id": "62df5eed-20b7-406a-bd14-36c2787c804d",
+      "grounding": {
+        "box": {
+          "bottom": 0.7788435220718384,
+          "left": 0.07788033783435822,
+          "right": 0.4779520034790039,
+          "top": 0.6645914316177368
+        },
+        "page": 0
+      },
+      "markdown": "<a id='62df5eed-20b7-406a-bd14-36c2787c804d'></a>\n\nAlthough during the past two decades methods for virolog-ical diagnostics have greatly improved, no recent prospective study of the etiology of the common cold has been published. Most clinical trials dealing with therapy have not employed extensive testing of viruses causing the disease, which weakens their value (25). In order to optimize microbial detection, we have employed several virological and bacteriological methods to study 200 young adults with symptoms and signs of the common cold.",
+      "type": "text"
+    },
+    {
+      "id": "e10c4d59-00d7-42a5-ae2a-6bfec96b1b94",
+      "grounding": {
+        "box": {
+          "bottom": 0.8418626189231873,
+          "left": 0.0779777467250824,
+          "right": 0.47750452160835266,
+          "top": 0.7915536761283875
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e10c4d59-00d7-42a5-ae2a-6bfec96b1b94'></a>\n\n## MATERIALS AND METHODS\n\n**Study population and clinical samples.** Between October 1994 and November 1995, 200 young adults\u2014mostly students from the University of Turku\u2014were enrolled in the study. A study office was established at the Turku University",
+      "type": "text"
+    },
+    {
+      "id": "3ba21831-cec6-47d1-a316-bb28ee8ba952",
+      "grounding": {
+        "box": {
+          "bottom": 0.9210502505302429,
+          "left": 0.07795441150665283,
+          "right": 0.4782288670539856,
+          "top": 0.8598945736885071
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3ba21831-cec6-47d1-a316-bb28ee8ba952'></a>\n\n* Corresponding author. Mailing address: Department of Pediatrics, University of Turku, Kiinamyllynkatu 4-8, 20520 Turku, Finland. Phone: 358-2-2611611. Fax: 358-2-2611460. E-mail: mika.makela@utu.fi.\n\u2020 Present address: Department of Virology, Haartman Institute, University of Helsinki, FIN-00014, Finland.",
+      "type": "text"
+    },
+    {
+      "id": "065fe219-f1a6-4c1f-9772-159ff74c2aad",
+      "grounding": {
+        "box": {
+          "bottom": 0.5540093183517456,
+          "left": 0.49887192249298096,
+          "right": 0.898749828338623,
+          "top": 0.4367857575416565
+        },
+        "page": 0
+      },
+      "markdown": "<a id='065fe219-f1a6-4c1f-9772-159ff74c2aad'></a>\n\nHospital, which patients contacted within 24 to 48 h after the onset of symptoms of the common cold. For inclusion in the study, patients had to self-diagnose the common cold based on their earlier experience of symptoms. In addition, clinical evidence of acute rhinorrhea, nasal congestion, and/or sore throat was confirmed by the study physician. Patients with tonsillitis and with previous histories of allergic rhinitis, any chronic illness, or use of regular medication were excluded. One study physician (T.P.) and one nurse examined all the patients participating in the study. The patients were all Caucasian. The mean age of the patients was 24.0 years for male students (n = 59) and 24.1 years for female students (n = 141). The study protocol was accepted by the ethical committee of the Turku University Hospital. A written informed consent was obtained from each patient.",
+      "type": "text"
+    },
+    {
+      "id": "3579c484-fcab-4235-b09c-550c1066ca42",
+      "grounding": {
+        "box": {
+          "bottom": 0.6630664467811584,
+          "left": 0.4996035099029541,
+          "right": 0.8984687328338623,
+          "top": 0.5520959496498108
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3579c484-fcab-4235-b09c-550c1066ca42'></a>\n\nAt the first visit, a nasopharyngeal aspirate was collected with a disposable mucus extractor from all the patients. Disposable plastic gloves were used, and all surfaces were wiped with disinfectant to avoid possible contamination among the patients. Three sterile cotton swabs were dipped into the mucus, and these were then placed in separate viral transport medium tubes (0.5% bovine serum albumin and antibiotics in tryptose phosphate broth) for PCR assay and virus culture. The rest of the mucus was used for virus antigen detection. All virus culture tubes were immediately frozen at -70\u00b0C prior to subsequent processing. A blood sample was collected for serological analyses. The patients returned on day 7, when a new nasopharyngeal aspirate was taken. The final visit was on day 21, when the second blood sample was taken.",
+      "type": "text"
+    },
+    {
+      "id": "4ce1051a-1a5c-4836-99a8-e77d3f802467",
+      "grounding": {
+        "box": {
+          "bottom": 0.7253035306930542,
+          "left": 0.49947389960289,
+          "right": 0.8987773656845093,
+          "top": 0.6637805700302124
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4ce1051a-1a5c-4836-99a8-e77d3f802467'></a>\n\nVirus antigen detection, serology, and isolation. Viral antigens were detected by time-resolved fluoroimmunoassay for seven common respiratory viruses (adenovirus; respiratory syncytial virus [RSV]; parainfluenza virus types 1, 2, and 3; and influenza A and B viruses) as described previously (5). Serology for the same viruses was done with antigens prepared at the Department of Virology, University of Turku, by an enzyme immunoassay (EIA) as described previously (20).",
+      "type": "text"
+    },
+    {
+      "id": "04051749-2e5c-423c-a306-bbf8f96d629d",
+      "grounding": {
+        "box": {
+          "bottom": 0.8584810495376587,
+          "left": 0.4998694360256195,
+          "right": 0.8990641832351685,
+          "top": 0.7256050109863281
+        },
+        "page": 0
+      },
+      "markdown": "<a id='04051749-2e5c-423c-a306-bbf8f96d629d'></a>\n\nFor measuring coronavirus antibodies, crude EIA antigens (microsomal fraction) were prepared from coronavirus OC43- and 229E-infected cells and uninfected control antigen RD cells (human embryonal rhabdomyosarcoma cells) as described for mouse brain homogenate (13). Seeds for virus and cells (originally from the American Type Culture Collection) were kindly provided by K. Holmes (University of Health Sciences, Bethesda, Md.). Microtiter plates with 96 wells (Maxisorb; Nunc, Roskilde, Denmark) were coated with each of the antigens (2.5 \u00b5g/ml) and used in a standard single-dilution (1:200) EIA procedure with the sera in duplicate. Known positive and negative sera were used to control inter-assay variation. Criteria for a significant increase or decrease between the titers were determined in advance, and a twofold-or-greater difference in specific absorbances of paired sera was found to be a reliable marker. Assay of serial dilutions of the paired sera was used to clarify equivocal results.",
+      "type": "text"
+    },
+    {
+      "id": "2734e942-49a1-4519-a408-180c36bf9873",
+      "grounding": {
+        "box": {
+          "bottom": 0.9204471111297607,
+          "left": 0.5005478262901306,
+          "right": 0.8996706604957581,
+          "top": 0.8581448793411255
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2734e942-49a1-4519-a408-180c36bf9873'></a>\n\nVirus culture was done by using the Ohio strain of HeLa cells and human foreskin fibroblasts according to routine procedure as described previously (1). Cell cultures exhibiting cytopathogenic effect were passaged once, and the supernatant of the cell culture fluid was further tested by antigen detection. Those samples positive by virus culture but negative by rhinovirus PCR were tested for acid lability.",
+      "type": "text"
+    },
+    {
+      "id": "e0603087-29b5-406b-86fb-21885343a045",
+      "grounding": {
+        "box": {
+          "bottom": 0.9451623558998108,
+          "left": 0.47570937871932983,
+          "right": 0.5010762810707092,
+          "top": 0.930508553981781
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e0603087-29b5-406b-86fb-21885343a045'></a>\n\n539",
+      "type": "marginalia"
+    },
+    {
+      "id": "974b10b3-b32f-4ab5-8d77-2b82ce2df9ec",
+      "grounding": {
+        "box": {
+          "bottom": 0.977166473865509,
+          "left": 0.9505168199539185,
+          "right": 0.976089596748352,
+          "top": 0.49839669466018677
+        },
+        "page": 0
+      },
+      "markdown": "<a id='974b10b3-b32f-4ab5-8d77-2b82ce2df9ec'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.",
+      "type": "marginalia"
+    },
+    {
+      "id": "e80ebf2f-7b7b-4dc3-a66e-9b0a2201edfb",
+      "grounding": {
+        "box": {
+          "bottom": 0.06824583560228348,
+          "left": 0.07742533087730408,
+          "right": 0.10521882772445679,
+          "top": 0.05323605611920357
+        },
+        "page": 1
+      },
+      "markdown": "<a id='e80ebf2f-7b7b-4dc3-a66e-9b0a2201edfb'></a>\n\n540",
+      "type": "marginalia"
+    },
+    {
+      "id": "536e5abd-a637-4ae5-abed-b127e11953ff",
+      "grounding": {
+        "box": {
+          "bottom": 0.0695110410451889,
+          "left": 0.12567362189292908,
+          "right": 0.24662676453590393,
+          "top": 0.05278633162379265
+        },
+        "page": 1
+      },
+      "markdown": "<a id='536e5abd-a637-4ae5-abed-b127e11953ff'></a>\n\nM\u00c4KEL\u00c4 ET AL.",
+      "type": "text"
+    },
+    {
+      "id": "d56a43b5-c2a5-41ab-915f-eeaa1c9a1bed",
+      "grounding": {
+        "box": {
+          "bottom": 0.06877414882183075,
+          "left": 0.7760573625564575,
+          "right": 0.899582028388977,
+          "top": 0.05282731354236603
+        },
+        "page": 1
+      },
+      "markdown": "<a id='d56a43b5-c2a5-41ab-915f-eeaa1c9a1bed'></a>\n\nJ. CLIN. MICROBIOL.",
+      "type": "text"
+    },
+    {
+      "id": "89791dc5-23fc-47a8-8a52-3de5ea7e835f",
+      "grounding": {
+        "box": {
+          "bottom": 0.4004937708377838,
+          "left": 0.07585084438323975,
+          "right": 0.9024804830551147,
+          "top": 0.08325812220573425
+        },
+        "page": 1
+      },
+      "markdown": "<a id='89791dc5-23fc-47a8-8a52-3de5ea7e835f'></a>\n\nTABLE 1. Microbiological findings for 200 patients with signs and symptoms of the common cold\n<table id=\"1-1\">\n<tr><td id=\"1-2\"></td><td id=\"1-3\" colspan=\"4\">No. (%) of patients positive by:</td><td id=\"1-4\" rowspan=\"2\">Total no. of patients (%)</td></tr>\n<tr><td id=\"1-5\">Organism or infection</td><td id=\"1-6\">Virus antigen detection</td><td id=\"1-7\">Virus culture</td><td id=\"1-8\">Rhinovirus PCR</td><td id=\"1-9\">Serology</td></tr>\n<tr><td id=\"1-a\">Rhinovirus</td><td id=\"1-b\"></td><td id=\"1-c\">80 (40)</td><td id=\"1-d\">103 (51.5)</td><td id=\"1-e\"></td><td id=\"1-f\">105 (52.5)</td></tr>\n<tr><td id=\"1-g\">Influenza A virus</td><td id=\"1-h\">6 (3)</td><td id=\"1-i\">3 (1.5)</td><td id=\"1-j\"></td><td id=\"1-k\">9 (4.5)</td><td id=\"1-l\">10 (5)</td></tr>\n<tr><td id=\"1-m\">Influenza B virus</td><td id=\"1-n\">2 (1)</td><td id=\"1-o\">1 (0.5)</td><td id=\"1-p\"></td><td id=\"1-q\">1 (0.5)</td><td id=\"1-r\">2 (1)</td></tr>\n<tr><td id=\"1-s\">Adenovirus</td><td id=\"1-t\">1 (0.5)</td><td id=\"1-u\"></td><td id=\"1-v\"></td><td id=\"1-w\">1 (0.5)</td><td id=\"1-x\">2(1)</td></tr>\n<tr><td id=\"1-y\">Parainfluenza virus type 1</td><td id=\"1-z\">1 (0.5)</td><td id=\"1-A\">1 (0.5)</td><td id=\"1-B\"></td><td id=\"1-C\"></td><td id=\"1-D\">1(0.5)</td></tr>\n<tr><td id=\"1-E\">Parainfluenza virus type 2</td><td id=\"1-F\"></td><td id=\"1-G\"></td><td id=\"1-H\"></td><td id=\"1-I\">2 (1)</td><td id=\"1-J\">2(1)</td></tr>\n<tr><td id=\"1-K\">Parainfluenza virus type 3</td><td id=\"1-L\">3 (1.5)</td><td id=\"1-M\">3 (1.5)</td><td id=\"1-N\"></td><td id=\"1-O\"></td><td id=\"1-P\">3(1.5)</td></tr>\n<tr><td id=\"1-Q\">Parainfluenza virus type 1 or 3</td><td id=\"1-R\"></td><td id=\"1-S\"></td><td id=\"1-T\"></td><td id=\"1-U\">5 (2.5)</td><td id=\"1-V\">1(0.5)</td></tr>\n<tr><td id=\"1-W\">RSV</td><td id=\"1-X\">4(2)</td><td id=\"1-Y\">3 (1.5)</td><td id=\"1-Z\"></td><td id=\"1-10\">3 (1.5)</td><td id=\"1-11\">4 (2)</td></tr>\n<tr><td id=\"1-12\">Enterovirus</td><td id=\"1-13\"></td><td id=\"1-14\"></td><td id=\"1-15\"></td><td id=\"1-16\">1 (0.5)</td><td id=\"1-17\">1 (0.5)</td></tr>\n<tr><td id=\"1-18\">Coronavirus OC43</td><td id=\"1-19\"></td><td id=\"1-1a\"></td><td id=\"1-1b\"></td><td id=\"1-1c\">7 (3.5)</td><td id=\"1-1d\">7 (3.5)</td></tr>\n<tr><td id=\"1-1e\">Coronavirus 229E</td><td id=\"1-1f\"></td><td id=\"1-1g\"></td><td id=\"1-1h\"></td><td id=\"1-1i\">10 (5)</td><td id=\"1-1j\">10 (5)</td></tr>\n<tr><td id=\"1-1k\">C. pneumoniae</td><td id=\"1-1l\"></td><td id=\"1-1m\"></td><td id=\"1-1n\"></td><td id=\"1-1o\">4 (2)</td><td id=\"1-1p\">4 (2)</td></tr>\n<tr><td id=\"1-1q\">M. pneumoniae</td><td id=\"1-1r\"></td><td id=\"1-1s\"></td><td id=\"1-1t\"></td><td id=\"1-1u\">1 (0.5)</td><td id=\"1-1v\">1(0.5)</td></tr>\n<tr><td id=\"1-1w\">S. pneumoniae</td><td id=\"1-1x\"></td><td id=\"1-1y\"></td><td id=\"1-1z\"></td><td id=\"1-1A\">1 (0.5)</td><td id=\"1-1B\">1(0.5)</td></tr>\n<tr><td id=\"1-1C\">H. influenzae</td><td id=\"1-1D\"></td><td id=\"1-1E\"></td><td id=\"1-1F\"></td><td id=\"1-1G\">1 (0.5)</td><td id=\"1-1H\">1(0.5)</td></tr>\n<tr><td id=\"1-1I\">M. catarrhalis</td><td id=\"1-1J\"></td><td id=\"1-1K\"></td><td id=\"1-1L\"></td><td id=\"1-1M\"></td><td id=\"1-1N\">0</td></tr>\n<tr><td id=\"1-1O\">Double viral infection</td><td id=\"1-1P\"></td><td id=\"1-1Q\"></td><td id=\"1-1R\"></td><td id=\"1-1S\"></td><td id=\"1-1T\">10 (5)</td></tr>\n<tr><td id=\"1-1U\">Viral and bacterial infections</td><td id=\"1-1V\"></td><td id=\"1-1W\"></td><td id=\"1-1X\"></td><td id=\"1-1Y\"></td><td id=\"1-1Z\">6 (3)</td></tr>\n<tr><td id=\"1-20\">Total</td><td id=\"1-21\">17 (8.5)</td><td id=\"1-22\">91 (45.5)</td><td id=\"1-23\">103 (51.5)</td><td id=\"1-24\">46 (23)</td><td id=\"1-25\">139 (69.5)</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "a64d8d65-3234-4994-97db-72ddf414ecd1",
+      "grounding": {
+        "box": {
+          "bottom": 0.49818557500839233,
+          "left": 0.0774775892496109,
+          "right": 0.47834891080856323,
+          "top": 0.4247733950614929
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a64d8d65-3234-4994-97db-72ddf414ecd1'></a>\n\nRhinovirus reverse transcription-PCR. Nucleic acids were isolated from the nasopharyngeal samples by using proteinase K-sodium dodecyl sulfate treatment followed by phenol extraction and ethanol precipitation. For detection of rhinoviruses, two reverse transcription-PCR assays were used (16). The first one utilizes primers from the conserved 5' noncoding region and the VP2 capsid protein coding region of the viral genome (3), while the other test uses two primers from the 5' noncoding region (10, 15).",
+      "type": "text"
+    },
+    {
+      "id": "6fbf1242-b3cd-4dba-bc21-7b2702860e25",
+      "grounding": {
+        "box": {
+          "bottom": 0.5362475514411926,
+          "left": 0.0780971497297287,
+          "right": 0.47710686922073364,
+          "top": 0.4970620572566986
+        },
+        "page": 1
+      },
+      "markdown": "<a id='6fbf1242-b3cd-4dba-bc21-7b2702860e25'></a>\n\nBacterial culture and antibody assays. For detection of beta-hemolytic streptococci, swabs dipped into nasopharyngeal mucus were inoculated onto blood agar plates and incubated for 24 h in an atmosphere of 5% carbon dioxide at 37\u00b0C. Those plates showing uncertain growth were incubated another 24 h.",
+      "type": "text"
+    },
+    {
+      "id": "aff4abe2-ff68-469f-b90a-1190c33523d7",
+      "grounding": {
+        "box": {
+          "bottom": 0.6902879476547241,
+          "left": 0.07829780876636505,
+          "right": 0.4778146743774414,
+          "top": 0.5363336801528931
+        },
+        "page": 1
+      },
+      "markdown": "<a id='aff4abe2-ff68-469f-b90a-1190c33523d7'></a>\n\nImmunoglobulin G (IgG) antibodies to pneumococcal pneumolysin and C-polysaccharide were measured by EIA as described earlier, and a twofold-or-higher rise in antibody levels between paired sera was considered diagnostic (18). Antibodies to nontypeable *Haemophilus influenzae* and *Moraxella catarrhalis* were measured by EIA using whole bacterial cell antigen (a mixture of 10 different strains), and a threefold-or-higher antibody rise between paired sera was considered diagnostic for acute infection (6). IgG and IgM antibodies to chlamydial species were measured by a microimmunofluorescence method by using elementary bodies of *Chlamydia pneumoniae* Kajaani 7 and *Chlamydia trachomatis* 1.2 as antigens as described elsewhere (7), except that the sera were incubated overnight. The presence of IgM antibodies and/or a fourfold-or-greater change in antibody levels between paired sera was considered diagnostic for acute chlamydial infection. These antibody assays have been successfully used in the etiological diagnosis of pneumonia in children both in industrialized and developing countries (28, 29).",
+      "type": "text"
+    },
+    {
+      "id": "54b486b0-4cc1-456e-a1ec-30222ad02486",
+      "grounding": {
+        "box": {
+          "bottom": 0.7219400405883789,
+          "left": 0.07784700393676758,
+          "right": 0.4773721694946289,
+          "top": 0.689778208732605
+        },
+        "page": 1
+      },
+      "markdown": "<a id='54b486b0-4cc1-456e-a1ec-30222ad02486'></a>\n\nMycoplasma IgM antibodies from the second serum samples taken on day 21 were measured with a commercial kit (Platelia; Sanofi Diagnostics Pasteur S.A., Marnes la Coquette, France) routinely used in our virology laboratory.",
+      "type": "text"
+    },
+    {
+      "id": "73a7a7b4-e550-4660-9466-f6311056d7c5",
+      "grounding": {
+        "box": {
+          "bottom": 0.881172776222229,
+          "left": 0.07783924043178558,
+          "right": 0.47800928354263306,
+          "top": 0.7343782186508179
+        },
+        "page": 1
+      },
+      "markdown": "<a id='73a7a7b4-e550-4660-9466-f6311056d7c5'></a>\n\n## RESULTS\nVirological findings. Evidence for virus infection was found in 138 of the 200 patients (69%). Rhinovirus was found in 105 patients (52.5%) by virus culture or PCR. The percentage of rhinoviruses was the same in both males and females. Overall, results by virus culture and PCR had a high level of agreement: 78% of the PCR-positive samples were also culture positive (80 of 103 patients). Coronaviruses were the second most common group of causative agents and were detected in 17 patients by serology. A total of 12 patients had influenza A or B virus infection (Table 1).",
+      "type": "text"
+    },
+    {
+      "id": "a0e933f4-36e6-4c73-9c2f-eb0b6941d2fb",
+      "grounding": {
+        "box": {
+          "bottom": 0.9212217926979065,
+          "left": 0.0782661885023117,
+          "right": 0.4777432084083557,
+          "top": 0.8815780282020569
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a0e933f4-36e6-4c73-9c2f-eb0b6941d2fb'></a>\n\nIn addition to the 80 patients culture-positive for rhinovi-\nruses, 11 nasopharyngeal-aspirate samples were positive by\nvirus culture. Three cases of influenza A were detected by",
+      "type": "text"
+    },
+    {
+      "id": "2f4272a5-3385-4d21-b493-24db297f046b",
+      "grounding": {
+        "box": {
+          "bottom": 0.5397126078605652,
+          "left": 0.4990391731262207,
+          "right": 0.89914870262146,
+          "top": 0.4253666400909424
+        },
+        "page": 1
+      },
+      "markdown": "<a id='2f4272a5-3385-4d21-b493-24db297f046b'></a>\n\nserology only, whereas the other seven patients were positive by antigen detection, culture, or serology. For the other respiratory viruses, five patients remained negative by culture or antigen detection but paired serum antibodies showed a rise. In addition, coronaviruses were detected by serology only. Taken together, virus culture was positive for the respiratory viruses in 91 cases (45.5%), virus antigen detection gave positive results in 17 cases (8.5%), and serology gave a diagnosis for 39 patients (19.5%) (Table 1).",
+      "type": "text"
+    },
+    {
+      "id": "a073d802-ddd1-44dd-9709-54675a73a094",
+      "grounding": {
+        "box": {
+          "bottom": 0.6159363389015198,
+          "left": 0.4993857145309448,
+          "right": 0.8990613222122192,
+          "top": 0.5409058928489685
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a073d802-ddd1-44dd-9709-54675a73a094'></a>\n\nEvidence of a double viral infection was found in 10 patients.\nOf these patients, three had both rhinovirus and coronavirus\nOC43, two had rhinovirus and influenza A virus, two had\nrhinovirus and parainfluenza virus type 2, one had rhinovirus\nand adenovirus, one had rhinovirus and influenza B virus, and\none had rhinovirus and enterovirus infections.",
+      "type": "text"
+    },
+    {
+      "id": "1d362fb9-fa5a-4285-875e-68afa6332569",
+      "grounding": {
+        "box": {
+          "bottom": 0.754796028137207,
+          "left": 0.49976846575737,
+          "right": 0.899304986000061,
+          "top": 0.61634361743927
+        },
+        "page": 1
+      },
+      "markdown": "<a id='1d362fb9-fa5a-4285-875e-68afa6332569'></a>\n\nFigure 1a shows the number of virus infections detected monthly and the total number of recruited patients. Figure 1b presents numbers of rhino- and coronavirus infections detected in the study population. An outbreak of rhinoviruses occurred in the fall, when 92% (33 of 36) of the patients recruited into the study had rhinovirus infections. Figure 1c shows the epidemiology of other respiratory viruses in the community during the study period. Influenza A and B virus infections peaked in March, followed by parainfluenza virus type 3 infections in April and RSV infections in May. Adenoviruses were endemic.",
+      "type": "text"
+    },
+    {
+      "id": "8003df12-95e0-4aad-ae44-447ce897ce73",
+      "grounding": {
+        "box": {
+          "bottom": 0.8930711150169373,
+          "left": 0.4996614158153534,
+          "right": 0.8994677066802979,
+          "top": 0.7548753619194031
+        },
+        "page": 1
+      },
+      "markdown": "<a id='8003df12-95e0-4aad-ae44-447ce897ce73'></a>\n\nBacteriological findings. Serological assays suggested bacte-rial infections in seven patients. Of these, four patients had a rise in IgG antibodies against C. pneumoniae; three of these patients were also rhinovirus positive, and one patient was positive for both rhino- and coronaviruses. One patient had a rise in antibodies against Streptococcus pneumoniae, one pa-tient had a rise in antibodies against both H. influenzae and coronavirus, and one patient had serological evidence of both mycoplasma and coronavirus infections. None of the patients had beta-hemolytic group A Streptococcus in their nasopharyn-ges.",
+      "type": "text"
+    },
+    {
+      "id": "42ab8321-5f9a-44cd-9579-07a1fb32f4c8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9213894605636597,
+          "left": 0.5007747411727905,
+          "right": 0.8996737003326416,
+          "top": 0.8941999673843384
+        },
+        "page": 1
+      },
+      "markdown": "<a id='42ab8321-5f9a-44cd-9579-07a1fb32f4c8'></a>\n\nFor monitoring complications of the common cold, patients\nwere examined clinically on days 1, 7, and 21 and according to",
+      "type": "text"
+    },
+    {
+      "id": "84d4b9bf-2ec0-41da-abf9-5f4119e04458",
+      "grounding": {
+        "box": {
+          "bottom": 0.9790223240852356,
+          "left": 0.9516721367835999,
+          "right": 0.9755674004554749,
+          "top": 0.4984970688819885
+        },
+        "page": 1
+      },
+      "markdown": "<a id='84d4b9bf-2ec0-41da-abf9-5f4119e04458'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.",
+      "type": "marginalia"
+    },
+    {
+      "id": "9342d73f-324c-421e-9565-57c8630e7442",
+      "grounding": {
+        "box": {
+          "bottom": 0.06969207525253296,
+          "left": 0.07617168128490448,
+          "right": 0.1671820878982544,
+          "top": 0.05192619189620018
+        },
+        "page": 2
+      },
+      "markdown": "<a id='9342d73f-324c-421e-9565-57c8630e7442'></a>\n\nVOL. 36, 1998",
+      "type": "marginalia"
+    },
+    {
+      "id": "ac44c6bc-c649-4db7-b9a8-ff4ddef1ec0d",
+      "grounding": {
+        "box": {
+          "bottom": 0.06960108876228333,
+          "left": 0.6320272088050842,
+          "right": 0.858191192150116,
+          "top": 0.051826804876327515
+        },
+        "page": 2
+      },
+      "markdown": "<a id='ac44c6bc-c649-4db7-b9a8-ff4ddef1ec0d'></a>\n\nETIOLOGY OF COMMON COLD",
+      "type": "marginalia"
+    },
+    {
+      "id": "5b093aaf-ee63-4452-9476-3602f4f39080",
+      "grounding": {
+        "box": {
+          "bottom": 0.0686088427901268,
+          "left": 0.872394859790802,
+          "right": 0.8980680108070374,
+          "top": 0.05285964906215668
+        },
+        "page": 2
+      },
+      "markdown": "<a id='5b093aaf-ee63-4452-9476-3602f4f39080'></a>\n\n541",
+      "type": "marginalia"
+    },
+    {
+      "id": "d8690127-1e9e-4935-b593-09b577727d0b",
+      "grounding": {
+        "box": {
+          "bottom": 0.6996451616287231,
+          "left": 0.07652230560779572,
+          "right": 0.48288649320602417,
+          "top": 0.0867578387260437
+        },
+        "page": 2
+      },
+      "markdown": "<a id='d8690127-1e9e-4935-b593-09b577727d0b'></a>\n\n<::chart: The figure displays three panels (a, b, c) showing the monthly occurrence of viral infections and patient recruitment from November to November, with a study break indicated between June and August. The x-axis for all panels represents months: NOV, DEC, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV. The y-axis represents counts of patients or infections. A legend indicates that white bars represent 'Patients' and black bars represent 'Virus positive'.\n\nPanel (a) shows the monthly occurrence of confirmed viral infections (virus positive) and total number of recruited patients. The y-axis ranges from 0 to 40.\n- NOV: Patients ~18, Virus positive ~12\n- DEC: Patients ~10, Virus positive ~6\n- JAN: Patients ~15, Virus positive ~10\n- FEB: Patients ~30, Virus positive ~12\n- MAR: Patients ~40, Virus positive ~28\n- APR: Patients ~35, Virus positive ~32\n- MAY: Patients ~12, Virus positive ~6\n- JUN: Patients ~8, Virus positive ~4\n- JUL: Study break\n- AUG: Patients ~10, Virus positive ~6\n- SEP: Patients ~12, Virus positive ~8\n- OCT: Patients ~15, Virus positive ~10\n- NOV: Patients ~8, Virus positive ~4\n\nPanel (b) shows the monthly occurrence of rhino- and coronavirus infections in the study population.\n- Rhinovirus (y-axis 0-20):\n  - NOV: ~14\n  - DEC: ~6\n  - JAN: ~8\n  - FEB: ~8\n  - MAR: ~16\n  - APR: ~22\n  - MAY: ~8\n  - JUN: ~4\n  - JUL: Study break\n  - AUG: ~8\n  - SEP: ~10\n  - OCT: ~16\n  - NOV: ~12\n- Coronavirus (y-axis 0-10):\n  - NOV: ~0\n  - DEC: ~2\n  - JAN: ~4\n  - FEB: ~6\n  - MAR: ~8\n  - APR: ~6\n  - MAY: ~4\n  - JUN: ~2\n  - JUL: Study break\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~0\n\nPanel (c) shows the monthly occurrences of other common respiratory viruses circulating in the community.\n- RSV (y-axis 0-60):\n  - NOV: ~0\n  - DEC: ~2\n  - JAN: ~4\n  - FEB: ~10\n  - MAR: ~35\n  - APR: ~50\n  - MAY: ~45\n  - JUN: ~5\n  - JUL: ~2\n  - AUG: ~4\n  - SEP: ~8\n  - OCT: ~25\n  - NOV: ~10\n- Influenza A and B virus (y-axis 0-40):\n  - NOV: ~0\n  - DEC: ~0\n  - JAN: ~2\n  - FEB: ~18\n  - MAR: ~35\n  - APR: ~15\n  - MAY: ~5\n  - JUN: ~0\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~20\n  - NOV: ~0\n- Parainfluenza virus type 3 (y-axis 0-20):\n  - NOV: ~0\n  - DEC: ~0\n  - JAN: ~4\n  - FEB: ~6\n  - MAR: ~8\n  - APR: ~12\n  - MAY: ~6\n  - JUN: ~2\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~0\n- Adenovirus (y-axis 0-20):\n  - NOV: ~8\n  - DEC: ~10\n  - JAN: ~12\n  - FEB: ~6\n  - MAR: ~12\n  - APR: ~12\n  - MAY: ~4\n  - JUN: ~2\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~8\n\nFIG. 1. (a) Monthly occurrence of confirmed viral infections (virus positive) and total number of recruited patients. (b) Monthly occurrence of rhino- and coronavirus infections in the study population. (c) Monthly occurrences of other common respiratory viruses circulating in the community. Infection was diagnosed at the Department of Virology, Turku University, with specimens derived mainly from pediatric patients.::>",
+      "type": "figure"
+    },
+    {
+      "id": "776c8099-8ac4-4d01-9aab-f10d508d7aec",
+      "grounding": {
+        "box": {
+          "bottom": 0.8414453864097595,
+          "left": 0.07660768926143646,
+          "right": 0.4791664481163025,
+          "top": 0.7231865525245667
+        },
+        "page": 2
+      },
+      "markdown": "<a id='776c8099-8ac4-4d01-9aab-f10d508d7aec'></a>\n\nthe patients' need. One patient had acute otitis media and was treated with antibiotics. This patient had a serological rise in antibodies against H. influenzae and coronavirus. Three patients received antibiotics for urinary tract infections, and one patient received antibiotics for prophylaxis after a dental operation during days 7 to 21. With the exception of these five patients, all recovered uneventfully without antibiotics, including those patients with a serological indication of bacterial infection.",
+      "type": "text"
+    },
+    {
+      "id": "4b2c0852-646b-4c6e-88d0-f11cb4bedd67",
+      "grounding": {
+        "box": {
+          "bottom": 0.9226115345954895,
+          "left": 0.07671581208705902,
+          "right": 0.47927695512771606,
+          "top": 0.8547415137290955
+        },
+        "page": 2
+      },
+      "markdown": "<a id='4b2c0852-646b-4c6e-88d0-f11cb4bedd67'></a>\n\n## DISCUSSION\n\nViral etiology of the common cold was demonstrated for 69% of the 200 patients included in this study. In large respiratory virus studies carried out in the 1960s, the causative agent",
+      "type": "text"
+    },
+    {
+      "id": "89620420-5148-4617-a260-343514309eae",
+      "grounding": {
+        "box": {
+          "bottom": 0.20007121562957764,
+          "left": 0.4988039433956146,
+          "right": 0.9003262519836426,
+          "top": 0.08389189839363098
+        },
+        "page": 2
+      },
+      "markdown": "<a id='89620420-5148-4617-a260-343514309eae'></a>\n\nwas detected in 22 to 30% of the patients with acute respira-\ntory symptoms (23, 24). Surprisingly, there have been no recent\ninvestigations using modern virological techniques lasting long\nenough to cover several virus outbreaks. We recruited patients\nfor 10 months. This period included outbreaks of five different\nrespiratory viruses (Fig. 1). Patients were not admitted to the\nstudy during June, July, and August, which are summer holiday\nmonths in Finland and in which only a few respiratory infec-\ntions occur.",
+      "type": "text"
+    },
+    {
+      "id": "96c627a1-fc4c-4179-89ad-76ab0d94d62b",
+      "grounding": {
+        "box": {
+          "bottom": 0.3886185884475708,
+          "left": 0.4985892176628113,
+          "right": 0.900592029094696,
+          "top": 0.19946420192718506
+        },
+        "page": 2
+      },
+      "markdown": "<a id='96c627a1-fc4c-4179-89ad-76ab0d94d62b'></a>\n\nThis study shows that in addition to virus culture, serology and PCR techniques are needed to detect the maximal number of infections. Although virus culture remains the \"gold stan-dard\" (yield, 45.5% with only two cell lines), more sensitive PCR methods, especially for rhinoviruses (yield, 51.5%), are increasingly used in routine diagnostics. Interestingly, the rapid test for seven different virus antigens was positive for only 9% of the patients. This observation agrees with earlier studies with adults (14, 21). For children, virus antigen detection is often the method of choice (12, 26). Virus antigen tests are sensitive for RSV and adenoviruses, which are common in young children but rare in adults, as seen also in this study (12, 27). Another factor contributing to the low yield of antigen-positive samples may be that adults shed less virus than chil-dren (8, 23).",
+      "type": "text"
+    },
+    {
+      "id": "184b59da-8ac4-40a5-8482-4e9c243057e8",
+      "grounding": {
+        "box": {
+          "bottom": 0.5921719670295715,
+          "left": 0.49860796332359314,
+          "right": 0.9008417129516602,
+          "top": 0.388018935918808
+        },
+        "page": 2
+      },
+      "markdown": "<a id='184b59da-8ac4-40a5-8482-4e9c243057e8'></a>\n\nRhinoviruses were the causative agent of the common cold in half of the cases in this investigation. During the 2-month outbreak during the fall, 92% of the patients had rhinovirus-induced illness. This observation agrees with results of a recent study, in which rhinovirus was detected in 276 of 346 (80%) common-cold patients during a 4-month epidemic fall season (4). Herzog and coworkers detected rhinoviruses in 55% of 122 patients with acute upper respiratory tract infections (11). Although rhinoviruses are the most common cause of the common cold, it must be stressed that almost half of the cases are caused by other viruses. We detected rhinoviruses, RSVs, influenza A viruses, adenoviruses, and parainfluenza type 3 viruses circulating in the community at the same time (Fig. 1c). These infections are often clinically indistinguishable in adults. This observation emphasizes the need to identify the specific virus in studies of specific antivirals.",
+      "type": "text"
+    },
+    {
+      "id": "18a651cc-607a-4bc5-8f1b-ed5bb7c15a71",
+      "grounding": {
+        "box": {
+          "bottom": 0.9235254526138306,
+          "left": 0.4982188940048218,
+          "right": 0.9014203548431396,
+          "top": 0.5913718938827515
+        },
+        "page": 2
+      },
+      "markdown": "<a id='18a651cc-607a-4bc5-8f1b-ed5bb7c15a71'></a>\n\nWe studied bacterial cultures performed with nasopharyn-geal samples for beta-hemolytic streptococci and serologic re-sponses for five additional bacteria. None of the patients had beta-hemolytic group A Streptococcus in their nasopharynges. Interestingly, we found serological evidence of concomitant bacterial infection in seven patients. One of them, with H. influenzae infection, developed acute otitis media. The other patients, with infections with S. pneumoniae (n = 1), Myco-plasma pneumoniae (n = 1), and C. pneumoniae (n = 4), recovered similarly to other common-cold patients without antibiotics. Recently, Kaiser et al. suggested that nasopharyn-geal carriage of H. influenzae, M. catarrhalis, or S. pneumoniae (in 20% of their patients) would indicate a bacterial infection in patients with symptoms and signs of the common cold (19). In these patients, antibiotic treatment shortened the duration of symptoms compared to the duration for culture-negative patients. By using serological techniques (6, 7, 18), we found evidence for these infections in only 1% of our patients. Even those common-cold patients who may have bacterial coinfec-tion seem to recover uneventfully without antibiotic treatment. Radiologically confirmed sinusitis is part of the normal clinical course of the common cold (9). A recent study showed that 77% of the patients with acute maxillary sinusitis improved substantially when they took a placebo. Amoxicillin did not influence the clinical course of rhinosinusitis (30). These find-ings agree with earlier studies showing that antibiotic treat-",
+      "type": "text"
+    },
+    {
+      "id": "91289e11-ad36-4665-a5be-75c54b8e679d",
+      "grounding": {
+        "box": {
+          "bottom": 0.980138897895813,
+          "left": 0.9505079388618469,
+          "right": 0.976904571056366,
+          "top": 0.49679505825042725
+        },
+        "page": 2
+      },
+      "markdown": "<a id='91289e11-ad36-4665-a5be-75c54b8e679d'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.",
+      "type": "marginalia"
+    },
+    {
+      "id": "a2c07d6e-73cf-4e84-bde6-854ac2ba0771",
+      "grounding": {
+        "box": {
+          "bottom": 0.06861133873462677,
+          "left": 0.07676143944263458,
+          "right": 0.10617430508136749,
+          "top": 0.05255666375160217
+        },
+        "page": 3
+      },
+      "markdown": "<a id='a2c07d6e-73cf-4e84-bde6-854ac2ba0771'></a>\n\n542",
+      "type": "marginalia"
+    },
+    {
+      "id": "4c576fcc-27de-4e68-aede-e6b2fc6b8568",
+      "grounding": {
+        "box": {
+          "bottom": 0.07004277408123016,
+          "left": 0.12660586833953857,
+          "right": 0.24718686938285828,
+          "top": 0.05233621597290039
+        },
+        "page": 3
+      },
+      "markdown": "<a id='4c576fcc-27de-4e68-aede-e6b2fc6b8568'></a>\n\nM\u00c4KEL\u00c4 ET AL.",
+      "type": "text"
+    },
+    {
+      "id": "a33c596a-94bf-40d7-b3c7-326f9886fb1b",
+      "grounding": {
+        "box": {
+          "bottom": 0.06988611817359924,
+          "left": 0.775290310382843,
+          "right": 0.8998333811759949,
+          "top": 0.051758598536252975
+        },
+        "page": 3
+      },
+      "markdown": "<a id='a33c596a-94bf-40d7-b3c7-326f9886fb1b'></a>\n\nJ. CLIN. MICROBIOL.",
+      "type": "text"
+    },
+    {
+      "id": "60e6cd98-49c7-4b37-a750-ab23b0e123a3",
+      "grounding": {
+        "box": {
+          "bottom": 0.32401788234710693,
+          "left": 0.07565595209598541,
+          "right": 0.4810938835144043,
+          "top": 0.08419694006443024
+        },
+        "page": 3
+      },
+      "markdown": "<a id='60e6cd98-49c7-4b37-a750-ab23b0e123a3'></a>\n\nment of the common cold is not beneficial. In spite of that, it has been shown that up to 60% of patients with common colds receive an antibiotic, which results in an estimated cost of $37.5 million per year in the United States (22). This treatment policy results in problems not only with the cost but, even more importantly, also with emerging antibiotic resistance of bacte-ria. An Icelandic study showed an obvious association of anti-biotic use in the community with the prevalence of penicillin-resistant pneumococci (2).\nEven though we used a large battery of diagnostic tests, there are some limitations to our study. To optimize the cost/ benefit ratio of virus isolation, patient samples were inoculated into two cell lines which pick up rhinoviruses well but other respiratory viruses only moderately. By using the best available cell line for each virus, it would be possible to reach an even higher yield of virus-positive cultures. Moreover, PCR tech-niques are often more sensitive than the conventional virus culture method for detection of microbes and PCR could be used for other viruses as well.",
+      "type": "text"
+    },
+    {
+      "id": "d0c4df9a-8283-462c-ac37-8ee1bf65152b",
+      "grounding": {
+        "box": {
+          "bottom": 0.44095543026924133,
+          "left": 0.07512536644935608,
+          "right": 0.48119446635246277,
+          "top": 0.32586827874183655
+        },
+        "page": 3
+      },
+      "markdown": "<a id='d0c4df9a-8283-462c-ac37-8ee1bf65152b'></a>\n\nIn routine clinical practice, there is no need to do etiological diagnosis of the common cold. The price is too high (in this study, $700/patient), and, except in the case of the rapid influ- enza A test, the results may not change the treatment. The implications of this study, nevertheless, are clear. The common cold is a viral illness for which the etiology can be shown in most cases. Bacterial coinfections are very rare. Antibiotic treatment is not necessary in otherwise healthy young adults with common colds.",
+      "type": "text"
+    },
+    {
+      "id": "62db0545-807f-4988-ad0e-16003a957a7c",
+      "grounding": {
+        "box": {
+          "bottom": 0.5301094055175781,
+          "left": 0.07502244412899017,
+          "right": 0.48122698068618774,
+          "top": 0.4488062560558319
+        },
+        "page": 3
+      },
+      "markdown": "<a id='62db0545-807f-4988-ad0e-16003a957a7c'></a>\n\n## ACKNOWLEDGMENTS\n\nThis work was supported by grants from the Academy of Finland, Turku University Foundation, Sigrid Juselius Foundation, and Glaxo Wellcome, UK.\nWe thank Matti Waris for providing data on virus infections in the community and for preparation of the graph.",
+      "type": "text"
+    },
+    {
+      "id": "3efdcf55-204e-4a5d-84a6-1575fe7eba3f",
+      "grounding": {
+        "box": {
+          "bottom": 0.7964577078819275,
+          "left": 0.07748913764953613,
+          "right": 0.4817273020744324,
+          "top": 0.5347620844841003
+        },
+        "page": 3
+      },
+      "markdown": "<a id='3efdcf55-204e-4a5d-84a6-1575fe7eba3f'></a>\n\n## REFERENCES\n\n1. Al-Nakib, W., and D. A. J. Tyrrell. 1988. Picornaviridae: Rhinoviruses\u2014common cold viruses, p. 723\u2013742. In E. H. Lennette, P. Halonen, and F. A. Murphy (ed.), Laboratory diagnosis of infectious diseases. Principle and practice. Springer-Verlag, New York, N.Y.\n2. Arason, V. A., K. G. Kristinsson, J. A. Sigurdsson, G. Stefansdottir, S. Molstad, and S. Gudmundsson. 1996. Do antimicrobials increase the carriage rate of penicillin resistant pneumococci in children? Cross sectional prevalence study. Br. Med. J. 313:387\u2013391.\n3. Arola, A., J. Santti, P. Halonen, O. Ruuskanen, and T. Hyypi\u00e4. 1996. Identification of enteroviruses in clinical specimens by competitive PCR followed by genetic typing using sequence analysis. J. Clin. Microbiol. 34:313\u2013318.\n4. Arruda, E., A. Pitk\u00e4ranta, T. J. Witek, Jr., C. A. Doyle, and F. G. Hayden. 1997. Frequency and natural history of rhinovirus infections in adults during autumn. J. Clin. Microbiol. 35:2864\u20132868.\n5. Arstila P. P., and P. E. Halonen. 1988. Direct antigen detection, p. 60\u201375. In E. H. Lennette, P. Halonen, and F. A. Murphy (ed.), Laboratory diagnosis of infectious diseases. Principle and practice. Springer-Verlag, New York, N.Y.\n6. Burman, L. A., M. Leinonen, and B. Trollfors. 1994. Use of serology to diagnose pneumonia caused by nonencapsulated Haemophilus influenzae and Moraxella catarrhalis. J. Infect. Dis. 170:220\u2013222.\n7. Ekman, M. R., M. Leinonen, H. Syrjala, E. Linnanmaki, P. Kujala, and P. Saikku. 1993. Evaluation of serological methods in the diagnosis of Chlamydia pneumoniae pneumonia during an epidemic in Finland. Eur. J. Clin. Microbiol. Infect. Dis. 12:756\u2013760.",
+      "type": "text"
+    },
+    {
+      "id": "24377c25-ad2f-46d7-a9c8-8753b92acce8",
+      "grounding": {
+        "box": {
+          "bottom": 0.7980118989944458,
+          "left": 0.4961882531642914,
+          "right": 0.9053932428359985,
+          "top": 0.08128458261489868
+        },
+        "page": 3
+      },
+      "markdown": "<a id='24377c25-ad2f-46d7-a9c8-8753b92acce8'></a>\n\n8. Englund, J. A., P. A. Piedra, A. Jewell, K. Patel, B. B. Baxter, and E. Whimbey. 1996. Rapid diagnosis of respiratory syncytial virus infections in immunocompromised adults. J. Clin. Microbiol. 34:1649-1653.\n9. Gwaltney, J. M., Jr., C. D. Phillips, R. D. Miller, and D. K. Riker. 1994. Computed tomographic study of the common cold. N. Engl. J. Med. 330: 25-30.\n10. Halonen, P., E. Rocha, J. Hierholzer, B. Holloway, T. Hyypia, P. Hurskainen, and M. Pallansch. 1995. Detection of enteroviruses and rhinoviruses in clinical specimens by PCR and liquid-phase hybridization. J. Clin. Microbiol. 33:648-653.\n11. Herzog, C., R. Berger, M. Fernex, K. Friesecke, L. Havas, M. Just, and U. C. Dubach. 1986. Intranasal interferon (rIFN-alpha A, Ro 22-8181) for contact prophylaxis against common cold: a randomized, double-blind and placebo- controlled field study. Antivir. Res. 6:171-176.\n12. Hietala, J., M. Uhari, and H. Tuokko. 1988. Antigen detection in the diag- nosis of viral infections. Scand. J. Infect. Dis. 20:595-599.\n13. Hovi, T., H. Kainulainen, B. Ziola, and A. Salmi. 1979. OC43 strain-related coronavirus antibodies in different age groups. J. Med. Virol. 3:313-320.\n14. Huovinen, P., R. Lahtonen, T. Ziegler, O. Meurman, K. Hakkarainen, A. Miettinen, P. Arstila, J. Eskola, and P. Saikku. 1989. Pharyngitis in adults: the presence and coexistence of viruses and bacterial organisms. Ann. Intern. Med. 110:612-616.\n15. Hyypia, T., P. Auvinen, and M. Maaronen. 1989. Polymerase chain reaction for human picornaviruses. J. Gen. Virol. 70:3261-3268.\n16. Hyypi\u00e4, T., T. Puhakka, O. Ruuskanen, M. J. M\u00e4kel\u00e4, A. Arola, and P. Arstila. Unpublished data.\n17. Jackson, G. G., and R. L. Muldoon. 1973. Viruses causing common respira- tory infections in man. J. Infect. Dis. 127:328-355.\n18. Jalonen, E., J. C. Paton, M. Koskela, Y. Kerttula, and M. Leinonen. 1989. Measurement of antibody responses to pneumolysin\u2014a promising method for the presumptive aetiological diagnosis of pneumococcal pneumonia. J. Infect. 19:127-134.\n19. Kaiser, L., D. Lew, B. Hirschel, R. Auckenthaler, A. Morabia, A. Heald, P. Benedict, F. Terrier, W. Wunderli, L. Matter, D. Germann, J. Voegeli, and H. Stalder. 1996. Effects of antibiotic treatment in the subset of common- cold patients who have bacteria in nasopharyngeal secretions. Lancet 347: 1507-1510.\n20. Koskinen, P., T. Vuorinen, and O. Meurman. 1987. Influenza A and B virus IgG and IgM serology by enzyme immunoassays. Epidemiol. Infect. 99:55- 64.\n21. Lehtomaki, K. 1988. Rapid etiological diagnosis of pneumonia in young men. Scand. J. Infect. Dis. Suppl. 54:1-56.\n22. Mainous, A. G., III, W. J. Hueston, and J. R. Clak. 1996. Antibiotics and upper respiratory infection: do some folks think there is a cure for the common cold? J. Fam. Pract. 42:357-361.\n23. Monto, A. S. 1994. Studies of the community and family: acute respiratory illness and infection. Epidemiol. Rev. 16:351-373.\n24. Monto, A. S., E. R. Bryan, and S. Ohmit. 1987. Rhinovirus infections in Tecumseh, Michigan: frequency of illness and number of serotypes. J. Infect. Dis. 156:43-49.\n25. Mossad, S. B., M. L. Macknin, S. V. Medendorp, and P. Mason. 1996. Zinc gluconate lozenges for treating the common cold. A randomized, double- blind, placebo-controlled study. Ann. Intern. Med. 125:81-88.\n26. Popow Kraupp, T., G. Kern, C. Binder, W. Tuma, M. Kundi, and C. Kunz. 1986. Detection of respiratory syncytial virus in nasopharyngeal secretions by enzyme-linked immunosorbent assay, indirect immunofluorescence, and vi- rus isolation: a comparative study. J. Med. Virol. 19:123-134.\n27. Putto, A., O. Ruuskanen, and O. Meurman. 1986. Fever in respiratory virus infections. Am. J. Dis. Child. 140:1159-1163.\n28. Ruuskanen, O., H. Nohynek, T. Ziegler, R. Capeding, H. Rikalainen, P. Huovinen, and M. Leinonen. 1992. Pneumonia in childhood: etiology and response to antimicrobial therapy. Eur. J. Clin. Microbiol. Infect. Dis. 11: 217-223.\n29. Saikku, P., P. Ruutu, M. Leinonen, J. Panelius, T. E. Tupasi, and J. T. Grayston. 1988. Acute lower-respiratory-tract infection associated with chla- mydial TWAR antibody in Filipino children. J. Infect. Dis. 158:1095-1097.\n30. van Buchem, F. L., J. A. Knottnerus, V. J. J. Schrijnemaekers, and F. M. Peeters. 1997. Primary-care-based randomised placebo-controlled trial of antibiotic treatment in acute maxillary sinusitis. Lancet 349:683-687.",
+      "type": "text"
+    },
+    {
+      "id": "b883eca5-a158-459f-a17c-f9d4db7f393e",
+      "grounding": {
+        "box": {
+          "bottom": 0.9810915589332581,
+          "left": 0.9493957161903381,
+          "right": 0.9782752394676208,
+          "top": 0.4961579442024231
+        },
+        "page": 3
+      },
+      "markdown": "<a id='b883eca5-a158-459f-a17c-f9d4db7f393e'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='988dfb59-1d60-42c9-b3d3-cff72fa0b915'></a>\n\nJOURNAL OF CLINICAL MICROBIOLOGY, Feb. 1998, p. 539-542\n0095-1137/98/$04.00+0\nCopyright \u00a9 1998, American Society for Microbiology\n\n<a id='abb142e1-1409-4641-92eb-cf6dabcba1a3'></a>\n\nVol. 36, No. 2\n\n<a id='1f73f9f3-6cc7-451f-af77-86b38ae2e552'></a>\n\nViruses and Bacteria in the Etiology of the Common Cold\n\n<a id='82557a7d-17e2-4022-bd30-d984b65cf696'></a>\n\nMIKA J. M\u00c4KEL\u00c4, 1,2* TUOMO PUHAKKA,\u00b9 OLLI RUUSKANEN,\u00b9 MAIJA LEINONEN,\u00b3\nPEKKA SAIKKU,\u00b3 MARKO KIMPIM\u00c4KI,\u2074 SOILE BLOMQVIST,\u2074\nTIMO HYYPI\u00c4,\u2075\u2020 AND PERTTI ARSTILA\u2075\n\n<a id='3259f4d7-b207-4b8d-9298-dce01b8a634f'></a>\n\nDepartments of Pediatrics,\u00b9 Pulmonary Diseases and Clinical Allergology,\u00b2 and Virology,\u2075\nUniversity of Turku, Turku, National Public Health Institute, Oulu,\u00b3 and\nDepartment of Virology, National Public Health Institute,\nHelsinki,\u2074 Finland\n\n<a id='fb2af352-f808-47b7-92db-7c2cb6caa538'></a>\n\nReceived 13 August 1997/Returned for modification 22 October 1997/Accepted 20 November 1997\n\n<a id='965af17c-3d38-49ca-a166-695f542c6782'></a>\n\nTwo hundred young adults with common colds were studied during a 10-month period. Virus culture, antigen detection, PCR, and serology with paired samples were used to identify the infection. Viral etiology was established for 138 of the 200 patients (69%). Rhinoviruses were detected in 105 patients, coronavirus OC43 or 229E infection was detected in 17, influenza A or B virus was detected in 12, and single infections with parainfluenza virus, respiratory syncytial virus, adenovirus, and enterovirus were found in 14 patients. Evidence for bacterial infection was found in seven patients. Four patients had a rise in antibodies against *Chlamydia pneumoniae*, one had a rise in antibodies against *Haemophilus influenzae*, one had a rise in antibodies against *Streptococcus pneumoniae*, and one had immunoglobulin M antibodies against *Mycoplasma pneumoniae*. The results show that although approximately 50% of episodes of the common cold were caused by rhinoviruses, the etiology can vary depending on the epidemiological situation with regard to circulating viruses. Bacterial infections were rare, supporting the concept that the common cold is almost exclusively a viral disease.\n\n<a id='38e14b57-9433-4509-a314-6a037c096cbb'></a>\n\nLarge studies, such as the Tecumseh Study, the Seattle Virus Watch, and the New York Virus Watch, performed during the 1960s clarified the crucial role of viruses in acute respiratory illness (23). Rhinoviruses were shown to be major causative agents in mild upper respiratory illness (the common cold), although the percentage of rhinoviruses detected in disease episodes was approximately 25% in the early studies (17). Rhinoviruses have been recently estimated to cause 34% of all respiratory illnesses (23). With the exception of coronaviruses, the proportion of other identified agents has been small, and in most studies the causative agent has not been identified in up to 50% of cases. Since there are several prospects for antiviral chemotherapy and new treatments for the common cold, investigation of the etiology of the disease is of importance. The present policy for treatment of the common cold should also be evaluated in view of the causative agents, since in the United States antibiotics are prescribed for 60% of patients (22).\n\n<a id='62df5eed-20b7-406a-bd14-36c2787c804d'></a>\n\nAlthough during the past two decades methods for virolog-ical diagnostics have greatly improved, no recent prospective study of the etiology of the common cold has been published. Most clinical trials dealing with therapy have not employed extensive testing of viruses causing the disease, which weakens their value (25). In order to optimize microbial detection, we have employed several virological and bacteriological methods to study 200 young adults with symptoms and signs of the common cold.\n\n<a id='e10c4d59-00d7-42a5-ae2a-6bfec96b1b94'></a>\n\n## MATERIALS AND METHODS\n\n**Study population and clinical samples.** Between October 1994 and November 1995, 200 young adults\u2014mostly students from the University of Turku\u2014were enrolled in the study. A study office was established at the Turku University\n\n<a id='3ba21831-cec6-47d1-a316-bb28ee8ba952'></a>\n\n* Corresponding author. Mailing address: Department of Pediatrics, University of Turku, Kiinamyllynkatu 4-8, 20520 Turku, Finland. Phone: 358-2-2611611. Fax: 358-2-2611460. E-mail: mika.makela@utu.fi.\n\u2020 Present address: Department of Virology, Haartman Institute, University of Helsinki, FIN-00014, Finland.\n\n<a id='065fe219-f1a6-4c1f-9772-159ff74c2aad'></a>\n\nHospital, which patients contacted within 24 to 48 h after the onset of symptoms of the common cold. For inclusion in the study, patients had to self-diagnose the common cold based on their earlier experience of symptoms. In addition, clinical evidence of acute rhinorrhea, nasal congestion, and/or sore throat was confirmed by the study physician. Patients with tonsillitis and with previous histories of allergic rhinitis, any chronic illness, or use of regular medication were excluded. One study physician (T.P.) and one nurse examined all the patients participating in the study. The patients were all Caucasian. The mean age of the patients was 24.0 years for male students (n = 59) and 24.1 years for female students (n = 141). The study protocol was accepted by the ethical committee of the Turku University Hospital. A written informed consent was obtained from each patient.\n\n<a id='3579c484-fcab-4235-b09c-550c1066ca42'></a>\n\nAt the first visit, a nasopharyngeal aspirate was collected with a disposable mucus extractor from all the patients. Disposable plastic gloves were used, and all surfaces were wiped with disinfectant to avoid possible contamination among the patients. Three sterile cotton swabs were dipped into the mucus, and these were then placed in separate viral transport medium tubes (0.5% bovine serum albumin and antibiotics in tryptose phosphate broth) for PCR assay and virus culture. The rest of the mucus was used for virus antigen detection. All virus culture tubes were immediately frozen at -70\u00b0C prior to subsequent processing. A blood sample was collected for serological analyses. The patients returned on day 7, when a new nasopharyngeal aspirate was taken. The final visit was on day 21, when the second blood sample was taken.\n\n<a id='4ce1051a-1a5c-4836-99a8-e77d3f802467'></a>\n\nVirus antigen detection, serology, and isolation. Viral antigens were detected by time-resolved fluoroimmunoassay for seven common respiratory viruses (adenovirus; respiratory syncytial virus [RSV]; parainfluenza virus types 1, 2, and 3; and influenza A and B viruses) as described previously (5). Serology for the same viruses was done with antigens prepared at the Department of Virology, University of Turku, by an enzyme immunoassay (EIA) as described previously (20).\n\n<a id='04051749-2e5c-423c-a306-bbf8f96d629d'></a>\n\nFor measuring coronavirus antibodies, crude EIA antigens (microsomal fraction) were prepared from coronavirus OC43- and 229E-infected cells and uninfected control antigen RD cells (human embryonal rhabdomyosarcoma cells) as described for mouse brain homogenate (13). Seeds for virus and cells (originally from the American Type Culture Collection) were kindly provided by K. Holmes (University of Health Sciences, Bethesda, Md.). Microtiter plates with 96 wells (Maxisorb; Nunc, Roskilde, Denmark) were coated with each of the antigens (2.5 \u00b5g/ml) and used in a standard single-dilution (1:200) EIA procedure with the sera in duplicate. Known positive and negative sera were used to control inter-assay variation. Criteria for a significant increase or decrease between the titers were determined in advance, and a twofold-or-greater difference in specific absorbances of paired sera was found to be a reliable marker. Assay of serial dilutions of the paired sera was used to clarify equivocal results.\n\n<a id='2734e942-49a1-4519-a408-180c36bf9873'></a>\n\nVirus culture was done by using the Ohio strain of HeLa cells and human foreskin fibroblasts according to routine procedure as described previously (1). Cell cultures exhibiting cytopathogenic effect were passaged once, and the supernatant of the cell culture fluid was further tested by antigen detection. Those samples positive by virus culture but negative by rhinovirus PCR were tested for acid lability.\n\n<a id='e0603087-29b5-406b-86fb-21885343a045'></a>\n\n539\n\n<a id='974b10b3-b32f-4ab5-8d77-2b82ce2df9ec'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.\n\n<a id='e80ebf2f-7b7b-4dc3-a66e-9b0a2201edfb'></a>\n\n540\n\n<a id='536e5abd-a637-4ae5-abed-b127e11953ff'></a>\n\nM\u00c4KEL\u00c4 ET AL.\n\n<a id='d56a43b5-c2a5-41ab-915f-eeaa1c9a1bed'></a>\n\nJ. CLIN. MICROBIOL.\n\n<a id='89791dc5-23fc-47a8-8a52-3de5ea7e835f'></a>\n\nTABLE 1. Microbiological findings for 200 patients with signs and symptoms of the common cold\n<table id=\"1-1\">\n<tr><td id=\"1-2\"></td><td id=\"1-3\" colspan=\"4\">No. (%) of patients positive by:</td><td id=\"1-4\" rowspan=\"2\">Total no. of patients (%)</td></tr>\n<tr><td id=\"1-5\">Organism or infection</td><td id=\"1-6\">Virus antigen detection</td><td id=\"1-7\">Virus culture</td><td id=\"1-8\">Rhinovirus PCR</td><td id=\"1-9\">Serology</td></tr>\n<tr><td id=\"1-a\">Rhinovirus</td><td id=\"1-b\"></td><td id=\"1-c\">80 (40)</td><td id=\"1-d\">103 (51.5)</td><td id=\"1-e\"></td><td id=\"1-f\">105 (52.5)</td></tr>\n<tr><td id=\"1-g\">Influenza A virus</td><td id=\"1-h\">6 (3)</td><td id=\"1-i\">3 (1.5)</td><td id=\"1-j\"></td><td id=\"1-k\">9 (4.5)</td><td id=\"1-l\">10 (5)</td></tr>\n<tr><td id=\"1-m\">Influenza B virus</td><td id=\"1-n\">2 (1)</td><td id=\"1-o\">1 (0.5)</td><td id=\"1-p\"></td><td id=\"1-q\">1 (0.5)</td><td id=\"1-r\">2 (1)</td></tr>\n<tr><td id=\"1-s\">Adenovirus</td><td id=\"1-t\">1 (0.5)</td><td id=\"1-u\"></td><td id=\"1-v\"></td><td id=\"1-w\">1 (0.5)</td><td id=\"1-x\">2(1)</td></tr>\n<tr><td id=\"1-y\">Parainfluenza virus type 1</td><td id=\"1-z\">1 (0.5)</td><td id=\"1-A\">1 (0.5)</td><td id=\"1-B\"></td><td id=\"1-C\"></td><td id=\"1-D\">1(0.5)</td></tr>\n<tr><td id=\"1-E\">Parainfluenza virus type 2</td><td id=\"1-F\"></td><td id=\"1-G\"></td><td id=\"1-H\"></td><td id=\"1-I\">2 (1)</td><td id=\"1-J\">2(1)</td></tr>\n<tr><td id=\"1-K\">Parainfluenza virus type 3</td><td id=\"1-L\">3 (1.5)</td><td id=\"1-M\">3 (1.5)</td><td id=\"1-N\"></td><td id=\"1-O\"></td><td id=\"1-P\">3(1.5)</td></tr>\n<tr><td id=\"1-Q\">Parainfluenza virus type 1 or 3</td><td id=\"1-R\"></td><td id=\"1-S\"></td><td id=\"1-T\"></td><td id=\"1-U\">5 (2.5)</td><td id=\"1-V\">1(0.5)</td></tr>\n<tr><td id=\"1-W\">RSV</td><td id=\"1-X\">4(2)</td><td id=\"1-Y\">3 (1.5)</td><td id=\"1-Z\"></td><td id=\"1-10\">3 (1.5)</td><td id=\"1-11\">4 (2)</td></tr>\n<tr><td id=\"1-12\">Enterovirus</td><td id=\"1-13\"></td><td id=\"1-14\"></td><td id=\"1-15\"></td><td id=\"1-16\">1 (0.5)</td><td id=\"1-17\">1 (0.5)</td></tr>\n<tr><td id=\"1-18\">Coronavirus OC43</td><td id=\"1-19\"></td><td id=\"1-1a\"></td><td id=\"1-1b\"></td><td id=\"1-1c\">7 (3.5)</td><td id=\"1-1d\">7 (3.5)</td></tr>\n<tr><td id=\"1-1e\">Coronavirus 229E</td><td id=\"1-1f\"></td><td id=\"1-1g\"></td><td id=\"1-1h\"></td><td id=\"1-1i\">10 (5)</td><td id=\"1-1j\">10 (5)</td></tr>\n<tr><td id=\"1-1k\">C. pneumoniae</td><td id=\"1-1l\"></td><td id=\"1-1m\"></td><td id=\"1-1n\"></td><td id=\"1-1o\">4 (2)</td><td id=\"1-1p\">4 (2)</td></tr>\n<tr><td id=\"1-1q\">M. pneumoniae</td><td id=\"1-1r\"></td><td id=\"1-1s\"></td><td id=\"1-1t\"></td><td id=\"1-1u\">1 (0.5)</td><td id=\"1-1v\">1(0.5)</td></tr>\n<tr><td id=\"1-1w\">S. pneumoniae</td><td id=\"1-1x\"></td><td id=\"1-1y\"></td><td id=\"1-1z\"></td><td id=\"1-1A\">1 (0.5)</td><td id=\"1-1B\">1(0.5)</td></tr>\n<tr><td id=\"1-1C\">H. influenzae</td><td id=\"1-1D\"></td><td id=\"1-1E\"></td><td id=\"1-1F\"></td><td id=\"1-1G\">1 (0.5)</td><td id=\"1-1H\">1(0.5)</td></tr>\n<tr><td id=\"1-1I\">M. catarrhalis</td><td id=\"1-1J\"></td><td id=\"1-1K\"></td><td id=\"1-1L\"></td><td id=\"1-1M\"></td><td id=\"1-1N\">0</td></tr>\n<tr><td id=\"1-1O\">Double viral infection</td><td id=\"1-1P\"></td><td id=\"1-1Q\"></td><td id=\"1-1R\"></td><td id=\"1-1S\"></td><td id=\"1-1T\">10 (5)</td></tr>\n<tr><td id=\"1-1U\">Viral and bacterial infections</td><td id=\"1-1V\"></td><td id=\"1-1W\"></td><td id=\"1-1X\"></td><td id=\"1-1Y\"></td><td id=\"1-1Z\">6 (3)</td></tr>\n<tr><td id=\"1-20\">Total</td><td id=\"1-21\">17 (8.5)</td><td id=\"1-22\">91 (45.5)</td><td id=\"1-23\">103 (51.5)</td><td id=\"1-24\">46 (23)</td><td id=\"1-25\">139 (69.5)</td></tr>\n</table>\n\n<a id='a64d8d65-3234-4994-97db-72ddf414ecd1'></a>\n\nRhinovirus reverse transcription-PCR. Nucleic acids were isolated from the nasopharyngeal samples by using proteinase K-sodium dodecyl sulfate treatment followed by phenol extraction and ethanol precipitation. For detection of rhinoviruses, two reverse transcription-PCR assays were used (16). The first one utilizes primers from the conserved 5' noncoding region and the VP2 capsid protein coding region of the viral genome (3), while the other test uses two primers from the 5' noncoding region (10, 15).\n\n<a id='6fbf1242-b3cd-4dba-bc21-7b2702860e25'></a>\n\nBacterial culture and antibody assays. For detection of beta-hemolytic streptococci, swabs dipped into nasopharyngeal mucus were inoculated onto blood agar plates and incubated for 24 h in an atmosphere of 5% carbon dioxide at 37\u00b0C. Those plates showing uncertain growth were incubated another 24 h.\n\n<a id='aff4abe2-ff68-469f-b90a-1190c33523d7'></a>\n\nImmunoglobulin G (IgG) antibodies to pneumococcal pneumolysin and C-polysaccharide were measured by EIA as described earlier, and a twofold-or-higher rise in antibody levels between paired sera was considered diagnostic (18). Antibodies to nontypeable *Haemophilus influenzae* and *Moraxella catarrhalis* were measured by EIA using whole bacterial cell antigen (a mixture of 10 different strains), and a threefold-or-higher antibody rise between paired sera was considered diagnostic for acute infection (6). IgG and IgM antibodies to chlamydial species were measured by a microimmunofluorescence method by using elementary bodies of *Chlamydia pneumoniae* Kajaani 7 and *Chlamydia trachomatis* 1.2 as antigens as described elsewhere (7), except that the sera were incubated overnight. The presence of IgM antibodies and/or a fourfold-or-greater change in antibody levels between paired sera was considered diagnostic for acute chlamydial infection. These antibody assays have been successfully used in the etiological diagnosis of pneumonia in children both in industrialized and developing countries (28, 29).\n\n<a id='54b486b0-4cc1-456e-a1ec-30222ad02486'></a>\n\nMycoplasma IgM antibodies from the second serum samples taken on day 21 were measured with a commercial kit (Platelia; Sanofi Diagnostics Pasteur S.A., Marnes la Coquette, France) routinely used in our virology laboratory.\n\n<a id='73a7a7b4-e550-4660-9466-f6311056d7c5'></a>\n\n## RESULTS\nVirological findings. Evidence for virus infection was found in 138 of the 200 patients (69%). Rhinovirus was found in 105 patients (52.5%) by virus culture or PCR. The percentage of rhinoviruses was the same in both males and females. Overall, results by virus culture and PCR had a high level of agreement: 78% of the PCR-positive samples were also culture positive (80 of 103 patients). Coronaviruses were the second most common group of causative agents and were detected in 17 patients by serology. A total of 12 patients had influenza A or B virus infection (Table 1).\n\n<a id='a0e933f4-36e6-4c73-9c2f-eb0b6941d2fb'></a>\n\nIn addition to the 80 patients culture-positive for rhinovi-\nruses, 11 nasopharyngeal-aspirate samples were positive by\nvirus culture. Three cases of influenza A were detected by\n\n<a id='2f4272a5-3385-4d21-b493-24db297f046b'></a>\n\nserology only, whereas the other seven patients were positive by antigen detection, culture, or serology. For the other respiratory viruses, five patients remained negative by culture or antigen detection but paired serum antibodies showed a rise. In addition, coronaviruses were detected by serology only. Taken together, virus culture was positive for the respiratory viruses in 91 cases (45.5%), virus antigen detection gave positive results in 17 cases (8.5%), and serology gave a diagnosis for 39 patients (19.5%) (Table 1).\n\n<a id='a073d802-ddd1-44dd-9709-54675a73a094'></a>\n\nEvidence of a double viral infection was found in 10 patients.\nOf these patients, three had both rhinovirus and coronavirus\nOC43, two had rhinovirus and influenza A virus, two had\nrhinovirus and parainfluenza virus type 2, one had rhinovirus\nand adenovirus, one had rhinovirus and influenza B virus, and\none had rhinovirus and enterovirus infections.\n\n<a id='1d362fb9-fa5a-4285-875e-68afa6332569'></a>\n\nFigure 1a shows the number of virus infections detected monthly and the total number of recruited patients. Figure 1b presents numbers of rhino- and coronavirus infections detected in the study population. An outbreak of rhinoviruses occurred in the fall, when 92% (33 of 36) of the patients recruited into the study had rhinovirus infections. Figure 1c shows the epidemiology of other respiratory viruses in the community during the study period. Influenza A and B virus infections peaked in March, followed by parainfluenza virus type 3 infections in April and RSV infections in May. Adenoviruses were endemic.\n\n<a id='8003df12-95e0-4aad-ae44-447ce897ce73'></a>\n\nBacteriological findings. Serological assays suggested bacte-rial infections in seven patients. Of these, four patients had a rise in IgG antibodies against C. pneumoniae; three of these patients were also rhinovirus positive, and one patient was positive for both rhino- and coronaviruses. One patient had a rise in antibodies against Streptococcus pneumoniae, one pa-tient had a rise in antibodies against both H. influenzae and coronavirus, and one patient had serological evidence of both mycoplasma and coronavirus infections. None of the patients had beta-hemolytic group A Streptococcus in their nasopharyn-ges.\n\n<a id='42ab8321-5f9a-44cd-9579-07a1fb32f4c8'></a>\n\nFor monitoring complications of the common cold, patients\nwere examined clinically on days 1, 7, and 21 and according to\n\n<a id='84d4b9bf-2ec0-41da-abf9-5f4119e04458'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.\n\n<a id='9342d73f-324c-421e-9565-57c8630e7442'></a>\n\nVOL. 36, 1998\n\n<a id='ac44c6bc-c649-4db7-b9a8-ff4ddef1ec0d'></a>\n\nETIOLOGY OF COMMON COLD\n\n<a id='5b093aaf-ee63-4452-9476-3602f4f39080'></a>\n\n541\n\n<a id='d8690127-1e9e-4935-b593-09b577727d0b'></a>\n\n<::chart: The figure displays three panels (a, b, c) showing the monthly occurrence of viral infections and patient recruitment from November to November, with a study break indicated between June and August. The x-axis for all panels represents months: NOV, DEC, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV. The y-axis represents counts of patients or infections. A legend indicates that white bars represent 'Patients' and black bars represent 'Virus positive'.\n\nPanel (a) shows the monthly occurrence of confirmed viral infections (virus positive) and total number of recruited patients. The y-axis ranges from 0 to 40.\n- NOV: Patients ~18, Virus positive ~12\n- DEC: Patients ~10, Virus positive ~6\n- JAN: Patients ~15, Virus positive ~10\n- FEB: Patients ~30, Virus positive ~12\n- MAR: Patients ~40, Virus positive ~28\n- APR: Patients ~35, Virus positive ~32\n- MAY: Patients ~12, Virus positive ~6\n- JUN: Patients ~8, Virus positive ~4\n- JUL: Study break\n- AUG: Patients ~10, Virus positive ~6\n- SEP: Patients ~12, Virus positive ~8\n- OCT: Patients ~15, Virus positive ~10\n- NOV: Patients ~8, Virus positive ~4\n\nPanel (b) shows the monthly occurrence of rhino- and coronavirus infections in the study population.\n- Rhinovirus (y-axis 0-20):\n  - NOV: ~14\n  - DEC: ~6\n  - JAN: ~8\n  - FEB: ~8\n  - MAR: ~16\n  - APR: ~22\n  - MAY: ~8\n  - JUN: ~4\n  - JUL: Study break\n  - AUG: ~8\n  - SEP: ~10\n  - OCT: ~16\n  - NOV: ~12\n- Coronavirus (y-axis 0-10):\n  - NOV: ~0\n  - DEC: ~2\n  - JAN: ~4\n  - FEB: ~6\n  - MAR: ~8\n  - APR: ~6\n  - MAY: ~4\n  - JUN: ~2\n  - JUL: Study break\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~0\n\nPanel (c) shows the monthly occurrences of other common respiratory viruses circulating in the community.\n- RSV (y-axis 0-60):\n  - NOV: ~0\n  - DEC: ~2\n  - JAN: ~4\n  - FEB: ~10\n  - MAR: ~35\n  - APR: ~50\n  - MAY: ~45\n  - JUN: ~5\n  - JUL: ~2\n  - AUG: ~4\n  - SEP: ~8\n  - OCT: ~25\n  - NOV: ~10\n- Influenza A and B virus (y-axis 0-40):\n  - NOV: ~0\n  - DEC: ~0\n  - JAN: ~2\n  - FEB: ~18\n  - MAR: ~35\n  - APR: ~15\n  - MAY: ~5\n  - JUN: ~0\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~20\n  - NOV: ~0\n- Parainfluenza virus type 3 (y-axis 0-20):\n  - NOV: ~0\n  - DEC: ~0\n  - JAN: ~4\n  - FEB: ~6\n  - MAR: ~8\n  - APR: ~12\n  - MAY: ~6\n  - JUN: ~2\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~0\n- Adenovirus (y-axis 0-20):\n  - NOV: ~8\n  - DEC: ~10\n  - JAN: ~12\n  - FEB: ~6\n  - MAR: ~12\n  - APR: ~12\n  - MAY: ~4\n  - JUN: ~2\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~8\n\nFIG. 1. (a) Monthly occurrence of confirmed viral infections (virus positive) and total number of recruited patients. (b) Monthly occurrence of rhino- and coronavirus infections in the study population. (c) Monthly occurrences of other common respiratory viruses circulating in the community. Infection was diagnosed at the Department of Virology, Turku University, with specimens derived mainly from pediatric patients.::>\n\n<a id='776c8099-8ac4-4d01-9aab-f10d508d7aec'></a>\n\nthe patients' need. One patient had acute otitis media and was treated with antibiotics. This patient had a serological rise in antibodies against H. influenzae and coronavirus. Three patients received antibiotics for urinary tract infections, and one patient received antibiotics for prophylaxis after a dental operation during days 7 to 21. With the exception of these five patients, all recovered uneventfully without antibiotics, including those patients with a serological indication of bacterial infection.\n\n<a id='4b2c0852-646b-4c6e-88d0-f11cb4bedd67'></a>\n\n## DISCUSSION\n\nViral etiology of the common cold was demonstrated for 69% of the 200 patients included in this study. In large respiratory virus studies carried out in the 1960s, the causative agent\n\n<a id='89620420-5148-4617-a260-343514309eae'></a>\n\nwas detected in 22 to 30% of the patients with acute respira-\ntory symptoms (23, 24). Surprisingly, there have been no recent\ninvestigations using modern virological techniques lasting long\nenough to cover several virus outbreaks. We recruited patients\nfor 10 months. This period included outbreaks of five different\nrespiratory viruses (Fig. 1). Patients were not admitted to the\nstudy during June, July, and August, which are summer holiday\nmonths in Finland and in which only a few respiratory infec-\ntions occur.\n\n<a id='96c627a1-fc4c-4179-89ad-76ab0d94d62b'></a>\n\nThis study shows that in addition to virus culture, serology and PCR techniques are needed to detect the maximal number of infections. Although virus culture remains the \"gold stan-dard\" (yield, 45.5% with only two cell lines), more sensitive PCR methods, especially for rhinoviruses (yield, 51.5%), are increasingly used in routine diagnostics. Interestingly, the rapid test for seven different virus antigens was positive for only 9% of the patients. This observation agrees with earlier studies with adults (14, 21). For children, virus antigen detection is often the method of choice (12, 26). Virus antigen tests are sensitive for RSV and adenoviruses, which are common in young children but rare in adults, as seen also in this study (12, 27). Another factor contributing to the low yield of antigen-positive samples may be that adults shed less virus than chil-dren (8, 23).\n\n<a id='184b59da-8ac4-40a5-8482-4e9c243057e8'></a>\n\nRhinoviruses were the causative agent of the common cold in half of the cases in this investigation. During the 2-month outbreak during the fall, 92% of the patients had rhinovirus-induced illness. This observation agrees with results of a recent study, in which rhinovirus was detected in 276 of 346 (80%) common-cold patients during a 4-month epidemic fall season (4). Herzog and coworkers detected rhinoviruses in 55% of 122 patients with acute upper respiratory tract infections (11). Although rhinoviruses are the most common cause of the common cold, it must be stressed that almost half of the cases are caused by other viruses. We detected rhinoviruses, RSVs, influenza A viruses, adenoviruses, and parainfluenza type 3 viruses circulating in the community at the same time (Fig. 1c). These infections are often clinically indistinguishable in adults. This observation emphasizes the need to identify the specific virus in studies of specific antivirals.\n\n<a id='18a651cc-607a-4bc5-8f1b-ed5bb7c15a71'></a>\n\nWe studied bacterial cultures performed with nasopharyn-geal samples for beta-hemolytic streptococci and serologic re-sponses for five additional bacteria. None of the patients had beta-hemolytic group A Streptococcus in their nasopharynges. Interestingly, we found serological evidence of concomitant bacterial infection in seven patients. One of them, with H. influenzae infection, developed acute otitis media. The other patients, with infections with S. pneumoniae (n = 1), Myco-plasma pneumoniae (n = 1), and C. pneumoniae (n = 4), recovered similarly to other common-cold patients without antibiotics. Recently, Kaiser et al. suggested that nasopharyn-geal carriage of H. influenzae, M. catarrhalis, or S. pneumoniae (in 20% of their patients) would indicate a bacterial infection in patients with symptoms and signs of the common cold (19). In these patients, antibiotic treatment shortened the duration of symptoms compared to the duration for culture-negative patients. By using serological techniques (6, 7, 18), we found evidence for these infections in only 1% of our patients. Even those common-cold patients who may have bacterial coinfec-tion seem to recover uneventfully without antibiotic treatment. Radiologically confirmed sinusitis is part of the normal clinical course of the common cold (9). A recent study showed that 77% of the patients with acute maxillary sinusitis improved substantially when they took a placebo. Amoxicillin did not influence the clinical course of rhinosinusitis (30). These find-ings agree with earlier studies showing that antibiotic treat-\n\n<a id='91289e11-ad36-4665-a5be-75c54b8e679d'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.\n\n<a id='a2c07d6e-73cf-4e84-bde6-854ac2ba0771'></a>\n\n542\n\n<a id='4c576fcc-27de-4e68-aede-e6b2fc6b8568'></a>\n\nM\u00c4KEL\u00c4 ET AL.\n\n<a id='a33c596a-94bf-40d7-b3c7-326f9886fb1b'></a>\n\nJ. CLIN. MICROBIOL.\n\n<a id='60e6cd98-49c7-4b37-a750-ab23b0e123a3'></a>\n\nment of the common cold is not beneficial. In spite of that, it has been shown that up to 60% of patients with common colds receive an antibiotic, which results in an estimated cost of $37.5 million per year in the United States (22). This treatment policy results in problems not only with the cost but, even more importantly, also with emerging antibiotic resistance of bacte-ria. An Icelandic study showed an obvious association of anti-biotic use in the community with the prevalence of penicillin-resistant pneumococci (2).\nEven though we used a large battery of diagnostic tests, there are some limitations to our study. To optimize the cost/ benefit ratio of virus isolation, patient samples were inoculated into two cell lines which pick up rhinoviruses well but other respiratory viruses only moderately. By using the best available cell line for each virus, it would be possible to reach an even higher yield of virus-positive cultures. Moreover, PCR tech-niques are often more sensitive than the conventional virus culture method for detection of microbes and PCR could be used for other viruses as well.\n\n<a id='d0c4df9a-8283-462c-ac37-8ee1bf65152b'></a>\n\nIn routine clinical practice, there is no need to do etiological diagnosis of the common cold. The price is too high (in this study, $700/patient), and, except in the case of the rapid influ- enza A test, the results may not change the treatment. The implications of this study, nevertheless, are clear. The common cold is a viral illness for which the etiology can be shown in most cases. Bacterial coinfections are very rare. Antibiotic treatment is not necessary in otherwise healthy young adults with common colds.\n\n<a id='62db0545-807f-4988-ad0e-16003a957a7c'></a>\n\n## ACKNOWLEDGMENTS\n\nThis work was supported by grants from the Academy of Finland, Turku University Foundation, Sigrid Juselius Foundation, and Glaxo Wellcome, UK.\nWe thank Matti Waris for providing data on virus infections in the community and for preparation of the graph.\n\n<a id='3efdcf55-204e-4a5d-84a6-1575fe7eba3f'></a>\n\n## REFERENCES\n\n1. Al-Nakib, W., and D. A. J. Tyrrell. 1988. Picornaviridae: Rhinoviruses\u2014common cold viruses, p. 723\u2013742. In E. H. Lennette, P. Halonen, and F. A. Murphy (ed.), Laboratory diagnosis of infectious diseases. Principle and practice. Springer-Verlag, New York, N.Y.\n2. Arason, V. A., K. G. Kristinsson, J. A. Sigurdsson, G. Stefansdottir, S. Molstad, and S. Gudmundsson. 1996. Do antimicrobials increase the carriage rate of penicillin resistant pneumococci in children? Cross sectional prevalence study. Br. Med. J. 313:387\u2013391.\n3. Arola, A., J. Santti, P. Halonen, O. Ruuskanen, and T. Hyypi\u00e4. 1996. Identification of enteroviruses in clinical specimens by competitive PCR followed by genetic typing using sequence analysis. J. Clin. Microbiol. 34:313\u2013318.\n4. Arruda, E., A. Pitk\u00e4ranta, T. J. Witek, Jr., C. A. Doyle, and F. G. Hayden. 1997. Frequency and natural history of rhinovirus infections in adults during autumn. J. Clin. Microbiol. 35:2864\u20132868.\n5. Arstila P. P., and P. E. Halonen. 1988. Direct antigen detection, p. 60\u201375. In E. H. Lennette, P. Halonen, and F. A. Murphy (ed.), Laboratory diagnosis of infectious diseases. Principle and practice. Springer-Verlag, New York, N.Y.\n6. Burman, L. A., M. Leinonen, and B. Trollfors. 1994. Use of serology to diagnose pneumonia caused by nonencapsulated Haemophilus influenzae and Moraxella catarrhalis. J. Infect. Dis. 170:220\u2013222.\n7. Ekman, M. R., M. Leinonen, H. Syrjala, E. Linnanmaki, P. Kujala, and P. Saikku. 1993. Evaluation of serological methods in the diagnosis of Chlamydia pneumoniae pneumonia during an epidemic in Finland. Eur. J. Clin. Microbiol. Infect. Dis. 12:756\u2013760.\n\n<a id='24377c25-ad2f-46d7-a9c8-8753b92acce8'></a>\n\n8. Englund, J. A., P. A. Piedra, A. Jewell, K. Patel, B. B. Baxter, and E. Whimbey. 1996. Rapid diagnosis of respiratory syncytial virus infections in immunocompromised adults. J. Clin. Microbiol. 34:1649-1653.\n9. Gwaltney, J. M., Jr., C. D. Phillips, R. D. Miller, and D. K. Riker. 1994. Computed tomographic study of the common cold. N. Engl. J. Med. 330: 25-30.\n10. Halonen, P., E. Rocha, J. Hierholzer, B. Holloway, T. Hyypia, P. Hurskainen, and M. Pallansch. 1995. Detection of enteroviruses and rhinoviruses in clinical specimens by PCR and liquid-phase hybridization. J. Clin. Microbiol. 33:648-653.\n11. Herzog, C., R. Berger, M. Fernex, K. Friesecke, L. Havas, M. Just, and U. C. Dubach. 1986. Intranasal interferon (rIFN-alpha A, Ro 22-8181) for contact prophylaxis against common cold: a randomized, double-blind and placebo- controlled field study. Antivir. Res. 6:171-176.\n12. Hietala, J., M. Uhari, and H. Tuokko. 1988. Antigen detection in the diag- nosis of viral infections. Scand. J. Infect. Dis. 20:595-599.\n13. Hovi, T., H. Kainulainen, B. Ziola, and A. Salmi. 1979. OC43 strain-related coronavirus antibodies in different age groups. J. Med. Virol. 3:313-320.\n14. Huovinen, P., R. Lahtonen, T. Ziegler, O. Meurman, K. Hakkarainen, A. Miettinen, P. Arstila, J. Eskola, and P. Saikku. 1989. Pharyngitis in adults: the presence and coexistence of viruses and bacterial organisms. Ann. Intern. Med. 110:612-616.\n15. Hyypia, T., P. Auvinen, and M. Maaronen. 1989. Polymerase chain reaction for human picornaviruses. J. Gen. Virol. 70:3261-3268.\n16. Hyypi\u00e4, T., T. Puhakka, O. Ruuskanen, M. J. M\u00e4kel\u00e4, A. Arola, and P. Arstila. Unpublished data.\n17. Jackson, G. G., and R. L. Muldoon. 1973. Viruses causing common respira- tory infections in man. J. Infect. Dis. 127:328-355.\n18. Jalonen, E., J. C. Paton, M. Koskela, Y. Kerttula, and M. Leinonen. 1989. Measurement of antibody responses to pneumolysin\u2014a promising method for the presumptive aetiological diagnosis of pneumococcal pneumonia. J. Infect. 19:127-134.\n19. Kaiser, L., D. Lew, B. Hirschel, R. Auckenthaler, A. Morabia, A. Heald, P. Benedict, F. Terrier, W. Wunderli, L. Matter, D. Germann, J. Voegeli, and H. Stalder. 1996. Effects of antibiotic treatment in the subset of common- cold patients who have bacteria in nasopharyngeal secretions. Lancet 347: 1507-1510.\n20. Koskinen, P., T. Vuorinen, and O. Meurman. 1987. Influenza A and B virus IgG and IgM serology by enzyme immunoassays. Epidemiol. Infect. 99:55- 64.\n21. Lehtomaki, K. 1988. Rapid etiological diagnosis of pneumonia in young men. Scand. J. Infect. Dis. Suppl. 54:1-56.\n22. Mainous, A. G., III, W. J. Hueston, and J. R. Clak. 1996. Antibiotics and upper respiratory infection: do some folks think there is a cure for the common cold? J. Fam. Pract. 42:357-361.\n23. Monto, A. S. 1994. Studies of the community and family: acute respiratory illness and infection. Epidemiol. Rev. 16:351-373.\n24. Monto, A. S., E. R. Bryan, and S. Ohmit. 1987. Rhinovirus infections in Tecumseh, Michigan: frequency of illness and number of serotypes. J. Infect. Dis. 156:43-49.\n25. Mossad, S. B., M. L. Macknin, S. V. Medendorp, and P. Mason. 1996. Zinc gluconate lozenges for treating the common cold. A randomized, double- blind, placebo-controlled study. Ann. Intern. Med. 125:81-88.\n26. Popow Kraupp, T., G. Kern, C. Binder, W. Tuma, M. Kundi, and C. Kunz. 1986. Detection of respiratory syncytial virus in nasopharyngeal secretions by enzyme-linked immunosorbent assay, indirect immunofluorescence, and vi- rus isolation: a comparative study. J. Med. Virol. 19:123-134.\n27. Putto, A., O. Ruuskanen, and O. Meurman. 1986. Fever in respiratory virus infections. Am. J. Dis. Child. 140:1159-1163.\n28. Ruuskanen, O., H. Nohynek, T. Ziegler, R. Capeding, H. Rikalainen, P. Huovinen, and M. Leinonen. 1992. Pneumonia in childhood: etiology and response to antimicrobial therapy. Eur. J. Clin. Microbiol. Infect. Dis. 11: 217-223.\n29. Saikku, P., P. Ruutu, M. Leinonen, J. Panelius, T. E. Tupasi, and J. T. Grayston. 1988. Acute lower-respiratory-tract infection associated with chla- mydial TWAR antibody in Filipino children. J. Infect. Dis. 158:1095-1097.\n30. van Buchem, F. L., J. A. Knottnerus, V. J. J. Schrijnemaekers, and F. M. Peeters. 1997. Primary-care-based randomised placebo-controlled trial of antibiotic treatment in acute maxillary sinusitis. Lancet 349:683-687.\n\n<a id='b883eca5-a158-459f-a17c-f9d4db7f393e'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.",
+  "metadata": {
+    "credit_usage": 12.0,
+    "duration_ms": 88103,
+    "filename": "Viruses_and_Bacteria_in_the_Etiology_of_the_Common_Cold.pdf",
+    "job_id": "kzkj8f2cx1o4t1rwi6haastcl",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 4,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "988dfb59-1d60-42c9-b3d3-cff72fa0b915",
+        "abb142e1-1409-4641-92eb-cf6dabcba1a3",
+        "1f73f9f3-6cc7-451f-af77-86b38ae2e552",
+        "82557a7d-17e2-4022-bd30-d984b65cf696",
+        "3259f4d7-b207-4b8d-9298-dce01b8a634f",
+        "fb2af352-f808-47b7-92db-7c2cb6caa538",
+        "965af17c-3d38-49ca-a166-695f542c6782",
+        "38e14b57-9433-4509-a314-6a037c096cbb",
+        "62df5eed-20b7-406a-bd14-36c2787c804d",
+        "e10c4d59-00d7-42a5-ae2a-6bfec96b1b94",
+        "3ba21831-cec6-47d1-a316-bb28ee8ba952",
+        "065fe219-f1a6-4c1f-9772-159ff74c2aad",
+        "3579c484-fcab-4235-b09c-550c1066ca42",
+        "4ce1051a-1a5c-4836-99a8-e77d3f802467",
+        "04051749-2e5c-423c-a306-bbf8f96d629d",
+        "2734e942-49a1-4519-a408-180c36bf9873",
+        "e0603087-29b5-406b-86fb-21885343a045",
+        "974b10b3-b32f-4ab5-8d77-2b82ce2df9ec",
+        "e80ebf2f-7b7b-4dc3-a66e-9b0a2201edfb",
+        "536e5abd-a637-4ae5-abed-b127e11953ff",
+        "d56a43b5-c2a5-41ab-915f-eeaa1c9a1bed",
+        "89791dc5-23fc-47a8-8a52-3de5ea7e835f",
+        "a64d8d65-3234-4994-97db-72ddf414ecd1",
+        "6fbf1242-b3cd-4dba-bc21-7b2702860e25",
+        "aff4abe2-ff68-469f-b90a-1190c33523d7",
+        "54b486b0-4cc1-456e-a1ec-30222ad02486",
+        "73a7a7b4-e550-4660-9466-f6311056d7c5",
+        "a0e933f4-36e6-4c73-9c2f-eb0b6941d2fb",
+        "2f4272a5-3385-4d21-b493-24db297f046b",
+        "a073d802-ddd1-44dd-9709-54675a73a094",
+        "1d362fb9-fa5a-4285-875e-68afa6332569",
+        "8003df12-95e0-4aad-ae44-447ce897ce73",
+        "42ab8321-5f9a-44cd-9579-07a1fb32f4c8",
+        "84d4b9bf-2ec0-41da-abf9-5f4119e04458",
+        "9342d73f-324c-421e-9565-57c8630e7442",
+        "ac44c6bc-c649-4db7-b9a8-ff4ddef1ec0d",
+        "5b093aaf-ee63-4452-9476-3602f4f39080",
+        "d8690127-1e9e-4935-b593-09b577727d0b",
+        "776c8099-8ac4-4d01-9aab-f10d508d7aec",
+        "4b2c0852-646b-4c6e-88d0-f11cb4bedd67",
+        "89620420-5148-4617-a260-343514309eae",
+        "96c627a1-fc4c-4179-89ad-76ab0d94d62b",
+        "184b59da-8ac4-40a5-8482-4e9c243057e8",
+        "18a651cc-607a-4bc5-8f1b-ed5bb7c15a71",
+        "91289e11-ad36-4665-a5be-75c54b8e679d",
+        "a2c07d6e-73cf-4e84-bde6-854ac2ba0771",
+        "4c576fcc-27de-4e68-aede-e6b2fc6b8568",
+        "a33c596a-94bf-40d7-b3c7-326f9886fb1b",
+        "60e6cd98-49c7-4b37-a750-ab23b0e123a3",
+        "d0c4df9a-8283-462c-ac37-8ee1bf65152b",
+        "62db0545-807f-4988-ad0e-16003a957a7c",
+        "3efdcf55-204e-4a5d-84a6-1575fe7eba3f",
+        "24377c25-ad2f-46d7-a9c8-8753b92acce8",
+        "b883eca5-a158-459f-a17c-f9d4db7f393e"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='988dfb59-1d60-42c9-b3d3-cff72fa0b915'></a>\n\nJOURNAL OF CLINICAL MICROBIOLOGY, Feb. 1998, p. 539-542\n0095-1137/98/$04.00+0\nCopyright \u00a9 1998, American Society for Microbiology\n\n<a id='abb142e1-1409-4641-92eb-cf6dabcba1a3'></a>\n\nVol. 36, No. 2\n\n<a id='1f73f9f3-6cc7-451f-af77-86b38ae2e552'></a>\n\nViruses and Bacteria in the Etiology of the Common Cold\n\n<a id='82557a7d-17e2-4022-bd30-d984b65cf696'></a>\n\nMIKA J. M\u00c4KEL\u00c4, 1,2* TUOMO PUHAKKA,\u00b9 OLLI RUUSKANEN,\u00b9 MAIJA LEINONEN,\u00b3\nPEKKA SAIKKU,\u00b3 MARKO KIMPIM\u00c4KI,\u2074 SOILE BLOMQVIST,\u2074\nTIMO HYYPI\u00c4,\u2075\u2020 AND PERTTI ARSTILA\u2075\n\n<a id='3259f4d7-b207-4b8d-9298-dce01b8a634f'></a>\n\nDepartments of Pediatrics,\u00b9 Pulmonary Diseases and Clinical Allergology,\u00b2 and Virology,\u2075\nUniversity of Turku, Turku, National Public Health Institute, Oulu,\u00b3 and\nDepartment of Virology, National Public Health Institute,\nHelsinki,\u2074 Finland\n\n<a id='fb2af352-f808-47b7-92db-7c2cb6caa538'></a>\n\nReceived 13 August 1997/Returned for modification 22 October 1997/Accepted 20 November 1997\n\n<a id='965af17c-3d38-49ca-a166-695f542c6782'></a>\n\nTwo hundred young adults with common colds were studied during a 10-month period. Virus culture, antigen detection, PCR, and serology with paired samples were used to identify the infection. Viral etiology was established for 138 of the 200 patients (69%). Rhinoviruses were detected in 105 patients, coronavirus OC43 or 229E infection was detected in 17, influenza A or B virus was detected in 12, and single infections with parainfluenza virus, respiratory syncytial virus, adenovirus, and enterovirus were found in 14 patients. Evidence for bacterial infection was found in seven patients. Four patients had a rise in antibodies against *Chlamydia pneumoniae*, one had a rise in antibodies against *Haemophilus influenzae*, one had a rise in antibodies against *Streptococcus pneumoniae*, and one had immunoglobulin M antibodies against *Mycoplasma pneumoniae*. The results show that although approximately 50% of episodes of the common cold were caused by rhinoviruses, the etiology can vary depending on the epidemiological situation with regard to circulating viruses. Bacterial infections were rare, supporting the concept that the common cold is almost exclusively a viral disease.\n\n<a id='38e14b57-9433-4509-a314-6a037c096cbb'></a>\n\nLarge studies, such as the Tecumseh Study, the Seattle Virus Watch, and the New York Virus Watch, performed during the 1960s clarified the crucial role of viruses in acute respiratory illness (23). Rhinoviruses were shown to be major causative agents in mild upper respiratory illness (the common cold), although the percentage of rhinoviruses detected in disease episodes was approximately 25% in the early studies (17). Rhinoviruses have been recently estimated to cause 34% of all respiratory illnesses (23). With the exception of coronaviruses, the proportion of other identified agents has been small, and in most studies the causative agent has not been identified in up to 50% of cases. Since there are several prospects for antiviral chemotherapy and new treatments for the common cold, investigation of the etiology of the disease is of importance. The present policy for treatment of the common cold should also be evaluated in view of the causative agents, since in the United States antibiotics are prescribed for 60% of patients (22).\n\n<a id='62df5eed-20b7-406a-bd14-36c2787c804d'></a>\n\nAlthough during the past two decades methods for virolog-ical diagnostics have greatly improved, no recent prospective study of the etiology of the common cold has been published. Most clinical trials dealing with therapy have not employed extensive testing of viruses causing the disease, which weakens their value (25). In order to optimize microbial detection, we have employed several virological and bacteriological methods to study 200 young adults with symptoms and signs of the common cold.\n\n<a id='e10c4d59-00d7-42a5-ae2a-6bfec96b1b94'></a>\n\n## MATERIALS AND METHODS\n\n**Study population and clinical samples.** Between October 1994 and November 1995, 200 young adults\u2014mostly students from the University of Turku\u2014were enrolled in the study. A study office was established at the Turku University\n\n<a id='3ba21831-cec6-47d1-a316-bb28ee8ba952'></a>\n\n* Corresponding author. Mailing address: Department of Pediatrics, University of Turku, Kiinamyllynkatu 4-8, 20520 Turku, Finland. Phone: 358-2-2611611. Fax: 358-2-2611460. E-mail: mika.makela@utu.fi.\n\u2020 Present address: Department of Virology, Haartman Institute, University of Helsinki, FIN-00014, Finland.\n\n<a id='065fe219-f1a6-4c1f-9772-159ff74c2aad'></a>\n\nHospital, which patients contacted within 24 to 48 h after the onset of symptoms of the common cold. For inclusion in the study, patients had to self-diagnose the common cold based on their earlier experience of symptoms. In addition, clinical evidence of acute rhinorrhea, nasal congestion, and/or sore throat was confirmed by the study physician. Patients with tonsillitis and with previous histories of allergic rhinitis, any chronic illness, or use of regular medication were excluded. One study physician (T.P.) and one nurse examined all the patients participating in the study. The patients were all Caucasian. The mean age of the patients was 24.0 years for male students (n = 59) and 24.1 years for female students (n = 141). The study protocol was accepted by the ethical committee of the Turku University Hospital. A written informed consent was obtained from each patient.\n\n<a id='3579c484-fcab-4235-b09c-550c1066ca42'></a>\n\nAt the first visit, a nasopharyngeal aspirate was collected with a disposable mucus extractor from all the patients. Disposable plastic gloves were used, and all surfaces were wiped with disinfectant to avoid possible contamination among the patients. Three sterile cotton swabs were dipped into the mucus, and these were then placed in separate viral transport medium tubes (0.5% bovine serum albumin and antibiotics in tryptose phosphate broth) for PCR assay and virus culture. The rest of the mucus was used for virus antigen detection. All virus culture tubes were immediately frozen at -70\u00b0C prior to subsequent processing. A blood sample was collected for serological analyses. The patients returned on day 7, when a new nasopharyngeal aspirate was taken. The final visit was on day 21, when the second blood sample was taken.\n\n<a id='4ce1051a-1a5c-4836-99a8-e77d3f802467'></a>\n\nVirus antigen detection, serology, and isolation. Viral antigens were detected by time-resolved fluoroimmunoassay for seven common respiratory viruses (adenovirus; respiratory syncytial virus [RSV]; parainfluenza virus types 1, 2, and 3; and influenza A and B viruses) as described previously (5). Serology for the same viruses was done with antigens prepared at the Department of Virology, University of Turku, by an enzyme immunoassay (EIA) as described previously (20).\n\n<a id='04051749-2e5c-423c-a306-bbf8f96d629d'></a>\n\nFor measuring coronavirus antibodies, crude EIA antigens (microsomal fraction) were prepared from coronavirus OC43- and 229E-infected cells and uninfected control antigen RD cells (human embryonal rhabdomyosarcoma cells) as described for mouse brain homogenate (13). Seeds for virus and cells (originally from the American Type Culture Collection) were kindly provided by K. Holmes (University of Health Sciences, Bethesda, Md.). Microtiter plates with 96 wells (Maxisorb; Nunc, Roskilde, Denmark) were coated with each of the antigens (2.5 \u00b5g/ml) and used in a standard single-dilution (1:200) EIA procedure with the sera in duplicate. Known positive and negative sera were used to control inter-assay variation. Criteria for a significant increase or decrease between the titers were determined in advance, and a twofold-or-greater difference in specific absorbances of paired sera was found to be a reliable marker. Assay of serial dilutions of the paired sera was used to clarify equivocal results.\n\n<a id='2734e942-49a1-4519-a408-180c36bf9873'></a>\n\nVirus culture was done by using the Ohio strain of HeLa cells and human foreskin fibroblasts according to routine procedure as described previously (1). Cell cultures exhibiting cytopathogenic effect were passaged once, and the supernatant of the cell culture fluid was further tested by antigen detection. Those samples positive by virus culture but negative by rhinovirus PCR were tested for acid lability.\n\n<a id='e0603087-29b5-406b-86fb-21885343a045'></a>\n\n539\n\n<a id='974b10b3-b32f-4ab5-8d77-2b82ce2df9ec'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.\n\n<a id='e80ebf2f-7b7b-4dc3-a66e-9b0a2201edfb'></a>\n\n540\n\n<a id='536e5abd-a637-4ae5-abed-b127e11953ff'></a>\n\nM\u00c4KEL\u00c4 ET AL.\n\n<a id='d56a43b5-c2a5-41ab-915f-eeaa1c9a1bed'></a>\n\nJ. CLIN. MICROBIOL.\n\n<a id='89791dc5-23fc-47a8-8a52-3de5ea7e835f'></a>\n\nTABLE 1. Microbiological findings for 200 patients with signs and symptoms of the common cold\n<table id=\"1-1\">\n<tr><td id=\"1-2\"></td><td id=\"1-3\" colspan=\"4\">No. (%) of patients positive by:</td><td id=\"1-4\" rowspan=\"2\">Total no. of patients (%)</td></tr>\n<tr><td id=\"1-5\">Organism or infection</td><td id=\"1-6\">Virus antigen detection</td><td id=\"1-7\">Virus culture</td><td id=\"1-8\">Rhinovirus PCR</td><td id=\"1-9\">Serology</td></tr>\n<tr><td id=\"1-a\">Rhinovirus</td><td id=\"1-b\"></td><td id=\"1-c\">80 (40)</td><td id=\"1-d\">103 (51.5)</td><td id=\"1-e\"></td><td id=\"1-f\">105 (52.5)</td></tr>\n<tr><td id=\"1-g\">Influenza A virus</td><td id=\"1-h\">6 (3)</td><td id=\"1-i\">3 (1.5)</td><td id=\"1-j\"></td><td id=\"1-k\">9 (4.5)</td><td id=\"1-l\">10 (5)</td></tr>\n<tr><td id=\"1-m\">Influenza B virus</td><td id=\"1-n\">2 (1)</td><td id=\"1-o\">1 (0.5)</td><td id=\"1-p\"></td><td id=\"1-q\">1 (0.5)</td><td id=\"1-r\">2 (1)</td></tr>\n<tr><td id=\"1-s\">Adenovirus</td><td id=\"1-t\">1 (0.5)</td><td id=\"1-u\"></td><td id=\"1-v\"></td><td id=\"1-w\">1 (0.5)</td><td id=\"1-x\">2(1)</td></tr>\n<tr><td id=\"1-y\">Parainfluenza virus type 1</td><td id=\"1-z\">1 (0.5)</td><td id=\"1-A\">1 (0.5)</td><td id=\"1-B\"></td><td id=\"1-C\"></td><td id=\"1-D\">1(0.5)</td></tr>\n<tr><td id=\"1-E\">Parainfluenza virus type 2</td><td id=\"1-F\"></td><td id=\"1-G\"></td><td id=\"1-H\"></td><td id=\"1-I\">2 (1)</td><td id=\"1-J\">2(1)</td></tr>\n<tr><td id=\"1-K\">Parainfluenza virus type 3</td><td id=\"1-L\">3 (1.5)</td><td id=\"1-M\">3 (1.5)</td><td id=\"1-N\"></td><td id=\"1-O\"></td><td id=\"1-P\">3(1.5)</td></tr>\n<tr><td id=\"1-Q\">Parainfluenza virus type 1 or 3</td><td id=\"1-R\"></td><td id=\"1-S\"></td><td id=\"1-T\"></td><td id=\"1-U\">5 (2.5)</td><td id=\"1-V\">1(0.5)</td></tr>\n<tr><td id=\"1-W\">RSV</td><td id=\"1-X\">4(2)</td><td id=\"1-Y\">3 (1.5)</td><td id=\"1-Z\"></td><td id=\"1-10\">3 (1.5)</td><td id=\"1-11\">4 (2)</td></tr>\n<tr><td id=\"1-12\">Enterovirus</td><td id=\"1-13\"></td><td id=\"1-14\"></td><td id=\"1-15\"></td><td id=\"1-16\">1 (0.5)</td><td id=\"1-17\">1 (0.5)</td></tr>\n<tr><td id=\"1-18\">Coronavirus OC43</td><td id=\"1-19\"></td><td id=\"1-1a\"></td><td id=\"1-1b\"></td><td id=\"1-1c\">7 (3.5)</td><td id=\"1-1d\">7 (3.5)</td></tr>\n<tr><td id=\"1-1e\">Coronavirus 229E</td><td id=\"1-1f\"></td><td id=\"1-1g\"></td><td id=\"1-1h\"></td><td id=\"1-1i\">10 (5)</td><td id=\"1-1j\">10 (5)</td></tr>\n<tr><td id=\"1-1k\">C. pneumoniae</td><td id=\"1-1l\"></td><td id=\"1-1m\"></td><td id=\"1-1n\"></td><td id=\"1-1o\">4 (2)</td><td id=\"1-1p\">4 (2)</td></tr>\n<tr><td id=\"1-1q\">M. pneumoniae</td><td id=\"1-1r\"></td><td id=\"1-1s\"></td><td id=\"1-1t\"></td><td id=\"1-1u\">1 (0.5)</td><td id=\"1-1v\">1(0.5)</td></tr>\n<tr><td id=\"1-1w\">S. pneumoniae</td><td id=\"1-1x\"></td><td id=\"1-1y\"></td><td id=\"1-1z\"></td><td id=\"1-1A\">1 (0.5)</td><td id=\"1-1B\">1(0.5)</td></tr>\n<tr><td id=\"1-1C\">H. influenzae</td><td id=\"1-1D\"></td><td id=\"1-1E\"></td><td id=\"1-1F\"></td><td id=\"1-1G\">1 (0.5)</td><td id=\"1-1H\">1(0.5)</td></tr>\n<tr><td id=\"1-1I\">M. catarrhalis</td><td id=\"1-1J\"></td><td id=\"1-1K\"></td><td id=\"1-1L\"></td><td id=\"1-1M\"></td><td id=\"1-1N\">0</td></tr>\n<tr><td id=\"1-1O\">Double viral infection</td><td id=\"1-1P\"></td><td id=\"1-1Q\"></td><td id=\"1-1R\"></td><td id=\"1-1S\"></td><td id=\"1-1T\">10 (5)</td></tr>\n<tr><td id=\"1-1U\">Viral and bacterial infections</td><td id=\"1-1V\"></td><td id=\"1-1W\"></td><td id=\"1-1X\"></td><td id=\"1-1Y\"></td><td id=\"1-1Z\">6 (3)</td></tr>\n<tr><td id=\"1-20\">Total</td><td id=\"1-21\">17 (8.5)</td><td id=\"1-22\">91 (45.5)</td><td id=\"1-23\">103 (51.5)</td><td id=\"1-24\">46 (23)</td><td id=\"1-25\">139 (69.5)</td></tr>\n</table>\n\n<a id='a64d8d65-3234-4994-97db-72ddf414ecd1'></a>\n\nRhinovirus reverse transcription-PCR. Nucleic acids were isolated from the nasopharyngeal samples by using proteinase K-sodium dodecyl sulfate treatment followed by phenol extraction and ethanol precipitation. For detection of rhinoviruses, two reverse transcription-PCR assays were used (16). The first one utilizes primers from the conserved 5' noncoding region and the VP2 capsid protein coding region of the viral genome (3), while the other test uses two primers from the 5' noncoding region (10, 15).\n\n<a id='6fbf1242-b3cd-4dba-bc21-7b2702860e25'></a>\n\nBacterial culture and antibody assays. For detection of beta-hemolytic streptococci, swabs dipped into nasopharyngeal mucus were inoculated onto blood agar plates and incubated for 24 h in an atmosphere of 5% carbon dioxide at 37\u00b0C. Those plates showing uncertain growth were incubated another 24 h.\n\n<a id='aff4abe2-ff68-469f-b90a-1190c33523d7'></a>\n\nImmunoglobulin G (IgG) antibodies to pneumococcal pneumolysin and C-polysaccharide were measured by EIA as described earlier, and a twofold-or-higher rise in antibody levels between paired sera was considered diagnostic (18). Antibodies to nontypeable *Haemophilus influenzae* and *Moraxella catarrhalis* were measured by EIA using whole bacterial cell antigen (a mixture of 10 different strains), and a threefold-or-higher antibody rise between paired sera was considered diagnostic for acute infection (6). IgG and IgM antibodies to chlamydial species were measured by a microimmunofluorescence method by using elementary bodies of *Chlamydia pneumoniae* Kajaani 7 and *Chlamydia trachomatis* 1.2 as antigens as described elsewhere (7), except that the sera were incubated overnight. The presence of IgM antibodies and/or a fourfold-or-greater change in antibody levels between paired sera was considered diagnostic for acute chlamydial infection. These antibody assays have been successfully used in the etiological diagnosis of pneumonia in children both in industrialized and developing countries (28, 29).\n\n<a id='54b486b0-4cc1-456e-a1ec-30222ad02486'></a>\n\nMycoplasma IgM antibodies from the second serum samples taken on day 21 were measured with a commercial kit (Platelia; Sanofi Diagnostics Pasteur S.A., Marnes la Coquette, France) routinely used in our virology laboratory.\n\n<a id='73a7a7b4-e550-4660-9466-f6311056d7c5'></a>\n\n## RESULTS\nVirological findings. Evidence for virus infection was found in 138 of the 200 patients (69%). Rhinovirus was found in 105 patients (52.5%) by virus culture or PCR. The percentage of rhinoviruses was the same in both males and females. Overall, results by virus culture and PCR had a high level of agreement: 78% of the PCR-positive samples were also culture positive (80 of 103 patients). Coronaviruses were the second most common group of causative agents and were detected in 17 patients by serology. A total of 12 patients had influenza A or B virus infection (Table 1).\n\n<a id='a0e933f4-36e6-4c73-9c2f-eb0b6941d2fb'></a>\n\nIn addition to the 80 patients culture-positive for rhinovi-\nruses, 11 nasopharyngeal-aspirate samples were positive by\nvirus culture. Three cases of influenza A were detected by\n\n<a id='2f4272a5-3385-4d21-b493-24db297f046b'></a>\n\nserology only, whereas the other seven patients were positive by antigen detection, culture, or serology. For the other respiratory viruses, five patients remained negative by culture or antigen detection but paired serum antibodies showed a rise. In addition, coronaviruses were detected by serology only. Taken together, virus culture was positive for the respiratory viruses in 91 cases (45.5%), virus antigen detection gave positive results in 17 cases (8.5%), and serology gave a diagnosis for 39 patients (19.5%) (Table 1).\n\n<a id='a073d802-ddd1-44dd-9709-54675a73a094'></a>\n\nEvidence of a double viral infection was found in 10 patients.\nOf these patients, three had both rhinovirus and coronavirus\nOC43, two had rhinovirus and influenza A virus, two had\nrhinovirus and parainfluenza virus type 2, one had rhinovirus\nand adenovirus, one had rhinovirus and influenza B virus, and\none had rhinovirus and enterovirus infections.\n\n<a id='1d362fb9-fa5a-4285-875e-68afa6332569'></a>\n\nFigure 1a shows the number of virus infections detected monthly and the total number of recruited patients. Figure 1b presents numbers of rhino- and coronavirus infections detected in the study population. An outbreak of rhinoviruses occurred in the fall, when 92% (33 of 36) of the patients recruited into the study had rhinovirus infections. Figure 1c shows the epidemiology of other respiratory viruses in the community during the study period. Influenza A and B virus infections peaked in March, followed by parainfluenza virus type 3 infections in April and RSV infections in May. Adenoviruses were endemic.\n\n<a id='8003df12-95e0-4aad-ae44-447ce897ce73'></a>\n\nBacteriological findings. Serological assays suggested bacte-rial infections in seven patients. Of these, four patients had a rise in IgG antibodies against C. pneumoniae; three of these patients were also rhinovirus positive, and one patient was positive for both rhino- and coronaviruses. One patient had a rise in antibodies against Streptococcus pneumoniae, one pa-tient had a rise in antibodies against both H. influenzae and coronavirus, and one patient had serological evidence of both mycoplasma and coronavirus infections. None of the patients had beta-hemolytic group A Streptococcus in their nasopharyn-ges.\n\n<a id='42ab8321-5f9a-44cd-9579-07a1fb32f4c8'></a>\n\nFor monitoring complications of the common cold, patients\nwere examined clinically on days 1, 7, and 21 and according to\n\n<a id='84d4b9bf-2ec0-41da-abf9-5f4119e04458'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.\n\n<a id='9342d73f-324c-421e-9565-57c8630e7442'></a>\n\nVOL. 36, 1998\n\n<a id='ac44c6bc-c649-4db7-b9a8-ff4ddef1ec0d'></a>\n\nETIOLOGY OF COMMON COLD\n\n<a id='5b093aaf-ee63-4452-9476-3602f4f39080'></a>\n\n541\n\n<a id='d8690127-1e9e-4935-b593-09b577727d0b'></a>\n\n<::chart: The figure displays three panels (a, b, c) showing the monthly occurrence of viral infections and patient recruitment from November to November, with a study break indicated between June and August. The x-axis for all panels represents months: NOV, DEC, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV. The y-axis represents counts of patients or infections. A legend indicates that white bars represent 'Patients' and black bars represent 'Virus positive'.\n\nPanel (a) shows the monthly occurrence of confirmed viral infections (virus positive) and total number of recruited patients. The y-axis ranges from 0 to 40.\n- NOV: Patients ~18, Virus positive ~12\n- DEC: Patients ~10, Virus positive ~6\n- JAN: Patients ~15, Virus positive ~10\n- FEB: Patients ~30, Virus positive ~12\n- MAR: Patients ~40, Virus positive ~28\n- APR: Patients ~35, Virus positive ~32\n- MAY: Patients ~12, Virus positive ~6\n- JUN: Patients ~8, Virus positive ~4\n- JUL: Study break\n- AUG: Patients ~10, Virus positive ~6\n- SEP: Patients ~12, Virus positive ~8\n- OCT: Patients ~15, Virus positive ~10\n- NOV: Patients ~8, Virus positive ~4\n\nPanel (b) shows the monthly occurrence of rhino- and coronavirus infections in the study population.\n- Rhinovirus (y-axis 0-20):\n  - NOV: ~14\n  - DEC: ~6\n  - JAN: ~8\n  - FEB: ~8\n  - MAR: ~16\n  - APR: ~22\n  - MAY: ~8\n  - JUN: ~4\n  - JUL: Study break\n  - AUG: ~8\n  - SEP: ~10\n  - OCT: ~16\n  - NOV: ~12\n- Coronavirus (y-axis 0-10):\n  - NOV: ~0\n  - DEC: ~2\n  - JAN: ~4\n  - FEB: ~6\n  - MAR: ~8\n  - APR: ~6\n  - MAY: ~4\n  - JUN: ~2\n  - JUL: Study break\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~0\n\nPanel (c) shows the monthly occurrences of other common respiratory viruses circulating in the community.\n- RSV (y-axis 0-60):\n  - NOV: ~0\n  - DEC: ~2\n  - JAN: ~4\n  - FEB: ~10\n  - MAR: ~35\n  - APR: ~50\n  - MAY: ~45\n  - JUN: ~5\n  - JUL: ~2\n  - AUG: ~4\n  - SEP: ~8\n  - OCT: ~25\n  - NOV: ~10\n- Influenza A and B virus (y-axis 0-40):\n  - NOV: ~0\n  - DEC: ~0\n  - JAN: ~2\n  - FEB: ~18\n  - MAR: ~35\n  - APR: ~15\n  - MAY: ~5\n  - JUN: ~0\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~20\n  - NOV: ~0\n- Parainfluenza virus type 3 (y-axis 0-20):\n  - NOV: ~0\n  - DEC: ~0\n  - JAN: ~4\n  - FEB: ~6\n  - MAR: ~8\n  - APR: ~12\n  - MAY: ~6\n  - JUN: ~2\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~0\n- Adenovirus (y-axis 0-20):\n  - NOV: ~8\n  - DEC: ~10\n  - JAN: ~12\n  - FEB: ~6\n  - MAR: ~12\n  - APR: ~12\n  - MAY: ~4\n  - JUN: ~2\n  - JUL: ~0\n  - AUG: ~0\n  - SEP: ~0\n  - OCT: ~0\n  - NOV: ~8\n\nFIG. 1. (a) Monthly occurrence of confirmed viral infections (virus positive) and total number of recruited patients. (b) Monthly occurrence of rhino- and coronavirus infections in the study population. (c) Monthly occurrences of other common respiratory viruses circulating in the community. Infection was diagnosed at the Department of Virology, Turku University, with specimens derived mainly from pediatric patients.::>\n\n<a id='776c8099-8ac4-4d01-9aab-f10d508d7aec'></a>\n\nthe patients' need. One patient had acute otitis media and was treated with antibiotics. This patient had a serological rise in antibodies against H. influenzae and coronavirus. Three patients received antibiotics for urinary tract infections, and one patient received antibiotics for prophylaxis after a dental operation during days 7 to 21. With the exception of these five patients, all recovered uneventfully without antibiotics, including those patients with a serological indication of bacterial infection.\n\n<a id='4b2c0852-646b-4c6e-88d0-f11cb4bedd67'></a>\n\n## DISCUSSION\n\nViral etiology of the common cold was demonstrated for 69% of the 200 patients included in this study. In large respiratory virus studies carried out in the 1960s, the causative agent\n\n<a id='89620420-5148-4617-a260-343514309eae'></a>\n\nwas detected in 22 to 30% of the patients with acute respira-\ntory symptoms (23, 24). Surprisingly, there have been no recent\ninvestigations using modern virological techniques lasting long\nenough to cover several virus outbreaks. We recruited patients\nfor 10 months. This period included outbreaks of five different\nrespiratory viruses (Fig. 1). Patients were not admitted to the\nstudy during June, July, and August, which are summer holiday\nmonths in Finland and in which only a few respiratory infec-\ntions occur.\n\n<a id='96c627a1-fc4c-4179-89ad-76ab0d94d62b'></a>\n\nThis study shows that in addition to virus culture, serology and PCR techniques are needed to detect the maximal number of infections. Although virus culture remains the \"gold stan-dard\" (yield, 45.5% with only two cell lines), more sensitive PCR methods, especially for rhinoviruses (yield, 51.5%), are increasingly used in routine diagnostics. Interestingly, the rapid test for seven different virus antigens was positive for only 9% of the patients. This observation agrees with earlier studies with adults (14, 21). For children, virus antigen detection is often the method of choice (12, 26). Virus antigen tests are sensitive for RSV and adenoviruses, which are common in young children but rare in adults, as seen also in this study (12, 27). Another factor contributing to the low yield of antigen-positive samples may be that adults shed less virus than chil-dren (8, 23).\n\n<a id='184b59da-8ac4-40a5-8482-4e9c243057e8'></a>\n\nRhinoviruses were the causative agent of the common cold in half of the cases in this investigation. During the 2-month outbreak during the fall, 92% of the patients had rhinovirus-induced illness. This observation agrees with results of a recent study, in which rhinovirus was detected in 276 of 346 (80%) common-cold patients during a 4-month epidemic fall season (4). Herzog and coworkers detected rhinoviruses in 55% of 122 patients with acute upper respiratory tract infections (11). Although rhinoviruses are the most common cause of the common cold, it must be stressed that almost half of the cases are caused by other viruses. We detected rhinoviruses, RSVs, influenza A viruses, adenoviruses, and parainfluenza type 3 viruses circulating in the community at the same time (Fig. 1c). These infections are often clinically indistinguishable in adults. This observation emphasizes the need to identify the specific virus in studies of specific antivirals.\n\n<a id='18a651cc-607a-4bc5-8f1b-ed5bb7c15a71'></a>\n\nWe studied bacterial cultures performed with nasopharyn-geal samples for beta-hemolytic streptococci and serologic re-sponses for five additional bacteria. None of the patients had beta-hemolytic group A Streptococcus in their nasopharynges. Interestingly, we found serological evidence of concomitant bacterial infection in seven patients. One of them, with H. influenzae infection, developed acute otitis media. The other patients, with infections with S. pneumoniae (n = 1), Myco-plasma pneumoniae (n = 1), and C. pneumoniae (n = 4), recovered similarly to other common-cold patients without antibiotics. Recently, Kaiser et al. suggested that nasopharyn-geal carriage of H. influenzae, M. catarrhalis, or S. pneumoniae (in 20% of their patients) would indicate a bacterial infection in patients with symptoms and signs of the common cold (19). In these patients, antibiotic treatment shortened the duration of symptoms compared to the duration for culture-negative patients. By using serological techniques (6, 7, 18), we found evidence for these infections in only 1% of our patients. Even those common-cold patients who may have bacterial coinfec-tion seem to recover uneventfully without antibiotic treatment. Radiologically confirmed sinusitis is part of the normal clinical course of the common cold (9). A recent study showed that 77% of the patients with acute maxillary sinusitis improved substantially when they took a placebo. Amoxicillin did not influence the clinical course of rhinosinusitis (30). These find-ings agree with earlier studies showing that antibiotic treat-\n\n<a id='91289e11-ad36-4665-a5be-75c54b8e679d'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.\n\n<a id='a2c07d6e-73cf-4e84-bde6-854ac2ba0771'></a>\n\n542\n\n<a id='4c576fcc-27de-4e68-aede-e6b2fc6b8568'></a>\n\nM\u00c4KEL\u00c4 ET AL.\n\n<a id='a33c596a-94bf-40d7-b3c7-326f9886fb1b'></a>\n\nJ. CLIN. MICROBIOL.\n\n<a id='60e6cd98-49c7-4b37-a750-ab23b0e123a3'></a>\n\nment of the common cold is not beneficial. In spite of that, it has been shown that up to 60% of patients with common colds receive an antibiotic, which results in an estimated cost of $37.5 million per year in the United States (22). This treatment policy results in problems not only with the cost but, even more importantly, also with emerging antibiotic resistance of bacte-ria. An Icelandic study showed an obvious association of anti-biotic use in the community with the prevalence of penicillin-resistant pneumococci (2).\nEven though we used a large battery of diagnostic tests, there are some limitations to our study. To optimize the cost/ benefit ratio of virus isolation, patient samples were inoculated into two cell lines which pick up rhinoviruses well but other respiratory viruses only moderately. By using the best available cell line for each virus, it would be possible to reach an even higher yield of virus-positive cultures. Moreover, PCR tech-niques are often more sensitive than the conventional virus culture method for detection of microbes and PCR could be used for other viruses as well.\n\n<a id='d0c4df9a-8283-462c-ac37-8ee1bf65152b'></a>\n\nIn routine clinical practice, there is no need to do etiological diagnosis of the common cold. The price is too high (in this study, $700/patient), and, except in the case of the rapid influ- enza A test, the results may not change the treatment. The implications of this study, nevertheless, are clear. The common cold is a viral illness for which the etiology can be shown in most cases. Bacterial coinfections are very rare. Antibiotic treatment is not necessary in otherwise healthy young adults with common colds.\n\n<a id='62db0545-807f-4988-ad0e-16003a957a7c'></a>\n\n## ACKNOWLEDGMENTS\n\nThis work was supported by grants from the Academy of Finland, Turku University Foundation, Sigrid Juselius Foundation, and Glaxo Wellcome, UK.\nWe thank Matti Waris for providing data on virus infections in the community and for preparation of the graph.\n\n<a id='3efdcf55-204e-4a5d-84a6-1575fe7eba3f'></a>\n\n## REFERENCES\n\n1. Al-Nakib, W., and D. A. J. Tyrrell. 1988. Picornaviridae: Rhinoviruses\u2014common cold viruses, p. 723\u2013742. In E. H. Lennette, P. Halonen, and F. A. Murphy (ed.), Laboratory diagnosis of infectious diseases. Principle and practice. Springer-Verlag, New York, N.Y.\n2. Arason, V. A., K. G. Kristinsson, J. A. Sigurdsson, G. Stefansdottir, S. Molstad, and S. Gudmundsson. 1996. Do antimicrobials increase the carriage rate of penicillin resistant pneumococci in children? Cross sectional prevalence study. Br. Med. J. 313:387\u2013391.\n3. Arola, A., J. Santti, P. Halonen, O. Ruuskanen, and T. Hyypi\u00e4. 1996. Identification of enteroviruses in clinical specimens by competitive PCR followed by genetic typing using sequence analysis. J. Clin. Microbiol. 34:313\u2013318.\n4. Arruda, E., A. Pitk\u00e4ranta, T. J. Witek, Jr., C. A. Doyle, and F. G. Hayden. 1997. Frequency and natural history of rhinovirus infections in adults during autumn. J. Clin. Microbiol. 35:2864\u20132868.\n5. Arstila P. P., and P. E. Halonen. 1988. Direct antigen detection, p. 60\u201375. In E. H. Lennette, P. Halonen, and F. A. Murphy (ed.), Laboratory diagnosis of infectious diseases. Principle and practice. Springer-Verlag, New York, N.Y.\n6. Burman, L. A., M. Leinonen, and B. Trollfors. 1994. Use of serology to diagnose pneumonia caused by nonencapsulated Haemophilus influenzae and Moraxella catarrhalis. J. Infect. Dis. 170:220\u2013222.\n7. Ekman, M. R., M. Leinonen, H. Syrjala, E. Linnanmaki, P. Kujala, and P. Saikku. 1993. Evaluation of serological methods in the diagnosis of Chlamydia pneumoniae pneumonia during an epidemic in Finland. Eur. J. Clin. Microbiol. Infect. Dis. 12:756\u2013760.\n\n<a id='24377c25-ad2f-46d7-a9c8-8753b92acce8'></a>\n\n8. Englund, J. A., P. A. Piedra, A. Jewell, K. Patel, B. B. Baxter, and E. Whimbey. 1996. Rapid diagnosis of respiratory syncytial virus infections in immunocompromised adults. J. Clin. Microbiol. 34:1649-1653.\n9. Gwaltney, J. M., Jr., C. D. Phillips, R. D. Miller, and D. K. Riker. 1994. Computed tomographic study of the common cold. N. Engl. J. Med. 330: 25-30.\n10. Halonen, P., E. Rocha, J. Hierholzer, B. Holloway, T. Hyypia, P. Hurskainen, and M. Pallansch. 1995. Detection of enteroviruses and rhinoviruses in clinical specimens by PCR and liquid-phase hybridization. J. Clin. Microbiol. 33:648-653.\n11. Herzog, C., R. Berger, M. Fernex, K. Friesecke, L. Havas, M. Just, and U. C. Dubach. 1986. Intranasal interferon (rIFN-alpha A, Ro 22-8181) for contact prophylaxis against common cold: a randomized, double-blind and placebo- controlled field study. Antivir. Res. 6:171-176.\n12. Hietala, J., M. Uhari, and H. Tuokko. 1988. Antigen detection in the diag- nosis of viral infections. Scand. J. Infect. Dis. 20:595-599.\n13. Hovi, T., H. Kainulainen, B. Ziola, and A. Salmi. 1979. OC43 strain-related coronavirus antibodies in different age groups. J. Med. Virol. 3:313-320.\n14. Huovinen, P., R. Lahtonen, T. Ziegler, O. Meurman, K. Hakkarainen, A. Miettinen, P. Arstila, J. Eskola, and P. Saikku. 1989. Pharyngitis in adults: the presence and coexistence of viruses and bacterial organisms. Ann. Intern. Med. 110:612-616.\n15. Hyypia, T., P. Auvinen, and M. Maaronen. 1989. Polymerase chain reaction for human picornaviruses. J. Gen. Virol. 70:3261-3268.\n16. Hyypi\u00e4, T., T. Puhakka, O. Ruuskanen, M. J. M\u00e4kel\u00e4, A. Arola, and P. Arstila. Unpublished data.\n17. Jackson, G. G., and R. L. Muldoon. 1973. Viruses causing common respira- tory infections in man. J. Infect. Dis. 127:328-355.\n18. Jalonen, E., J. C. Paton, M. Koskela, Y. Kerttula, and M. Leinonen. 1989. Measurement of antibody responses to pneumolysin\u2014a promising method for the presumptive aetiological diagnosis of pneumococcal pneumonia. J. Infect. 19:127-134.\n19. Kaiser, L., D. Lew, B. Hirschel, R. Auckenthaler, A. Morabia, A. Heald, P. Benedict, F. Terrier, W. Wunderli, L. Matter, D. Germann, J. Voegeli, and H. Stalder. 1996. Effects of antibiotic treatment in the subset of common- cold patients who have bacteria in nasopharyngeal secretions. Lancet 347: 1507-1510.\n20. Koskinen, P., T. Vuorinen, and O. Meurman. 1987. Influenza A and B virus IgG and IgM serology by enzyme immunoassays. Epidemiol. Infect. 99:55- 64.\n21. Lehtomaki, K. 1988. Rapid etiological diagnosis of pneumonia in young men. Scand. J. Infect. Dis. Suppl. 54:1-56.\n22. Mainous, A. G., III, W. J. Hueston, and J. R. Clak. 1996. Antibiotics and upper respiratory infection: do some folks think there is a cure for the common cold? J. Fam. Pract. 42:357-361.\n23. Monto, A. S. 1994. Studies of the community and family: acute respiratory illness and infection. Epidemiol. Rev. 16:351-373.\n24. Monto, A. S., E. R. Bryan, and S. Ohmit. 1987. Rhinovirus infections in Tecumseh, Michigan: frequency of illness and number of serotypes. J. Infect. Dis. 156:43-49.\n25. Mossad, S. B., M. L. Macknin, S. V. Medendorp, and P. Mason. 1996. Zinc gluconate lozenges for treating the common cold. A randomized, double- blind, placebo-controlled study. Ann. Intern. Med. 125:81-88.\n26. Popow Kraupp, T., G. Kern, C. Binder, W. Tuma, M. Kundi, and C. Kunz. 1986. Detection of respiratory syncytial virus in nasopharyngeal secretions by enzyme-linked immunosorbent assay, indirect immunofluorescence, and vi- rus isolation: a comparative study. J. Med. Virol. 19:123-134.\n27. Putto, A., O. Ruuskanen, and O. Meurman. 1986. Fever in respiratory virus infections. Am. J. Dis. Child. 140:1159-1163.\n28. Ruuskanen, O., H. Nohynek, T. Ziegler, R. Capeding, H. Rikalainen, P. Huovinen, and M. Leinonen. 1992. Pneumonia in childhood: etiology and response to antimicrobial therapy. Eur. J. Clin. Microbiol. Infect. Dis. 11: 217-223.\n29. Saikku, P., P. Ruutu, M. Leinonen, J. Panelius, T. E. Tupasi, and J. T. Grayston. 1988. Acute lower-respiratory-tract infection associated with chla- mydial TWAR antibody in Filipino children. J. Infect. Dis. 158:1095-1097.\n30. van Buchem, F. L., J. A. Knottnerus, V. J. J. Schrijnemaekers, and F. M. Peeters. 1997. Primary-care-based randomised placebo-controlled trial of antibiotic treatment in acute maxillary sinusitis. Lancet 349:683-687.\n\n<a id='b883eca5-a158-459f-a17c-f9d4db7f393e'></a>\n\nDownloaded from https://journals.asm.org/journal/jcm on 29 June 2025 by 2601:1c2:4100:b330:acaf:796b:f6fc:bfa5.",
+      "pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "988dfb59-1d60-42c9-b3d3-cff72fa0b915": {
+      "box": {
+        "bottom": 0.09273563325405121,
+        "left": 0.07532083988189697,
+        "right": 0.4338415861129761,
+        "top": 0.05214908719062805
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "abb142e1-1409-4641-92eb-cf6dabcba1a3": {
+      "box": {
+        "bottom": 0.06848827749490738,
+        "left": 0.8111617565155029,
+        "right": 0.900097131729126,
+        "top": 0.05260060727596283
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "1f73f9f3-6cc7-451f-af77-86b38ae2e552": {
+      "box": {
+        "bottom": 0.13915227353572845,
+        "left": 0.1513368785381317,
+        "right": 0.8275107145309448,
+        "top": 0.11202020198106766
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "82557a7d-17e2-4022-bd30-d984b65cf696": {
+      "box": {
+        "bottom": 0.18500521779060364,
+        "left": 0.1793753206729889,
+        "right": 0.7992476224899292,
+        "top": 0.14237374067306519
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3259f4d7-b207-4b8d-9298-dce01b8a634f": {
+      "box": {
+        "bottom": 0.24074749648571014,
+        "left": 0.2080906331539154,
+        "right": 0.7670760154724121,
+        "top": 0.18657399713993073
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "fb2af352-f808-47b7-92db-7c2cb6caa538": {
+      "box": {
+        "bottom": 0.2623632550239563,
+        "left": 0.20378351211547852,
+        "right": 0.7749554514884949,
+        "top": 0.24657042324543
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "965af17c-3d38-49ca-a166-695f542c6782": {
+      "box": {
+        "bottom": 0.41760095953941345,
+        "left": 0.1348782479763031,
+        "right": 0.8429526090621948,
+        "top": 0.2731665074825287
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "38e14b57-9433-4509-a314-6a037c096cbb": {
+      "box": {
+        "bottom": 0.664844810962677,
+        "left": 0.07714304327964783,
+        "right": 0.478142648935318,
+        "top": 0.4353804290294647
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "62df5eed-20b7-406a-bd14-36c2787c804d": {
+      "box": {
+        "bottom": 0.7788435220718384,
+        "left": 0.07788033783435822,
+        "right": 0.4779520034790039,
+        "top": 0.6645914316177368
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e10c4d59-00d7-42a5-ae2a-6bfec96b1b94": {
+      "box": {
+        "bottom": 0.8418626189231873,
+        "left": 0.0779777467250824,
+        "right": 0.47750452160835266,
+        "top": 0.7915536761283875
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3ba21831-cec6-47d1-a316-bb28ee8ba952": {
+      "box": {
+        "bottom": 0.9210502505302429,
+        "left": 0.07795441150665283,
+        "right": 0.4782288670539856,
+        "top": 0.8598945736885071
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "065fe219-f1a6-4c1f-9772-159ff74c2aad": {
+      "box": {
+        "bottom": 0.5540093183517456,
+        "left": 0.49887192249298096,
+        "right": 0.898749828338623,
+        "top": 0.4367857575416565
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3579c484-fcab-4235-b09c-550c1066ca42": {
+      "box": {
+        "bottom": 0.6630664467811584,
+        "left": 0.4996035099029541,
+        "right": 0.8984687328338623,
+        "top": 0.5520959496498108
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4ce1051a-1a5c-4836-99a8-e77d3f802467": {
+      "box": {
+        "bottom": 0.7253035306930542,
+        "left": 0.49947389960289,
+        "right": 0.8987773656845093,
+        "top": 0.6637805700302124
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "04051749-2e5c-423c-a306-bbf8f96d629d": {
+      "box": {
+        "bottom": 0.8584810495376587,
+        "left": 0.4998694360256195,
+        "right": 0.8990641832351685,
+        "top": 0.7256050109863281
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2734e942-49a1-4519-a408-180c36bf9873": {
+      "box": {
+        "bottom": 0.9204471111297607,
+        "left": 0.5005478262901306,
+        "right": 0.8996706604957581,
+        "top": 0.8581448793411255
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e0603087-29b5-406b-86fb-21885343a045": {
+      "box": {
+        "bottom": 0.9451623558998108,
+        "left": 0.47570937871932983,
+        "right": 0.5010762810707092,
+        "top": 0.930508553981781
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "974b10b3-b32f-4ab5-8d77-2b82ce2df9ec": {
+      "box": {
+        "bottom": 0.977166473865509,
+        "left": 0.9505168199539185,
+        "right": 0.976089596748352,
+        "top": 0.49839669466018677
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "e80ebf2f-7b7b-4dc3-a66e-9b0a2201edfb": {
+      "box": {
+        "bottom": 0.06824583560228348,
+        "left": 0.07742533087730408,
+        "right": 0.10521882772445679,
+        "top": 0.05323605611920357
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "536e5abd-a637-4ae5-abed-b127e11953ff": {
+      "box": {
+        "bottom": 0.0695110410451889,
+        "left": 0.12567362189292908,
+        "right": 0.24662676453590393,
+        "top": 0.05278633162379265
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "d56a43b5-c2a5-41ab-915f-eeaa1c9a1bed": {
+      "box": {
+        "bottom": 0.06877414882183075,
+        "left": 0.7760573625564575,
+        "right": 0.899582028388977,
+        "top": 0.05282731354236603
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "89791dc5-23fc-47a8-8a52-3de5ea7e835f": {
+      "box": {
+        "bottom": 0.4004937708377838,
+        "left": 0.07585084438323975,
+        "right": 0.9024804830551147,
+        "top": 0.08325812220573425
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.3971813037753904,
+        "left": 0.07964628581906652,
+        "right": 0.8986724286369281,
+        "top": 0.10336384257328302
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.1218507476568618,
+        "left": 0.07986105802534159,
+        "right": 0.32768196424756674,
+        "top": 0.10336384257328302
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.12190851353889612,
+        "left": 0.3276144684478353,
+        "right": 0.7665392004423315,
+        "top": 0.10339491645130106
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.14966372510047204,
+        "left": 0.766526022681985,
+        "right": 0.8986162117350982,
+        "top": 0.10344996907995811
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.14961681105593486,
+        "left": 0.07983939206335502,
+        "right": 0.32778350899153624,
+        "top": 0.12181812749692413
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.14962287395718765,
+        "left": 0.32768196424756674,
+        "right": 0.40155464389873374,
+        "top": 0.1218507476568618
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.14963280753147212,
+        "left": 0.40148605525066045,
+        "right": 0.5224226933850415,
+        "top": 0.12186046233868292
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.14964357022019026,
+        "left": 0.5224039524221622,
+        "right": 0.6534001336060359,
+        "top": 0.12187637851462299
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.14965287194238636,
+        "left": 0.6533790999443876,
+        "right": 0.7665590074486109,
+        "top": 0.12189362127451189
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.1653121169750554,
+        "left": 0.07982713446226329,
+        "right": 0.3278408747653611,
+        "top": 0.1495964336996825
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.1653027210370334,
+        "left": 0.32778350899153624,
+        "right": 0.40159337496737385,
+        "top": 0.14961681105593486
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.16529992694215778,
+        "left": 0.40155464389873374,
+        "right": 0.5224332686325709,
+        "top": 0.14962287395718765
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.16529534895325249,
+        "left": 0.5224226933850415,
+        "right": 0.6533790999443876,
+        "top": 0.14963280753147212
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.16529038855275435,
+        "left": 0.6533672401069758,
+        "right": 0.766570168184051,
+        "top": 0.14964357022019026
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.16528609988836493,
+        "left": 0.7665590074486109,
+        "right": 0.8986197599968704,
+        "top": 0.14965287194238636
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.1767061796277663,
+        "left": 0.07981824755150263,
+        "right": 0.32788256225110507,
+        "top": 0.1653027210370334
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.17670161109147337,
+        "left": 0.3278408747653611,
+        "right": 0.4016215401342458,
+        "top": 0.16529992694215778
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.1767002530597989,
+        "left": 0.40159337496737385,
+        "right": 0.5224409676483144,
+        "top": 0.16529534895325249
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.17669802795966646,
+        "left": 0.5224332686325709,
+        "right": 0.6533672401069758,
+        "top": 0.16529038855275435
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.1766956168835957,
+        "left": 0.6533585952725582,
+        "right": 0.7665783120766269,
+        "top": 0.16528609988836493
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.17669353174536884,
+        "left": 0.766570168184051,
+        "right": 0.898622352345704,
+        "top": 0.16528109722287154
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.18809633763015654,
+        "left": 0.07980936368621223,
+        "right": 0.3279242034350994,
+        "top": 0.17670161109147337
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.18808784054661182,
+        "left": 0.32788256225110507,
+        "right": 0.40164966759181636,
+        "top": 0.1767002530597989
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.18808531570195142,
+        "left": 0.4016215401342458,
+        "right": 0.5224486534787318,
+        "top": 0.17669802795966646
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.188081178750384,
+        "left": 0.5224409676483144,
+        "right": 0.6533585952725582,
+        "top": 0.1766956168835957
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-q": {
+      "box": {
+        "bottom": 0.1880766958286328,
+        "left": 0.653349968742679,
+        "right": 0.7665864358756492,
+        "top": 0.17669353174536884
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-r": {
+      "box": {
+        "bottom": 0.18807281786743346,
+        "left": 0.7665783120766269,
+        "right": 0.8986249372408833,
+        "top": 0.17669109992444787
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-s": {
+      "box": {
+        "bottom": 0.19920438881653035,
+        "left": 0.07980070988297043,
+        "right": 0.3279648583537196,
+        "top": 0.18808784054661182
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-t": {
+      "box": {
+        "bottom": 0.1992082085476996,
+        "left": 0.3279242034350994,
+        "right": 0.40167714734369947,
+        "top": 0.18808531570195142
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-u": {
+      "box": {
+        "bottom": 0.19921446725172387,
+        "left": 0.40164966759181636,
+        "right": 0.5224561706037338,
+        "top": 0.188081178750384
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-v": {
+      "box": {
+        "bottom": 0.19922124966021015,
+        "left": 0.5224486534787318,
+        "right": 0.653349968742679,
+        "top": 0.1880766958286328
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-w": {
+      "box": {
+        "bottom": 0.1992271183634123,
+        "left": 0.6533415214920202,
+        "right": 0.7665943990549289,
+        "top": 0.18807281786743346
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-x": {
+      "box": {
+        "bottom": 0.19923396024634582,
+        "left": 0.7665864358756492,
+        "right": 0.8986274740761006,
+        "top": 0.18806829600095276
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-y": {
+      "box": {
+        "bottom": 0.21110922141378902,
+        "left": 0.07979141456211453,
+        "right": 0.32800834424622033,
+        "top": 0.19919152908383192
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-z": {
+      "box": {
+        "bottom": 0.21109502934542881,
+        "left": 0.3279648583537196,
+        "right": 0.4017065040135286,
+        "top": 0.19920438881653035
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-A": {
+      "box": {
+        "bottom": 0.2110908155743425,
+        "left": 0.40167714734369947,
+        "right": 0.5224641847761221,
+        "top": 0.1992082085476996
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-B": {
+      "box": {
+        "bottom": 0.21108391112482497,
+        "left": 0.5224561706037338,
+        "right": 0.6533415214920202,
+        "top": 0.19921446725172387
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-C": {
+      "box": {
+        "bottom": 0.2110764285869354,
+        "left": 0.6533325356080169,
+        "right": 0.7666028537858495,
+        "top": 0.19922124966021015
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-D": {
+      "box": {
+        "bottom": 0.21106995223537953,
+        "left": 0.7665943990549289,
+        "right": 0.8986301614944737,
+        "top": 0.1992271183634123
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-E": {
+      "box": {
+        "bottom": 0.22269637044188426,
+        "left": 0.07978237705174426,
+        "right": 0.328050655417484,
+        "top": 0.21109502934542881
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-F": {
+      "box": {
+        "bottom": 0.22266445793298784,
+        "left": 0.32800834424622033,
+        "right": 0.40173507396851843,
+        "top": 0.2110908155743425
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-G": {
+      "box": {
+        "bottom": 0.22265498650684343,
+        "left": 0.4017065040135286,
+        "right": 0.5224719870133021,
+        "top": 0.21108391112482497
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-H": {
+      "box": {
+        "bottom": 0.22263946693327152,
+        "left": 0.5224641847761221,
+        "right": 0.6533325356080169,
+        "top": 0.2110764285869354
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-I": {
+      "box": {
+        "bottom": 0.22262264718827643,
+        "left": 0.653323783907037,
+        "right": 0.7666110909873939,
+        "top": 0.21106995223537953
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-J": {
+      "box": {
+        "bottom": 0.22260808519018768,
+        "left": 0.7666028537858495,
+        "right": 0.8986327808139373,
+        "top": 0.21106240343289134
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-K": {
+      "box": {
+        "bottom": 0.23419952694387683,
+        "left": 0.07977340505216739,
+        "right": 0.32809265512305874,
+        "top": 0.22266445793298784
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-L": {
+      "box": {
+        "bottom": 0.234148720359013,
+        "left": 0.328050655417484,
+        "right": 0.40176343266545206,
+        "top": 0.22265498650684343
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-M": {
+      "box": {
+        "bottom": 0.23413364717958723,
+        "left": 0.40173507396851843,
+        "right": 0.5224797311336371,
+        "top": 0.22263946693327152
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-N": {
+      "box": {
+        "bottom": 0.23410894839823695,
+        "left": 0.5224719870133021,
+        "right": 0.653323783907037,
+        "top": 0.22262264718827643
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-O": {
+      "box": {
+        "bottom": 0.2340821792365086,
+        "left": 0.6533150979119664,
+        "right": 0.7666192659207856,
+        "top": 0.22260808519018768
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-P": {
+      "box": {
+        "bottom": 0.23405899699096896,
+        "left": 0.7666110909873939,
+        "right": 0.8986353801760789,
+        "top": 0.22259111506666307
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-Q": {
+      "box": {
+        "bottom": 0.24549475372689936,
+        "left": 0.07976459522941129,
+        "right": 0.3281339042197087,
+        "top": 0.234148720359013
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-R": {
+      "box": {
+        "bottom": 0.2454277387302629,
+        "left": 0.32809265512305874,
+        "right": 0.40179128627322275,
+        "top": 0.23413364717958723
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-S": {
+      "box": {
+        "bottom": 0.24540786449849641,
+        "left": 0.40176343266545206,
+        "right": 0.52248733810084,
+        "top": 0.23410894839823695
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-T": {
+      "box": {
+        "bottom": 0.24537529829480506,
+        "left": 0.5224797311336371,
+        "right": 0.6533150979119664,
+        "top": 0.2340821792365086
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-U": {
+      "box": {
+        "bottom": 0.2453400006564882,
+        "left": 0.6533065648077394,
+        "right": 0.7666272977261821,
+        "top": 0.23405899699096896
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-V": {
+      "box": {
+        "bottom": 0.24530942446103862,
+        "left": 0.7666192659207856,
+        "right": 0.8986379343136564,
+        "top": 0.2340319862460896
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-W": {
+      "box": {
+        "bottom": 0.2566895279446139,
+        "left": 0.07975586375561736,
+        "right": 0.32817482191219494,
+        "top": 0.2454277387302629
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-X": {
+      "box": {
+        "bottom": 0.25661613902856434,
+        "left": 0.3281339042197087,
+        "right": 0.4018189232154732,
+        "top": 0.24540786449849641
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-Y": {
+      "box": {
+        "bottom": 0.25659438279543223,
+        "left": 0.40179128627322275,
+        "right": 0.522494889083712,
+        "top": 0.24537529829480506
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-Z": {
+      "box": {
+        "bottom": 0.25655873222192516,
+        "left": 0.52248733810084,
+        "right": 0.6533065648077394,
+        "top": 0.2453400006564882
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-10": {
+      "box": {
+        "bottom": 0.25652008982020197,
+        "left": 0.6532980906223228,
+        "right": 0.7666352772414198,
+        "top": 0.24530942446103862
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-11": {
+      "box": {
+        "bottom": 0.25648660729803135,
+        "left": 0.7666272977261821,
+        "right": 0.8986404729983236,
+        "top": 0.2452738053565573
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-12": {
+      "box": {
+        "bottom": 0.267753397106678,
+        "left": 0.07974723438250368,
+        "right": 0.32821525861178674,
+        "top": 0.25661613902856434
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-13": {
+      "box": {
+        "bottom": 0.2676730181994911,
+        "left": 0.32817482191219494,
+        "right": 0.4018462347793902,
+        "top": 0.25659438279543223
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-14": {
+      "box": {
+        "bottom": 0.2676491987264711,
+        "left": 0.4018189232154732,
+        "right": 0.5225023509414124,
+        "top": 0.25655873222192516
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-15": {
+      "box": {
+        "bottom": 0.2676101667150378,
+        "left": 0.522494889083712,
+        "right": 0.6532980906223228,
+        "top": 0.25652008982020197
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-16": {
+      "box": {
+        "bottom": 0.26756785726468185,
+        "left": 0.6532897167329563,
+        "right": 0.7666431620902693,
+        "top": 0.25648660729803135
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-17": {
+      "box": {
+        "bottom": 0.2675311876525981,
+        "left": 0.7666352772414198,
+        "right": 0.8986429814817332,
+        "top": 0.2564476097983984
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-18": {
+      "box": {
+        "bottom": 0.27922809598781495,
+        "left": 0.07973828457872689,
+        "right": 0.328257092354362,
+        "top": 0.2676730181994911
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-19": {
+      "box": {
+        "bottom": 0.27911190024458865,
+        "left": 0.32821525861178674,
+        "right": 0.4018744690116166,
+        "top": 0.2676491987264711
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1a": {
+      "box": {
+        "bottom": 0.2790774802106619,
+        "left": 0.4018462347793902,
+        "right": 0.522510055514637,
+        "top": 0.2676101667150378
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1b": {
+      "box": {
+        "bottom": 0.2790210766661627,
+        "left": 0.5225023509414124,
+        "right": 0.6532897167329563,
+        "top": 0.26756785726468185
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1c": {
+      "box": {
+        "bottom": 0.2789599342651692,
+        "left": 0.6532810818668682,
+        "right": 0.766651283357691,
+        "top": 0.2675311876525981
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1d": {
+      "box": {
+        "bottom": 0.2789069276740791,
+        "left": 0.7666431620902693,
+        "right": 0.8986455617264273,
+        "top": 0.2674884859759359
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1e": {
+      "box": {
+        "bottom": 0.29063201953723017,
+        "left": 0.07972938997686327,
+        "right": 0.3282987599871085,
+        "top": 0.27911190024458865
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1f": {
+      "box": {
+        "bottom": 0.2905053617601975,
+        "left": 0.328257092354362,
+        "right": 0.4019026095984402,
+        "top": 0.2790774802106619
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1g": {
+      "box": {
+        "bottom": 0.2904678571393649,
+        "left": 0.4018744690116166,
+        "right": 0.5225177428106318,
+        "top": 0.2790210766661627
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1h": {
+      "box": {
+        "bottom": 0.2904063980599597,
+        "left": 0.522510055514637,
+        "right": 0.6532810818668682,
+        "top": 0.2789599342651692
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1i": {
+      "box": {
+        "bottom": 0.29033977238784425,
+        "left": 0.6532724562774966,
+        "right": 0.7666594041458735,
+        "top": 0.2789069276740791
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1j": {
+      "box": {
+        "bottom": 0.29028199640860375,
+        "left": 0.766651283357691,
+        "right": 0.8986481448795594,
+        "top": 0.2788452133377922
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1k": {
+      "box": {
+        "bottom": 0.30220044893420317,
+        "left": 0.07972036706705266,
+        "right": 0.32834102966797285,
+        "top": 0.2905053617601975
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1l": {
+      "box": {
+        "bottom": 0.3020634453483594,
+        "left": 0.3282987599871085,
+        "right": 0.40193115698510656,
+        "top": 0.2904678571393649
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1m": {
+      "box": {
+        "bottom": 0.30202289316247233,
+        "left": 0.4019026095984402,
+        "right": 0.5225255413242482,
+        "top": 0.2904063980599597
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1n": {
+      "box": {
+        "bottom": 0.3019564390596064,
+        "left": 0.5225177428106318,
+        "right": 0.6532724562774966,
+        "top": 0.29033977238784425
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1o": {
+      "box": {
+        "bottom": 0.30188439517897914,
+        "left": 0.653263705786095,
+        "right": 0.7666676426139265,
+        "top": 0.29028199640860375
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1p": {
+      "box": {
+        "bottom": 0.30182190340604403,
+        "left": 0.7666594041458735,
+        "right": 0.8986507654985845,
+        "top": 0.29021474194159536
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1q": {
+      "box": {
+        "bottom": 0.31357090405235355,
+        "left": 0.07971149856921979,
+        "right": 0.3283826110733178,
+        "top": 0.3020634453483594
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1r": {
+      "box": {
+        "bottom": 0.3134333291247009,
+        "left": 0.32834102966797285,
+        "right": 0.4019592465634552,
+        "top": 0.30202289316247233
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1s": {
+      "box": {
+        "bottom": 0.3133926235509712,
+        "left": 0.40193115698510656,
+        "right": 0.5225332179229449,
+        "top": 0.3019564390596064
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1t": {
+      "box": {
+        "bottom": 0.3133259171482068,
+        "left": 0.5225255413242482,
+        "right": 0.653263705786095,
+        "top": 0.30188439517897914
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1u": {
+      "box": {
+        "bottom": 0.3132535965168596,
+        "left": 0.6532550882590998,
+        "right": 0.7666757590297383,
+        "top": 0.30182190340604403
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1v": {
+      "box": {
+        "bottom": 0.31319084760960425,
+        "left": 0.7666676426139265,
+        "right": 0.8986533484540925,
+        "top": 0.3017491734852205
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1w": {
+      "box": {
+        "bottom": 0.3249541603726783,
+        "left": 0.07970262008696391,
+        "right": 0.32842422940186033,
+        "top": 0.3134333291247009
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1x": {
+      "box": {
+        "bottom": 0.3248133090596677,
+        "left": 0.3283826110733178,
+        "right": 0.40198735910870703,
+        "top": 0.3133926235509712
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1y": {
+      "box": {
+        "bottom": 0.32477165018074305,
+        "left": 0.4019592465634552,
+        "right": 0.5225408999132954,
+        "top": 0.3133259171482068
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1z": {
+      "box": {
+        "bottom": 0.32470338058182413,
+        "left": 0.5225332179229449,
+        "right": 0.6532550882590998,
+        "top": 0.3132535965168596
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1A": {
+      "box": {
+        "bottom": 0.32462936188028246,
+        "left": 0.6532464657567624,
+        "right": 0.7666838792509382,
+        "top": 0.31319084760960425
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1B": {
+      "box": {
+        "bottom": 0.32456512215185995,
+        "left": 0.7666757590297383,
+        "right": 0.8986559322945875,
+        "top": 0.3131178322636159
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1C": {
+      "box": {
+        "bottom": 0.33620025285134175,
+        "left": 0.07969384858698973,
+        "right": 0.3284651949190431,
+        "top": 0.3248133090596677
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1D": {
+      "box": {
+        "bottom": 0.33601478638687754,
+        "left": 0.32842422940186033,
+        "right": 0.40201500045925753,
+        "top": 0.32477165018074305
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1E": {
+      "box": {
+        "bottom": 0.33595995281140073,
+        "left": 0.40198735910870703,
+        "right": 0.5225484396049223,
+        "top": 0.32470338058182413
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1F": {
+      "box": {
+        "bottom": 0.3358700915346192,
+        "left": 0.5225408999132954,
+        "right": 0.6532464657567624,
+        "top": 0.32462936188028246
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1G": {
+      "box": {
+        "bottom": 0.3357726585517808,
+        "left": 0.6532380194589946,
+        "right": 0.7666918200510379,
+        "top": 0.32456512215185995
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1H": {
+      "box": {
+        "bottom": 0.3356880753568668,
+        "left": 0.7666838792509382,
+        "right": 0.8986584540527915,
+        "top": 0.3244903862372641
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1I": {
+      "box": {
+        "bottom": 0.3470416042183062,
+        "left": 0.0796853927688097,
+        "right": 0.32850490979482894,
+        "top": 0.33601478638687754
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1J": {
+      "box": {
+        "bottom": 0.3468742924120071,
+        "left": 0.3284651949190431,
+        "right": 0.4020418428044027,
+        "top": 0.33595995281140073
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1K": {
+      "box": {
+        "bottom": 0.3468248445341293,
+        "left": 0.40201500045925753,
+        "right": 0.5225557814687307,
+        "top": 0.3358700915346192
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1L": {
+      "box": {
+        "bottom": 0.34674380826734785,
+        "left": 0.5225484396049223,
+        "right": 0.6532380194589946,
+        "top": 0.3357726585517808
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1M": {
+      "box": {
+        "bottom": 0.34665594015571494,
+        "left": 0.6532297702451554,
+        "right": 0.7666995956606305,
+        "top": 0.3356880753568668
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1N": {
+      "box": {
+        "bottom": 0.3465796405081727,
+        "left": 0.7666918200510379,
+        "right": 0.8986609308055603,
+        "top": 0.3355896902920415
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1O": {
+      "box": {
+        "bottom": 0.35872450699512815,
+        "left": 0.07967628057436531,
+        "right": 0.32854785246995777,
+        "top": 0.3468742924120071
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1P": {
+      "box": {
+        "bottom": 0.3586163973555469,
+        "left": 0.32850490979482894,
+        "right": 0.4020708956139677,
+        "top": 0.3468248445341293
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1Q": {
+      "box": {
+        "bottom": 0.35858445899619684,
+        "left": 0.4020418428044027,
+        "right": 0.5225637408591838,
+        "top": 0.34674380826734785
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1R": {
+      "box": {
+        "bottom": 0.3585321169871343,
+        "left": 0.5225557814687307,
+        "right": 0.6532297702451554,
+        "top": 0.34665594015571494
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1S": {
+      "box": {
+        "bottom": 0.35847535964556876,
+        "left": 0.6532208114657748,
+        "right": 0.7667080529519833,
+        "top": 0.3465796405081727
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1T": {
+      "box": {
+        "bottom": 0.3584260608659585,
+        "left": 0.7666995956606305,
+        "right": 0.8986636294452145,
+        "top": 0.34649090675605937
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1U": {
+      "box": {
+        "bottom": 0.37054082968707475,
+        "left": 0.07966706431775138,
+        "right": 0.32859128224139456,
+        "top": 0.3586163973555469
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1V": {
+      "box": {
+        "bottom": 0.3704916923238685,
+        "left": 0.32854785246995777,
+        "right": 0.4021002772752383,
+        "top": 0.35858445899619684
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1W": {
+      "box": {
+        "bottom": 0.3704771817301704,
+        "left": 0.4020708956139677,
+        "right": 0.5225717900335588,
+        "top": 0.3585321169871343
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1X": {
+      "box": {
+        "bottom": 0.37045340078781064,
+        "left": 0.5225637408591838,
+        "right": 0.6532208114657748,
+        "top": 0.35847535964556876
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1Y": {
+      "box": {
+        "bottom": 0.3704276126049088,
+        "left": 0.653211752002452,
+        "right": 0.7667166049976548,
+        "top": 0.3584260608659585
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-1Z": {
+      "box": {
+        "bottom": 0.3704052068734222,
+        "left": 0.7667080529519833,
+        "right": 0.8986663582088148,
+        "top": 0.3583687394543294
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-20": {
+      "box": {
+        "bottom": 0.39718130377539035,
+        "left": 0.07964628581906652,
+        "right": 0.32868879719056693,
+        "top": 0.3704916923238685
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-21": {
+      "box": {
+        "bottom": 0.3971558617848909,
+        "left": 0.32859128224139456,
+        "right": 0.402166169956653,
+        "top": 0.3704771817301704
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-22": {
+      "box": {
+        "bottom": 0.39714835539327314,
+        "left": 0.4021002772752383,
+        "right": 0.5225898059892305,
+        "top": 0.37045340078781064
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-23": {
+      "box": {
+        "bottom": 0.39713605300768046,
+        "left": 0.5225717900335588,
+        "right": 0.653211752002452,
+        "top": 0.3704276126049088
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-24": {
+      "box": {
+        "bottom": 0.3971227108377231,
+        "left": 0.653191517887247,
+        "right": 0.7667356706400492,
+        "top": 0.3704052068734222
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-25": {
+      "box": {
+        "bottom": 0.39711111125482584,
+        "left": 0.7667166049976548,
+        "right": 0.8986724286369281,
+        "top": 0.37037916013918887
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "a64d8d65-3234-4994-97db-72ddf414ecd1": {
+      "box": {
+        "bottom": 0.49818557500839233,
+        "left": 0.0774775892496109,
+        "right": 0.47834891080856323,
+        "top": 0.4247733950614929
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "6fbf1242-b3cd-4dba-bc21-7b2702860e25": {
+      "box": {
+        "bottom": 0.5362475514411926,
+        "left": 0.0780971497297287,
+        "right": 0.47710686922073364,
+        "top": 0.4970620572566986
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "aff4abe2-ff68-469f-b90a-1190c33523d7": {
+      "box": {
+        "bottom": 0.6902879476547241,
+        "left": 0.07829780876636505,
+        "right": 0.4778146743774414,
+        "top": 0.5363336801528931
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "54b486b0-4cc1-456e-a1ec-30222ad02486": {
+      "box": {
+        "bottom": 0.7219400405883789,
+        "left": 0.07784700393676758,
+        "right": 0.4773721694946289,
+        "top": 0.689778208732605
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "73a7a7b4-e550-4660-9466-f6311056d7c5": {
+      "box": {
+        "bottom": 0.881172776222229,
+        "left": 0.07783924043178558,
+        "right": 0.47800928354263306,
+        "top": 0.7343782186508179
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "a0e933f4-36e6-4c73-9c2f-eb0b6941d2fb": {
+      "box": {
+        "bottom": 0.9212217926979065,
+        "left": 0.0782661885023117,
+        "right": 0.4777432084083557,
+        "top": 0.8815780282020569
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "2f4272a5-3385-4d21-b493-24db297f046b": {
+      "box": {
+        "bottom": 0.5397126078605652,
+        "left": 0.4990391731262207,
+        "right": 0.89914870262146,
+        "top": 0.4253666400909424
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "a073d802-ddd1-44dd-9709-54675a73a094": {
+      "box": {
+        "bottom": 0.6159363389015198,
+        "left": 0.4993857145309448,
+        "right": 0.8990613222122192,
+        "top": 0.5409058928489685
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "1d362fb9-fa5a-4285-875e-68afa6332569": {
+      "box": {
+        "bottom": 0.754796028137207,
+        "left": 0.49976846575737,
+        "right": 0.899304986000061,
+        "top": 0.61634361743927
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "8003df12-95e0-4aad-ae44-447ce897ce73": {
+      "box": {
+        "bottom": 0.8930711150169373,
+        "left": 0.4996614158153534,
+        "right": 0.8994677066802979,
+        "top": 0.7548753619194031
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "42ab8321-5f9a-44cd-9579-07a1fb32f4c8": {
+      "box": {
+        "bottom": 0.9213894605636597,
+        "left": 0.5007747411727905,
+        "right": 0.8996737003326416,
+        "top": 0.8941999673843384
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "84d4b9bf-2ec0-41da-abf9-5f4119e04458": {
+      "box": {
+        "bottom": 0.9790223240852356,
+        "left": 0.9516721367835999,
+        "right": 0.9755674004554749,
+        "top": 0.4984970688819885
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "9342d73f-324c-421e-9565-57c8630e7442": {
+      "box": {
+        "bottom": 0.06969207525253296,
+        "left": 0.07617168128490448,
+        "right": 0.1671820878982544,
+        "top": 0.05192619189620018
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "ac44c6bc-c649-4db7-b9a8-ff4ddef1ec0d": {
+      "box": {
+        "bottom": 0.06960108876228333,
+        "left": 0.6320272088050842,
+        "right": 0.858191192150116,
+        "top": 0.051826804876327515
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "5b093aaf-ee63-4452-9476-3602f4f39080": {
+      "box": {
+        "bottom": 0.0686088427901268,
+        "left": 0.872394859790802,
+        "right": 0.8980680108070374,
+        "top": 0.05285964906215668
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "d8690127-1e9e-4935-b593-09b577727d0b": {
+      "box": {
+        "bottom": 0.6996451616287231,
+        "left": 0.07652230560779572,
+        "right": 0.48288649320602417,
+        "top": 0.0867578387260437
+      },
+      "page": 2,
+      "type": "chunkFigure"
+    },
+    "776c8099-8ac4-4d01-9aab-f10d508d7aec": {
+      "box": {
+        "bottom": 0.8414453864097595,
+        "left": 0.07660768926143646,
+        "right": 0.4791664481163025,
+        "top": 0.7231865525245667
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "4b2c0852-646b-4c6e-88d0-f11cb4bedd67": {
+      "box": {
+        "bottom": 0.9226115345954895,
+        "left": 0.07671581208705902,
+        "right": 0.47927695512771606,
+        "top": 0.8547415137290955
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "89620420-5148-4617-a260-343514309eae": {
+      "box": {
+        "bottom": 0.20007121562957764,
+        "left": 0.4988039433956146,
+        "right": 0.9003262519836426,
+        "top": 0.08389189839363098
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "96c627a1-fc4c-4179-89ad-76ab0d94d62b": {
+      "box": {
+        "bottom": 0.3886185884475708,
+        "left": 0.4985892176628113,
+        "right": 0.900592029094696,
+        "top": 0.19946420192718506
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "184b59da-8ac4-40a5-8482-4e9c243057e8": {
+      "box": {
+        "bottom": 0.5921719670295715,
+        "left": 0.49860796332359314,
+        "right": 0.9008417129516602,
+        "top": 0.388018935918808
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "18a651cc-607a-4bc5-8f1b-ed5bb7c15a71": {
+      "box": {
+        "bottom": 0.9235254526138306,
+        "left": 0.4982188940048218,
+        "right": 0.9014203548431396,
+        "top": 0.5913718938827515
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "91289e11-ad36-4665-a5be-75c54b8e679d": {
+      "box": {
+        "bottom": 0.980138897895813,
+        "left": 0.9505079388618469,
+        "right": 0.976904571056366,
+        "top": 0.49679505825042725
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "a2c07d6e-73cf-4e84-bde6-854ac2ba0771": {
+      "box": {
+        "bottom": 0.06861133873462677,
+        "left": 0.07676143944263458,
+        "right": 0.10617430508136749,
+        "top": 0.05255666375160217
+      },
+      "page": 3,
+      "type": "chunkMarginalia"
+    },
+    "4c576fcc-27de-4e68-aede-e6b2fc6b8568": {
+      "box": {
+        "bottom": 0.07004277408123016,
+        "left": 0.12660586833953857,
+        "right": 0.24718686938285828,
+        "top": 0.05233621597290039
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "a33c596a-94bf-40d7-b3c7-326f9886fb1b": {
+      "box": {
+        "bottom": 0.06988611817359924,
+        "left": 0.775290310382843,
+        "right": 0.8998333811759949,
+        "top": 0.051758598536252975
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "60e6cd98-49c7-4b37-a750-ab23b0e123a3": {
+      "box": {
+        "bottom": 0.32401788234710693,
+        "left": 0.07565595209598541,
+        "right": 0.4810938835144043,
+        "top": 0.08419694006443024
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "d0c4df9a-8283-462c-ac37-8ee1bf65152b": {
+      "box": {
+        "bottom": 0.44095543026924133,
+        "left": 0.07512536644935608,
+        "right": 0.48119446635246277,
+        "top": 0.32586827874183655
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "62db0545-807f-4988-ad0e-16003a957a7c": {
+      "box": {
+        "bottom": 0.5301094055175781,
+        "left": 0.07502244412899017,
+        "right": 0.48122698068618774,
+        "top": 0.4488062560558319
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "3efdcf55-204e-4a5d-84a6-1575fe7eba3f": {
+      "box": {
+        "bottom": 0.7964577078819275,
+        "left": 0.07748913764953613,
+        "right": 0.4817273020744324,
+        "top": 0.5347620844841003
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "24377c25-ad2f-46d7-a9c8-8753b92acce8": {
+      "box": {
+        "bottom": 0.7980118989944458,
+        "left": 0.4961882531642914,
+        "right": 0.9053932428359985,
+        "top": 0.08128458261489868
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "b883eca5-a158-459f-a17c-f9d4db7f393e": {
+      "box": {
+        "bottom": 0.9810915589332581,
+        "left": 0.9493957161903381,
+        "right": 0.9782752394676208,
+        "top": 0.4961579442024231
+      },
+      "page": 3,
+      "type": "chunkMarginalia"
+    }
+  }
+}

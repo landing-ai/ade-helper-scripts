@@ -1,0 +1,3094 @@
+{
+  "chunks": [
+    {
+      "id": "7ad15d34-a692-4b6e-a90f-9ef551ace88c",
+      "grounding": {
+        "box": {
+          "bottom": 0.07098805159330368,
+          "left": 0.09118017554283142,
+          "right": 0.19373804330825806,
+          "top": 0.053276337683200836
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7ad15d34-a692-4b6e-a90f-9ef551ace88c'></a>\n\nVol. 330 No. 1",
+      "type": "marginalia"
+    },
+    {
+      "id": "c65dd657-f90d-4078-bbfa-be666a566965",
+      "grounding": {
+        "box": {
+          "bottom": 0.07093091309070587,
+          "left": 0.23928797245025635,
+          "right": 0.8361819982528687,
+          "top": 0.05389929562807083
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c65dd657-f90d-4078-bbfa-be666a566965'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD --- GWALTNEY ET AL.",
+      "type": "text"
+    },
+    {
+      "id": "826f65f5-5616-4987-93b3-86fd00b51e3f",
+      "grounding": {
+        "box": {
+          "bottom": 0.07001790404319763,
+          "left": 0.8823412656784058,
+          "right": 0.9030797481536865,
+          "top": 0.055556003004312515
+        },
+        "page": 0
+      },
+      "markdown": "<a id='826f65f5-5616-4987-93b3-86fd00b51e3f'></a>\n\n25",
+      "type": "marginalia"
+    },
+    {
+      "id": "08541807-866c-4dc0-a302-f801e4beb7d6",
+      "grounding": {
+        "box": {
+          "bottom": 0.1436484456062317,
+          "left": 0.1768210232257843,
+          "right": 0.8169745206832886,
+          "top": 0.08751752972602844
+        },
+        "page": 0
+      },
+      "markdown": "<a id='08541807-866c-4dc0-a302-f801e4beb7d6'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD\nJACK M. GWALTNEY, JR., M.D., C. DOUGLAS PHILLIPS, M.D., R. DAVID MILLER, B.S.,\nAND DONALD K. RIKER, PH.D.",
+      "type": "text"
+    },
+    {
+      "id": "ae393949-a4f2-4448-ba6f-7aa27d2329d0",
+      "grounding": {
+        "box": {
+          "bottom": 0.19027145206928253,
+          "left": 0.0906292200088501,
+          "right": 0.4887615442276001,
+          "top": 0.15050171315670013
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ae393949-a4f2-4448-ba6f-7aa27d2329d0'></a>\n\n**Abstract** *Background.* Colds are common, but the abnormalities they produce in the nasal passages and sinus cavities have not been well defined.",
+      "type": "text"
+    },
+    {
+      "id": "f8b5604d-2a9b-4b9c-a89d-96bb44f6b7bc",
+      "grounding": {
+        "box": {
+          "bottom": 0.31600573658943176,
+          "left": 0.09145104885101318,
+          "right": 0.48724794387817383,
+          "top": 0.19037339091300964
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f8b5604d-2a9b-4b9c-a89d-96bb44f6b7bc'></a>\n\n**Methods.** We studied healthy adult volunteers with self-diagnosed colds of 48 to 96 hours' duration and obtained the following data: information on symptoms, computed tomographic (CT) studies of the nasal passages and sinuses, mucosal-transport times, measures of nasal-airway resistance, and viral-culture studies. Thirty-one subjects (mean age, 24 years) had complete evaluations, including CT scans, which were read without knowledge of the clinical data. An additional 79 subjects underwent the same evaluations, except the CT scans.",
+      "type": "text"
+    },
+    {
+      "id": "adf4f3a3-da32-4c2e-935e-89f96bd0fe44",
+      "grounding": {
+        "box": {
+          "bottom": 0.38497352600097656,
+          "left": 0.09137548506259918,
+          "right": 0.48795902729034424,
+          "top": 0.31625431776046753
+        },
+        "page": 0
+      },
+      "markdown": "<a id='adf4f3a3-da32-4c2e-935e-89f96bd0fe44'></a>\n\n_Results._ Of the 31 subjects with CT scans, 24 (77 percent) had occlusion of the ethmoid infundibulum; 27 (87 percent) had abnormalities of one or both maxillary-sinus cavities; 20 (65 percent) had abnormalities of the ethmoid sinuses; 10 (32 percent) had abnormalities of the frontal",
+      "type": "text"
+    },
+    {
+      "id": "9215883b-e58a-45b1-bef1-4610529a2f04",
+      "grounding": {
+        "box": {
+          "bottom": 0.5424486994743347,
+          "left": 0.0909692645072937,
+          "right": 0.48786473274230957,
+          "top": 0.4015723168849945
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9215883b-e58a-45b1-bef1-4610529a2f04'></a>\n\nSTUDIES of the common cold have relied on diag- nosis by the patients themselves\u0019-3 or diagnosis by an investigator using individual symptoms reported by the patients. 4-6 These methods have limited useful- ness for determining which anatomical areas of the upper airway are involved in the illness. There is a general assumption that in the upper airway the cold is mainly confined to the nasal passages and pharynx. Extension of the illness to the paranasal sinuses is thought to represent a complication.",
+      "type": "text"
+    },
+    {
+      "id": "aad366c7-1f88-42a0-b48a-33b26b2540fd",
+      "grounding": {
+        "box": {
+          "bottom": 0.6543774604797363,
+          "left": 0.09175370633602142,
+          "right": 0.4880768656730652,
+          "top": 0.542681097984314
+        },
+        "page": 0
+      },
+      "markdown": "<a id='aad366c7-1f88-42a0-b48a-33b26b2540fd'></a>\n\nComputed tomographic (CT) scanning allows de-\ntailed imaging of the nasal passages, ostiomeatal com-\nplex, and paranasal sinuses. We obtained CT scans of\nthe nasal passages and sinuses of subjects with early,\nnaturally acquired colds and correlated the findings\nwith symptom scores, data on nasal-airway resistance,\nand mucosal-transport times to determine how the\ncommon cold involves the upper airway.",
+      "type": "text"
+    },
+    {
+      "id": "d1da45df-ac26-4b55-9f15-56c284ebb29b",
+      "grounding": {
+        "box": {
+          "bottom": 0.8383852243423462,
+          "left": 0.09166941046714783,
+          "right": 0.4882640540599823,
+          "top": 0.6613408327102661
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d1da45df-ac26-4b55-9f15-56c284ebb29b'></a>\n\n# METHODS\n\n## Subjects\n\nSubjects 18 years of age or older were recruited by solicitations for volunteers with a \"fresh common cold.\" Volunteers were screened by telephone for eligibility in a way designed to mask the criteria for enrollment in the study. These criteria included good health other than having the common cold; duration of symptoms of at least 48 hours but less than 96 hours; no active allergic rhinitis or other respiratory illness; no history of recurrent or chronic sinusitis or nasal polyps; no use of cough, cold, or analgesic drugs within 8 hours before enrollment; and reported nasal or head congestion at the time of the initial visit. After 28 subjects had been enrolled, the last criterion was eliminated to allow investigation of CT findings in subjects without congestion.",
+      "type": "text"
+    },
+    {
+      "id": "fe14a487-f9c9-41b6-8160-dba99712c3c5",
+      "grounding": {
+        "box": {
+          "bottom": 0.8652993440628052,
+          "left": 0.0895819216966629,
+          "right": 0.4873908758163452,
+          "top": 0.8386507034301758
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fe14a487-f9c9-41b6-8160-dba99712c3c5'></a>\n\nOf the 356 people who volunteered to participate in the study,\n129 were excluded because they could not or did not keep the initial",
+      "type": "text"
+    },
+    {
+      "id": "4340637d-5295-4949-9660-569747fd0096",
+      "grounding": {
+        "box": {
+          "bottom": 0.938477098941803,
+          "left": 0.0914396345615387,
+          "right": 0.48910078406333923,
+          "top": 0.8736631274223328
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4340637d-5295-4949-9660-569747fd0096'></a>\n\nFrom the Departments of Internal Medicine (J.M.G.) and Radiology (C.D.P.),\nUniversity of Virginia Health Sciences Center, Charlottesville, and the Procter\n& Gamble Company, Cincinnati (R.D.M., D.K.R.). Address reprint requests to\nDr. Gwaltney at the Department of Internal Medicine, University of Virginia\nHealth Sciences Center, Charlottesville, VA 22908.\nSupported by the Procter & Gamble Company, Cincinnati.",
+      "type": "text"
+    },
+    {
+      "id": "8981bb02-6287-4eb5-a211-9edd69b4f58e",
+      "grounding": {
+        "box": {
+          "bottom": 0.38242146372795105,
+          "left": 0.5083615779876709,
+          "right": 0.9059319496154785,
+          "top": 0.15079298615455627
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8981bb02-6287-4eb5-a211-9edd69b4f58e'></a>\n\nsinuses; and 12 (39 percent) had abnormalities of the sphenoid sinuses. Infraorbital air cells were present in 14 subjects (45 percent), and pneumatization of the middle turbinate (concha bullosa) was noted in 11 subjects (35 percent). Also common were engorged turbinates (in 7 subjects) and thickening of the walls of the nasal passages (in 13). After two weeks, the CT studies were repeated in 14 subjects, none of whom received antibiotics. In 11 of these subjects (79 percent) the abnormalities of the infundibula and sinuses had cleared or markedly improved. Nasal-airway resistance was abnormal in 29 (94 percent) and mucosal transport in 19 (61 percent) of the 31 subjects who had CT scans. Rhinovirus was detected in nasal secretions from 24 (27 percent) of 90 subjects.\n\n**Conclusions.** The common cold is associated with frequent and variable anatomical involvement of the upper airways, including occlusion and abnormalities in the sinus cavities. (N Engl J Med 1994;330:25-30.)",
+      "type": "text"
+    },
+    {
+      "id": "5f8a6e8b-b29d-4ae1-842a-e24d451a94e7",
+      "grounding": {
+        "box": {
+          "bottom": 0.5528993606567383,
+          "left": 0.5088551640510559,
+          "right": 0.9055636525154114,
+          "top": 0.4027782082557678
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5f8a6e8b-b29d-4ae1-842a-e24d451a94e7'></a>\n\nappointment or could not be accommodated in the study at a given time; 65 because they had been ill too long; 13 because their cold symptoms had subsided; 15 because of a history of allergy, asthma, or chronic sinus disease; 8 because they did not report congestion; 5 because they were being treated for another illness; 2 because they could not tolerate dye in the nose; and 2 because they were under 18 years of age. A total of 117 volunteers were enrolled in the study, and 110 completed it (8 of the 110 missed an appointment on one day of the study but were included for the purpose of data analysis). After enrollment, patients were observed for six days, during which time they did not use acetaminophen as an analgesic. The study was approved by the Human Investigation Committee of the University of Virginia.",
+      "type": "text"
+    },
+    {
+      "id": "b9df91df-ef35-4d9f-9d61-83a9497510e3",
+      "grounding": {
+        "box": {
+          "bottom": 0.6748285889625549,
+          "left": 0.5093361735343933,
+          "right": 0.9063897728919983,
+          "top": 0.5603348612785339
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b9df91df-ef35-4d9f-9d61-83a9497510e3'></a>\n\n## Subjective Measurement of Illness\nThe subjects reported symptoms by entering information in a computer program with a rating scale from 0 (not present) to 10 (very severe). They used the scale to respond to questions about sneezing, runny nose, nasal stuffiness, sore throat, cough, fatigue or lethargy, muscle aches and pains, chills, feverishness, and headache. The subjects were also asked whether they had nasal or head congestion. Symptoms were assessed at the time of enrollment and daily between the hours of 8 a.m. and 11 a.m. for six days.",
+      "type": "text"
+    },
+    {
+      "id": "b2d6211c-cfb8-4bcc-9c7e-3e3739552acc",
+      "grounding": {
+        "box": {
+          "bottom": 0.84044349193573,
+          "left": 0.50968998670578,
+          "right": 0.906134307384491,
+          "top": 0.6809824705123901
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b2d6211c-cfb8-4bcc-9c7e-3e3739552acc'></a>\n\n## Nasal-Airway Resistance\n\nNasal-airway resistance was measured by single-nostril active an-terior rhinomanometry.<sup>7</sup> Beginning with the left nostril, nasal air-flow and transnasal pressure at the contralateral nostril were meas-ured over the course of four consecutive breaths with the use of a commercial rhinomanometer (John Connell, Englewood, N.J.). During the measurement, pressure and flow signals were digitized at a sampling rate of 100 Hz and displayed on the computer moni-tor. The primary measure of nasal patency was the rate of flow (in liters per second) at a reference transnasal pressure of -1.5 cm of water during inspiration. A value under 0.6 liter per second for white subjects or under 0.7 liter per second for black subjects was considered abnormal.<sup>8</sup>",
+      "type": "text"
+    },
+    {
+      "id": "d0a4d1ca-9c2e-4b92-91aa-091c2625c47f",
+      "grounding": {
+        "box": {
+          "bottom": 0.9392523765563965,
+          "left": 0.510301947593689,
+          "right": 0.9066034555435181,
+          "top": 0.8474458456039429
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d0a4d1ca-9c2e-4b92-91aa-091c2625c47f'></a>\n\n## Virologic Studies\n\nViral-culture studies were performed with nasal secretions from the last 90 subjects enrolled in the study. The subjects expelled the contents of their nasal passages onto a plastic film. Secretions were then transferred by cotton swab to a vial containing 5 ml of beef-heart infusion broth with 1 percent bovine serum albumin and anti-biotics. This method was used to avoid irritation of the nose",
+      "type": "text"
+    },
+    {
+      "id": "85a47d3e-3722-4214-b23b-6e47b7a569ed",
+      "grounding": {
+        "box": {
+          "bottom": 0.9934251308441162,
+          "left": 0.28040629625320435,
+          "right": 0.7206950783729553,
+          "top": 0.9683212041854858
+        },
+        "page": 0
+      },
+      "markdown": "<a id='85a47d3e-3722-4214-b23b-6e47b7a569ed'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.",
+      "type": "text"
+    },
+    {
+      "id": "76c860ad-4ef9-40d8-933b-7a9b37803770",
+      "grounding": {
+        "box": {
+          "bottom": 0.07046906650066376,
+          "left": 0.09009452909231186,
+          "right": 0.11228906363248825,
+          "top": 0.05431836470961571
+        },
+        "page": 1
+      },
+      "markdown": "<a id='76c860ad-4ef9-40d8-933b-7a9b37803770'></a>\n\n26",
+      "type": "marginalia"
+    },
+    {
+      "id": "7177b9d0-f489-49b9-a8f1-23112821a857",
+      "grounding": {
+        "box": {
+          "bottom": 0.07368363440036774,
+          "left": 0.3317106366157532,
+          "right": 0.6605406999588013,
+          "top": 0.0546267032623291
+        },
+        "page": 1
+      },
+      "markdown": "<a id='7177b9d0-f489-49b9-a8f1-23112821a857'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE",
+      "type": "text"
+    },
+    {
+      "id": "949a2cd5-5284-44c5-8f58-141415cd0ed0",
+      "grounding": {
+        "box": {
+          "bottom": 0.07542289793491364,
+          "left": 0.8226342797279358,
+          "right": 0.9027244448661804,
+          "top": 0.057567473500967026
+        },
+        "page": 1
+      },
+      "markdown": "<a id='949a2cd5-5284-44c5-8f58-141415cd0ed0'></a>\n\nJan. 6, 1994",
+      "type": "marginalia"
+    },
+    {
+      "id": "15d89a71-5429-4276-8520-3c07be41e561",
+      "grounding": {
+        "box": {
+          "bottom": 0.17388862371444702,
+          "left": 0.0874529480934143,
+          "right": 0.3541906177997589,
+          "top": 0.08974486589431763
+        },
+        "page": 1
+      },
+      "markdown": "<a id='15d89a71-5429-4276-8520-3c07be41e561'></a>\n\nby nasal swabbing or washing. Specimens\nwere inoculated into three human embryon-\nic lung-cell monolayers of the WI-38 strain\n(BioWhittaker, Walkersville, Md.). Viral\nisolates were identified as rhinoviruses by\ntheir characteristic cytopathic effect and\nacid lability.",
+      "type": "text"
+    },
+    {
+      "id": "64992c39-4ea6-43ed-b50b-a05e804345f1",
+      "grounding": {
+        "box": {
+          "bottom": 0.42941349744796753,
+          "left": 0.08545282483100891,
+          "right": 0.4838966429233551,
+          "top": 0.1791038066148758
+        },
+        "page": 1
+      },
+      "markdown": "<a id='64992c39-4ea6-43ed-b50b-a05e804345f1'></a>\n\n# Nasal Mucosal Transport\n\nNasal mucociliary clearance was determined by a modification of a previously described method.10-12 Fifteen microliters of a test solution was placed on the mucosa of each nostril in the anterior part of the nasal cavity below the inferior meatus. The test solution consisted of 8 mg of indigo carmine per milliliter, 3 mg of saccharin per milliliter, and 45 mg of sorbitol per milliliter (pH adjusted to 7.4). The subjects reported the first occurrence of a sweet taste, and then the pharyngeal cavity was examined for the appearance of the blue dye. Repeated inspections of the pharynx were made at 30-second intervals for 30 minutes or until dye was observed on each side. The combined clearance time was defined as the time elapsed from the introduction of the test solution to the first report of a sweet taste. Separate clearance times for the right and left nasal passages are not reported. For the combined clearance time, the occurrence of a sweet taste 20 minutes or more after the introduction of the solution was considered abnormal.\n\nWith CT scans\n(n = 31)\n\nWithout CT\nscans (n = 79)\n\n*Values are means \u00b1\n\u2020The total symptoms\ncough, headache, fever",
+      "type": "text"
+    },
+    {
+      "id": "2306d1ef-bcfc-4daa-af8a-0b1fdbe5cee4",
+      "grounding": {
+        "box": {
+          "bottom": 0.6678804159164429,
+          "left": 0.08446499705314636,
+          "right": 0.4841509759426117,
+          "top": 0.43789875507354736
+        },
+        "page": 1
+      },
+      "markdown": "<a id='2306d1ef-bcfc-4daa-af8a-0b1fdbe5cee4'></a>\n\n## CT Scans of the Upper Airway\n\nCT scans of the nasal passages, ostiomeatal complex, and paranasal sinuses were obtained in 33 (30 percent) of the 110 subjects. Two subjects were excluded from the analysis because of bony changes in the maxillary antra, which were thought to be the result of chronic sinus disease. Twenty-eight subjects underwent CT scanning within 24 hours after enrollment, and three within 48 hours after enrollment. Subjects were selected for CT scanning primarily on the basis of scheduling considerations; the severity of illness was not a factor in selection. Fifteen to 20 images were obtained in a direct coronal plane that included the nasal passages and sinuses (GE-9800 Quick scanner, General Electric, Schenectady, N.Y., or Picker PQ-2000 scanner, Picker International, Cleveland). Fourteen subjects with abnormalities of the sinuses on the initial CT scans had repeat scans and repeat studies of nasal mucosal transport and airway resistance 8 to 15 days later. All scans were read independently by two radiologists who had no clinical information on the subjects; the radiologists compared their readings and resolved any differences in interpretation.",
+      "type": "text"
+    },
+    {
+      "id": "d361507a-5d91-4454-8378-4c8d101d4ec7",
+      "grounding": {
+        "box": {
+          "bottom": 0.8396619558334351,
+          "left": 0.08353890478610992,
+          "right": 0.48337244987487793,
+          "top": 0.6767561435699463
+        },
+        "page": 1
+      },
+      "markdown": "<a id='d361507a-5d91-4454-8378-4c8d101d4ec7'></a>\n\n# RESULTS\n## Characteristics of the Study Subjects\nSubjects were enrolled in the study between June 9 and October 9, 1992. Of the 31 subjects who had CT scans, 21 were women and 10 were men; 25 were white and 6 were nonwhite. Their ages ranged from 19 to 35 years, with a mean of 24 years. Of the 79 subjects who did not have CT scans, 50 were women and 29 were men; 69 were white and 10 were nonwhite. Their ages ranged from 18 to 55 years, with a mean of 23.5 years.",
+      "type": "text"
+    },
+    {
+      "id": "c1a12477-5597-4a29-8618-64cf07159e33",
+      "grounding": {
+        "box": {
+          "bottom": 0.9266825318336487,
+          "left": 0.08215288817882538,
+          "right": 0.48243749141693115,
+          "top": 0.8405382037162781
+        },
+        "page": 1
+      },
+      "markdown": "<a id='c1a12477-5597-4a29-8618-64cf07159e33'></a>\n\nIllnesses in both groups were typical common colds.\nRhinorrhea and nasal stuffiness were the most promi-\nnent respiratory symptoms, followed by cough and\nsore throat. Total symptom scores over six days\nranged from 28 to 236 for the subjects who had CT\nscans and from 53 to 333 for those who did not (Ta-",
+      "type": "text"
+    },
+    {
+      "id": "0eef9817-e43b-4ea0-805f-a1a44d62b63d",
+      "grounding": {
+        "box": {
+          "bottom": 0.29159337282180786,
+          "left": 0.38193756341934204,
+          "right": 0.9031069874763489,
+          "top": 0.0899495929479599
+        },
+        "page": 1
+      },
+      "markdown": "<a id='0eef9817-e43b-4ea0-805f-a1a44d62b63d'></a>\n\nTable 1. Symptoms, Delayed Mucosal Transport, and Abnormal Nasal-Airway Resist-\nance in 110 Adults with Naturally Acquired Colds.*\n<table id=\"1-1\">\n<tr><td id=\"1-2\">SUBJECT GROUP</td><td id=\"1-3\"></td><td id=\"1-4\"></td><td id=\"1-5\" colspan=\"2\">SYMPTOM</td><td id=\"1-6\"></td><td id=\"1-7\"></td><td id=\"1-8\">DELAYED MUCOSAL TRANSPORT</td><td id=\"1-9\">ABNORMAL NASAL-AIRWAY RESISTANCE</td></tr>\n<tr><td id=\"1-a\"></td><td id=\"1-b\">RHINOR- RHEA</td><td id=\"1-c\">NASAL STUFFINESS</td><td id=\"1-d\">SORE THROAT</td><td id=\"1-e\">COUGH</td><td id=\"1-f\">HEAD-ACHE</td><td id=\"1-g\">TOTAL\u2020</td><td id=\"1-h\"></td><td id=\"1-i\"></td></tr>\n<tr><td id=\"1-j\"></td><td id=\"1-k\"></td><td id=\"1-l\"></td><td id=\"1-m\" colspan=\"2\">score</td><td id=\"1-n\"></td><td id=\"1-o\"></td><td id=\"1-p\" colspan=\"2\">no. of days</td></tr>\n<tr><td id=\"1-q\">With CT scans (n = 31)</td><td id=\"1-r\">22\u00b111.5</td><td id=\"1-s\">21\u00b111.5</td><td id=\"1-t\">17\u00b110</td><td id=\"1-u\">18\u00b115</td><td id=\"1-v\">11\u001310</td><td id=\"1-w\">132\u001350</td><td id=\"1-x\">2.1\u00132</td><td id=\"1-y\">4.2\u00132</td></tr>\n<tr><td id=\"1-z\">Without CT scans (n = 79)</td><td id=\"1-A\">20\u00b19</td><td id=\"1-B\">24\u00b19</td><td id=\"1-C\">15\u00b112</td><td id=\"1-D\">21\u00b115</td><td id=\"1-E\">16\u001313</td><td id=\"1-F\">156\u001363</td><td id=\"1-G\">3.3\u00132</td><td id=\"1-H\">4.4\u00132</td></tr>\n</table>\n*Values are means \u00b1SD.\n\u2020The total symptom score is the sum of the daily scores for symptoms of sneezing, rhinorrhea, nasal stuffiness, sore throat,\ncough, headache, feverishness, chilliness, myalgia, and lethargy or fatigue, over a period of six days.",
+      "type": "table"
+    },
+    {
+      "id": "a451255b-4ba5-4152-b904-2a308d005d56",
+      "grounding": {
+        "box": {
+          "bottom": 0.39147448539733887,
+          "left": 0.5064646601676941,
+          "right": 0.9024856686592102,
+          "top": 0.30397123098373413
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a451255b-4ba5-4152-b904-2a308d005d56'></a>\n\nble 1). The mean total scores (\u00b1SD) were 132\u00b150 and 156\u00b163 for the respective groups (P = 0.07 by Student's t-test). The greater severity of illness in the group without CT scans was attributable mainly to the systemic symptoms of lethargy, myalgia, chilliness, and headache.",
+      "type": "text"
+    },
+    {
+      "id": "3b91ec68-16a5-4d7c-883c-4c77a931362f",
+      "grounding": {
+        "box": {
+          "bottom": 0.5420699715614319,
+          "left": 0.504898190498352,
+          "right": 0.9020862579345703,
+          "top": 0.3964357376098633
+        },
+        "page": 1
+      },
+      "markdown": "<a id='3b91ec68-16a5-4d7c-883c-4c77a931362f'></a>\n\n## Viral Cultures\n\nViral cultures of nasal secretions yielded rhinovirus isolates in 24 of 90 subjects (27 percent): 7 of 17 subjects who had CT scans (41 percent) and 17 of 73 who did not (23 percent) (P = 0.2 by Fisher's exact test). The total six-day symptom scores for the 24 rhinovirus-positive subjects ranged from 53 to 247 (mean, 152\u001353). Thus, the colds that were associated with rhinovirus tended to be in the middle range of severity for the group as a whole.",
+      "type": "text"
+    },
+    {
+      "id": "0c4343f9-28e0-49b8-8fb5-f579ca4560b9",
+      "grounding": {
+        "box": {
+          "bottom": 0.7500181794166565,
+          "left": 0.5040591955184937,
+          "right": 0.901796817779541,
+          "top": 0.5474004149436951
+        },
+        "page": 1
+      },
+      "markdown": "<a id='0c4343f9-28e0-49b8-8fb5-f579ca4560b9'></a>\n\n## Nasal-Airway Resistance\nRhinomanometric studies showed abnormal nasal-airway resistance on 1 or more days in 29 of the 31 subjects with CT scans (94 percent); the number of days ranged from 1 to 6 (mean, 4.2\u00132). The subjects with the 10 highest symptom scores had abnormal airway resistance on an average of 4.1 days, as compared with an average of 3.8 days for those with the 10 lowest symptom scores. None of the 6 subjects with abnormal airway resistance on two or fewer days had CT evidence of swelling of the turbinates or thickening of the nasal wall, as compared with 9 of the 16 subjects (56 percent) with abnormal airway resistance on all six days (P = 0.05 by Fisher's exact test).",
+      "type": "text"
+    },
+    {
+      "id": "a0a1a796-6e7f-4b11-9a84-6f67cf0bb3ce",
+      "grounding": {
+        "box": {
+          "bottom": 0.9260962009429932,
+          "left": 0.5025871396064758,
+          "right": 0.9007109999656677,
+          "top": 0.754246711730957
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a0a1a796-6e7f-4b11-9a84-6f67cf0bb3ce'></a>\n\n## Mucosal Transport\nA delay in mucosal transport was noted on one or more days in 19 of the 31 subjects (61 percent) who had CT scans and in 63 of the 79 (80 percent) who did not (P = 0.08 by Fisher's exact test) (Table 1).\nThe mean number of days of abnormal mucociliary clearance was 2.1\u00b12.2 for the subjects who had CT scans and 3.3\u00b12.2 for those who did not (P = 0.01 by Student's t-test). These results, like the data on symptoms, suggest that illnesses were somewhat more severe in the group of subjects who did not have CT scans.",
+      "type": "text"
+    },
+    {
+      "id": "446ca36d-ff72-4998-a3ba-e893afa6b0f6",
+      "grounding": {
+        "box": {
+          "bottom": 0.994358241558075,
+          "left": 0.27806198596954346,
+          "right": 0.7215676307678223,
+          "top": 0.967222273349762
+        },
+        "page": 1
+      },
+      "markdown": "<a id='446ca36d-ff72-4998-a3ba-e893afa6b0f6'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.",
+      "type": "text"
+    },
+    {
+      "id": "63338ac7-a6f6-4aeb-b567-3179dbe652dc",
+      "grounding": {
+        "box": {
+          "bottom": 0.07242357730865479,
+          "left": 0.0899084061384201,
+          "right": 0.19551171362400055,
+          "top": 0.05115476995706558
+        },
+        "page": 2
+      },
+      "markdown": "<a id='63338ac7-a6f6-4aeb-b567-3179dbe652dc'></a>\n\nVol. 330 No. 1",
+      "type": "marginalia"
+    },
+    {
+      "id": "2ad52ab8-1f5c-4f54-986d-9e660efc48ea",
+      "grounding": {
+        "box": {
+          "bottom": 0.07133085280656815,
+          "left": 0.2373216450214386,
+          "right": 0.8355472087860107,
+          "top": 0.052848052233457565
+        },
+        "page": 2
+      },
+      "markdown": "<a id='2ad52ab8-1f5c-4f54-986d-9e660efc48ea'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD --- GWALTNEY ET AL.",
+      "type": "text"
+    },
+    {
+      "id": "95455c2d-870c-4dd6-9c12-d31f833ddd24",
+      "grounding": {
+        "box": {
+          "bottom": 0.07108211517333984,
+          "left": 0.8797721862792969,
+          "right": 0.9039715528488159,
+          "top": 0.05499489605426788
+        },
+        "page": 2
+      },
+      "markdown": "<a id='95455c2d-870c-4dd6-9c12-d31f833ddd24'></a>\n\n27",
+      "type": "marginalia"
+    },
+    {
+      "id": "a6dc336f-1b77-4f3a-b4fc-416e0f09a225",
+      "grounding": {
+        "box": {
+          "bottom": 0.23208078742027283,
+          "left": 0.08797372877597809,
+          "right": 0.49089133739471436,
+          "top": 0.0882580503821373
+        },
+        "page": 2
+      },
+      "markdown": "<a id='a6dc336f-1b77-4f3a-b4fc-416e0f09a225'></a>\n\nMucosal-transport times correlated with the sever-\nity of illness as indicated by the six-day symptom\nscores. In the group with CT scans, the transport time\nwas abnormal on one or more days in 8 of the 10\nsubjects with the highest total symptom scores but in\nonly 2 of the 10 subjects with the lowest total scores\n(P = 0.02 by Fisher's exact test). The mean number\nof days on which measurements were abnormal in\nthese groups was 3 and 0.5, respectively (P = 0.005 by\nStudent's t-test).",
+      "type": "text"
+    },
+    {
+      "id": "42546bb3-9ac0-41c6-9596-8f496b6e726b",
+      "grounding": {
+        "box": {
+          "bottom": 0.3948097825050354,
+          "left": 0.08763325214385986,
+          "right": 0.4903666377067566,
+          "top": 0.23614777624607086
+        },
+        "page": 2
+      },
+      "markdown": "<a id='42546bb3-9ac0-41c6-9596-8f496b6e726b'></a>\n\n## CT Scans\nTwenty-two of the 31 subjects with CT scans (71 percent) reported nasal or head congestion, and 9 did not. Of the subjects with congestion, 21 (95 percent) had occlusion of the ethmoid infundibulum, as compared with 3 of the 9 subjects without congestion (33 percent) (P = 0.001 by Fisher's exact test). All 22 subjects reporting congestion had abnormalities of one or more sinuses, as compared with 5 of the 9 subjects (56 percent) who did not report congestion (P = 0.004 by Fisher's exact test).",
+      "type": "text"
+    },
+    {
+      "id": "5fa83b43-8215-4988-850e-a896d83cfd66",
+      "grounding": {
+        "box": {
+          "bottom": 0.5344070196151733,
+          "left": 0.08830948173999786,
+          "right": 0.4909462332725525,
+          "top": 0.39493077993392944
+        },
+        "page": 2
+      },
+      "markdown": "<a id='5fa83b43-8215-4988-850e-a896d83cfd66'></a>\n\nTwenty-four of the 31 subjects with CT scans (77\npercent) had occlusion of the ethmoid infundibulum\n(Table 2). In 16 of these subjects (67 percent) the\nocclusion was bilateral. All 24 subjects with unilateral\nor bilateral infundibular occlusion had abnormalities\nof one or more sinuses, whereas only 3 of the 7 sub-\njects without infundibular occlusion (43 percent) had\nabnormalities of the sinuses (P = 0.002 by Fisher's\nexact test). None of the four subjects with normal si-\nnus cavities had infundibular occlusion.",
+      "type": "text"
+    },
+    {
+      "id": "8277f73f-2fff-4173-83a8-4d190e60db67",
+      "grounding": {
+        "box": {
+          "bottom": 0.7148535251617432,
+          "left": 0.088765949010849,
+          "right": 0.4913909137248993,
+          "top": 0.5341519117355347
+        },
+        "page": 2
+      },
+      "markdown": "<a id='8277f73f-2fff-4173-83a8-4d190e60db67'></a>\n\nTwenty-seven of the 31 subjects with CT scans (87 percent) had abnormalities of one or both maxillary sinuses; the abnormalities were bilateral in 23 subjects (85 percent) and unilateral in 4 (15 percent). Twenty of the 31 subjects (65 percent) had abnormalities of the ethmoid sinuses, and in 12 of the 20 (60 percent) the abnormalities were bilateral. Abnormalities of the maxillary sinuses were present in all subjects who had ethmoid abnormalities and in seven of those who did not. Frontal-sinus abnormalities were present in 10 of the 31 subjects (32 percent), and sphenoid-sinus abnormalities were present in 12 (39 percent).",
+      "type": "text"
+    },
+    {
+      "id": "822870ef-96ee-42a2-b570-882f6f201abb",
+      "grounding": {
+        "box": {
+          "bottom": 0.9251151084899902,
+          "left": 0.08909653127193451,
+          "right": 0.491435170173645,
+          "top": 0.7140519618988037
+        },
+        "page": 2
+      },
+      "markdown": "<a id='822870ef-96ee-42a2-b570-882f6f201abb'></a>\n\nThe abnormal findings consisted of radiopaque material in the sinus cavity that had the density of soft tissue or fluid. These changes have traditionally been interpreted as mucosal swelling, except when an air-fluid level is present. However, the nonuniform areas of opacity suggested the presence of thick secretions. A definite air-fluid level was observed in the sphenoid and frontal sinuses in one subject and in the maxillary and sphenoid sinuses in another. The thickness of the abnormal material in the maxillary sinuses ranged from 2 to 15 mm and averaged 4.6 mm on the right and 4.4 mm on the left. The mean thickness of abnormal material in the other sinuses was 2.7 and 3.0 mm in the right and left frontal sinuses, respectively; 3.1 and 3.2 mm in the right and left ethmoid sinuses,",
+      "type": "text"
+    },
+    {
+      "id": "b5ac83db-d979-4337-96b0-61f78d595d43",
+      "grounding": {
+        "box": {
+          "bottom": 0.5037151575088501,
+          "left": 0.5670214891433716,
+          "right": 0.8511573076248169,
+          "top": 0.08691078424453735
+        },
+        "page": 2
+      },
+      "markdown": "<a id='b5ac83db-d979-4337-96b0-61f78d595d43'></a>\n\nTable 2. CT Findings in 31 Adults with Natu-\nrally Acquired Colds.\n<table id=\"2-1\">\n<tr><td id=\"2-2\">SITE</td><td id=\"2-3\">NO. OF PATIENTS (%)</td></tr>\n<tr><td id=\"2-4\">Nasal passages</td><td id=\"2-5\"></td></tr>\n<tr><td id=\"2-6\">Septal deviation</td><td id=\"2-7\">6 (19)</td></tr>\n<tr><td id=\"2-8\">Engorged turbinate</td><td id=\"2-9\"></td></tr>\n<tr><td id=\"2-a\">Right</td><td id=\"2-b\">7 (23)</td></tr>\n<tr><td id=\"2-c\">Left</td><td id=\"2-d\">7 (23)</td></tr>\n<tr><td id=\"2-e\">Thickened nasal wall</td><td id=\"2-f\">13 (42)</td></tr>\n<tr><td id=\"2-g\">Ostioameatal complex</td><td id=\"2-h\"></td></tr>\n<tr><td id=\"2-i\">Infraorbital cells</td><td id=\"2-j\"></td></tr>\n<tr><td id=\"2-k\">Right</td><td id=\"2-l\">11 (35)</td></tr>\n<tr><td id=\"2-m\">Left</td><td id=\"2-n\">14 (45)</td></tr>\n<tr><td id=\"2-o\">Ethmoid bullosa</td><td id=\"2-p\"></td></tr>\n<tr><td id=\"2-q\">Right</td><td id=\"2-r\">6 (19)</td></tr>\n<tr><td id=\"2-s\">Left</td><td id=\"2-t\">6 (19)</td></tr>\n<tr><td id=\"2-u\">Concha bullosa</td><td id=\"2-v\"></td></tr>\n<tr><td id=\"2-w\">Right</td><td id=\"2-x\">10 (32)</td></tr>\n<tr><td id=\"2-y\">Left</td><td id=\"2-z\">6 (19)</td></tr>\n<tr><td id=\"2-A\">Infundibular occlusion</td><td id=\"2-B\"></td></tr>\n<tr><td id=\"2-C\">Right</td><td id=\"2-D\">20 (65)</td></tr>\n<tr><td id=\"2-E\">Left</td><td id=\"2-F\">20 (65)</td></tr>\n<tr><td id=\"2-G\">SINUS THICKNESS</td><td id=\"2-H\">MM (MEAN \u00b1SD)*</td></tr>\n<tr><td id=\"2-I\">Frontal</td><td id=\"2-J\"></td></tr>\n<tr><td id=\"2-K\">Right</td><td id=\"2-L\">2.7\u00b15</td></tr>\n<tr><td id=\"2-M\">Left</td><td id=\"2-N\">3\u00b17</td></tr>\n<tr><td id=\"2-O\">Ethmoid</td><td id=\"2-P\"></td></tr>\n<tr><td id=\"2-Q\">Right</td><td id=\"2-R\">3.1\u00b19</td></tr>\n<tr><td id=\"2-S\">Left</td><td id=\"2-T\">3.2\u00b19</td></tr>\n<tr><td id=\"2-U\">Maxillary</td><td id=\"2-V\"></td></tr>\n<tr><td id=\"2-W\">Right</td><td id=\"2-X\">4.6\u00b13</td></tr>\n<tr><td id=\"2-Y\">Left</td><td id=\"2-Z\">4.4\u00b13</td></tr>\n<tr><td id=\"2-10\">Sphenoid</td><td id=\"2-11\">3.8\u00132.3</td></tr>\n</table>\n*Means were calculated from abnormal values only.",
+      "type": "table"
+    },
+    {
+      "id": "a2a71040-b97c-4d65-9ac8-605c2929cd40",
+      "grounding": {
+        "box": {
+          "bottom": 0.6734399795532227,
+          "left": 0.5071013569831848,
+          "right": 0.9101170897483826,
+          "top": 0.5187541246414185
+        },
+        "page": 2
+      },
+      "markdown": "<a id='a2a71040-b97c-4d65-9ac8-605c2929cd40'></a>\n\nrespectively; and 3.8 mm in the sphenoid sinus. The extent and degree of abnormality in the sinus cav- ities tended to be greater in the subjects with high- er symptom scores than in those with lower scores (i.e., milder illnesses), but these associations were in- exact. Unilateral or bilateral infundibular occlusion was present in 6 of 7 subjects with rhinovirus (86 percent) and in 18 of 24 without rhinovirus (75 per- cent), and sinus-cavity abnormalities were detected in 6 subjects (86 percent) and 21 subjects (88 percent), respectively.",
+      "type": "text"
+    },
+    {
+      "id": "cf7cdf1a-ff2e-4ab5-9682-46d48db8de0e",
+      "grounding": {
+        "box": {
+          "bottom": 0.9262046217918396,
+          "left": 0.5075293779373169,
+          "right": 0.9097980260848999,
+          "top": 0.6721386313438416
+        },
+        "page": 2
+      },
+      "markdown": "<a id='cf7cdf1a-ff2e-4ab5-9682-46d48db8de0e'></a>\n\nPreexisting, fixed anatomical variations in the 31 subjects who had CT scans included marked septal deviation in 6 (19 percent), infraorbital air cells (Haller cells) in 14 (45 percent), enlarged ethmoid bullae in 6 (19 percent), and concha bullosa (air cells of the turbinate) in 11 (35 percent) (Table 2). Acute, reversible changes included engorged turbinates in 7 subjects (23 percent) and mucosal thickening of the nasal walls in 13 (42 percent). Eighteen of the 24 subjects with ethmoid infundibular occlusion (75 percent) had anatomical variations, as did 6 of the 7 subjects without infundibular occlusion (86 percent). Fourteen of the subjects with occlusion (58 percent) and none without it had engorged turbinates or thickened nasal walls (P = 0.03 by Fisher's exact test). Also, none of the 4 subjects without sinus abnormalities had engorged turbinates or thickened nasal walls, as compared with 14 of the",
+      "type": "text"
+    },
+    {
+      "id": "4cc3b0c3-f547-41b5-a1ed-2b807e04f916",
+      "grounding": {
+        "box": {
+          "bottom": 0.9950067400932312,
+          "left": 0.27608972787857056,
+          "right": 0.723539412021637,
+          "top": 0.9668093323707581
+        },
+        "page": 2
+      },
+      "markdown": "<a id='4cc3b0c3-f547-41b5-a1ed-2b807e04f916'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.",
+      "type": "text"
+    },
+    {
+      "id": "bc4d74ba-b450-4830-b73a-277a70f0c320",
+      "grounding": {
+        "box": {
+          "bottom": 0.07085560262203217,
+          "left": 0.08471657335758209,
+          "right": 0.1089867353439331,
+          "top": 0.05323103442788124
+        },
+        "page": 3
+      },
+      "markdown": "<a id='bc4d74ba-b450-4830-b73a-277a70f0c320'></a>\n\n28",
+      "type": "marginalia"
+    },
+    {
+      "id": "98a05d67-a8ba-4d83-9244-4a586b43c94b",
+      "grounding": {
+        "box": {
+          "bottom": 0.07335367798805237,
+          "left": 0.32635608315467834,
+          "right": 0.6568306684494019,
+          "top": 0.05250440165400505
+        },
+        "page": 3
+      },
+      "markdown": "<a id='98a05d67-a8ba-4d83-9244-4a586b43c94b'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE",
+      "type": "marginalia"
+    },
+    {
+      "id": "fe5d1419-f661-452f-95c7-36bf69d1db2c",
+      "grounding": {
+        "box": {
+          "bottom": 0.07370991259813309,
+          "left": 0.8153538107872009,
+          "right": 0.8992212414741516,
+          "top": 0.05386055260896683
+        },
+        "page": 3
+      },
+      "markdown": "<a id='fe5d1419-f661-452f-95c7-36bf69d1db2c'></a>\n\nJan. 6, 1994",
+      "type": "marginalia"
+    },
+    {
+      "id": "11e7684b-f5f4-404b-84e6-d5d236324461",
+      "grounding": {
+        "box": {
+          "bottom": 0.12398470938205719,
+          "left": 0.08294564485549927,
+          "right": 0.48184555768966675,
+          "top": 0.08965091407299042
+        },
+        "page": 3
+      },
+      "markdown": "<a id='11e7684b-f5f4-404b-84e6-d5d236324461'></a>\n\n27 subjects with sinus abnormalities (52 percent)\n(P = 0.2 by Fisher's exact test).",
+      "type": "text"
+    },
+    {
+      "id": "016b68ae-57c4-4d65-b022-229d0724868f",
+      "grounding": {
+        "box": {
+          "bottom": 0.32783374190330505,
+          "left": 0.08340650796890259,
+          "right": 0.482951283454895,
+          "top": 0.12815982103347778
+        },
+        "page": 3
+      },
+      "markdown": "<a id='016b68ae-57c4-4d65-b022-229d0724868f'></a>\n\n## Follow-up Evaluations\n\nFourteen subjects with abnormalities on CT scan-ning underwent a follow-up evaluation after 13 to 20 days of illness (Fig. 1 and 2). Eleven of the 14 (79 percent) reported feeling well at the time of follow-up. The mucosal-transport time had returned to normal and sinus abnormalities had resolved or markedly im-proved in 11 of the subjects (79 percent). Nasal-airway resistance had returned to normal in only six subjects (43 percent); however, in nine (64 percent) the flow rate was higher than the mean rate during the acute illness. All values and anatomical findings had returned to normal in only 3 of the 14 subjects at the time of follow-up.",
+      "type": "text"
+    },
+    {
+      "id": "c27e234c-194d-47c3-adde-af62be578b21",
+      "grounding": {
+        "box": {
+          "bottom": 0.5235114097595215,
+          "left": 0.08344145119190216,
+          "right": 0.48346030712127686,
+          "top": 0.32781919836997986
+        },
+        "page": 3
+      },
+      "markdown": "<a id='c27e234c-194d-47c3-adde-af62be578b21'></a>\n\nNasal-airway resistance remained abnormal in the three subjects with persistent symptoms; the mucosal-transport time remained abnormal in two of the three. However, the CT scans in all three subjects showed marked improvement. Three of the subjects who did not report persistent symptoms had sinus CT scans that showed residual abnormalities; two had had air-fluid levels on their initial scans. One of these three subjects had persistently abnormal nasal-airway resistance, but the mucosal-transport time had returned to normal in all three. Thus, there was not a close correlation between the resolution or persistence of the symptoms of illness and the objective findings of the other follow-up studies.",
+      "type": "text"
+    },
+    {
+      "id": "d96be681-199f-4e56-8840-f029537f29ab",
+      "grounding": {
+        "box": {
+          "bottom": 0.6603257060050964,
+          "left": 0.08334557712078094,
+          "right": 0.48292285203933716,
+          "top": 0.5279178023338318
+        },
+        "page": 3
+      },
+      "markdown": "<a id='d96be681-199f-4e56-8840-f029537f29ab'></a>\n\n## DISCUSSION\n\nIn a group of adults with naturally acquired common colds, we found a high prevalence of ostiomeatal and sinus abnormalities on CT scans. Although the high prevalence of sinus abnormalities was surprising, their reversal without antimicrobial treatment was not, since most colds are self-limited. These findings indicate that the common cold is actually a viral rhinosinusitis.",
+      "type": "text"
+    },
+    {
+      "id": "652e97f2-4e7b-4600-a9c5-f2cfee4c0f49",
+      "grounding": {
+        "box": {
+          "bottom": 0.8816352486610413,
+          "left": 0.08324535191059113,
+          "right": 0.48329418897628784,
+          "top": 0.6599553227424622
+        },
+        "page": 3
+      },
+      "markdown": "<a id='652e97f2-4e7b-4600-a9c5-f2cfee4c0f49'></a>\n\nThat the abnormalities in the sinus cavities were directly or indirectly caused by a virus might be inferred from their early appearance and reversibility without antimicrobial treatment. A viral rhinitis may lead to sinus-cavity disease by obstructing sinus drainage with or without direct invasion of the sinus cavity. Respiratory viruses, including rhinovirus, unaccompanied by bacteria have been recovered directly from the sinus cavity in adults with acute sinusitis.<sup>13</sup> Acute bacterial sinusitis has been reported to follow the common cold in 0.5 percent<sup>1</sup> to 5 percent<sup>14</sup> of cases. In our study, 3 of 14 subjects (21 percent) had marked but resolving abnormalities on follow-up CT scans. Whether those with persistent abnormalities are more prone to secondary bacterial sinusitis is uncertain.",
+      "type": "text"
+    },
+    {
+      "id": "1dc26e59-987f-4cc3-ab37-ae759cf93e4e",
+      "grounding": {
+        "box": {
+          "bottom": 0.912932276725769,
+          "left": 0.08417201042175293,
+          "right": 0.48289138078689575,
+          "top": 0.8819084167480469
+        },
+        "page": 3
+      },
+      "markdown": "<a id='1dc26e59-987f-4cc3-ab37-ae759cf93e4e'></a>\n\nAnatomical variations, as well as reversible abnor-\nmalities of the nasal passages and ostiomeatal area,",
+      "type": "text"
+    },
+    {
+      "id": "ffa372bd-1358-4a16-9d4b-3f251b299bfd",
+      "grounding": {
+        "box": {
+          "bottom": 0.3760426938533783,
+          "left": 0.5034914016723633,
+          "right": 0.9012508392333984,
+          "top": 0.08830365538597107
+        },
+        "page": 3
+      },
+      "markdown": "<a id='ffa372bd-1358-4a16-9d4b-3f251b299bfd'></a>\n\n<::Coronal CT scan of the paranasal sinuses. Arrows point to bilateral concha bullosa (pneumatized middle turbinates). An asterisk indicates the uncinate process.\n: figure::>\nA",
+      "type": "figure"
+    },
+    {
+      "id": "250dd02f-e7c8-4562-8c1f-96c99cb47ab2",
+      "grounding": {
+        "box": {
+          "bottom": 0.6746712923049927,
+          "left": 0.5035207271575928,
+          "right": 0.902153491973877,
+          "top": 0.3871982991695404
+        },
+        "page": 3
+      },
+      "markdown": "<a id='250dd02f-e7c8-4562-8c1f-96c99cb47ab2'></a>\n\n<::Coronal CT scan of the orbits and nasal cavity, showing the bony structures of the eye sockets, eyeballs, nasal septum, and turbinates. B\n: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "3da311df-07b3-4bf6-8d7c-0d5fb9680a08",
+      "grounding": {
+        "box": {
+          "bottom": 0.797576904296875,
+          "left": 0.502526044845581,
+          "right": 0.902341365814209,
+          "top": 0.6736178398132324
+        },
+        "page": 3
+      },
+      "markdown": "<a id='3da311df-07b3-4bf6-8d7c-0d5fb9680a08'></a>\n\nFigure 1. Initial and Follow-up Sinus CT Scans in an Untreated\nAdult (Subject 1) with the Common Cold.\nThe initial scan, obtained on day 4 of illness (Panel A), shows\nbilateral occlusion of the ethmoid infundibulum (arrows), the pas-\nsage draining the maxillary sinus; abnormalities of the ethmoid\nsinuses (right, 4 mm; left, 4 mm) and maxillary sinuses (right,\n4 mm; left, 7 mm); and bilateral pneumatization of the middle\nturbinate (concha bullosa [asterisk]). The scan obtained on day\n13 (Panel B) shows minimal residual infundibular occlusion and a\nresidual abnormality of the right maxillary sinus (2 mm).",
+      "type": "text"
+    },
+    {
+      "id": "ef8215a9-e24a-4003-ac0b-c9a365b432b9",
+      "grounding": {
+        "box": {
+          "bottom": 0.9143090844154358,
+          "left": 0.5024175643920898,
+          "right": 0.9025462865829468,
+          "top": 0.8105607628822327
+        },
+        "page": 3
+      },
+      "markdown": "<a id='ef8215a9-e24a-4003-ac0b-c9a365b432b9'></a>\n\nwere present in many of our subjects: septal deviation in 19 percent, infraorbital air cells in 45 percent, and concha bullosa in 35 percent. In the general population, the reported prevalence of these abnormalities is 19.5 percent, 45 percent, and 11 to 16 percent, respectively. 15-17 However, it was the reversible abnormalities \u2014 thickened nasal walls, engorged turbinates, and",
+      "type": "text"
+    },
+    {
+      "id": "db02dd9b-84d4-4423-9c47-326db841ed7b",
+      "grounding": {
+        "box": {
+          "bottom": 0.9957892298698425,
+          "left": 0.27597910165786743,
+          "right": 0.7235174775123596,
+          "top": 0.9660860896110535
+        },
+        "page": 3
+      },
+      "markdown": "<a id='db02dd9b-84d4-4423-9c47-326db841ed7b'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.",
+      "type": "text"
+    },
+    {
+      "id": "e0b10822-e4c0-456a-bdf0-41e077a0164d",
+      "grounding": {
+        "box": {
+          "bottom": 0.07569296658039093,
+          "left": 0.08785414695739746,
+          "right": 0.19492727518081665,
+          "top": 0.05706886947154999
+        },
+        "page": 4
+      },
+      "markdown": "<a id='e0b10822-e4c0-456a-bdf0-41e077a0164d'></a>\n\nVol. 330 No. 1",
+      "type": "marginalia"
+    },
+    {
+      "id": "4028a956-eb13-44ab-bcc8-3ee867ddf0c7",
+      "grounding": {
+        "box": {
+          "bottom": 0.07525015622377396,
+          "left": 0.23697429895401,
+          "right": 0.834229052066803,
+          "top": 0.05702619627118111
+        },
+        "page": 4
+      },
+      "markdown": "<a id='4028a956-eb13-44ab-bcc8-3ee867ddf0c7'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD \u2014 GWALTNEY ET AL.",
+      "type": "text"
+    },
+    {
+      "id": "84547f6b-b691-4f76-89f7-24b9eb56a3f6",
+      "grounding": {
+        "box": {
+          "bottom": 0.07277803868055344,
+          "left": 0.8792620301246643,
+          "right": 0.9025859236717224,
+          "top": 0.05819706246256828
+        },
+        "page": 4
+      },
+      "markdown": "<a id='84547f6b-b691-4f76-89f7-24b9eb56a3f6'></a>\n\n29",
+      "type": "marginalia"
+    },
+    {
+      "id": "567f03ca-445a-4821-b160-e8f72c8fdc81",
+      "grounding": {
+        "box": {
+          "bottom": 0.23065783083438873,
+          "left": 0.08789604902267456,
+          "right": 0.2945115268230438,
+          "top": 0.09459899365901947
+        },
+        "page": 4
+      },
+      "markdown": "<a id='567f03ca-445a-4821-b160-e8f72c8fdc81'></a>\n\nA\n<::Coronal CT scan of the nasal cavity, showing an arrow pointing to a structure within the nasal passage.\n: figure::>\nSubje",
+      "type": "figure"
+    },
+    {
+      "id": "b3686b3a-ed42-4a76-ac4b-178e4753241a",
+      "grounding": {
+        "box": {
+          "bottom": 0.23199427127838135,
+          "left": 0.28376972675323486,
+          "right": 0.4879744052886963,
+          "top": 0.0912972167134285
+        },
+        "page": 4
+      },
+      "markdown": "<a id='b3686b3a-ed42-4a76-ac4b-178e4753241a'></a>\n\n<::A coronal CT scan image showing the nasal and sinus cavities, and eye orbits. The image is labeled 'B' in the top right corner.\n: figure::>\nject 3",
+      "type": "figure"
+    },
+    {
+      "id": "e485ca19-8b19-4c4c-ae87-7d9594e1ceac",
+      "grounding": {
+        "box": {
+          "bottom": 0.3612721562385559,
+          "left": 0.0884246826171875,
+          "right": 0.48770689964294434,
+          "top": 0.23681597411632538
+        },
+        "page": 4
+      },
+      "markdown": "<a id='e485ca19-8b19-4c4c-ae87-7d9594e1ceac'></a>\n\n<::A: Coronal CT scan showing the orbits and paranasal sinuses. An asterisk indicates an abnormality in the ethmoid sinus. Two arrows point to the right maxillary sinus, possibly indicating an abnormality or anatomical feature. B: Coronal CT scan showing the orbits and paranasal sinuses. Two arrows point to the right maxillary sinus, possibly indicating an abnormality or anatomical feature.: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "e85373f7-aa38-41c1-b59e-f8cc698d6103",
+      "grounding": {
+        "box": {
+          "bottom": 0.4961228370666504,
+          "left": 0.088272824883461,
+          "right": 0.49005311727523804,
+          "top": 0.35820478200912476
+        },
+        "page": 4
+      },
+      "markdown": "<a id='e85373f7-aa38-41c1-b59e-f8cc698d6103'></a>\n\nSubject 5\n<::Two coronal CT scans of the nasal cavity. Image A shows a coronal view of the nasal cavity with two black arrows pointing to the middle turbinates. Image B shows a similar coronal view of the nasal cavity, also with two black arrows pointing to the middle turbinates.: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "34782941-98ab-4dbd-8e9b-9473296ccbfd",
+      "grounding": {
+        "box": {
+          "bottom": 0.6370959281921387,
+          "left": 0.08913677930831909,
+          "right": 0.49152714014053345,
+          "top": 0.4936233460903168
+        },
+        "page": 4
+      },
+      "markdown": "<a id='34782941-98ab-4dbd-8e9b-9473296ccbfd'></a>\n\nSubject 16\n<::Two coronal CT scans of the human head, labeled A and B. Both scans show the nasal cavity and paranasal sinuses.\n\nPanel A: An arrow points to the left ethmoid sinus. A small arrowhead points to a structure within the left nasal cavity.\n\nPanel B: A line segment is drawn across a structure in the right nasal cavity, likely indicating a measurement.\n: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "32e192dc-a91b-4b8d-86fa-be55fd986f14",
+      "grounding": {
+        "box": {
+          "bottom": 0.7924858331680298,
+          "left": 0.08960874378681183,
+          "right": 0.4934951066970825,
+          "top": 0.634634256362915
+        },
+        "page": 4
+      },
+      "markdown": "<a id='32e192dc-a91b-4b8d-86fa-be55fd986f14'></a>\n\nSubject 24\n<:: Coronal CT scans of the nasal and sinus cavities. Image A shows a coronal CT scan of the nasal cavity, labeled 'A', with two black arrows pointing to structures within the ethmoid sinuses. Image B shows another coronal CT scan of the nasal cavity, labeled 'B', with one black arrow pointing to a structure, likely the uncinate process or middle turbinate. : figure::>\nSubject 26",
+      "type": "figure"
+    },
+    {
+      "id": "5847ac17-5a14-48fe-a764-7e0a959a8636",
+      "grounding": {
+        "box": {
+          "bottom": 0.9174348711967468,
+          "left": 0.08739881217479706,
+          "right": 0.4934004545211792,
+          "top": 0.8117620348930359
+        },
+        "page": 4
+      },
+      "markdown": "<a id='5847ac17-5a14-48fe-a764-7e0a959a8636'></a>\n\ninfundibular occlusion \u2014 that appeared to be more\nclinically important in our group of subjects.\nThe current study shows that the common cold is an\nillness with broader anatomical involvement in the\nupper airway than previously recognized. These findings help improve our understanding of the pathogenesis of both the common cold and acute bacterial",
+      "type": "text"
+    },
+    {
+      "id": "c8507d35-a89e-485e-9af5-4172260ea28a",
+      "grounding": {
+        "box": {
+          "bottom": 0.5200850963592529,
+          "left": 0.5065951347351074,
+          "right": 0.9075627326965332,
+          "top": 0.09057216346263885
+        },
+        "page": 4
+      },
+      "markdown": "<a id='c8507d35-a89e-485e-9af5-4172260ea28a'></a>\n\nFigure 2. Initial and Follow-up Sinus CT Scans Shown in Descending Order of the Severity of Illness, According to the Total Symptom Score, in Five Untreated Subjects.\nIn Subject 3 the initial scan, obtained on day 5 of illness (Panel A), shows thickened nasal walls (arrows), bilateral ethmoid infundibular occlusion, and abnormalities of the ethmoid sinuses (right, 3 mm; left, 3 mm) and maxillary sinuses (right, 3 mm; left, air-fluid level). The scan obtained on day 18 of illness (Panel B) shows patent infundibula and residual abnormalities of the maxillary sinuses (right, 4 mm; left, 11 mm). In Subject 5 the initial scan, obtained on day 5 of illness (Panel A), shows bilateral ethmoid infundibular occlusion and abnormalities of the ethmoid sinuses (left, 5 mm [asterisk]) and maxillary sinuses (right, 10 mm; left, 15 mm [arrows]). On day 15 of illness (Panel B), the scan shows partial resolution of the infundibular occlusion and marked clearing of the sinus abnormalities, with a residual abnormality of the left maxillary sinus (3 mm [arrows]). In Subject 16 the initial scan, obtained on day 6 of illness (Panel A), shows bilateral ethmoid infundibular occlusion (arrows) and abnormalities of the left ethmoid (2 mm) and right maxillary (2 mm) sinuses. On day 14 of illness (Panel B), the scan shows patent infundibula (arrows) and resolution of the sinus abnormalities. In Subject 24 the scan obtained on day 4 of illness (Panel A) shows bilateral infraorbital air cells (arrow) and thickened nasal walls (arrowheads), occlusion of the right ethmoid infundibulum, and abnormalities of the ethmoid (right, 3 mm) and maxillary (right, 3 mm; left, 1 mm) sinuses. On day 19 of illness (Panel B), some thickening of the nasal wall persisted, and the right infundibulum was patent (arrow). There was a minimal residual abnormality of the left maxillary sinus (not shown). In Subject 26 the scan obtained on day 3 of illness (Panel A) shows thickened nasal walls and bilateral ethmoid infundibular occlusion, with abnormalities of the ethmoid sinuses (right, 4 mm; left, 4 mm [arrows]) and maxillary sinuses (right, 4 mm; left, 5 mm). On day 14 of illness (Panel B), the scan shows partial resolution of the bilateral infundibular occlusion (arrow) and a residual abnormality of the right maxillary sinus (3 mm).",
+      "type": "text"
+    },
+    {
+      "id": "641f8762-f818-43e7-9cc2-4e7a3c1b05d9",
+      "grounding": {
+        "box": {
+          "bottom": 0.6257462501525879,
+          "left": 0.5081400275230408,
+          "right": 0.9077567458152771,
+          "top": 0.5371476411819458
+        },
+        "page": 4
+      },
+      "markdown": "<a id='641f8762-f818-43e7-9cc2-4e7a3c1b05d9'></a>\n\nsinusitis and may even help us find better treatment\nfor the cold. Although CT scanning is obviously not\nappropriate for the clinical evaluation of patients with\ncolds, it is useful in research on the pathogenesis and\ntreatment of this illness, which at some time afflicts\nvirtually every human being.",
+      "type": "text"
+    },
+    {
+      "id": "cef29f5e-4972-46c8-89e8-8b802806a720",
+      "grounding": {
+        "box": {
+          "bottom": 0.7009401321411133,
+          "left": 0.5086938142776489,
+          "right": 0.9081343412399292,
+          "top": 0.6281495094299316
+        },
+        "page": 4
+      },
+      "markdown": "<a id='cef29f5e-4972-46c8-89e8-8b802806a720'></a>\n\nWe are indebted to Katherine Adams and Patsy Beasley for data collection; to Debbie Thacker for technical assistance; to Jacqueline Grubbs for assistance in the preparation of the manuscript; to Rebecca Cornelius, M.D., for CT evaluations; and to Theodore Witek, Dr.P.H., and David Canestrari, M.S., for assistance in design and analysis.",
+      "type": "text"
+    },
+    {
+      "id": "441904db-4e70-4164-8312-a4b90835a0d9",
+      "grounding": {
+        "box": {
+          "bottom": 0.9145191311836243,
+          "left": 0.5116122961044312,
+          "right": 0.9092384576797485,
+          "top": 0.7062023282051086
+        },
+        "page": 4
+      },
+      "markdown": "<a id='441904db-4e70-4164-8312-a4b90835a0d9'></a>\n\n## REFERENCES\n\n1. Dingle JH, Badger GF, Jordan WS Jr. Illness in the home: a study of 25,000 illnesses in a group of Cleveland families. Cleveland: Press of Western Reserve University, 1964:347.\n2. Fox JP, Hall CE. Viruses in families: surveillance of families as a key to epidemiology of virus infections. Littleton, Mass.: PSG Publishing, 1980.\n3. Monto AS, Bryan ER, Ohmit S. Rhinovirus infections in Tecumseh, Michigan: frequency of illness and number of serotypes. J Infect Dis 1987; 156:43-9.\n4. Jackson GG, Dowling HF, Spiesman IG, Boand AV. Transmission of the common cold to volunteers under controlled conditions. I. The common cold as a clinical entity. Arch Intern Med 1958;101:267-78.\n5. Gwaltney JM Jr, Hendley JO, Simon G, Jordan WS Jr. Rhinovirus infections in an industrial population. I. The occurrence of illness. N Engl J Med 1966:275:1261-8.\n6. Hendley JO, Edmondson WP Jr, Gwaltney JM Jr. Relation between naturally acquired immunity and infectivity of two rhinoviruses in volunteers. J Infect Dis 1972;125:243-8.",
+      "type": "text"
+    },
+    {
+      "id": "7081ae1d-9db6-4d85-a3e6-74a41574e477",
+      "grounding": {
+        "box": {
+          "bottom": 0.9947868585586548,
+          "left": 0.27667421102523804,
+          "right": 0.7228803634643555,
+          "top": 0.9671502113342285
+        },
+        "page": 4
+      },
+      "markdown": "<a id='7081ae1d-9db6-4d85-a3e6-74a41574e477'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u00a9 1994 Massachusetts Medical Society. All rights reserved.",
+      "type": "text"
+    },
+    {
+      "id": "1d303c35-2242-4e7b-aee3-e86c259b4426",
+      "grounding": {
+        "box": {
+          "bottom": 0.07273624837398529,
+          "left": 0.08625248819589615,
+          "right": 0.10853642970323563,
+          "top": 0.057026997208595276
+        },
+        "page": 5
+      },
+      "markdown": "<a id='1d303c35-2242-4e7b-aee3-e86c259b4426'></a>\n\n30",
+      "type": "marginalia"
+    },
+    {
+      "id": "1fb797e0-d89a-446a-a9df-d57c8d60456a",
+      "grounding": {
+        "box": {
+          "bottom": 0.07283245772123337,
+          "left": 0.32938605546951294,
+          "right": 0.6552496552467346,
+          "top": 0.05606604740023613
+        },
+        "page": 5
+      },
+      "markdown": "<a id='1fb797e0-d89a-446a-a9df-d57c8d60456a'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE",
+      "type": "text"
+    },
+    {
+      "id": "d1bd75be-fb7e-44fd-b214-7f3097a1c9b4",
+      "grounding": {
+        "box": {
+          "bottom": 0.0727570429444313,
+          "left": 0.8195794820785522,
+          "right": 0.8973647356033325,
+          "top": 0.05731833726167679
+        },
+        "page": 5
+      },
+      "markdown": "<a id='d1bd75be-fb7e-44fd-b214-7f3097a1c9b4'></a>\n\nJan. 6, 1994",
+      "type": "marginalia"
+    },
+    {
+      "id": "a099cf47-a8c2-4f5b-85e3-e5c90ec7eb91",
+      "grounding": {
+        "box": {
+          "bottom": 0.24784493446350098,
+          "left": 0.0864173173904419,
+          "right": 0.48263251781463623,
+          "top": 0.08967050164937973
+        },
+        "page": 5
+      },
+      "markdown": "<a id='a099cf47-a8c2-4f5b-85e3-e5c90ec7eb91'></a>\n\n7. Connell JT. Rhinometry: measurement of nasal patency. Ann Allergy 1982;49:179-85.\n8. Connell JT, Linzmayer MI. Comparison of nasal airway patency changes after treatment with oxymetazoline and pseudoephedrine. Am J Rhinol 1987;1:87-94.\n9. Gwaltney JM Jr, Colonno RJ, Hamparian VV, Turner RB. Rhinovirus. In: Schmidt NJ, Emmons RW, eds. Diagnostic procedures for viral, rickettsial and chlamydial infections. 6th ed. Washington, D.C.: American Public Health Association, 1989:579-614.\n10. Puchelle E, Aug F, Pham QT, Bertrand A. Comparison of three methods for measuring nasal mucociliary clearance in man. Acta Otolaryngol (Stockh) 1981;91:297-303.\n11. Duchateau GSMJE, Graamans K, Zuidema J, Merkus FWHM. Correlation between nasal ciliary beat frequency and mucus transport rate in volunteers. Laryngoscope 1985;95:854-9.",
+      "type": "text"
+    },
+    {
+      "id": "07dd905f-763e-4816-8c51-5d2cc3b45339",
+      "grounding": {
+        "box": {
+          "bottom": 0.24818655848503113,
+          "left": 0.5021251440048218,
+          "right": 0.8995391130447388,
+          "top": 0.08911145478487015
+        },
+        "page": 5
+      },
+      "markdown": "<a id='07dd905f-763e-4816-8c51-5d2cc3b45339'></a>\n\n12. Doyle WJ, van Cauwenberge PB. Relationship between nasal patency and clearance. Rhinology 1987;25:167-79.\n13. Evans FO Jr, Sydnor JB, Moore WEC, et al. Sinusitis of the maxillary antrum. N Engl J Med 1975;293:735-9.\n14. Wald ER, Guerra N, Byers C. Upper respiratory tract infections in young children: duration of and frequency of complications. Pediatrics 1991;87:129-33.\n15. Bolger WE, Butzin CA, Parsons DS. Paranasal sinus bony anatomic variations and mucosal abnormalities: CT analysis for endoscopic sinus surgery. Laryngoscope 1991;101:56-64.\n16. Clark ST, Babin RW, Salazar J. The incidence of concha bullosa and its relationship to chronic sinonasal disease. Am J Rhinol 1989;3:11-2.\n17. Calhoun KH, Waggenspack GA, Simpson CB, Hokanson JA, Bailey BJ. CT evaluation of the paranasal sinuses in symptomatic and asymptomatic populations. Otolaryngol Head Neck Surg 1991;104:480-3.",
+      "type": "text"
+    },
+    {
+      "id": "4671950f-ad4e-4c47-b049-b97c64197f02",
+      "grounding": {
+        "box": {
+          "bottom": 0.6286463737487793,
+          "left": 0.16827547550201416,
+          "right": 0.8088715672492981,
+          "top": 0.527860164642334
+        },
+        "page": 5
+      },
+      "markdown": "<a id='4671950f-ad4e-4c47-b049-b97c64197f02'></a>\n\nMassachusetts Medical Society\nRegistry on Continuing Medical Education\nTo obtain information on continuing medical education courses in the New England area,\ncall between 9:00 a.m. and 12:00 noon, Monday through Friday, (617) 893-4610 or in\nMassachusetts 1-800-322-2303, ext. 1342.",
+      "type": "text"
+    },
+    {
+      "id": "c0f21918-7130-46a6-bee3-6d7116d09a0d",
+      "grounding": {
+        "box": {
+          "bottom": 0.9959625601768494,
+          "left": 0.27713650465011597,
+          "right": 0.7226803302764893,
+          "top": 0.9665369391441345
+        },
+        "page": 5
+      },
+      "markdown": "<a id='c0f21918-7130-46a6-bee3-6d7116d09a0d'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u00a9 1994 Massachusetts Medical Society. All rights reserved.",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='7ad15d34-a692-4b6e-a90f-9ef551ace88c'></a>\n\nVol. 330 No. 1\n\n<a id='c65dd657-f90d-4078-bbfa-be666a566965'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD --- GWALTNEY ET AL.\n\n<a id='826f65f5-5616-4987-93b3-86fd00b51e3f'></a>\n\n25\n\n<a id='08541807-866c-4dc0-a302-f801e4beb7d6'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD\nJACK M. GWALTNEY, JR., M.D., C. DOUGLAS PHILLIPS, M.D., R. DAVID MILLER, B.S.,\nAND DONALD K. RIKER, PH.D.\n\n<a id='ae393949-a4f2-4448-ba6f-7aa27d2329d0'></a>\n\n**Abstract** *Background.* Colds are common, but the abnormalities they produce in the nasal passages and sinus cavities have not been well defined.\n\n<a id='f8b5604d-2a9b-4b9c-a89d-96bb44f6b7bc'></a>\n\n**Methods.** We studied healthy adult volunteers with self-diagnosed colds of 48 to 96 hours' duration and obtained the following data: information on symptoms, computed tomographic (CT) studies of the nasal passages and sinuses, mucosal-transport times, measures of nasal-airway resistance, and viral-culture studies. Thirty-one subjects (mean age, 24 years) had complete evaluations, including CT scans, which were read without knowledge of the clinical data. An additional 79 subjects underwent the same evaluations, except the CT scans.\n\n<a id='adf4f3a3-da32-4c2e-935e-89f96bd0fe44'></a>\n\n_Results._ Of the 31 subjects with CT scans, 24 (77 percent) had occlusion of the ethmoid infundibulum; 27 (87 percent) had abnormalities of one or both maxillary-sinus cavities; 20 (65 percent) had abnormalities of the ethmoid sinuses; 10 (32 percent) had abnormalities of the frontal\n\n<a id='9215883b-e58a-45b1-bef1-4610529a2f04'></a>\n\nSTUDIES of the common cold have relied on diag- nosis by the patients themselves\u0019-3 or diagnosis by an investigator using individual symptoms reported by the patients. 4-6 These methods have limited useful- ness for determining which anatomical areas of the upper airway are involved in the illness. There is a general assumption that in the upper airway the cold is mainly confined to the nasal passages and pharynx. Extension of the illness to the paranasal sinuses is thought to represent a complication.\n\n<a id='aad366c7-1f88-42a0-b48a-33b26b2540fd'></a>\n\nComputed tomographic (CT) scanning allows de-\ntailed imaging of the nasal passages, ostiomeatal com-\nplex, and paranasal sinuses. We obtained CT scans of\nthe nasal passages and sinuses of subjects with early,\nnaturally acquired colds and correlated the findings\nwith symptom scores, data on nasal-airway resistance,\nand mucosal-transport times to determine how the\ncommon cold involves the upper airway.\n\n<a id='d1da45df-ac26-4b55-9f15-56c284ebb29b'></a>\n\n# METHODS\n\n## Subjects\n\nSubjects 18 years of age or older were recruited by solicitations for volunteers with a \"fresh common cold.\" Volunteers were screened by telephone for eligibility in a way designed to mask the criteria for enrollment in the study. These criteria included good health other than having the common cold; duration of symptoms of at least 48 hours but less than 96 hours; no active allergic rhinitis or other respiratory illness; no history of recurrent or chronic sinusitis or nasal polyps; no use of cough, cold, or analgesic drugs within 8 hours before enrollment; and reported nasal or head congestion at the time of the initial visit. After 28 subjects had been enrolled, the last criterion was eliminated to allow investigation of CT findings in subjects without congestion.\n\n<a id='fe14a487-f9c9-41b6-8160-dba99712c3c5'></a>\n\nOf the 356 people who volunteered to participate in the study,\n129 were excluded because they could not or did not keep the initial\n\n<a id='4340637d-5295-4949-9660-569747fd0096'></a>\n\nFrom the Departments of Internal Medicine (J.M.G.) and Radiology (C.D.P.),\nUniversity of Virginia Health Sciences Center, Charlottesville, and the Procter\n& Gamble Company, Cincinnati (R.D.M., D.K.R.). Address reprint requests to\nDr. Gwaltney at the Department of Internal Medicine, University of Virginia\nHealth Sciences Center, Charlottesville, VA 22908.\nSupported by the Procter & Gamble Company, Cincinnati.\n\n<a id='8981bb02-6287-4eb5-a211-9edd69b4f58e'></a>\n\nsinuses; and 12 (39 percent) had abnormalities of the sphenoid sinuses. Infraorbital air cells were present in 14 subjects (45 percent), and pneumatization of the middle turbinate (concha bullosa) was noted in 11 subjects (35 percent). Also common were engorged turbinates (in 7 subjects) and thickening of the walls of the nasal passages (in 13). After two weeks, the CT studies were repeated in 14 subjects, none of whom received antibiotics. In 11 of these subjects (79 percent) the abnormalities of the infundibula and sinuses had cleared or markedly improved. Nasal-airway resistance was abnormal in 29 (94 percent) and mucosal transport in 19 (61 percent) of the 31 subjects who had CT scans. Rhinovirus was detected in nasal secretions from 24 (27 percent) of 90 subjects.\n\n**Conclusions.** The common cold is associated with frequent and variable anatomical involvement of the upper airways, including occlusion and abnormalities in the sinus cavities. (N Engl J Med 1994;330:25-30.)\n\n<a id='5f8a6e8b-b29d-4ae1-842a-e24d451a94e7'></a>\n\nappointment or could not be accommodated in the study at a given time; 65 because they had been ill too long; 13 because their cold symptoms had subsided; 15 because of a history of allergy, asthma, or chronic sinus disease; 8 because they did not report congestion; 5 because they were being treated for another illness; 2 because they could not tolerate dye in the nose; and 2 because they were under 18 years of age. A total of 117 volunteers were enrolled in the study, and 110 completed it (8 of the 110 missed an appointment on one day of the study but were included for the purpose of data analysis). After enrollment, patients were observed for six days, during which time they did not use acetaminophen as an analgesic. The study was approved by the Human Investigation Committee of the University of Virginia.\n\n<a id='b9df91df-ef35-4d9f-9d61-83a9497510e3'></a>\n\n## Subjective Measurement of Illness\nThe subjects reported symptoms by entering information in a computer program with a rating scale from 0 (not present) to 10 (very severe). They used the scale to respond to questions about sneezing, runny nose, nasal stuffiness, sore throat, cough, fatigue or lethargy, muscle aches and pains, chills, feverishness, and headache. The subjects were also asked whether they had nasal or head congestion. Symptoms were assessed at the time of enrollment and daily between the hours of 8 a.m. and 11 a.m. for six days.\n\n<a id='b2d6211c-cfb8-4bcc-9c7e-3e3739552acc'></a>\n\n## Nasal-Airway Resistance\n\nNasal-airway resistance was measured by single-nostril active an-terior rhinomanometry.<sup>7</sup> Beginning with the left nostril, nasal air-flow and transnasal pressure at the contralateral nostril were meas-ured over the course of four consecutive breaths with the use of a commercial rhinomanometer (John Connell, Englewood, N.J.). During the measurement, pressure and flow signals were digitized at a sampling rate of 100 Hz and displayed on the computer moni-tor. The primary measure of nasal patency was the rate of flow (in liters per second) at a reference transnasal pressure of -1.5 cm of water during inspiration. A value under 0.6 liter per second for white subjects or under 0.7 liter per second for black subjects was considered abnormal.<sup>8</sup>\n\n<a id='d0a4d1ca-9c2e-4b92-91aa-091c2625c47f'></a>\n\n## Virologic Studies\n\nViral-culture studies were performed with nasal secretions from the last 90 subjects enrolled in the study. The subjects expelled the contents of their nasal passages onto a plastic film. Secretions were then transferred by cotton swab to a vial containing 5 ml of beef-heart infusion broth with 1 percent bovine serum albumin and anti-biotics. This method was used to avoid irritation of the nose\n\n<a id='85a47d3e-3722-4214-b23b-6e47b7a569ed'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='76c860ad-4ef9-40d8-933b-7a9b37803770'></a>\n\n26\n\n<a id='7177b9d0-f489-49b9-a8f1-23112821a857'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE\n\n<a id='949a2cd5-5284-44c5-8f58-141415cd0ed0'></a>\n\nJan. 6, 1994\n\n<a id='15d89a71-5429-4276-8520-3c07be41e561'></a>\n\nby nasal swabbing or washing. Specimens\nwere inoculated into three human embryon-\nic lung-cell monolayers of the WI-38 strain\n(BioWhittaker, Walkersville, Md.). Viral\nisolates were identified as rhinoviruses by\ntheir characteristic cytopathic effect and\nacid lability.\n\n<a id='64992c39-4ea6-43ed-b50b-a05e804345f1'></a>\n\n# Nasal Mucosal Transport\n\nNasal mucociliary clearance was determined by a modification of a previously described method.10-12 Fifteen microliters of a test solution was placed on the mucosa of each nostril in the anterior part of the nasal cavity below the inferior meatus. The test solution consisted of 8 mg of indigo carmine per milliliter, 3 mg of saccharin per milliliter, and 45 mg of sorbitol per milliliter (pH adjusted to 7.4). The subjects reported the first occurrence of a sweet taste, and then the pharyngeal cavity was examined for the appearance of the blue dye. Repeated inspections of the pharynx were made at 30-second intervals for 30 minutes or until dye was observed on each side. The combined clearance time was defined as the time elapsed from the introduction of the test solution to the first report of a sweet taste. Separate clearance times for the right and left nasal passages are not reported. For the combined clearance time, the occurrence of a sweet taste 20 minutes or more after the introduction of the solution was considered abnormal.\n\nWith CT scans\n(n = 31)\n\nWithout CT\nscans (n = 79)\n\n*Values are means \u00b1\n\u2020The total symptoms\ncough, headache, fever\n\n<a id='2306d1ef-bcfc-4daa-af8a-0b1fdbe5cee4'></a>\n\n## CT Scans of the Upper Airway\n\nCT scans of the nasal passages, ostiomeatal complex, and paranasal sinuses were obtained in 33 (30 percent) of the 110 subjects. Two subjects were excluded from the analysis because of bony changes in the maxillary antra, which were thought to be the result of chronic sinus disease. Twenty-eight subjects underwent CT scanning within 24 hours after enrollment, and three within 48 hours after enrollment. Subjects were selected for CT scanning primarily on the basis of scheduling considerations; the severity of illness was not a factor in selection. Fifteen to 20 images were obtained in a direct coronal plane that included the nasal passages and sinuses (GE-9800 Quick scanner, General Electric, Schenectady, N.Y., or Picker PQ-2000 scanner, Picker International, Cleveland). Fourteen subjects with abnormalities of the sinuses on the initial CT scans had repeat scans and repeat studies of nasal mucosal transport and airway resistance 8 to 15 days later. All scans were read independently by two radiologists who had no clinical information on the subjects; the radiologists compared their readings and resolved any differences in interpretation.\n\n<a id='d361507a-5d91-4454-8378-4c8d101d4ec7'></a>\n\n# RESULTS\n## Characteristics of the Study Subjects\nSubjects were enrolled in the study between June 9 and October 9, 1992. Of the 31 subjects who had CT scans, 21 were women and 10 were men; 25 were white and 6 were nonwhite. Their ages ranged from 19 to 35 years, with a mean of 24 years. Of the 79 subjects who did not have CT scans, 50 were women and 29 were men; 69 were white and 10 were nonwhite. Their ages ranged from 18 to 55 years, with a mean of 23.5 years.\n\n<a id='c1a12477-5597-4a29-8618-64cf07159e33'></a>\n\nIllnesses in both groups were typical common colds.\nRhinorrhea and nasal stuffiness were the most promi-\nnent respiratory symptoms, followed by cough and\nsore throat. Total symptom scores over six days\nranged from 28 to 236 for the subjects who had CT\nscans and from 53 to 333 for those who did not (Ta-\n\n<a id='0eef9817-e43b-4ea0-805f-a1a44d62b63d'></a>\n\nTable 1. Symptoms, Delayed Mucosal Transport, and Abnormal Nasal-Airway Resist-\nance in 110 Adults with Naturally Acquired Colds.*\n<table id=\"1-1\">\n<tr><td id=\"1-2\">SUBJECT GROUP</td><td id=\"1-3\"></td><td id=\"1-4\"></td><td id=\"1-5\" colspan=\"2\">SYMPTOM</td><td id=\"1-6\"></td><td id=\"1-7\"></td><td id=\"1-8\">DELAYED MUCOSAL TRANSPORT</td><td id=\"1-9\">ABNORMAL NASAL-AIRWAY RESISTANCE</td></tr>\n<tr><td id=\"1-a\"></td><td id=\"1-b\">RHINOR- RHEA</td><td id=\"1-c\">NASAL STUFFINESS</td><td id=\"1-d\">SORE THROAT</td><td id=\"1-e\">COUGH</td><td id=\"1-f\">HEAD-ACHE</td><td id=\"1-g\">TOTAL\u2020</td><td id=\"1-h\"></td><td id=\"1-i\"></td></tr>\n<tr><td id=\"1-j\"></td><td id=\"1-k\"></td><td id=\"1-l\"></td><td id=\"1-m\" colspan=\"2\">score</td><td id=\"1-n\"></td><td id=\"1-o\"></td><td id=\"1-p\" colspan=\"2\">no. of days</td></tr>\n<tr><td id=\"1-q\">With CT scans (n = 31)</td><td id=\"1-r\">22\u00b111.5</td><td id=\"1-s\">21\u00b111.5</td><td id=\"1-t\">17\u00b110</td><td id=\"1-u\">18\u00b115</td><td id=\"1-v\">11\u001310</td><td id=\"1-w\">132\u001350</td><td id=\"1-x\">2.1\u00132</td><td id=\"1-y\">4.2\u00132</td></tr>\n<tr><td id=\"1-z\">Without CT scans (n = 79)</td><td id=\"1-A\">20\u00b19</td><td id=\"1-B\">24\u00b19</td><td id=\"1-C\">15\u00b112</td><td id=\"1-D\">21\u00b115</td><td id=\"1-E\">16\u001313</td><td id=\"1-F\">156\u001363</td><td id=\"1-G\">3.3\u00132</td><td id=\"1-H\">4.4\u00132</td></tr>\n</table>\n*Values are means \u00b1SD.\n\u2020The total symptom score is the sum of the daily scores for symptoms of sneezing, rhinorrhea, nasal stuffiness, sore throat,\ncough, headache, feverishness, chilliness, myalgia, and lethargy or fatigue, over a period of six days.\n\n<a id='a451255b-4ba5-4152-b904-2a308d005d56'></a>\n\nble 1). The mean total scores (\u00b1SD) were 132\u00b150 and 156\u00b163 for the respective groups (P = 0.07 by Student's t-test). The greater severity of illness in the group without CT scans was attributable mainly to the systemic symptoms of lethargy, myalgia, chilliness, and headache.\n\n<a id='3b91ec68-16a5-4d7c-883c-4c77a931362f'></a>\n\n## Viral Cultures\n\nViral cultures of nasal secretions yielded rhinovirus isolates in 24 of 90 subjects (27 percent): 7 of 17 subjects who had CT scans (41 percent) and 17 of 73 who did not (23 percent) (P = 0.2 by Fisher's exact test). The total six-day symptom scores for the 24 rhinovirus-positive subjects ranged from 53 to 247 (mean, 152\u001353). Thus, the colds that were associated with rhinovirus tended to be in the middle range of severity for the group as a whole.\n\n<a id='0c4343f9-28e0-49b8-8fb5-f579ca4560b9'></a>\n\n## Nasal-Airway Resistance\nRhinomanometric studies showed abnormal nasal-airway resistance on 1 or more days in 29 of the 31 subjects with CT scans (94 percent); the number of days ranged from 1 to 6 (mean, 4.2\u00132). The subjects with the 10 highest symptom scores had abnormal airway resistance on an average of 4.1 days, as compared with an average of 3.8 days for those with the 10 lowest symptom scores. None of the 6 subjects with abnormal airway resistance on two or fewer days had CT evidence of swelling of the turbinates or thickening of the nasal wall, as compared with 9 of the 16 subjects (56 percent) with abnormal airway resistance on all six days (P = 0.05 by Fisher's exact test).\n\n<a id='a0a1a796-6e7f-4b11-9a84-6f67cf0bb3ce'></a>\n\n## Mucosal Transport\nA delay in mucosal transport was noted on one or more days in 19 of the 31 subjects (61 percent) who had CT scans and in 63 of the 79 (80 percent) who did not (P = 0.08 by Fisher's exact test) (Table 1).\nThe mean number of days of abnormal mucociliary clearance was 2.1\u00b12.2 for the subjects who had CT scans and 3.3\u00b12.2 for those who did not (P = 0.01 by Student's t-test). These results, like the data on symptoms, suggest that illnesses were somewhat more severe in the group of subjects who did not have CT scans.\n\n<a id='446ca36d-ff72-4998-a3ba-e893afa6b0f6'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='63338ac7-a6f6-4aeb-b567-3179dbe652dc'></a>\n\nVol. 330 No. 1\n\n<a id='2ad52ab8-1f5c-4f54-986d-9e660efc48ea'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD --- GWALTNEY ET AL.\n\n<a id='95455c2d-870c-4dd6-9c12-d31f833ddd24'></a>\n\n27\n\n<a id='a6dc336f-1b77-4f3a-b4fc-416e0f09a225'></a>\n\nMucosal-transport times correlated with the sever-\nity of illness as indicated by the six-day symptom\nscores. In the group with CT scans, the transport time\nwas abnormal on one or more days in 8 of the 10\nsubjects with the highest total symptom scores but in\nonly 2 of the 10 subjects with the lowest total scores\n(P = 0.02 by Fisher's exact test). The mean number\nof days on which measurements were abnormal in\nthese groups was 3 and 0.5, respectively (P = 0.005 by\nStudent's t-test).\n\n<a id='42546bb3-9ac0-41c6-9596-8f496b6e726b'></a>\n\n## CT Scans\nTwenty-two of the 31 subjects with CT scans (71 percent) reported nasal or head congestion, and 9 did not. Of the subjects with congestion, 21 (95 percent) had occlusion of the ethmoid infundibulum, as compared with 3 of the 9 subjects without congestion (33 percent) (P = 0.001 by Fisher's exact test). All 22 subjects reporting congestion had abnormalities of one or more sinuses, as compared with 5 of the 9 subjects (56 percent) who did not report congestion (P = 0.004 by Fisher's exact test).\n\n<a id='5fa83b43-8215-4988-850e-a896d83cfd66'></a>\n\nTwenty-four of the 31 subjects with CT scans (77\npercent) had occlusion of the ethmoid infundibulum\n(Table 2). In 16 of these subjects (67 percent) the\nocclusion was bilateral. All 24 subjects with unilateral\nor bilateral infundibular occlusion had abnormalities\nof one or more sinuses, whereas only 3 of the 7 sub-\njects without infundibular occlusion (43 percent) had\nabnormalities of the sinuses (P = 0.002 by Fisher's\nexact test). None of the four subjects with normal si-\nnus cavities had infundibular occlusion.\n\n<a id='8277f73f-2fff-4173-83a8-4d190e60db67'></a>\n\nTwenty-seven of the 31 subjects with CT scans (87 percent) had abnormalities of one or both maxillary sinuses; the abnormalities were bilateral in 23 subjects (85 percent) and unilateral in 4 (15 percent). Twenty of the 31 subjects (65 percent) had abnormalities of the ethmoid sinuses, and in 12 of the 20 (60 percent) the abnormalities were bilateral. Abnormalities of the maxillary sinuses were present in all subjects who had ethmoid abnormalities and in seven of those who did not. Frontal-sinus abnormalities were present in 10 of the 31 subjects (32 percent), and sphenoid-sinus abnormalities were present in 12 (39 percent).\n\n<a id='822870ef-96ee-42a2-b570-882f6f201abb'></a>\n\nThe abnormal findings consisted of radiopaque material in the sinus cavity that had the density of soft tissue or fluid. These changes have traditionally been interpreted as mucosal swelling, except when an air-fluid level is present. However, the nonuniform areas of opacity suggested the presence of thick secretions. A definite air-fluid level was observed in the sphenoid and frontal sinuses in one subject and in the maxillary and sphenoid sinuses in another. The thickness of the abnormal material in the maxillary sinuses ranged from 2 to 15 mm and averaged 4.6 mm on the right and 4.4 mm on the left. The mean thickness of abnormal material in the other sinuses was 2.7 and 3.0 mm in the right and left frontal sinuses, respectively; 3.1 and 3.2 mm in the right and left ethmoid sinuses,\n\n<a id='b5ac83db-d979-4337-96b0-61f78d595d43'></a>\n\nTable 2. CT Findings in 31 Adults with Natu-\nrally Acquired Colds.\n<table id=\"2-1\">\n<tr><td id=\"2-2\">SITE</td><td id=\"2-3\">NO. OF PATIENTS (%)</td></tr>\n<tr><td id=\"2-4\">Nasal passages</td><td id=\"2-5\"></td></tr>\n<tr><td id=\"2-6\">Septal deviation</td><td id=\"2-7\">6 (19)</td></tr>\n<tr><td id=\"2-8\">Engorged turbinate</td><td id=\"2-9\"></td></tr>\n<tr><td id=\"2-a\">Right</td><td id=\"2-b\">7 (23)</td></tr>\n<tr><td id=\"2-c\">Left</td><td id=\"2-d\">7 (23)</td></tr>\n<tr><td id=\"2-e\">Thickened nasal wall</td><td id=\"2-f\">13 (42)</td></tr>\n<tr><td id=\"2-g\">Ostioameatal complex</td><td id=\"2-h\"></td></tr>\n<tr><td id=\"2-i\">Infraorbital cells</td><td id=\"2-j\"></td></tr>\n<tr><td id=\"2-k\">Right</td><td id=\"2-l\">11 (35)</td></tr>\n<tr><td id=\"2-m\">Left</td><td id=\"2-n\">14 (45)</td></tr>\n<tr><td id=\"2-o\">Ethmoid bullosa</td><td id=\"2-p\"></td></tr>\n<tr><td id=\"2-q\">Right</td><td id=\"2-r\">6 (19)</td></tr>\n<tr><td id=\"2-s\">Left</td><td id=\"2-t\">6 (19)</td></tr>\n<tr><td id=\"2-u\">Concha bullosa</td><td id=\"2-v\"></td></tr>\n<tr><td id=\"2-w\">Right</td><td id=\"2-x\">10 (32)</td></tr>\n<tr><td id=\"2-y\">Left</td><td id=\"2-z\">6 (19)</td></tr>\n<tr><td id=\"2-A\">Infundibular occlusion</td><td id=\"2-B\"></td></tr>\n<tr><td id=\"2-C\">Right</td><td id=\"2-D\">20 (65)</td></tr>\n<tr><td id=\"2-E\">Left</td><td id=\"2-F\">20 (65)</td></tr>\n<tr><td id=\"2-G\">SINUS THICKNESS</td><td id=\"2-H\">MM (MEAN \u00b1SD)*</td></tr>\n<tr><td id=\"2-I\">Frontal</td><td id=\"2-J\"></td></tr>\n<tr><td id=\"2-K\">Right</td><td id=\"2-L\">2.7\u00b15</td></tr>\n<tr><td id=\"2-M\">Left</td><td id=\"2-N\">3\u00b17</td></tr>\n<tr><td id=\"2-O\">Ethmoid</td><td id=\"2-P\"></td></tr>\n<tr><td id=\"2-Q\">Right</td><td id=\"2-R\">3.1\u00b19</td></tr>\n<tr><td id=\"2-S\">Left</td><td id=\"2-T\">3.2\u00b19</td></tr>\n<tr><td id=\"2-U\">Maxillary</td><td id=\"2-V\"></td></tr>\n<tr><td id=\"2-W\">Right</td><td id=\"2-X\">4.6\u00b13</td></tr>\n<tr><td id=\"2-Y\">Left</td><td id=\"2-Z\">4.4\u00b13</td></tr>\n<tr><td id=\"2-10\">Sphenoid</td><td id=\"2-11\">3.8\u00132.3</td></tr>\n</table>\n*Means were calculated from abnormal values only.\n\n<a id='a2a71040-b97c-4d65-9ac8-605c2929cd40'></a>\n\nrespectively; and 3.8 mm in the sphenoid sinus. The extent and degree of abnormality in the sinus cav- ities tended to be greater in the subjects with high- er symptom scores than in those with lower scores (i.e., milder illnesses), but these associations were in- exact. Unilateral or bilateral infundibular occlusion was present in 6 of 7 subjects with rhinovirus (86 percent) and in 18 of 24 without rhinovirus (75 per- cent), and sinus-cavity abnormalities were detected in 6 subjects (86 percent) and 21 subjects (88 percent), respectively.\n\n<a id='cf7cdf1a-ff2e-4ab5-9682-46d48db8de0e'></a>\n\nPreexisting, fixed anatomical variations in the 31 subjects who had CT scans included marked septal deviation in 6 (19 percent), infraorbital air cells (Haller cells) in 14 (45 percent), enlarged ethmoid bullae in 6 (19 percent), and concha bullosa (air cells of the turbinate) in 11 (35 percent) (Table 2). Acute, reversible changes included engorged turbinates in 7 subjects (23 percent) and mucosal thickening of the nasal walls in 13 (42 percent). Eighteen of the 24 subjects with ethmoid infundibular occlusion (75 percent) had anatomical variations, as did 6 of the 7 subjects without infundibular occlusion (86 percent). Fourteen of the subjects with occlusion (58 percent) and none without it had engorged turbinates or thickened nasal walls (P = 0.03 by Fisher's exact test). Also, none of the 4 subjects without sinus abnormalities had engorged turbinates or thickened nasal walls, as compared with 14 of the\n\n<a id='4cc3b0c3-f547-41b5-a1ed-2b807e04f916'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='bc4d74ba-b450-4830-b73a-277a70f0c320'></a>\n\n28\n\n<a id='98a05d67-a8ba-4d83-9244-4a586b43c94b'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE\n\n<a id='fe5d1419-f661-452f-95c7-36bf69d1db2c'></a>\n\nJan. 6, 1994\n\n<a id='11e7684b-f5f4-404b-84e6-d5d236324461'></a>\n\n27 subjects with sinus abnormalities (52 percent)\n(P = 0.2 by Fisher's exact test).\n\n<a id='016b68ae-57c4-4d65-b022-229d0724868f'></a>\n\n## Follow-up Evaluations\n\nFourteen subjects with abnormalities on CT scan-ning underwent a follow-up evaluation after 13 to 20 days of illness (Fig. 1 and 2). Eleven of the 14 (79 percent) reported feeling well at the time of follow-up. The mucosal-transport time had returned to normal and sinus abnormalities had resolved or markedly im-proved in 11 of the subjects (79 percent). Nasal-airway resistance had returned to normal in only six subjects (43 percent); however, in nine (64 percent) the flow rate was higher than the mean rate during the acute illness. All values and anatomical findings had returned to normal in only 3 of the 14 subjects at the time of follow-up.\n\n<a id='c27e234c-194d-47c3-adde-af62be578b21'></a>\n\nNasal-airway resistance remained abnormal in the three subjects with persistent symptoms; the mucosal-transport time remained abnormal in two of the three. However, the CT scans in all three subjects showed marked improvement. Three of the subjects who did not report persistent symptoms had sinus CT scans that showed residual abnormalities; two had had air-fluid levels on their initial scans. One of these three subjects had persistently abnormal nasal-airway resistance, but the mucosal-transport time had returned to normal in all three. Thus, there was not a close correlation between the resolution or persistence of the symptoms of illness and the objective findings of the other follow-up studies.\n\n<a id='d96be681-199f-4e56-8840-f029537f29ab'></a>\n\n## DISCUSSION\n\nIn a group of adults with naturally acquired common colds, we found a high prevalence of ostiomeatal and sinus abnormalities on CT scans. Although the high prevalence of sinus abnormalities was surprising, their reversal without antimicrobial treatment was not, since most colds are self-limited. These findings indicate that the common cold is actually a viral rhinosinusitis.\n\n<a id='652e97f2-4e7b-4600-a9c5-f2cfee4c0f49'></a>\n\nThat the abnormalities in the sinus cavities were directly or indirectly caused by a virus might be inferred from their early appearance and reversibility without antimicrobial treatment. A viral rhinitis may lead to sinus-cavity disease by obstructing sinus drainage with or without direct invasion of the sinus cavity. Respiratory viruses, including rhinovirus, unaccompanied by bacteria have been recovered directly from the sinus cavity in adults with acute sinusitis.<sup>13</sup> Acute bacterial sinusitis has been reported to follow the common cold in 0.5 percent<sup>1</sup> to 5 percent<sup>14</sup> of cases. In our study, 3 of 14 subjects (21 percent) had marked but resolving abnormalities on follow-up CT scans. Whether those with persistent abnormalities are more prone to secondary bacterial sinusitis is uncertain.\n\n<a id='1dc26e59-987f-4cc3-ab37-ae759cf93e4e'></a>\n\nAnatomical variations, as well as reversible abnor-\nmalities of the nasal passages and ostiomeatal area,\n\n<a id='ffa372bd-1358-4a16-9d4b-3f251b299bfd'></a>\n\n<::Coronal CT scan of the paranasal sinuses. Arrows point to bilateral concha bullosa (pneumatized middle turbinates). An asterisk indicates the uncinate process.\n: figure::>\nA\n\n<a id='250dd02f-e7c8-4562-8c1f-96c99cb47ab2'></a>\n\n<::Coronal CT scan of the orbits and nasal cavity, showing the bony structures of the eye sockets, eyeballs, nasal septum, and turbinates. B\n: figure::>\n\n<a id='3da311df-07b3-4bf6-8d7c-0d5fb9680a08'></a>\n\nFigure 1. Initial and Follow-up Sinus CT Scans in an Untreated\nAdult (Subject 1) with the Common Cold.\nThe initial scan, obtained on day 4 of illness (Panel A), shows\nbilateral occlusion of the ethmoid infundibulum (arrows), the pas-\nsage draining the maxillary sinus; abnormalities of the ethmoid\nsinuses (right, 4 mm; left, 4 mm) and maxillary sinuses (right,\n4 mm; left, 7 mm); and bilateral pneumatization of the middle\nturbinate (concha bullosa [asterisk]). The scan obtained on day\n13 (Panel B) shows minimal residual infundibular occlusion and a\nresidual abnormality of the right maxillary sinus (2 mm).\n\n<a id='ef8215a9-e24a-4003-ac0b-c9a365b432b9'></a>\n\nwere present in many of our subjects: septal deviation in 19 percent, infraorbital air cells in 45 percent, and concha bullosa in 35 percent. In the general population, the reported prevalence of these abnormalities is 19.5 percent, 45 percent, and 11 to 16 percent, respectively. 15-17 However, it was the reversible abnormalities \u2014 thickened nasal walls, engorged turbinates, and\n\n<a id='db02dd9b-84d4-4423-9c47-326db841ed7b'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='e0b10822-e4c0-456a-bdf0-41e077a0164d'></a>\n\nVol. 330 No. 1\n\n<a id='4028a956-eb13-44ab-bcc8-3ee867ddf0c7'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD \u2014 GWALTNEY ET AL.\n\n<a id='84547f6b-b691-4f76-89f7-24b9eb56a3f6'></a>\n\n29\n\n<a id='567f03ca-445a-4821-b160-e8f72c8fdc81'></a>\n\nA\n<::Coronal CT scan of the nasal cavity, showing an arrow pointing to a structure within the nasal passage.\n: figure::>\nSubje\n\n<a id='b3686b3a-ed42-4a76-ac4b-178e4753241a'></a>\n\n<::A coronal CT scan image showing the nasal and sinus cavities, and eye orbits. The image is labeled 'B' in the top right corner.\n: figure::>\nject 3\n\n<a id='e485ca19-8b19-4c4c-ae87-7d9594e1ceac'></a>\n\n<::A: Coronal CT scan showing the orbits and paranasal sinuses. An asterisk indicates an abnormality in the ethmoid sinus. Two arrows point to the right maxillary sinus, possibly indicating an abnormality or anatomical feature. B: Coronal CT scan showing the orbits and paranasal sinuses. Two arrows point to the right maxillary sinus, possibly indicating an abnormality or anatomical feature.: figure::>\n\n<a id='e85373f7-aa38-41c1-b59e-f8cc698d6103'></a>\n\nSubject 5\n<::Two coronal CT scans of the nasal cavity. Image A shows a coronal view of the nasal cavity with two black arrows pointing to the middle turbinates. Image B shows a similar coronal view of the nasal cavity, also with two black arrows pointing to the middle turbinates.: figure::>\n\n<a id='34782941-98ab-4dbd-8e9b-9473296ccbfd'></a>\n\nSubject 16\n<::Two coronal CT scans of the human head, labeled A and B. Both scans show the nasal cavity and paranasal sinuses.\n\nPanel A: An arrow points to the left ethmoid sinus. A small arrowhead points to a structure within the left nasal cavity.\n\nPanel B: A line segment is drawn across a structure in the right nasal cavity, likely indicating a measurement.\n: figure::>\n\n<a id='32e192dc-a91b-4b8d-86fa-be55fd986f14'></a>\n\nSubject 24\n<:: Coronal CT scans of the nasal and sinus cavities. Image A shows a coronal CT scan of the nasal cavity, labeled 'A', with two black arrows pointing to structures within the ethmoid sinuses. Image B shows another coronal CT scan of the nasal cavity, labeled 'B', with one black arrow pointing to a structure, likely the uncinate process or middle turbinate. : figure::>\nSubject 26\n\n<a id='5847ac17-5a14-48fe-a764-7e0a959a8636'></a>\n\ninfundibular occlusion \u2014 that appeared to be more\nclinically important in our group of subjects.\nThe current study shows that the common cold is an\nillness with broader anatomical involvement in the\nupper airway than previously recognized. These findings help improve our understanding of the pathogenesis of both the common cold and acute bacterial\n\n<a id='c8507d35-a89e-485e-9af5-4172260ea28a'></a>\n\nFigure 2. Initial and Follow-up Sinus CT Scans Shown in Descending Order of the Severity of Illness, According to the Total Symptom Score, in Five Untreated Subjects.\nIn Subject 3 the initial scan, obtained on day 5 of illness (Panel A), shows thickened nasal walls (arrows), bilateral ethmoid infundibular occlusion, and abnormalities of the ethmoid sinuses (right, 3 mm; left, 3 mm) and maxillary sinuses (right, 3 mm; left, air-fluid level). The scan obtained on day 18 of illness (Panel B) shows patent infundibula and residual abnormalities of the maxillary sinuses (right, 4 mm; left, 11 mm). In Subject 5 the initial scan, obtained on day 5 of illness (Panel A), shows bilateral ethmoid infundibular occlusion and abnormalities of the ethmoid sinuses (left, 5 mm [asterisk]) and maxillary sinuses (right, 10 mm; left, 15 mm [arrows]). On day 15 of illness (Panel B), the scan shows partial resolution of the infundibular occlusion and marked clearing of the sinus abnormalities, with a residual abnormality of the left maxillary sinus (3 mm [arrows]). In Subject 16 the initial scan, obtained on day 6 of illness (Panel A), shows bilateral ethmoid infundibular occlusion (arrows) and abnormalities of the left ethmoid (2 mm) and right maxillary (2 mm) sinuses. On day 14 of illness (Panel B), the scan shows patent infundibula (arrows) and resolution of the sinus abnormalities. In Subject 24 the scan obtained on day 4 of illness (Panel A) shows bilateral infraorbital air cells (arrow) and thickened nasal walls (arrowheads), occlusion of the right ethmoid infundibulum, and abnormalities of the ethmoid (right, 3 mm) and maxillary (right, 3 mm; left, 1 mm) sinuses. On day 19 of illness (Panel B), some thickening of the nasal wall persisted, and the right infundibulum was patent (arrow). There was a minimal residual abnormality of the left maxillary sinus (not shown). In Subject 26 the scan obtained on day 3 of illness (Panel A) shows thickened nasal walls and bilateral ethmoid infundibular occlusion, with abnormalities of the ethmoid sinuses (right, 4 mm; left, 4 mm [arrows]) and maxillary sinuses (right, 4 mm; left, 5 mm). On day 14 of illness (Panel B), the scan shows partial resolution of the bilateral infundibular occlusion (arrow) and a residual abnormality of the right maxillary sinus (3 mm).\n\n<a id='641f8762-f818-43e7-9cc2-4e7a3c1b05d9'></a>\n\nsinusitis and may even help us find better treatment\nfor the cold. Although CT scanning is obviously not\nappropriate for the clinical evaluation of patients with\ncolds, it is useful in research on the pathogenesis and\ntreatment of this illness, which at some time afflicts\nvirtually every human being.\n\n<a id='cef29f5e-4972-46c8-89e8-8b802806a720'></a>\n\nWe are indebted to Katherine Adams and Patsy Beasley for data collection; to Debbie Thacker for technical assistance; to Jacqueline Grubbs for assistance in the preparation of the manuscript; to Rebecca Cornelius, M.D., for CT evaluations; and to Theodore Witek, Dr.P.H., and David Canestrari, M.S., for assistance in design and analysis.\n\n<a id='441904db-4e70-4164-8312-a4b90835a0d9'></a>\n\n## REFERENCES\n\n1. Dingle JH, Badger GF, Jordan WS Jr. Illness in the home: a study of 25,000 illnesses in a group of Cleveland families. Cleveland: Press of Western Reserve University, 1964:347.\n2. Fox JP, Hall CE. Viruses in families: surveillance of families as a key to epidemiology of virus infections. Littleton, Mass.: PSG Publishing, 1980.\n3. Monto AS, Bryan ER, Ohmit S. Rhinovirus infections in Tecumseh, Michigan: frequency of illness and number of serotypes. J Infect Dis 1987; 156:43-9.\n4. Jackson GG, Dowling HF, Spiesman IG, Boand AV. Transmission of the common cold to volunteers under controlled conditions. I. The common cold as a clinical entity. Arch Intern Med 1958;101:267-78.\n5. Gwaltney JM Jr, Hendley JO, Simon G, Jordan WS Jr. Rhinovirus infections in an industrial population. I. The occurrence of illness. N Engl J Med 1966:275:1261-8.\n6. Hendley JO, Edmondson WP Jr, Gwaltney JM Jr. Relation between naturally acquired immunity and infectivity of two rhinoviruses in volunteers. J Infect Dis 1972;125:243-8.\n\n<a id='7081ae1d-9db6-4d85-a3e6-74a41574e477'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u00a9 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='1d303c35-2242-4e7b-aee3-e86c259b4426'></a>\n\n30\n\n<a id='1fb797e0-d89a-446a-a9df-d57c8d60456a'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE\n\n<a id='d1bd75be-fb7e-44fd-b214-7f3097a1c9b4'></a>\n\nJan. 6, 1994\n\n<a id='a099cf47-a8c2-4f5b-85e3-e5c90ec7eb91'></a>\n\n7. Connell JT. Rhinometry: measurement of nasal patency. Ann Allergy 1982;49:179-85.\n8. Connell JT, Linzmayer MI. Comparison of nasal airway patency changes after treatment with oxymetazoline and pseudoephedrine. Am J Rhinol 1987;1:87-94.\n9. Gwaltney JM Jr, Colonno RJ, Hamparian VV, Turner RB. Rhinovirus. In: Schmidt NJ, Emmons RW, eds. Diagnostic procedures for viral, rickettsial and chlamydial infections. 6th ed. Washington, D.C.: American Public Health Association, 1989:579-614.\n10. Puchelle E, Aug F, Pham QT, Bertrand A. Comparison of three methods for measuring nasal mucociliary clearance in man. Acta Otolaryngol (Stockh) 1981;91:297-303.\n11. Duchateau GSMJE, Graamans K, Zuidema J, Merkus FWHM. Correlation between nasal ciliary beat frequency and mucus transport rate in volunteers. Laryngoscope 1985;95:854-9.\n\n<a id='07dd905f-763e-4816-8c51-5d2cc3b45339'></a>\n\n12. Doyle WJ, van Cauwenberge PB. Relationship between nasal patency and clearance. Rhinology 1987;25:167-79.\n13. Evans FO Jr, Sydnor JB, Moore WEC, et al. Sinusitis of the maxillary antrum. N Engl J Med 1975;293:735-9.\n14. Wald ER, Guerra N, Byers C. Upper respiratory tract infections in young children: duration of and frequency of complications. Pediatrics 1991;87:129-33.\n15. Bolger WE, Butzin CA, Parsons DS. Paranasal sinus bony anatomic variations and mucosal abnormalities: CT analysis for endoscopic sinus surgery. Laryngoscope 1991;101:56-64.\n16. Clark ST, Babin RW, Salazar J. The incidence of concha bullosa and its relationship to chronic sinonasal disease. Am J Rhinol 1989;3:11-2.\n17. Calhoun KH, Waggenspack GA, Simpson CB, Hokanson JA, Bailey BJ. CT evaluation of the paranasal sinuses in symptomatic and asymptomatic populations. Otolaryngol Head Neck Surg 1991;104:480-3.\n\n<a id='4671950f-ad4e-4c47-b049-b97c64197f02'></a>\n\nMassachusetts Medical Society\nRegistry on Continuing Medical Education\nTo obtain information on continuing medical education courses in the New England area,\ncall between 9:00 a.m. and 12:00 noon, Monday through Friday, (617) 893-4610 or in\nMassachusetts 1-800-322-2303, ext. 1342.\n\n<a id='c0f21918-7130-46a6-bee3-6d7116d09a0d'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u00a9 1994 Massachusetts Medical Society. All rights reserved.",
+  "metadata": {
+    "credit_usage": 18.0,
+    "duration_ms": 69987,
+    "filename": "CT_Study_of_the_Common_Cold.pdf",
+    "job_id": "m21y9jc2gclzo604j6rouvt2r",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 6,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "7ad15d34-a692-4b6e-a90f-9ef551ace88c",
+        "c65dd657-f90d-4078-bbfa-be666a566965",
+        "826f65f5-5616-4987-93b3-86fd00b51e3f",
+        "08541807-866c-4dc0-a302-f801e4beb7d6",
+        "ae393949-a4f2-4448-ba6f-7aa27d2329d0",
+        "f8b5604d-2a9b-4b9c-a89d-96bb44f6b7bc",
+        "adf4f3a3-da32-4c2e-935e-89f96bd0fe44",
+        "9215883b-e58a-45b1-bef1-4610529a2f04",
+        "aad366c7-1f88-42a0-b48a-33b26b2540fd",
+        "d1da45df-ac26-4b55-9f15-56c284ebb29b",
+        "fe14a487-f9c9-41b6-8160-dba99712c3c5",
+        "4340637d-5295-4949-9660-569747fd0096",
+        "8981bb02-6287-4eb5-a211-9edd69b4f58e",
+        "5f8a6e8b-b29d-4ae1-842a-e24d451a94e7",
+        "b9df91df-ef35-4d9f-9d61-83a9497510e3",
+        "b2d6211c-cfb8-4bcc-9c7e-3e3739552acc",
+        "d0a4d1ca-9c2e-4b92-91aa-091c2625c47f",
+        "85a47d3e-3722-4214-b23b-6e47b7a569ed",
+        "76c860ad-4ef9-40d8-933b-7a9b37803770",
+        "7177b9d0-f489-49b9-a8f1-23112821a857",
+        "949a2cd5-5284-44c5-8f58-141415cd0ed0",
+        "15d89a71-5429-4276-8520-3c07be41e561",
+        "64992c39-4ea6-43ed-b50b-a05e804345f1",
+        "2306d1ef-bcfc-4daa-af8a-0b1fdbe5cee4",
+        "d361507a-5d91-4454-8378-4c8d101d4ec7",
+        "c1a12477-5597-4a29-8618-64cf07159e33",
+        "0eef9817-e43b-4ea0-805f-a1a44d62b63d",
+        "a451255b-4ba5-4152-b904-2a308d005d56",
+        "3b91ec68-16a5-4d7c-883c-4c77a931362f",
+        "0c4343f9-28e0-49b8-8fb5-f579ca4560b9",
+        "a0a1a796-6e7f-4b11-9a84-6f67cf0bb3ce",
+        "446ca36d-ff72-4998-a3ba-e893afa6b0f6",
+        "63338ac7-a6f6-4aeb-b567-3179dbe652dc",
+        "2ad52ab8-1f5c-4f54-986d-9e660efc48ea",
+        "95455c2d-870c-4dd6-9c12-d31f833ddd24",
+        "a6dc336f-1b77-4f3a-b4fc-416e0f09a225",
+        "42546bb3-9ac0-41c6-9596-8f496b6e726b",
+        "5fa83b43-8215-4988-850e-a896d83cfd66",
+        "8277f73f-2fff-4173-83a8-4d190e60db67",
+        "822870ef-96ee-42a2-b570-882f6f201abb",
+        "b5ac83db-d979-4337-96b0-61f78d595d43",
+        "a2a71040-b97c-4d65-9ac8-605c2929cd40",
+        "cf7cdf1a-ff2e-4ab5-9682-46d48db8de0e",
+        "4cc3b0c3-f547-41b5-a1ed-2b807e04f916",
+        "bc4d74ba-b450-4830-b73a-277a70f0c320",
+        "98a05d67-a8ba-4d83-9244-4a586b43c94b",
+        "fe5d1419-f661-452f-95c7-36bf69d1db2c",
+        "11e7684b-f5f4-404b-84e6-d5d236324461",
+        "016b68ae-57c4-4d65-b022-229d0724868f",
+        "c27e234c-194d-47c3-adde-af62be578b21",
+        "d96be681-199f-4e56-8840-f029537f29ab",
+        "652e97f2-4e7b-4600-a9c5-f2cfee4c0f49",
+        "1dc26e59-987f-4cc3-ab37-ae759cf93e4e",
+        "ffa372bd-1358-4a16-9d4b-3f251b299bfd",
+        "250dd02f-e7c8-4562-8c1f-96c99cb47ab2",
+        "3da311df-07b3-4bf6-8d7c-0d5fb9680a08",
+        "ef8215a9-e24a-4003-ac0b-c9a365b432b9",
+        "db02dd9b-84d4-4423-9c47-326db841ed7b",
+        "e0b10822-e4c0-456a-bdf0-41e077a0164d",
+        "4028a956-eb13-44ab-bcc8-3ee867ddf0c7",
+        "84547f6b-b691-4f76-89f7-24b9eb56a3f6",
+        "567f03ca-445a-4821-b160-e8f72c8fdc81",
+        "b3686b3a-ed42-4a76-ac4b-178e4753241a",
+        "e485ca19-8b19-4c4c-ae87-7d9594e1ceac",
+        "e85373f7-aa38-41c1-b59e-f8cc698d6103",
+        "34782941-98ab-4dbd-8e9b-9473296ccbfd",
+        "32e192dc-a91b-4b8d-86fa-be55fd986f14",
+        "5847ac17-5a14-48fe-a764-7e0a959a8636",
+        "c8507d35-a89e-485e-9af5-4172260ea28a",
+        "641f8762-f818-43e7-9cc2-4e7a3c1b05d9",
+        "cef29f5e-4972-46c8-89e8-8b802806a720",
+        "441904db-4e70-4164-8312-a4b90835a0d9",
+        "7081ae1d-9db6-4d85-a3e6-74a41574e477",
+        "1d303c35-2242-4e7b-aee3-e86c259b4426",
+        "1fb797e0-d89a-446a-a9df-d57c8d60456a",
+        "d1bd75be-fb7e-44fd-b214-7f3097a1c9b4",
+        "a099cf47-a8c2-4f5b-85e3-e5c90ec7eb91",
+        "07dd905f-763e-4816-8c51-5d2cc3b45339",
+        "4671950f-ad4e-4c47-b049-b97c64197f02",
+        "c0f21918-7130-46a6-bee3-6d7116d09a0d"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='7ad15d34-a692-4b6e-a90f-9ef551ace88c'></a>\n\nVol. 330 No. 1\n\n<a id='c65dd657-f90d-4078-bbfa-be666a566965'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD --- GWALTNEY ET AL.\n\n<a id='826f65f5-5616-4987-93b3-86fd00b51e3f'></a>\n\n25\n\n<a id='08541807-866c-4dc0-a302-f801e4beb7d6'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD\nJACK M. GWALTNEY, JR., M.D., C. DOUGLAS PHILLIPS, M.D., R. DAVID MILLER, B.S.,\nAND DONALD K. RIKER, PH.D.\n\n<a id='ae393949-a4f2-4448-ba6f-7aa27d2329d0'></a>\n\n**Abstract** *Background.* Colds are common, but the abnormalities they produce in the nasal passages and sinus cavities have not been well defined.\n\n<a id='f8b5604d-2a9b-4b9c-a89d-96bb44f6b7bc'></a>\n\n**Methods.** We studied healthy adult volunteers with self-diagnosed colds of 48 to 96 hours' duration and obtained the following data: information on symptoms, computed tomographic (CT) studies of the nasal passages and sinuses, mucosal-transport times, measures of nasal-airway resistance, and viral-culture studies. Thirty-one subjects (mean age, 24 years) had complete evaluations, including CT scans, which were read without knowledge of the clinical data. An additional 79 subjects underwent the same evaluations, except the CT scans.\n\n<a id='adf4f3a3-da32-4c2e-935e-89f96bd0fe44'></a>\n\n_Results._ Of the 31 subjects with CT scans, 24 (77 percent) had occlusion of the ethmoid infundibulum; 27 (87 percent) had abnormalities of one or both maxillary-sinus cavities; 20 (65 percent) had abnormalities of the ethmoid sinuses; 10 (32 percent) had abnormalities of the frontal\n\n<a id='9215883b-e58a-45b1-bef1-4610529a2f04'></a>\n\nSTUDIES of the common cold have relied on diag- nosis by the patients themselves\u0019-3 or diagnosis by an investigator using individual symptoms reported by the patients. 4-6 These methods have limited useful- ness for determining which anatomical areas of the upper airway are involved in the illness. There is a general assumption that in the upper airway the cold is mainly confined to the nasal passages and pharynx. Extension of the illness to the paranasal sinuses is thought to represent a complication.\n\n<a id='aad366c7-1f88-42a0-b48a-33b26b2540fd'></a>\n\nComputed tomographic (CT) scanning allows de-\ntailed imaging of the nasal passages, ostiomeatal com-\nplex, and paranasal sinuses. We obtained CT scans of\nthe nasal passages and sinuses of subjects with early,\nnaturally acquired colds and correlated the findings\nwith symptom scores, data on nasal-airway resistance,\nand mucosal-transport times to determine how the\ncommon cold involves the upper airway.\n\n<a id='d1da45df-ac26-4b55-9f15-56c284ebb29b'></a>\n\n# METHODS\n\n## Subjects\n\nSubjects 18 years of age or older were recruited by solicitations for volunteers with a \"fresh common cold.\" Volunteers were screened by telephone for eligibility in a way designed to mask the criteria for enrollment in the study. These criteria included good health other than having the common cold; duration of symptoms of at least 48 hours but less than 96 hours; no active allergic rhinitis or other respiratory illness; no history of recurrent or chronic sinusitis or nasal polyps; no use of cough, cold, or analgesic drugs within 8 hours before enrollment; and reported nasal or head congestion at the time of the initial visit. After 28 subjects had been enrolled, the last criterion was eliminated to allow investigation of CT findings in subjects without congestion.\n\n<a id='fe14a487-f9c9-41b6-8160-dba99712c3c5'></a>\n\nOf the 356 people who volunteered to participate in the study,\n129 were excluded because they could not or did not keep the initial\n\n<a id='4340637d-5295-4949-9660-569747fd0096'></a>\n\nFrom the Departments of Internal Medicine (J.M.G.) and Radiology (C.D.P.),\nUniversity of Virginia Health Sciences Center, Charlottesville, and the Procter\n& Gamble Company, Cincinnati (R.D.M., D.K.R.). Address reprint requests to\nDr. Gwaltney at the Department of Internal Medicine, University of Virginia\nHealth Sciences Center, Charlottesville, VA 22908.\nSupported by the Procter & Gamble Company, Cincinnati.\n\n<a id='8981bb02-6287-4eb5-a211-9edd69b4f58e'></a>\n\nsinuses; and 12 (39 percent) had abnormalities of the sphenoid sinuses. Infraorbital air cells were present in 14 subjects (45 percent), and pneumatization of the middle turbinate (concha bullosa) was noted in 11 subjects (35 percent). Also common were engorged turbinates (in 7 subjects) and thickening of the walls of the nasal passages (in 13). After two weeks, the CT studies were repeated in 14 subjects, none of whom received antibiotics. In 11 of these subjects (79 percent) the abnormalities of the infundibula and sinuses had cleared or markedly improved. Nasal-airway resistance was abnormal in 29 (94 percent) and mucosal transport in 19 (61 percent) of the 31 subjects who had CT scans. Rhinovirus was detected in nasal secretions from 24 (27 percent) of 90 subjects.\n\n**Conclusions.** The common cold is associated with frequent and variable anatomical involvement of the upper airways, including occlusion and abnormalities in the sinus cavities. (N Engl J Med 1994;330:25-30.)\n\n<a id='5f8a6e8b-b29d-4ae1-842a-e24d451a94e7'></a>\n\nappointment or could not be accommodated in the study at a given time; 65 because they had been ill too long; 13 because their cold symptoms had subsided; 15 because of a history of allergy, asthma, or chronic sinus disease; 8 because they did not report congestion; 5 because they were being treated for another illness; 2 because they could not tolerate dye in the nose; and 2 because they were under 18 years of age. A total of 117 volunteers were enrolled in the study, and 110 completed it (8 of the 110 missed an appointment on one day of the study but were included for the purpose of data analysis). After enrollment, patients were observed for six days, during which time they did not use acetaminophen as an analgesic. The study was approved by the Human Investigation Committee of the University of Virginia.\n\n<a id='b9df91df-ef35-4d9f-9d61-83a9497510e3'></a>\n\n## Subjective Measurement of Illness\nThe subjects reported symptoms by entering information in a computer program with a rating scale from 0 (not present) to 10 (very severe). They used the scale to respond to questions about sneezing, runny nose, nasal stuffiness, sore throat, cough, fatigue or lethargy, muscle aches and pains, chills, feverishness, and headache. The subjects were also asked whether they had nasal or head congestion. Symptoms were assessed at the time of enrollment and daily between the hours of 8 a.m. and 11 a.m. for six days.\n\n<a id='b2d6211c-cfb8-4bcc-9c7e-3e3739552acc'></a>\n\n## Nasal-Airway Resistance\n\nNasal-airway resistance was measured by single-nostril active an-terior rhinomanometry.<sup>7</sup> Beginning with the left nostril, nasal air-flow and transnasal pressure at the contralateral nostril were meas-ured over the course of four consecutive breaths with the use of a commercial rhinomanometer (John Connell, Englewood, N.J.). During the measurement, pressure and flow signals were digitized at a sampling rate of 100 Hz and displayed on the computer moni-tor. The primary measure of nasal patency was the rate of flow (in liters per second) at a reference transnasal pressure of -1.5 cm of water during inspiration. A value under 0.6 liter per second for white subjects or under 0.7 liter per second for black subjects was considered abnormal.<sup>8</sup>\n\n<a id='d0a4d1ca-9c2e-4b92-91aa-091c2625c47f'></a>\n\n## Virologic Studies\n\nViral-culture studies were performed with nasal secretions from the last 90 subjects enrolled in the study. The subjects expelled the contents of their nasal passages onto a plastic film. Secretions were then transferred by cotton swab to a vial containing 5 ml of beef-heart infusion broth with 1 percent bovine serum albumin and anti-biotics. This method was used to avoid irritation of the nose\n\n<a id='85a47d3e-3722-4214-b23b-6e47b7a569ed'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='76c860ad-4ef9-40d8-933b-7a9b37803770'></a>\n\n26\n\n<a id='7177b9d0-f489-49b9-a8f1-23112821a857'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE\n\n<a id='949a2cd5-5284-44c5-8f58-141415cd0ed0'></a>\n\nJan. 6, 1994\n\n<a id='15d89a71-5429-4276-8520-3c07be41e561'></a>\n\nby nasal swabbing or washing. Specimens\nwere inoculated into three human embryon-\nic lung-cell monolayers of the WI-38 strain\n(BioWhittaker, Walkersville, Md.). Viral\nisolates were identified as rhinoviruses by\ntheir characteristic cytopathic effect and\nacid lability.\n\n<a id='64992c39-4ea6-43ed-b50b-a05e804345f1'></a>\n\n# Nasal Mucosal Transport\n\nNasal mucociliary clearance was determined by a modification of a previously described method.10-12 Fifteen microliters of a test solution was placed on the mucosa of each nostril in the anterior part of the nasal cavity below the inferior meatus. The test solution consisted of 8 mg of indigo carmine per milliliter, 3 mg of saccharin per milliliter, and 45 mg of sorbitol per milliliter (pH adjusted to 7.4). The subjects reported the first occurrence of a sweet taste, and then the pharyngeal cavity was examined for the appearance of the blue dye. Repeated inspections of the pharynx were made at 30-second intervals for 30 minutes or until dye was observed on each side. The combined clearance time was defined as the time elapsed from the introduction of the test solution to the first report of a sweet taste. Separate clearance times for the right and left nasal passages are not reported. For the combined clearance time, the occurrence of a sweet taste 20 minutes or more after the introduction of the solution was considered abnormal.\n\nWith CT scans\n(n = 31)\n\nWithout CT\nscans (n = 79)\n\n*Values are means \u00b1\n\u2020The total symptoms\ncough, headache, fever\n\n<a id='2306d1ef-bcfc-4daa-af8a-0b1fdbe5cee4'></a>\n\n## CT Scans of the Upper Airway\n\nCT scans of the nasal passages, ostiomeatal complex, and paranasal sinuses were obtained in 33 (30 percent) of the 110 subjects. Two subjects were excluded from the analysis because of bony changes in the maxillary antra, which were thought to be the result of chronic sinus disease. Twenty-eight subjects underwent CT scanning within 24 hours after enrollment, and three within 48 hours after enrollment. Subjects were selected for CT scanning primarily on the basis of scheduling considerations; the severity of illness was not a factor in selection. Fifteen to 20 images were obtained in a direct coronal plane that included the nasal passages and sinuses (GE-9800 Quick scanner, General Electric, Schenectady, N.Y., or Picker PQ-2000 scanner, Picker International, Cleveland). Fourteen subjects with abnormalities of the sinuses on the initial CT scans had repeat scans and repeat studies of nasal mucosal transport and airway resistance 8 to 15 days later. All scans were read independently by two radiologists who had no clinical information on the subjects; the radiologists compared their readings and resolved any differences in interpretation.\n\n<a id='d361507a-5d91-4454-8378-4c8d101d4ec7'></a>\n\n# RESULTS\n## Characteristics of the Study Subjects\nSubjects were enrolled in the study between June 9 and October 9, 1992. Of the 31 subjects who had CT scans, 21 were women and 10 were men; 25 were white and 6 were nonwhite. Their ages ranged from 19 to 35 years, with a mean of 24 years. Of the 79 subjects who did not have CT scans, 50 were women and 29 were men; 69 were white and 10 were nonwhite. Their ages ranged from 18 to 55 years, with a mean of 23.5 years.\n\n<a id='c1a12477-5597-4a29-8618-64cf07159e33'></a>\n\nIllnesses in both groups were typical common colds.\nRhinorrhea and nasal stuffiness were the most promi-\nnent respiratory symptoms, followed by cough and\nsore throat. Total symptom scores over six days\nranged from 28 to 236 for the subjects who had CT\nscans and from 53 to 333 for those who did not (Ta-\n\n<a id='0eef9817-e43b-4ea0-805f-a1a44d62b63d'></a>\n\nTable 1. Symptoms, Delayed Mucosal Transport, and Abnormal Nasal-Airway Resist-\nance in 110 Adults with Naturally Acquired Colds.*\n<table id=\"1-1\">\n<tr><td id=\"1-2\">SUBJECT GROUP</td><td id=\"1-3\"></td><td id=\"1-4\"></td><td id=\"1-5\" colspan=\"2\">SYMPTOM</td><td id=\"1-6\"></td><td id=\"1-7\"></td><td id=\"1-8\">DELAYED MUCOSAL TRANSPORT</td><td id=\"1-9\">ABNORMAL NASAL-AIRWAY RESISTANCE</td></tr>\n<tr><td id=\"1-a\"></td><td id=\"1-b\">RHINOR- RHEA</td><td id=\"1-c\">NASAL STUFFINESS</td><td id=\"1-d\">SORE THROAT</td><td id=\"1-e\">COUGH</td><td id=\"1-f\">HEAD-ACHE</td><td id=\"1-g\">TOTAL\u2020</td><td id=\"1-h\"></td><td id=\"1-i\"></td></tr>\n<tr><td id=\"1-j\"></td><td id=\"1-k\"></td><td id=\"1-l\"></td><td id=\"1-m\" colspan=\"2\">score</td><td id=\"1-n\"></td><td id=\"1-o\"></td><td id=\"1-p\" colspan=\"2\">no. of days</td></tr>\n<tr><td id=\"1-q\">With CT scans (n = 31)</td><td id=\"1-r\">22\u00b111.5</td><td id=\"1-s\">21\u00b111.5</td><td id=\"1-t\">17\u00b110</td><td id=\"1-u\">18\u00b115</td><td id=\"1-v\">11\u001310</td><td id=\"1-w\">132\u001350</td><td id=\"1-x\">2.1\u00132</td><td id=\"1-y\">4.2\u00132</td></tr>\n<tr><td id=\"1-z\">Without CT scans (n = 79)</td><td id=\"1-A\">20\u00b19</td><td id=\"1-B\">24\u00b19</td><td id=\"1-C\">15\u00b112</td><td id=\"1-D\">21\u00b115</td><td id=\"1-E\">16\u001313</td><td id=\"1-F\">156\u001363</td><td id=\"1-G\">3.3\u00132</td><td id=\"1-H\">4.4\u00132</td></tr>\n</table>\n*Values are means \u00b1SD.\n\u2020The total symptom score is the sum of the daily scores for symptoms of sneezing, rhinorrhea, nasal stuffiness, sore throat,\ncough, headache, feverishness, chilliness, myalgia, and lethargy or fatigue, over a period of six days.\n\n<a id='a451255b-4ba5-4152-b904-2a308d005d56'></a>\n\nble 1). The mean total scores (\u00b1SD) were 132\u00b150 and 156\u00b163 for the respective groups (P = 0.07 by Student's t-test). The greater severity of illness in the group without CT scans was attributable mainly to the systemic symptoms of lethargy, myalgia, chilliness, and headache.\n\n<a id='3b91ec68-16a5-4d7c-883c-4c77a931362f'></a>\n\n## Viral Cultures\n\nViral cultures of nasal secretions yielded rhinovirus isolates in 24 of 90 subjects (27 percent): 7 of 17 subjects who had CT scans (41 percent) and 17 of 73 who did not (23 percent) (P = 0.2 by Fisher's exact test). The total six-day symptom scores for the 24 rhinovirus-positive subjects ranged from 53 to 247 (mean, 152\u001353). Thus, the colds that were associated with rhinovirus tended to be in the middle range of severity for the group as a whole.\n\n<a id='0c4343f9-28e0-49b8-8fb5-f579ca4560b9'></a>\n\n## Nasal-Airway Resistance\nRhinomanometric studies showed abnormal nasal-airway resistance on 1 or more days in 29 of the 31 subjects with CT scans (94 percent); the number of days ranged from 1 to 6 (mean, 4.2\u00132). The subjects with the 10 highest symptom scores had abnormal airway resistance on an average of 4.1 days, as compared with an average of 3.8 days for those with the 10 lowest symptom scores. None of the 6 subjects with abnormal airway resistance on two or fewer days had CT evidence of swelling of the turbinates or thickening of the nasal wall, as compared with 9 of the 16 subjects (56 percent) with abnormal airway resistance on all six days (P = 0.05 by Fisher's exact test).\n\n<a id='a0a1a796-6e7f-4b11-9a84-6f67cf0bb3ce'></a>\n\n## Mucosal Transport\nA delay in mucosal transport was noted on one or more days in 19 of the 31 subjects (61 percent) who had CT scans and in 63 of the 79 (80 percent) who did not (P = 0.08 by Fisher's exact test) (Table 1).\nThe mean number of days of abnormal mucociliary clearance was 2.1\u00b12.2 for the subjects who had CT scans and 3.3\u00b12.2 for those who did not (P = 0.01 by Student's t-test). These results, like the data on symptoms, suggest that illnesses were somewhat more severe in the group of subjects who did not have CT scans.\n\n<a id='446ca36d-ff72-4998-a3ba-e893afa6b0f6'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='63338ac7-a6f6-4aeb-b567-3179dbe652dc'></a>\n\nVol. 330 No. 1\n\n<a id='2ad52ab8-1f5c-4f54-986d-9e660efc48ea'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD --- GWALTNEY ET AL.\n\n<a id='95455c2d-870c-4dd6-9c12-d31f833ddd24'></a>\n\n27\n\n<a id='a6dc336f-1b77-4f3a-b4fc-416e0f09a225'></a>\n\nMucosal-transport times correlated with the sever-\nity of illness as indicated by the six-day symptom\nscores. In the group with CT scans, the transport time\nwas abnormal on one or more days in 8 of the 10\nsubjects with the highest total symptom scores but in\nonly 2 of the 10 subjects with the lowest total scores\n(P = 0.02 by Fisher's exact test). The mean number\nof days on which measurements were abnormal in\nthese groups was 3 and 0.5, respectively (P = 0.005 by\nStudent's t-test).\n\n<a id='42546bb3-9ac0-41c6-9596-8f496b6e726b'></a>\n\n## CT Scans\nTwenty-two of the 31 subjects with CT scans (71 percent) reported nasal or head congestion, and 9 did not. Of the subjects with congestion, 21 (95 percent) had occlusion of the ethmoid infundibulum, as compared with 3 of the 9 subjects without congestion (33 percent) (P = 0.001 by Fisher's exact test). All 22 subjects reporting congestion had abnormalities of one or more sinuses, as compared with 5 of the 9 subjects (56 percent) who did not report congestion (P = 0.004 by Fisher's exact test).\n\n<a id='5fa83b43-8215-4988-850e-a896d83cfd66'></a>\n\nTwenty-four of the 31 subjects with CT scans (77\npercent) had occlusion of the ethmoid infundibulum\n(Table 2). In 16 of these subjects (67 percent) the\nocclusion was bilateral. All 24 subjects with unilateral\nor bilateral infundibular occlusion had abnormalities\nof one or more sinuses, whereas only 3 of the 7 sub-\njects without infundibular occlusion (43 percent) had\nabnormalities of the sinuses (P = 0.002 by Fisher's\nexact test). None of the four subjects with normal si-\nnus cavities had infundibular occlusion.\n\n<a id='8277f73f-2fff-4173-83a8-4d190e60db67'></a>\n\nTwenty-seven of the 31 subjects with CT scans (87 percent) had abnormalities of one or both maxillary sinuses; the abnormalities were bilateral in 23 subjects (85 percent) and unilateral in 4 (15 percent). Twenty of the 31 subjects (65 percent) had abnormalities of the ethmoid sinuses, and in 12 of the 20 (60 percent) the abnormalities were bilateral. Abnormalities of the maxillary sinuses were present in all subjects who had ethmoid abnormalities and in seven of those who did not. Frontal-sinus abnormalities were present in 10 of the 31 subjects (32 percent), and sphenoid-sinus abnormalities were present in 12 (39 percent).\n\n<a id='822870ef-96ee-42a2-b570-882f6f201abb'></a>\n\nThe abnormal findings consisted of radiopaque material in the sinus cavity that had the density of soft tissue or fluid. These changes have traditionally been interpreted as mucosal swelling, except when an air-fluid level is present. However, the nonuniform areas of opacity suggested the presence of thick secretions. A definite air-fluid level was observed in the sphenoid and frontal sinuses in one subject and in the maxillary and sphenoid sinuses in another. The thickness of the abnormal material in the maxillary sinuses ranged from 2 to 15 mm and averaged 4.6 mm on the right and 4.4 mm on the left. The mean thickness of abnormal material in the other sinuses was 2.7 and 3.0 mm in the right and left frontal sinuses, respectively; 3.1 and 3.2 mm in the right and left ethmoid sinuses,\n\n<a id='b5ac83db-d979-4337-96b0-61f78d595d43'></a>\n\nTable 2. CT Findings in 31 Adults with Natu-\nrally Acquired Colds.\n<table id=\"2-1\">\n<tr><td id=\"2-2\">SITE</td><td id=\"2-3\">NO. OF PATIENTS (%)</td></tr>\n<tr><td id=\"2-4\">Nasal passages</td><td id=\"2-5\"></td></tr>\n<tr><td id=\"2-6\">Septal deviation</td><td id=\"2-7\">6 (19)</td></tr>\n<tr><td id=\"2-8\">Engorged turbinate</td><td id=\"2-9\"></td></tr>\n<tr><td id=\"2-a\">Right</td><td id=\"2-b\">7 (23)</td></tr>\n<tr><td id=\"2-c\">Left</td><td id=\"2-d\">7 (23)</td></tr>\n<tr><td id=\"2-e\">Thickened nasal wall</td><td id=\"2-f\">13 (42)</td></tr>\n<tr><td id=\"2-g\">Ostioameatal complex</td><td id=\"2-h\"></td></tr>\n<tr><td id=\"2-i\">Infraorbital cells</td><td id=\"2-j\"></td></tr>\n<tr><td id=\"2-k\">Right</td><td id=\"2-l\">11 (35)</td></tr>\n<tr><td id=\"2-m\">Left</td><td id=\"2-n\">14 (45)</td></tr>\n<tr><td id=\"2-o\">Ethmoid bullosa</td><td id=\"2-p\"></td></tr>\n<tr><td id=\"2-q\">Right</td><td id=\"2-r\">6 (19)</td></tr>\n<tr><td id=\"2-s\">Left</td><td id=\"2-t\">6 (19)</td></tr>\n<tr><td id=\"2-u\">Concha bullosa</td><td id=\"2-v\"></td></tr>\n<tr><td id=\"2-w\">Right</td><td id=\"2-x\">10 (32)</td></tr>\n<tr><td id=\"2-y\">Left</td><td id=\"2-z\">6 (19)</td></tr>\n<tr><td id=\"2-A\">Infundibular occlusion</td><td id=\"2-B\"></td></tr>\n<tr><td id=\"2-C\">Right</td><td id=\"2-D\">20 (65)</td></tr>\n<tr><td id=\"2-E\">Left</td><td id=\"2-F\">20 (65)</td></tr>\n<tr><td id=\"2-G\">SINUS THICKNESS</td><td id=\"2-H\">MM (MEAN \u00b1SD)*</td></tr>\n<tr><td id=\"2-I\">Frontal</td><td id=\"2-J\"></td></tr>\n<tr><td id=\"2-K\">Right</td><td id=\"2-L\">2.7\u00b15</td></tr>\n<tr><td id=\"2-M\">Left</td><td id=\"2-N\">3\u00b17</td></tr>\n<tr><td id=\"2-O\">Ethmoid</td><td id=\"2-P\"></td></tr>\n<tr><td id=\"2-Q\">Right</td><td id=\"2-R\">3.1\u00b19</td></tr>\n<tr><td id=\"2-S\">Left</td><td id=\"2-T\">3.2\u00b19</td></tr>\n<tr><td id=\"2-U\">Maxillary</td><td id=\"2-V\"></td></tr>\n<tr><td id=\"2-W\">Right</td><td id=\"2-X\">4.6\u00b13</td></tr>\n<tr><td id=\"2-Y\">Left</td><td id=\"2-Z\">4.4\u00b13</td></tr>\n<tr><td id=\"2-10\">Sphenoid</td><td id=\"2-11\">3.8\u00132.3</td></tr>\n</table>\n*Means were calculated from abnormal values only.\n\n<a id='a2a71040-b97c-4d65-9ac8-605c2929cd40'></a>\n\nrespectively; and 3.8 mm in the sphenoid sinus. The extent and degree of abnormality in the sinus cav- ities tended to be greater in the subjects with high- er symptom scores than in those with lower scores (i.e., milder illnesses), but these associations were in- exact. Unilateral or bilateral infundibular occlusion was present in 6 of 7 subjects with rhinovirus (86 percent) and in 18 of 24 without rhinovirus (75 per- cent), and sinus-cavity abnormalities were detected in 6 subjects (86 percent) and 21 subjects (88 percent), respectively.\n\n<a id='cf7cdf1a-ff2e-4ab5-9682-46d48db8de0e'></a>\n\nPreexisting, fixed anatomical variations in the 31 subjects who had CT scans included marked septal deviation in 6 (19 percent), infraorbital air cells (Haller cells) in 14 (45 percent), enlarged ethmoid bullae in 6 (19 percent), and concha bullosa (air cells of the turbinate) in 11 (35 percent) (Table 2). Acute, reversible changes included engorged turbinates in 7 subjects (23 percent) and mucosal thickening of the nasal walls in 13 (42 percent). Eighteen of the 24 subjects with ethmoid infundibular occlusion (75 percent) had anatomical variations, as did 6 of the 7 subjects without infundibular occlusion (86 percent). Fourteen of the subjects with occlusion (58 percent) and none without it had engorged turbinates or thickened nasal walls (P = 0.03 by Fisher's exact test). Also, none of the 4 subjects without sinus abnormalities had engorged turbinates or thickened nasal walls, as compared with 14 of the\n\n<a id='4cc3b0c3-f547-41b5-a1ed-2b807e04f916'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='bc4d74ba-b450-4830-b73a-277a70f0c320'></a>\n\n28\n\n<a id='98a05d67-a8ba-4d83-9244-4a586b43c94b'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE\n\n<a id='fe5d1419-f661-452f-95c7-36bf69d1db2c'></a>\n\nJan. 6, 1994\n\n<a id='11e7684b-f5f4-404b-84e6-d5d236324461'></a>\n\n27 subjects with sinus abnormalities (52 percent)\n(P = 0.2 by Fisher's exact test).\n\n<a id='016b68ae-57c4-4d65-b022-229d0724868f'></a>\n\n## Follow-up Evaluations\n\nFourteen subjects with abnormalities on CT scan-ning underwent a follow-up evaluation after 13 to 20 days of illness (Fig. 1 and 2). Eleven of the 14 (79 percent) reported feeling well at the time of follow-up. The mucosal-transport time had returned to normal and sinus abnormalities had resolved or markedly im-proved in 11 of the subjects (79 percent). Nasal-airway resistance had returned to normal in only six subjects (43 percent); however, in nine (64 percent) the flow rate was higher than the mean rate during the acute illness. All values and anatomical findings had returned to normal in only 3 of the 14 subjects at the time of follow-up.\n\n<a id='c27e234c-194d-47c3-adde-af62be578b21'></a>\n\nNasal-airway resistance remained abnormal in the three subjects with persistent symptoms; the mucosal-transport time remained abnormal in two of the three. However, the CT scans in all three subjects showed marked improvement. Three of the subjects who did not report persistent symptoms had sinus CT scans that showed residual abnormalities; two had had air-fluid levels on their initial scans. One of these three subjects had persistently abnormal nasal-airway resistance, but the mucosal-transport time had returned to normal in all three. Thus, there was not a close correlation between the resolution or persistence of the symptoms of illness and the objective findings of the other follow-up studies.\n\n<a id='d96be681-199f-4e56-8840-f029537f29ab'></a>\n\n## DISCUSSION\n\nIn a group of adults with naturally acquired common colds, we found a high prevalence of ostiomeatal and sinus abnormalities on CT scans. Although the high prevalence of sinus abnormalities was surprising, their reversal without antimicrobial treatment was not, since most colds are self-limited. These findings indicate that the common cold is actually a viral rhinosinusitis.\n\n<a id='652e97f2-4e7b-4600-a9c5-f2cfee4c0f49'></a>\n\nThat the abnormalities in the sinus cavities were directly or indirectly caused by a virus might be inferred from their early appearance and reversibility without antimicrobial treatment. A viral rhinitis may lead to sinus-cavity disease by obstructing sinus drainage with or without direct invasion of the sinus cavity. Respiratory viruses, including rhinovirus, unaccompanied by bacteria have been recovered directly from the sinus cavity in adults with acute sinusitis.<sup>13</sup> Acute bacterial sinusitis has been reported to follow the common cold in 0.5 percent<sup>1</sup> to 5 percent<sup>14</sup> of cases. In our study, 3 of 14 subjects (21 percent) had marked but resolving abnormalities on follow-up CT scans. Whether those with persistent abnormalities are more prone to secondary bacterial sinusitis is uncertain.\n\n<a id='1dc26e59-987f-4cc3-ab37-ae759cf93e4e'></a>\n\nAnatomical variations, as well as reversible abnor-\nmalities of the nasal passages and ostiomeatal area,\n\n<a id='ffa372bd-1358-4a16-9d4b-3f251b299bfd'></a>\n\n<::Coronal CT scan of the paranasal sinuses. Arrows point to bilateral concha bullosa (pneumatized middle turbinates). An asterisk indicates the uncinate process.\n: figure::>\nA\n\n<a id='250dd02f-e7c8-4562-8c1f-96c99cb47ab2'></a>\n\n<::Coronal CT scan of the orbits and nasal cavity, showing the bony structures of the eye sockets, eyeballs, nasal septum, and turbinates. B\n: figure::>\n\n<a id='3da311df-07b3-4bf6-8d7c-0d5fb9680a08'></a>\n\nFigure 1. Initial and Follow-up Sinus CT Scans in an Untreated\nAdult (Subject 1) with the Common Cold.\nThe initial scan, obtained on day 4 of illness (Panel A), shows\nbilateral occlusion of the ethmoid infundibulum (arrows), the pas-\nsage draining the maxillary sinus; abnormalities of the ethmoid\nsinuses (right, 4 mm; left, 4 mm) and maxillary sinuses (right,\n4 mm; left, 7 mm); and bilateral pneumatization of the middle\nturbinate (concha bullosa [asterisk]). The scan obtained on day\n13 (Panel B) shows minimal residual infundibular occlusion and a\nresidual abnormality of the right maxillary sinus (2 mm).\n\n<a id='ef8215a9-e24a-4003-ac0b-c9a365b432b9'></a>\n\nwere present in many of our subjects: septal deviation in 19 percent, infraorbital air cells in 45 percent, and concha bullosa in 35 percent. In the general population, the reported prevalence of these abnormalities is 19.5 percent, 45 percent, and 11 to 16 percent, respectively. 15-17 However, it was the reversible abnormalities \u2014 thickened nasal walls, engorged turbinates, and\n\n<a id='db02dd9b-84d4-4423-9c47-326db841ed7b'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u0016 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='e0b10822-e4c0-456a-bdf0-41e077a0164d'></a>\n\nVol. 330 No. 1\n\n<a id='4028a956-eb13-44ab-bcc8-3ee867ddf0c7'></a>\n\nCOMPUTED TOMOGRAPHIC STUDY OF THE COMMON COLD \u2014 GWALTNEY ET AL.\n\n<a id='84547f6b-b691-4f76-89f7-24b9eb56a3f6'></a>\n\n29\n\n<a id='567f03ca-445a-4821-b160-e8f72c8fdc81'></a>\n\nA\n<::Coronal CT scan of the nasal cavity, showing an arrow pointing to a structure within the nasal passage.\n: figure::>\nSubje\n\n<a id='b3686b3a-ed42-4a76-ac4b-178e4753241a'></a>\n\n<::A coronal CT scan image showing the nasal and sinus cavities, and eye orbits. The image is labeled 'B' in the top right corner.\n: figure::>\nject 3\n\n<a id='e485ca19-8b19-4c4c-ae87-7d9594e1ceac'></a>\n\n<::A: Coronal CT scan showing the orbits and paranasal sinuses. An asterisk indicates an abnormality in the ethmoid sinus. Two arrows point to the right maxillary sinus, possibly indicating an abnormality or anatomical feature. B: Coronal CT scan showing the orbits and paranasal sinuses. Two arrows point to the right maxillary sinus, possibly indicating an abnormality or anatomical feature.: figure::>\n\n<a id='e85373f7-aa38-41c1-b59e-f8cc698d6103'></a>\n\nSubject 5\n<::Two coronal CT scans of the nasal cavity. Image A shows a coronal view of the nasal cavity with two black arrows pointing to the middle turbinates. Image B shows a similar coronal view of the nasal cavity, also with two black arrows pointing to the middle turbinates.: figure::>\n\n<a id='34782941-98ab-4dbd-8e9b-9473296ccbfd'></a>\n\nSubject 16\n<::Two coronal CT scans of the human head, labeled A and B. Both scans show the nasal cavity and paranasal sinuses.\n\nPanel A: An arrow points to the left ethmoid sinus. A small arrowhead points to a structure within the left nasal cavity.\n\nPanel B: A line segment is drawn across a structure in the right nasal cavity, likely indicating a measurement.\n: figure::>\n\n<a id='32e192dc-a91b-4b8d-86fa-be55fd986f14'></a>\n\nSubject 24\n<:: Coronal CT scans of the nasal and sinus cavities. Image A shows a coronal CT scan of the nasal cavity, labeled 'A', with two black arrows pointing to structures within the ethmoid sinuses. Image B shows another coronal CT scan of the nasal cavity, labeled 'B', with one black arrow pointing to a structure, likely the uncinate process or middle turbinate. : figure::>\nSubject 26\n\n<a id='5847ac17-5a14-48fe-a764-7e0a959a8636'></a>\n\ninfundibular occlusion \u2014 that appeared to be more\nclinically important in our group of subjects.\nThe current study shows that the common cold is an\nillness with broader anatomical involvement in the\nupper airway than previously recognized. These findings help improve our understanding of the pathogenesis of both the common cold and acute bacterial\n\n<a id='c8507d35-a89e-485e-9af5-4172260ea28a'></a>\n\nFigure 2. Initial and Follow-up Sinus CT Scans Shown in Descending Order of the Severity of Illness, According to the Total Symptom Score, in Five Untreated Subjects.\nIn Subject 3 the initial scan, obtained on day 5 of illness (Panel A), shows thickened nasal walls (arrows), bilateral ethmoid infundibular occlusion, and abnormalities of the ethmoid sinuses (right, 3 mm; left, 3 mm) and maxillary sinuses (right, 3 mm; left, air-fluid level). The scan obtained on day 18 of illness (Panel B) shows patent infundibula and residual abnormalities of the maxillary sinuses (right, 4 mm; left, 11 mm). In Subject 5 the initial scan, obtained on day 5 of illness (Panel A), shows bilateral ethmoid infundibular occlusion and abnormalities of the ethmoid sinuses (left, 5 mm [asterisk]) and maxillary sinuses (right, 10 mm; left, 15 mm [arrows]). On day 15 of illness (Panel B), the scan shows partial resolution of the infundibular occlusion and marked clearing of the sinus abnormalities, with a residual abnormality of the left maxillary sinus (3 mm [arrows]). In Subject 16 the initial scan, obtained on day 6 of illness (Panel A), shows bilateral ethmoid infundibular occlusion (arrows) and abnormalities of the left ethmoid (2 mm) and right maxillary (2 mm) sinuses. On day 14 of illness (Panel B), the scan shows patent infundibula (arrows) and resolution of the sinus abnormalities. In Subject 24 the scan obtained on day 4 of illness (Panel A) shows bilateral infraorbital air cells (arrow) and thickened nasal walls (arrowheads), occlusion of the right ethmoid infundibulum, and abnormalities of the ethmoid (right, 3 mm) and maxillary (right, 3 mm; left, 1 mm) sinuses. On day 19 of illness (Panel B), some thickening of the nasal wall persisted, and the right infundibulum was patent (arrow). There was a minimal residual abnormality of the left maxillary sinus (not shown). In Subject 26 the scan obtained on day 3 of illness (Panel A) shows thickened nasal walls and bilateral ethmoid infundibular occlusion, with abnormalities of the ethmoid sinuses (right, 4 mm; left, 4 mm [arrows]) and maxillary sinuses (right, 4 mm; left, 5 mm). On day 14 of illness (Panel B), the scan shows partial resolution of the bilateral infundibular occlusion (arrow) and a residual abnormality of the right maxillary sinus (3 mm).\n\n<a id='641f8762-f818-43e7-9cc2-4e7a3c1b05d9'></a>\n\nsinusitis and may even help us find better treatment\nfor the cold. Although CT scanning is obviously not\nappropriate for the clinical evaluation of patients with\ncolds, it is useful in research on the pathogenesis and\ntreatment of this illness, which at some time afflicts\nvirtually every human being.\n\n<a id='cef29f5e-4972-46c8-89e8-8b802806a720'></a>\n\nWe are indebted to Katherine Adams and Patsy Beasley for data collection; to Debbie Thacker for technical assistance; to Jacqueline Grubbs for assistance in the preparation of the manuscript; to Rebecca Cornelius, M.D., for CT evaluations; and to Theodore Witek, Dr.P.H., and David Canestrari, M.S., for assistance in design and analysis.\n\n<a id='441904db-4e70-4164-8312-a4b90835a0d9'></a>\n\n## REFERENCES\n\n1. Dingle JH, Badger GF, Jordan WS Jr. Illness in the home: a study of 25,000 illnesses in a group of Cleveland families. Cleveland: Press of Western Reserve University, 1964:347.\n2. Fox JP, Hall CE. Viruses in families: surveillance of families as a key to epidemiology of virus infections. Littleton, Mass.: PSG Publishing, 1980.\n3. Monto AS, Bryan ER, Ohmit S. Rhinovirus infections in Tecumseh, Michigan: frequency of illness and number of serotypes. J Infect Dis 1987; 156:43-9.\n4. Jackson GG, Dowling HF, Spiesman IG, Boand AV. Transmission of the common cold to volunteers under controlled conditions. I. The common cold as a clinical entity. Arch Intern Med 1958;101:267-78.\n5. Gwaltney JM Jr, Hendley JO, Simon G, Jordan WS Jr. Rhinovirus infections in an industrial population. I. The occurrence of illness. N Engl J Med 1966:275:1261-8.\n6. Hendley JO, Edmondson WP Jr, Gwaltney JM Jr. Relation between naturally acquired immunity and infectivity of two rhinoviruses in volunteers. J Infect Dis 1972;125:243-8.\n\n<a id='7081ae1d-9db6-4d85-a3e6-74a41574e477'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u00a9 1994 Massachusetts Medical Society. All rights reserved.\n\n<a id='1d303c35-2242-4e7b-aee3-e86c259b4426'></a>\n\n30\n\n<a id='1fb797e0-d89a-446a-a9df-d57c8d60456a'></a>\n\nTHE NEW ENGLAND JOURNAL OF MEDICINE\n\n<a id='d1bd75be-fb7e-44fd-b214-7f3097a1c9b4'></a>\n\nJan. 6, 1994\n\n<a id='a099cf47-a8c2-4f5b-85e3-e5c90ec7eb91'></a>\n\n7. Connell JT. Rhinometry: measurement of nasal patency. Ann Allergy 1982;49:179-85.\n8. Connell JT, Linzmayer MI. Comparison of nasal airway patency changes after treatment with oxymetazoline and pseudoephedrine. Am J Rhinol 1987;1:87-94.\n9. Gwaltney JM Jr, Colonno RJ, Hamparian VV, Turner RB. Rhinovirus. In: Schmidt NJ, Emmons RW, eds. Diagnostic procedures for viral, rickettsial and chlamydial infections. 6th ed. Washington, D.C.: American Public Health Association, 1989:579-614.\n10. Puchelle E, Aug F, Pham QT, Bertrand A. Comparison of three methods for measuring nasal mucociliary clearance in man. Acta Otolaryngol (Stockh) 1981;91:297-303.\n11. Duchateau GSMJE, Graamans K, Zuidema J, Merkus FWHM. Correlation between nasal ciliary beat frequency and mucus transport rate in volunteers. Laryngoscope 1985;95:854-9.\n\n<a id='07dd905f-763e-4816-8c51-5d2cc3b45339'></a>\n\n12. Doyle WJ, van Cauwenberge PB. Relationship between nasal patency and clearance. Rhinology 1987;25:167-79.\n13. Evans FO Jr, Sydnor JB, Moore WEC, et al. Sinusitis of the maxillary antrum. N Engl J Med 1975;293:735-9.\n14. Wald ER, Guerra N, Byers C. Upper respiratory tract infections in young children: duration of and frequency of complications. Pediatrics 1991;87:129-33.\n15. Bolger WE, Butzin CA, Parsons DS. Paranasal sinus bony anatomic variations and mucosal abnormalities: CT analysis for endoscopic sinus surgery. Laryngoscope 1991;101:56-64.\n16. Clark ST, Babin RW, Salazar J. The incidence of concha bullosa and its relationship to chronic sinonasal disease. Am J Rhinol 1989;3:11-2.\n17. Calhoun KH, Waggenspack GA, Simpson CB, Hokanson JA, Bailey BJ. CT evaluation of the paranasal sinuses in symptomatic and asymptomatic populations. Otolaryngol Head Neck Surg 1991;104:480-3.\n\n<a id='4671950f-ad4e-4c47-b049-b97c64197f02'></a>\n\nMassachusetts Medical Society\nRegistry on Continuing Medical Education\nTo obtain information on continuing medical education courses in the New England area,\ncall between 9:00 a.m. and 12:00 noon, Monday through Friday, (617) 893-4610 or in\nMassachusetts 1-800-322-2303, ext. 1342.\n\n<a id='c0f21918-7130-46a6-bee3-6d7116d09a0d'></a>\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\nDownloaded from nejm.org on June 29, 2025. For personal use only.\nNo other uses without permission. Copyright \u00a9 1994 Massachusetts Medical Society. All rights reserved.",
+      "pages": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "7ad15d34-a692-4b6e-a90f-9ef551ace88c": {
+      "box": {
+        "bottom": 0.07098805159330368,
+        "left": 0.09118017554283142,
+        "right": 0.19373804330825806,
+        "top": 0.053276337683200836
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "c65dd657-f90d-4078-bbfa-be666a566965": {
+      "box": {
+        "bottom": 0.07093091309070587,
+        "left": 0.23928797245025635,
+        "right": 0.8361819982528687,
+        "top": 0.05389929562807083
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "826f65f5-5616-4987-93b3-86fd00b51e3f": {
+      "box": {
+        "bottom": 0.07001790404319763,
+        "left": 0.8823412656784058,
+        "right": 0.9030797481536865,
+        "top": 0.055556003004312515
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "08541807-866c-4dc0-a302-f801e4beb7d6": {
+      "box": {
+        "bottom": 0.1436484456062317,
+        "left": 0.1768210232257843,
+        "right": 0.8169745206832886,
+        "top": 0.08751752972602844
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ae393949-a4f2-4448-ba6f-7aa27d2329d0": {
+      "box": {
+        "bottom": 0.19027145206928253,
+        "left": 0.0906292200088501,
+        "right": 0.4887615442276001,
+        "top": 0.15050171315670013
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f8b5604d-2a9b-4b9c-a89d-96bb44f6b7bc": {
+      "box": {
+        "bottom": 0.31600573658943176,
+        "left": 0.09145104885101318,
+        "right": 0.48724794387817383,
+        "top": 0.19037339091300964
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "adf4f3a3-da32-4c2e-935e-89f96bd0fe44": {
+      "box": {
+        "bottom": 0.38497352600097656,
+        "left": 0.09137548506259918,
+        "right": 0.48795902729034424,
+        "top": 0.31625431776046753
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9215883b-e58a-45b1-bef1-4610529a2f04": {
+      "box": {
+        "bottom": 0.5424486994743347,
+        "left": 0.0909692645072937,
+        "right": 0.48786473274230957,
+        "top": 0.4015723168849945
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "aad366c7-1f88-42a0-b48a-33b26b2540fd": {
+      "box": {
+        "bottom": 0.6543774604797363,
+        "left": 0.09175370633602142,
+        "right": 0.4880768656730652,
+        "top": 0.542681097984314
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d1da45df-ac26-4b55-9f15-56c284ebb29b": {
+      "box": {
+        "bottom": 0.8383852243423462,
+        "left": 0.09166941046714783,
+        "right": 0.4882640540599823,
+        "top": 0.6613408327102661
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "fe14a487-f9c9-41b6-8160-dba99712c3c5": {
+      "box": {
+        "bottom": 0.8652993440628052,
+        "left": 0.0895819216966629,
+        "right": 0.4873908758163452,
+        "top": 0.8386507034301758
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4340637d-5295-4949-9660-569747fd0096": {
+      "box": {
+        "bottom": 0.938477098941803,
+        "left": 0.0914396345615387,
+        "right": 0.48910078406333923,
+        "top": 0.8736631274223328
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8981bb02-6287-4eb5-a211-9edd69b4f58e": {
+      "box": {
+        "bottom": 0.38242146372795105,
+        "left": 0.5083615779876709,
+        "right": 0.9059319496154785,
+        "top": 0.15079298615455627
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5f8a6e8b-b29d-4ae1-842a-e24d451a94e7": {
+      "box": {
+        "bottom": 0.5528993606567383,
+        "left": 0.5088551640510559,
+        "right": 0.9055636525154114,
+        "top": 0.4027782082557678
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b9df91df-ef35-4d9f-9d61-83a9497510e3": {
+      "box": {
+        "bottom": 0.6748285889625549,
+        "left": 0.5093361735343933,
+        "right": 0.9063897728919983,
+        "top": 0.5603348612785339
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b2d6211c-cfb8-4bcc-9c7e-3e3739552acc": {
+      "box": {
+        "bottom": 0.84044349193573,
+        "left": 0.50968998670578,
+        "right": 0.906134307384491,
+        "top": 0.6809824705123901
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d0a4d1ca-9c2e-4b92-91aa-091c2625c47f": {
+      "box": {
+        "bottom": 0.9392523765563965,
+        "left": 0.510301947593689,
+        "right": 0.9066034555435181,
+        "top": 0.8474458456039429
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "85a47d3e-3722-4214-b23b-6e47b7a569ed": {
+      "box": {
+        "bottom": 0.9934251308441162,
+        "left": 0.28040629625320435,
+        "right": 0.7206950783729553,
+        "top": 0.9683212041854858
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "76c860ad-4ef9-40d8-933b-7a9b37803770": {
+      "box": {
+        "bottom": 0.07046906650066376,
+        "left": 0.09009452909231186,
+        "right": 0.11228906363248825,
+        "top": 0.05431836470961571
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "7177b9d0-f489-49b9-a8f1-23112821a857": {
+      "box": {
+        "bottom": 0.07368363440036774,
+        "left": 0.3317106366157532,
+        "right": 0.6605406999588013,
+        "top": 0.0546267032623291
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "949a2cd5-5284-44c5-8f58-141415cd0ed0": {
+      "box": {
+        "bottom": 0.07542289793491364,
+        "left": 0.8226342797279358,
+        "right": 0.9027244448661804,
+        "top": 0.057567473500967026
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "15d89a71-5429-4276-8520-3c07be41e561": {
+      "box": {
+        "bottom": 0.17388862371444702,
+        "left": 0.0874529480934143,
+        "right": 0.3541906177997589,
+        "top": 0.08974486589431763
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "64992c39-4ea6-43ed-b50b-a05e804345f1": {
+      "box": {
+        "bottom": 0.42941349744796753,
+        "left": 0.08545282483100891,
+        "right": 0.4838966429233551,
+        "top": 0.1791038066148758
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "2306d1ef-bcfc-4daa-af8a-0b1fdbe5cee4": {
+      "box": {
+        "bottom": 0.6678804159164429,
+        "left": 0.08446499705314636,
+        "right": 0.4841509759426117,
+        "top": 0.43789875507354736
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "d361507a-5d91-4454-8378-4c8d101d4ec7": {
+      "box": {
+        "bottom": 0.8396619558334351,
+        "left": 0.08353890478610992,
+        "right": 0.48337244987487793,
+        "top": 0.6767561435699463
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "c1a12477-5597-4a29-8618-64cf07159e33": {
+      "box": {
+        "bottom": 0.9266825318336487,
+        "left": 0.08215288817882538,
+        "right": 0.48243749141693115,
+        "top": 0.8405382037162781
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "0eef9817-e43b-4ea0-805f-a1a44d62b63d": {
+      "box": {
+        "bottom": 0.29159337282180786,
+        "left": 0.38193756341934204,
+        "right": 0.9031069874763489,
+        "top": 0.0899495929479599
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.25653780603136944,
+        "left": 0.38606249489365174,
+        "right": 0.8985246883087115,
+        "top": 0.12253178609457183
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.15602956655330485,
+        "left": 0.38606249489365174,
+        "right": 0.4856212343710391,
+        "top": 0.12253178609457183
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.15620605902199258,
+        "left": 0.4853776811809604,
+        "right": 0.5325267329034149,
+        "top": 0.12299126041207498
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.1564113166440778,
+        "left": 0.5322539749150875,
+        "right": 0.5870435306428645,
+        "top": 0.1232077343453373
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.15671750586438307,
+        "left": 0.5867702761237197,
+        "right": 0.6682169920368344,
+        "top": 0.1234593352451205
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.15687360323474925,
+        "left": 0.668093949229824,
+        "right": 0.7095820342153984,
+        "top": 0.12383395952189566
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.15704944392515247,
+        "left": 0.7095533170930175,
+        "right": 0.7563256420978643,
+        "top": 0.12402486365169134
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.15727288799051609,
+        "left": 0.7562564989060405,
+        "right": 0.8156697572675029,
+        "top": 0.12424059044214864
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.1575850843780681,
+        "left": 0.815603108531996,
+        "right": 0.8985246883087114,
+        "top": 0.1245144699323725
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.17937193280434033,
+        "left": 0.386096871541774,
+        "right": 0.4853776811809604,
+        "top": 0.15565576747938653
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.17956348348040455,
+        "left": 0.4852056049328586,
+        "right": 0.5322539749150875,
+        "top": 0.15602956655330485
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.17978635018993988,
+        "left": 0.5320609068072302,
+        "right": 0.5867702761237198,
+        "top": 0.15620605902199258
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.179956604439014,
+        "left": 0.5865764385066661,
+        "right": 0.6284333197152909,
+        "top": 0.1564113166440778
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.18011924659049233,
+        "left": 0.6282224112574284,
+        "right": 0.668093949229824,
+        "top": 0.1565681808675642
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.18028901226218708,
+        "left": 0.6680063851989291,
+        "right": 0.7095533170930175,
+        "top": 0.15671750586438307
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.1804798228708068,
+        "left": 0.7095328468048063,
+        "right": 0.7562564989060405,
+        "top": 0.15687360323474925
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.18072244648990604,
+        "left": 0.7562071204299903,
+        "right": 0.815603108531996,
+        "top": 0.15704944392515247
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.18106161902130197,
+        "left": 0.8155553991639977,
+        "right": 0.8985222816527079,
+        "top": 0.15727288799051609
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.19629465459413661,
+        "left": 0.38612106420410364,
+        "right": 0.4852056049328586,
+        "top": 0.17896686208651644
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.19650973213611467,
+        "left": 0.48508085329277445,
+        "right": 0.5320609068072302,
+        "top": 0.17937193280434033
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.19676005078609976,
+        "left": 0.5319208322810742,
+        "right": 0.5865764385066661,
+        "top": 0.17956348348040455
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.19713431083174093,
+        "left": 0.5864356839845524,
+        "right": 0.668006385198929,
+        "top": 0.1797863501899399
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.19732521397642216,
+        "left": 0.6679427186696594,
+        "right": 0.7095328468048063,
+        "top": 0.18011924659049233
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.19753943394318946,
+        "left": 0.7095179533661008,
+        "right": 0.7562071204299903,
+        "top": 0.18028901226218708
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.19819306114890947,
+        "left": 0.7561711680623946,
+        "right": 0.8985205532035682,
+        "top": 0.18047982287080677
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-q": {
+      "box": {
+        "bottom": 0.22603613707648323,
+        "left": 0.3861385757911641,
+        "right": 0.48508085329277445,
+        "top": 0.19584033624681046
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-r": {
+      "box": {
+        "bottom": 0.2262098515992304,
+        "left": 0.48486160376753307,
+        "right": 0.5319208322810742,
+        "top": 0.19629465459413661
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-s": {
+      "box": {
+        "bottom": 0.2264121416609698,
+        "left": 0.5316753366410009,
+        "right": 0.5864356839845524,
+        "top": 0.19650973213611467
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-t": {
+      "box": {
+        "bottom": 0.22656655493569403,
+        "left": 0.5861897938289484,
+        "right": 0.628069159866381,
+        "top": 0.19676005078609976
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-u": {
+      "box": {
+        "bottom": 0.2267150964121742,
+        "left": 0.627802099356104,
+        "right": 0.6679427186696594,
+        "top": 0.19695122135982918
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-v": {
+      "box": {
+        "bottom": 0.22686968700680132,
+        "left": 0.6678320340478281,
+        "right": 0.7095179533661008,
+        "top": 0.19713431083174093
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-w": {
+      "box": {
+        "bottom": 0.22704267100533285,
+        "left": 0.7094921249094093,
+        "right": 0.7561711680623946,
+        "top": 0.19732521397642216
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-x": {
+      "box": {
+        "bottom": 0.2272629109835511,
+        "left": 0.7561089913093828,
+        "right": 0.8155206296606186,
+        "top": 0.19753943394318946
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-y": {
+      "box": {
+        "bottom": 0.22757111341206693,
+        "left": 0.8154607101255069,
+        "right": 0.8985192919089665,
+        "top": 0.19781195192022472
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-z": {
+      "box": {
+        "bottom": 0.25434027953548527,
+        "left": 0.38616953345000693,
+        "right": 0.48486160376753307,
+        "top": 0.22566991449943563
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-A": {
+      "box": {
+        "bottom": 0.2545887136644237,
+        "left": 0.48465295008659487,
+        "right": 0.5316753366410009,
+        "top": 0.22603613707648323
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-B": {
+      "box": {
+        "bottom": 0.25487816690643933,
+        "left": 0.5314407622677935,
+        "right": 0.5861897938289484,
+        "top": 0.2262098515992304
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-C": {
+      "box": {
+        "bottom": 0.2550990073232384,
+        "left": 0.585953739130257,
+        "right": 0.627802099356104,
+        "top": 0.2264121416609698
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-D": {
+      "box": {
+        "bottom": 0.2553123564605595,
+        "left": 0.6275448038819688,
+        "right": 0.6678320340478281,
+        "top": 0.22656655493569403
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-E": {
+      "box": {
+        "bottom": 0.2555339985070282,
+        "left": 0.6677250295565087,
+        "right": 0.7094921249094093,
+        "top": 0.2267150964121742
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-F": {
+      "box": {
+        "bottom": 0.255781336414993,
+        "left": 0.7094670659101368,
+        "right": 0.7561089913093828,
+        "top": 0.22686968700680132
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-G": {
+      "box": {
+        "bottom": 0.25609649252938504,
+        "left": 0.7560484258569444,
+        "right": 0.8154607101255069,
+        "top": 0.22704267100533285
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-H": {
+      "box": {
+        "bottom": 0.25653780603136944,
+        "left": 0.8154020466776337,
+        "right": 0.8985171289632875,
+        "top": 0.2272629109835511
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "a451255b-4ba5-4152-b904-2a308d005d56": {
+      "box": {
+        "bottom": 0.39147448539733887,
+        "left": 0.5064646601676941,
+        "right": 0.9024856686592102,
+        "top": 0.30397123098373413
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "3b91ec68-16a5-4d7c-883c-4c77a931362f": {
+      "box": {
+        "bottom": 0.5420699715614319,
+        "left": 0.504898190498352,
+        "right": 0.9020862579345703,
+        "top": 0.3964357376098633
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "0c4343f9-28e0-49b8-8fb5-f579ca4560b9": {
+      "box": {
+        "bottom": 0.7500181794166565,
+        "left": 0.5040591955184937,
+        "right": 0.901796817779541,
+        "top": 0.5474004149436951
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "a0a1a796-6e7f-4b11-9a84-6f67cf0bb3ce": {
+      "box": {
+        "bottom": 0.9260962009429932,
+        "left": 0.5025871396064758,
+        "right": 0.9007109999656677,
+        "top": 0.754246711730957
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "446ca36d-ff72-4998-a3ba-e893afa6b0f6": {
+      "box": {
+        "bottom": 0.994358241558075,
+        "left": 0.27806198596954346,
+        "right": 0.7215676307678223,
+        "top": 0.967222273349762
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "63338ac7-a6f6-4aeb-b567-3179dbe652dc": {
+      "box": {
+        "bottom": 0.07242357730865479,
+        "left": 0.0899084061384201,
+        "right": 0.19551171362400055,
+        "top": 0.05115476995706558
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "2ad52ab8-1f5c-4f54-986d-9e660efc48ea": {
+      "box": {
+        "bottom": 0.07133085280656815,
+        "left": 0.2373216450214386,
+        "right": 0.8355472087860107,
+        "top": 0.052848052233457565
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "95455c2d-870c-4dd6-9c12-d31f833ddd24": {
+      "box": {
+        "bottom": 0.07108211517333984,
+        "left": 0.8797721862792969,
+        "right": 0.9039715528488159,
+        "top": 0.05499489605426788
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "a6dc336f-1b77-4f3a-b4fc-416e0f09a225": {
+      "box": {
+        "bottom": 0.23208078742027283,
+        "left": 0.08797372877597809,
+        "right": 0.49089133739471436,
+        "top": 0.0882580503821373
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "42546bb3-9ac0-41c6-9596-8f496b6e726b": {
+      "box": {
+        "bottom": 0.3948097825050354,
+        "left": 0.08763325214385986,
+        "right": 0.4903666377067566,
+        "top": 0.23614777624607086
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "5fa83b43-8215-4988-850e-a896d83cfd66": {
+      "box": {
+        "bottom": 0.5344070196151733,
+        "left": 0.08830948173999786,
+        "right": 0.4909462332725525,
+        "top": 0.39493077993392944
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "8277f73f-2fff-4173-83a8-4d190e60db67": {
+      "box": {
+        "bottom": 0.7148535251617432,
+        "left": 0.088765949010849,
+        "right": 0.4913909137248993,
+        "top": 0.5341519117355347
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "822870ef-96ee-42a2-b570-882f6f201abb": {
+      "box": {
+        "bottom": 0.9251151084899902,
+        "left": 0.08909653127193451,
+        "right": 0.491435170173645,
+        "top": 0.7140519618988037
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "b5ac83db-d979-4337-96b0-61f78d595d43": {
+      "box": {
+        "bottom": 0.5037151575088501,
+        "left": 0.5670214891433716,
+        "right": 0.8511573076248169,
+        "top": 0.08691078424453735
+      },
+      "page": 2,
+      "type": "chunkTable"
+    },
+    "2-1": {
+      "box": {
+        "bottom": 0.4844518487112346,
+        "left": 0.5751368536122463,
+        "right": 0.8403949870156566,
+        "top": 0.12268001505460413
+      },
+      "page": 2,
+      "type": "table"
+    },
+    "2-2": {
+      "box": {
+        "bottom": 0.14903158625676222,
+        "left": 0.5751368536122463,
+        "right": 0.7208636000381056,
+        "top": 0.12271299284149276
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-3": {
+      "box": {
+        "bottom": 0.14918474702023674,
+        "left": 0.7208537619693156,
+        "right": 0.8403949870156566,
+        "top": 0.12268001505460413
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-4": {
+      "box": {
+        "bottom": 0.16688848700628123,
+        "left": 0.5751391025193516,
+        "right": 0.7208537619693156,
+        "top": 0.14884488202443052
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-5": {
+      "box": {
+        "bottom": 0.16696516729757882,
+        "left": 0.7208470869386565,
+        "right": 0.8403891801656584,
+        "top": 0.14903158625676222
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-6": {
+      "box": {
+        "bottom": 0.17751986958924756,
+        "left": 0.5751406496863954,
+        "right": 0.7208470869386565,
+        "top": 0.16679502054734563
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-7": {
+      "box": {
+        "bottom": 0.17764871932918058,
+        "left": 0.7208431128557131,
+        "right": 0.8403852847014981,
+        "top": 0.16688848700628123
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-8": {
+      "box": {
+        "bottom": 0.18778731621077782,
+        "left": 0.5751415605513439,
+        "right": 0.7208431128557131,
+        "top": 0.17736282062128944
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-9": {
+      "box": {
+        "bottom": 0.18791921752022192,
+        "left": 0.7208392748145015,
+        "right": 0.8403829440709958,
+        "top": 0.17751986958924756
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-a": {
+      "box": {
+        "bottom": 0.19737798838804685,
+        "left": 0.5751424452081294,
+        "right": 0.7208392748145015,
+        "top": 0.18762655517290266
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-b": {
+      "box": {
+        "bottom": 0.1975036196275997,
+        "left": 0.720835689756169,
+        "right": 0.8403806939353415,
+        "top": 0.18778731621077782
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-c": {
+      "box": {
+        "bottom": 0.20704817950822393,
+        "left": 0.5751432725112385,
+        "right": 0.720835689756169,
+        "top": 0.19722487583761855
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-d": {
+      "box": {
+        "bottom": 0.2071491739723445,
+        "left": 0.7208320749731162,
+        "right": 0.8403785941146216,
+        "top": 0.19737798838804685
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-e": {
+      "box": {
+        "bottom": 0.21759666117885507,
+        "left": 0.5751441085975109,
+        "right": 0.7208320749731162,
+        "top": 0.20692509823161126
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-f": {
+      "box": {
+        "bottom": 0.21772305447368123,
+        "left": 0.7208281318790963,
+        "right": 0.8403764808962233,
+        "top": 0.20704817950822393
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-g": {
+      "box": {
+        "bottom": 0.2277505435967237,
+        "left": 0.5751450151300316,
+        "right": 0.7208281318790963,
+        "top": 0.2174426337405989
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-h": {
+      "box": {
+        "bottom": 0.2279678334613959,
+        "left": 0.7208243362889546,
+        "right": 0.8403741642933598,
+        "top": 0.21759666117885507
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-i": {
+      "box": {
+        "bottom": 0.2376794187071055,
+        "left": 0.5751458807718868,
+        "right": 0.7208243362889546,
+        "top": 0.22748575822041334
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-j": {
+      "box": {
+        "bottom": 0.23792444054097744,
+        "left": 0.720820624808071,
+        "right": 0.8403719197924562,
+        "top": 0.2277505435967237
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-k": {
+      "box": {
+        "bottom": 0.24770675289718772,
+        "left": 0.575146733654681,
+        "right": 0.720820624808071,
+        "top": 0.23738085284678773
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-l": {
+      "box": {
+        "bottom": 0.24790058700552414,
+        "left": 0.7208168765225154,
+        "right": 0.8403697384263561,
+        "top": 0.2376794187071055
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-m": {
+      "box": {
+        "bottom": 0.25731547244720765,
+        "left": 0.5751476033125837,
+        "right": 0.7208168765225154,
+        "top": 0.24747057126636207
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-n": {
+      "box": {
+        "bottom": 0.25753968203573196,
+        "left": 0.7208132847179525,
+        "right": 0.840367552779425,
+        "top": 0.24770675289718772
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-o": {
+      "box": {
+        "bottom": 0.2677835762323308,
+        "left": 0.5751484283228734,
+        "right": 0.7208132847179525,
+        "top": 0.2570422907787461
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-p": {
+      "box": {
+        "bottom": 0.26810506610151696,
+        "left": 0.7208093716697317,
+        "right": 0.8403654409761807,
+        "top": 0.25731547244720765
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-q": {
+      "box": {
+        "bottom": 0.27805621404119535,
+        "left": 0.5751493203800643,
+        "right": 0.7208093716697317,
+        "top": 0.2673918843862223
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-r": {
+      "box": {
+        "bottom": 0.2782831900344278,
+        "left": 0.7208055316880189,
+        "right": 0.8403631262347782,
+        "top": 0.2677835762323308
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-s": {
+      "box": {
+        "bottom": 0.28788010717573304,
+        "left": 0.5751502157306069,
+        "right": 0.7208055316880189,
+        "top": 0.2777796872612717
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-t": {
+      "box": {
+        "bottom": 0.2881552298925846,
+        "left": 0.7208018594501102,
+        "right": 0.84036089633715,
+        "top": 0.27805621404119535
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-u": {
+      "box": {
+        "bottom": 0.29798674507677686,
+        "left": 0.5751510574217867,
+        "right": 0.7208018594501102,
+        "top": 0.28754493745266585
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-v": {
+      "box": {
+        "bottom": 0.2983121002148397,
+        "left": 0.7207980815202895,
+        "right": 0.8403587334986538,
+        "top": 0.28788010717573304
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-w": {
+      "box": {
+        "bottom": 0.3081447758811624,
+        "left": 0.5751519232649264,
+        "right": 0.7207980815202895,
+        "top": 0.29759039722225306
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-x": {
+      "box": {
+        "bottom": 0.30842630188813713,
+        "left": 0.7207942843794526,
+        "right": 0.8403565082574218,
+        "top": 0.29798674507677686
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-y": {
+      "box": {
+        "bottom": 0.31795726417917425,
+        "left": 0.575152803414231,
+        "right": 0.7207942843794526,
+        "top": 0.30780183625379803
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-z": {
+      "box": {
+        "bottom": 0.3182875969840125,
+        "left": 0.7207906164047492,
+        "right": 0.8403542923643487,
+        "top": 0.3081447758811624
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-A": {
+      "box": {
+        "bottom": 0.328522199687191,
+        "left": 0.5751536440540226,
+        "right": 0.7207906164047492,
+        "top": 0.3175548883028432
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-B": {
+      "box": {
+        "bottom": 0.3288302741169678,
+        "left": 0.7207866671601733,
+        "right": 0.8403521318798932,
+        "top": 0.31795726417917425
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-C": {
+      "box": {
+        "bottom": 0.33864477207591115,
+        "left": 0.5751545570105063,
+        "right": 0.7207866671601733,
+        "top": 0.32814695424214435
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-D": {
+      "box": {
+        "bottom": 0.3388695975036034,
+        "left": 0.7207828832739328,
+        "right": 0.8403498221132911,
+        "top": 0.328522199687191
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-E": {
+      "box": {
+        "bottom": 0.34863894128515627,
+        "left": 0.5751554382411783,
+        "right": 0.7207828832739328,
+        "top": 0.33837093923195655
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-F": {
+      "box": {
+        "bottom": 0.34884226585409395,
+        "left": 0.7207791473856721,
+        "right": 0.8403476226250992,
+        "top": 0.33864477207591115
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-G": {
+      "box": {
+        "bottom": 0.3675397138999644,
+        "left": 0.5751563019215836,
+        "right": 0.7207791473856721,
+        "top": 0.3483913070883131
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-H": {
+      "box": {
+        "bottom": 0.36770519720951655,
+        "left": 0.7207720821486271,
+        "right": 0.8403454377401787,
+        "top": 0.34863894128515627
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-I": {
+      "box": {
+        "bottom": 0.3859250818732602,
+        "left": 0.5751579350000311,
+        "right": 0.7207720821486271,
+        "top": 0.36733818452316785
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-J": {
+      "box": {
+        "bottom": 0.3860646506301691,
+        "left": 0.7207652095733341,
+        "right": 0.8403413051115958,
+        "top": 0.3675397138999644
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-K": {
+      "box": {
+        "bottom": 0.396151127646608,
+        "left": 0.5751595224019608,
+        "right": 0.7207652095733341,
+        "top": 0.38575512576050824
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-L": {
+      "box": {
+        "bottom": 0.3962229246326074,
+        "left": 0.7207613870080405,
+        "right": 0.840337282788631,
+        "top": 0.3859250818732602
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-M": {
+      "box": {
+        "bottom": 0.40569702295990695,
+        "left": 0.5751604109238307,
+        "right": 0.7207613870080405,
+        "top": 0.39606370278776454
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-N": {
+      "box": {
+        "bottom": 0.4058414492898629,
+        "left": 0.7207578186876036,
+        "right": 0.8403350572398705,
+        "top": 0.396151127646608
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-O": {
+      "box": {
+        "bottom": 0.41638245991364065,
+        "left": 0.5751612260861851,
+        "right": 0.7207578186876036,
+        "top": 0.4055211671502358
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-P": {
+      "box": {
+        "bottom": 0.4165189021956633,
+        "left": 0.7207538243987697,
+        "right": 0.8403329499433334,
+        "top": 0.40569702295990695
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-Q": {
+      "box": {
+        "bottom": 0.42639449866772183,
+        "left": 0.5751621479291509,
+        "right": 0.7207538243987697,
+        "top": 0.41621633351733944
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-R": {
+      "box": {
+        "bottom": 0.42645815612527277,
+        "left": 0.7207500818307518,
+        "right": 0.8403306106490721,
+        "top": 0.41638245991364065
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-S": {
+      "box": {
+        "bottom": 0.43602786709544383,
+        "left": 0.5751630185303055,
+        "right": 0.7207500818307518,
+        "top": 0.42631699548922153
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-T": {
+      "box": {
+        "bottom": 0.4360955369487073,
+        "left": 0.7207464808122712,
+        "right": 0.8403284330848266,
+        "top": 0.42639449866772183
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-U": {
+      "box": {
+        "bottom": 0.44670875166123236,
+        "left": 0.5751638484335135,
+        "right": 0.7207464808122712,
+        "top": 0.4359454823447937
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-V": {
+      "box": {
+        "bottom": 0.4468570354003044,
+        "left": 0.7207424882251509,
+        "right": 0.8403263216571432,
+        "top": 0.43602786709544383
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-W": {
+      "box": {
+        "bottom": 0.45687707740627315,
+        "left": 0.5751647605870019,
+        "right": 0.7207424882251509,
+        "top": 0.4465282319808302
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-X": {
+      "box": {
+        "bottom": 0.4569360338448225,
+        "left": 0.7207386872359953,
+        "right": 0.8403239639495707,
+        "top": 0.44670875166123236
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-Y": {
+      "box": {
+        "bottom": 0.46636187775186727,
+        "left": 0.5751656463936768,
+        "right": 0.7207386872359953,
+        "top": 0.45680530747979337
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-Z": {
+      "box": {
+        "bottom": 0.4664048019947109,
+        "left": 0.7207351417532719,
+        "right": 0.8403217557690776,
+        "top": 0.45687707740627315
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-10": {
+      "box": {
+        "bottom": 0.48439344854896904,
+        "left": 0.5751664655945626,
+        "right": 0.7207351417532719,
+        "top": 0.466309626639554
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "2-11": {
+      "box": {
+        "bottom": 0.4844518487112346,
+        "left": 0.7207284014297639,
+        "right": 0.8403196812822884,
+        "top": 0.46636187775186727
+      },
+      "page": 2,
+      "type": "tableCell"
+    },
+    "a2a71040-b97c-4d65-9ac8-605c2929cd40": {
+      "box": {
+        "bottom": 0.6734399795532227,
+        "left": 0.5071013569831848,
+        "right": 0.9101170897483826,
+        "top": 0.5187541246414185
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "cf7cdf1a-ff2e-4ab5-9682-46d48db8de0e": {
+      "box": {
+        "bottom": 0.9262046217918396,
+        "left": 0.5075293779373169,
+        "right": 0.9097980260848999,
+        "top": 0.6721386313438416
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "4cc3b0c3-f547-41b5-a1ed-2b807e04f916": {
+      "box": {
+        "bottom": 0.9950067400932312,
+        "left": 0.27608972787857056,
+        "right": 0.723539412021637,
+        "top": 0.9668093323707581
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "bc4d74ba-b450-4830-b73a-277a70f0c320": {
+      "box": {
+        "bottom": 0.07085560262203217,
+        "left": 0.08471657335758209,
+        "right": 0.1089867353439331,
+        "top": 0.05323103442788124
+      },
+      "page": 3,
+      "type": "chunkMarginalia"
+    },
+    "98a05d67-a8ba-4d83-9244-4a586b43c94b": {
+      "box": {
+        "bottom": 0.07335367798805237,
+        "left": 0.32635608315467834,
+        "right": 0.6568306684494019,
+        "top": 0.05250440165400505
+      },
+      "page": 3,
+      "type": "chunkMarginalia"
+    },
+    "fe5d1419-f661-452f-95c7-36bf69d1db2c": {
+      "box": {
+        "bottom": 0.07370991259813309,
+        "left": 0.8153538107872009,
+        "right": 0.8992212414741516,
+        "top": 0.05386055260896683
+      },
+      "page": 3,
+      "type": "chunkMarginalia"
+    },
+    "11e7684b-f5f4-404b-84e6-d5d236324461": {
+      "box": {
+        "bottom": 0.12398470938205719,
+        "left": 0.08294564485549927,
+        "right": 0.48184555768966675,
+        "top": 0.08965091407299042
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "016b68ae-57c4-4d65-b022-229d0724868f": {
+      "box": {
+        "bottom": 0.32783374190330505,
+        "left": 0.08340650796890259,
+        "right": 0.482951283454895,
+        "top": 0.12815982103347778
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "c27e234c-194d-47c3-adde-af62be578b21": {
+      "box": {
+        "bottom": 0.5235114097595215,
+        "left": 0.08344145119190216,
+        "right": 0.48346030712127686,
+        "top": 0.32781919836997986
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "d96be681-199f-4e56-8840-f029537f29ab": {
+      "box": {
+        "bottom": 0.6603257060050964,
+        "left": 0.08334557712078094,
+        "right": 0.48292285203933716,
+        "top": 0.5279178023338318
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "652e97f2-4e7b-4600-a9c5-f2cfee4c0f49": {
+      "box": {
+        "bottom": 0.8816352486610413,
+        "left": 0.08324535191059113,
+        "right": 0.48329418897628784,
+        "top": 0.6599553227424622
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "1dc26e59-987f-4cc3-ab37-ae759cf93e4e": {
+      "box": {
+        "bottom": 0.912932276725769,
+        "left": 0.08417201042175293,
+        "right": 0.48289138078689575,
+        "top": 0.8819084167480469
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "ffa372bd-1358-4a16-9d4b-3f251b299bfd": {
+      "box": {
+        "bottom": 0.3760426938533783,
+        "left": 0.5034914016723633,
+        "right": 0.9012508392333984,
+        "top": 0.08830365538597107
+      },
+      "page": 3,
+      "type": "chunkFigure"
+    },
+    "250dd02f-e7c8-4562-8c1f-96c99cb47ab2": {
+      "box": {
+        "bottom": 0.6746712923049927,
+        "left": 0.5035207271575928,
+        "right": 0.902153491973877,
+        "top": 0.3871982991695404
+      },
+      "page": 3,
+      "type": "chunkFigure"
+    },
+    "3da311df-07b3-4bf6-8d7c-0d5fb9680a08": {
+      "box": {
+        "bottom": 0.797576904296875,
+        "left": 0.502526044845581,
+        "right": 0.902341365814209,
+        "top": 0.6736178398132324
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "ef8215a9-e24a-4003-ac0b-c9a365b432b9": {
+      "box": {
+        "bottom": 0.9143090844154358,
+        "left": 0.5024175643920898,
+        "right": 0.9025462865829468,
+        "top": 0.8105607628822327
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "db02dd9b-84d4-4423-9c47-326db841ed7b": {
+      "box": {
+        "bottom": 0.9957892298698425,
+        "left": 0.27597910165786743,
+        "right": 0.7235174775123596,
+        "top": 0.9660860896110535
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "e0b10822-e4c0-456a-bdf0-41e077a0164d": {
+      "box": {
+        "bottom": 0.07569296658039093,
+        "left": 0.08785414695739746,
+        "right": 0.19492727518081665,
+        "top": 0.05706886947154999
+      },
+      "page": 4,
+      "type": "chunkMarginalia"
+    },
+    "4028a956-eb13-44ab-bcc8-3ee867ddf0c7": {
+      "box": {
+        "bottom": 0.07525015622377396,
+        "left": 0.23697429895401,
+        "right": 0.834229052066803,
+        "top": 0.05702619627118111
+      },
+      "page": 4,
+      "type": "chunkText"
+    },
+    "84547f6b-b691-4f76-89f7-24b9eb56a3f6": {
+      "box": {
+        "bottom": 0.07277803868055344,
+        "left": 0.8792620301246643,
+        "right": 0.9025859236717224,
+        "top": 0.05819706246256828
+      },
+      "page": 4,
+      "type": "chunkMarginalia"
+    },
+    "567f03ca-445a-4821-b160-e8f72c8fdc81": {
+      "box": {
+        "bottom": 0.23065783083438873,
+        "left": 0.08789604902267456,
+        "right": 0.2945115268230438,
+        "top": 0.09459899365901947
+      },
+      "page": 4,
+      "type": "chunkFigure"
+    },
+    "b3686b3a-ed42-4a76-ac4b-178e4753241a": {
+      "box": {
+        "bottom": 0.23199427127838135,
+        "left": 0.28376972675323486,
+        "right": 0.4879744052886963,
+        "top": 0.0912972167134285
+      },
+      "page": 4,
+      "type": "chunkFigure"
+    },
+    "e485ca19-8b19-4c4c-ae87-7d9594e1ceac": {
+      "box": {
+        "bottom": 0.3612721562385559,
+        "left": 0.0884246826171875,
+        "right": 0.48770689964294434,
+        "top": 0.23681597411632538
+      },
+      "page": 4,
+      "type": "chunkFigure"
+    },
+    "e85373f7-aa38-41c1-b59e-f8cc698d6103": {
+      "box": {
+        "bottom": 0.4961228370666504,
+        "left": 0.088272824883461,
+        "right": 0.49005311727523804,
+        "top": 0.35820478200912476
+      },
+      "page": 4,
+      "type": "chunkFigure"
+    },
+    "34782941-98ab-4dbd-8e9b-9473296ccbfd": {
+      "box": {
+        "bottom": 0.6370959281921387,
+        "left": 0.08913677930831909,
+        "right": 0.49152714014053345,
+        "top": 0.4936233460903168
+      },
+      "page": 4,
+      "type": "chunkFigure"
+    },
+    "32e192dc-a91b-4b8d-86fa-be55fd986f14": {
+      "box": {
+        "bottom": 0.7924858331680298,
+        "left": 0.08960874378681183,
+        "right": 0.4934951066970825,
+        "top": 0.634634256362915
+      },
+      "page": 4,
+      "type": "chunkFigure"
+    },
+    "5847ac17-5a14-48fe-a764-7e0a959a8636": {
+      "box": {
+        "bottom": 0.9174348711967468,
+        "left": 0.08739881217479706,
+        "right": 0.4934004545211792,
+        "top": 0.8117620348930359
+      },
+      "page": 4,
+      "type": "chunkText"
+    },
+    "c8507d35-a89e-485e-9af5-4172260ea28a": {
+      "box": {
+        "bottom": 0.5200850963592529,
+        "left": 0.5065951347351074,
+        "right": 0.9075627326965332,
+        "top": 0.09057216346263885
+      },
+      "page": 4,
+      "type": "chunkText"
+    },
+    "641f8762-f818-43e7-9cc2-4e7a3c1b05d9": {
+      "box": {
+        "bottom": 0.6257462501525879,
+        "left": 0.5081400275230408,
+        "right": 0.9077567458152771,
+        "top": 0.5371476411819458
+      },
+      "page": 4,
+      "type": "chunkText"
+    },
+    "cef29f5e-4972-46c8-89e8-8b802806a720": {
+      "box": {
+        "bottom": 0.7009401321411133,
+        "left": 0.5086938142776489,
+        "right": 0.9081343412399292,
+        "top": 0.6281495094299316
+      },
+      "page": 4,
+      "type": "chunkText"
+    },
+    "441904db-4e70-4164-8312-a4b90835a0d9": {
+      "box": {
+        "bottom": 0.9145191311836243,
+        "left": 0.5116122961044312,
+        "right": 0.9092384576797485,
+        "top": 0.7062023282051086
+      },
+      "page": 4,
+      "type": "chunkText"
+    },
+    "7081ae1d-9db6-4d85-a3e6-74a41574e477": {
+      "box": {
+        "bottom": 0.9947868585586548,
+        "left": 0.27667421102523804,
+        "right": 0.7228803634643555,
+        "top": 0.9671502113342285
+      },
+      "page": 4,
+      "type": "chunkText"
+    },
+    "1d303c35-2242-4e7b-aee3-e86c259b4426": {
+      "box": {
+        "bottom": 0.07273624837398529,
+        "left": 0.08625248819589615,
+        "right": 0.10853642970323563,
+        "top": 0.057026997208595276
+      },
+      "page": 5,
+      "type": "chunkMarginalia"
+    },
+    "1fb797e0-d89a-446a-a9df-d57c8d60456a": {
+      "box": {
+        "bottom": 0.07283245772123337,
+        "left": 0.32938605546951294,
+        "right": 0.6552496552467346,
+        "top": 0.05606604740023613
+      },
+      "page": 5,
+      "type": "chunkText"
+    },
+    "d1bd75be-fb7e-44fd-b214-7f3097a1c9b4": {
+      "box": {
+        "bottom": 0.0727570429444313,
+        "left": 0.8195794820785522,
+        "right": 0.8973647356033325,
+        "top": 0.05731833726167679
+      },
+      "page": 5,
+      "type": "chunkMarginalia"
+    },
+    "a099cf47-a8c2-4f5b-85e3-e5c90ec7eb91": {
+      "box": {
+        "bottom": 0.24784493446350098,
+        "left": 0.0864173173904419,
+        "right": 0.48263251781463623,
+        "top": 0.08967050164937973
+      },
+      "page": 5,
+      "type": "chunkText"
+    },
+    "07dd905f-763e-4816-8c51-5d2cc3b45339": {
+      "box": {
+        "bottom": 0.24818655848503113,
+        "left": 0.5021251440048218,
+        "right": 0.8995391130447388,
+        "top": 0.08911145478487015
+      },
+      "page": 5,
+      "type": "chunkText"
+    },
+    "4671950f-ad4e-4c47-b049-b97c64197f02": {
+      "box": {
+        "bottom": 0.6286463737487793,
+        "left": 0.16827547550201416,
+        "right": 0.8088715672492981,
+        "top": 0.527860164642334
+      },
+      "page": 5,
+      "type": "chunkText"
+    },
+    "c0f21918-7130-46a6-bee3-6d7116d09a0d": {
+      "box": {
+        "bottom": 0.9959625601768494,
+        "left": 0.27713650465011597,
+        "right": 0.7226803302764893,
+        "top": 0.9665369391441345
+      },
+      "page": 5,
+      "type": "chunkText"
+    }
+  }
+}
