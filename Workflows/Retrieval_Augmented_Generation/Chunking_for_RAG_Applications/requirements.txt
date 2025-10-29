@@ -1,0 +1,17 @@
+# Document parsing with LandingAI ADE
+landingai-ade>=0.17.0
+pandas>=2.0.0
+aiolimiter>=1.1.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+pymupdf>=1.23.0
+
+# Vector database ingestion (optional - only needed for ingest_to_vectordb.py)
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# RAG demo notebook (optional - only needed for rag_demo.ipynb)
+jupyter>=1.0.0
+matplotlib>=3.7.0
+anthropic>=0.18.0  # For Claude LLM integration
+openai>=1.0.0      # For OpenAI LLM integration
