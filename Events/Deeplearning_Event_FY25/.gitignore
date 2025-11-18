@@ -1,0 +1,22 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# ADE cache and results
+cache/
+results/
+results_extracted/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
