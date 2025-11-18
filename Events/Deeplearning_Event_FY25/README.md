@@ -1,10 +1,10 @@
 # Agentic Document Extraction for Mixed Document Types
 
-### Apply Different Schemas Based on Document Type and Visualize the Results
+### Deep Learning AI Dev Day 2025 Demo
 
 This example demonstrates how to extract structured information from mixed documents using [LandingAI's Agentic Document Extraction (ADE)](https://docs.landing.ai/ade/ade-overview) service via the `landingai-ade` Python package.
 
-It uses persoanl financial documents as an example, but the **workflow applies equally to all document types**.
+It uses personal financial documents as an example, but the **workflow applies equally to all document types**.
 
 Imagine you are a bank and individual loan applicants send you diverse financial documents showing income and assets to support their loan application. Common documents include pay stubs, bank statements, and investment statements. LandingAI's **Agentic Document Extraction (ADE)** enables the bank to automatically categorize the document and then extract structured, traceable data from each document—with no templates required.
 
@@ -14,7 +14,7 @@ Try the Visual Playground at [Agentic Document Extraction Playground](https://va
 
 ## 📌 What This Example Does
 
-- Automatically categorizes all documents found in an input_folder. In this case there are 3 options: pay stub, bank statements, investment statements.
+- Automatically categorizes all documents found in the `input_folder/`. In this case there are 3 options: pay stub, bank statements, investment statements.
 - Parses the full document
 - Applies document-specific extraction schemas using `pydantic`
 - Extracts key financial data:
@@ -68,13 +68,25 @@ pip install pymupdf
     export VISION_AGENT_API_KEY=your_api_key_here
     ```
 
+## 🚀 Running the Demo
+
+Open and run the main demo notebook:
+
+```bash
+jupyter notebook Deeplearning_AI_Dev_Day_2025_Demo.ipynb
+```
+
+Or use Jupyter Lab or VS Code with the Jupyter extension.
+
 ## 📁 Directory Structure
 
 The notebook uses organized directories:
 
-- `input_folder`: contains client financial document files (PDFs, images)
-- `results`: where parsed documents with visual annotations are saved
-- `results_extracted`: where extracted field visualizations are saved
+- `input_folder/`: contains client financial document files (PDFs, images)
+- `results/`: where parsed documents with visual annotations are saved
+- `results_extracted/`: where extracted field visualizations are saved
+- `cache/`: cached API responses to speed up re-runs during development
+- `ade_utils.py`: utility functions for visualization and document processing
 
 ## 📤 Output
 
