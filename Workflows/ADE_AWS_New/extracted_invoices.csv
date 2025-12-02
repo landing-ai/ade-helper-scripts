@@ -1,0 +1,28 @@
+source_file,invoice_number,invoice_date,customer,supplier,subtotal,tax,total,currency,line_items_count,status
+invoice_1.md,INV33543191,2020-07-29,Abaxys Tech LLC,Zoom Video Communications Inc.,149.9,0,149.9,USD,1,PAID
+invoice_10.md,1000110140,2025-05-15,ANDREA KROPP,Sheraton Tucson Hotel & Suites,909.0,121.53,1030.53,USD,9,PAID
+invoice_11.md,2071221,2021-08-30,Souhail Martesse,DollarFulfillment,1800.87,,1800.87,USD,1,
+invoice_12.md,11828454,2025-03-27,MRS ANDREA KROPP,Condor Flugdienst GmbH,2202.46,377.5,2579.96,USD,6,PAID
+invoice_13.md,812,2021-12-02,SMARTQUIP OVERSEAS COMPANY,KANDHAN METAL COMPANY,5102920.0,918525.6,6021446.0,INR,1,
+invoice_14.md,40458946,2019-02-23,"Gnr-Grupo Novo Rock, Lda",Thomann GmbH,77.24,0.0,77.24,EUR,5,
+invoice_15.md,0000329003,2019-04-04,Nazish,Jade E-Services Pakistan Private Limited,147.0,,147.0,PKR,1,
+invoice_16.md,1,2023-03-20,Mansoer Walizada,Walmart,1529.94,110.92,1640.86,USD,1,PAID
+invoice_17.md,2014/00355,2014-12-10,Sandip Patil,Variant Technologies,2800.0,,2800.0,INR,1,
+invoice_18.md,00000116271,2020-02-10,"Meridian Venture Services, LLC","HOWARD CUSTOM TRANSFERS, INC.",270.0,,247.31,USD,2,PAID
+invoice_19.md,1457274,2024-08-31,Andrea Kropp,Harvest Hosts,159.0,13.83,172.83,USD,1,PAID
+invoice_2.md,0001131,2020-01-29,Real Property Management,Roofing Renovations INC,2650.0,0.0,2650.0,USD,1,PENDING
+invoice_20.md,6DC1AEAF-0023,2024-05-26,Andrea Kropp,Posit Software PBC,14.14,1.14,14.14,USD,1,PENDING
+invoice_21.md,8E8C6122-0016,2024-07-01,Andrea Kropp,Midjourney Inc,30.0,2.61,32.61,USD,1,PENDING
+invoice_22.md,1009748,2018-08-21,Andrea Kropp,"Brainless Tees, Inc.",279.0,23.44,302.44,USD,4,PAID
+invoice_23.md,IY04370868,2024-05-06,andr3akropp@gmail.com,Alamy Inc,45.0,4.5,49.5,USD,1,PAID
+invoice_24.md,F 247120,2025-08-11,Mrs Andrea Kropp,Frankfurt Airport Marriott Hotel,168.01,12.99,181,EUR,3,PAID
+invoice_25.md,O-0023-14214,2024-05-27,ANDREA KROPP,OILSTOP,210.32,17.87,228.19,USD,11,PAID
+invoice_26.md,2990,2024-08-08,Karl & Andrea Kropp,Three 60 Decks,33650.8,2927.62,36578.42,USD,4,PAID
+invoice_27.md,TRX5FPX4C-20,2025-03-02,Meridian Venture Services LLC,Amazon Advertising LLC,103.93,0.0,103.93,USD,3,PAID
+invoice_3.md,52255,2022-10-03,Leo Vincent,"CUSTOM ELECTRIC & PLUMBING, INC.",1550.0,0.0,1550.0,USD,2,PENDING
+invoice_4.md,138277,2022-01-24,NELSON INDUSTRIAL FABRICATORS,A.E. Blake Sales Ltd.,2743.07,356.6,3099.67,CAD,3,
+invoice_5.md,2197,2023-04-01,"Abaxys Tech, LLC",The Nussbaum Center for Entrepreneurship,346.0,0.0,346.0,USD,2,PENDING
+invoice_6.md,301236,2024-04-26,RIDGEFIELD HIGH SCHOOL,FROMUTH,80.0,6.96,86.96,USD,3,
+invoice_7.md,D33Y350102708514,2023-03-27,Manjula Kannan,Reliance Retail Ltd,48304.24,8694.76,56999.0,INR,1,PAID
+invoice_8.md,412824,2023-08-18,Andrea Kropp,East Padden Animal Hospital,87.0,3.53,90.53,USD,3,PAID
+invoice_9.md,FCL233308,2021-05-26,Leo Charles Vincent,Freshworks Inc.,10.0,,10.0,USD,1,PAID
