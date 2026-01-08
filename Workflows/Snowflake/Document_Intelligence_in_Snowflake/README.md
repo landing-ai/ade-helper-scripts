@@ -13,13 +13,13 @@ With this solution, you can:
 
 ## Workflow in Snowflake
 
-![ADE architecture](./assets/landingai-ade-medical-device-architecture.png)
+![ADE architecture](./assets/landingai-ade-medical-device-architecture-2026.png)
 
-Here’s how the workflow runs entirely inside Snowflake:  
+Here’s how the workflow works end-to-end:
 
 1. **Load documents** – Upload unstructured FDA documents into a Snowflake stage.  
-2. **Apply ADE natively** – Use the ADE Native Application directly in Snowflake, ensuring all parsing and extraction runs in your account.  
-3. **Parse and extract in one call** – ADE outputs structured fields, text chunks, visual grounding, and metadata.  
+2. **Apply ADE** – Use the ADE Application's stored procedures directly in Snowflake.  
+3. **Parse and extract** – ADE outputs structured fields, text chunks, visual grounding, and metadata.  
 4. **Enable retrieval with Cortex Search** – Parsed chunks are indexed in a Cortex Search service for performant RAG.  
 5. **Store structured fields for analytics** – Extracted fields are written into Snowflake tables and queried via **Cortex Analyst**.  
 6. **Enrich with PubMed** – Add biomedical context by integrating the PubMed Biomedical Research Corpus from the Marketplace as a Cortex Knowledge Extension.  
@@ -33,27 +33,25 @@ This repo is organized to mirror the workflow steps:
 
 | Folder / File | Purpose |
 |---------------|---------|
-| **docs/**     | Diagrams, visuals, and supporting documentation that illustrate the workflow and schema definitions. |
-| **sql/**      | SQL scripts for loading documents, flattening parsed chunks, creating structured tables, and building Cortex services. |
-| **utils/**    | Helper utilities (Python or SQL) for schema conversion, file handling, and workflow automation. |
-| **agent/**    | Cortex Agent definitions, orchestration logic, and configuration for tool chaining. |
-| **examples/** | Sample input documents and demonstration outputs to help you test the workflow end-to-end. |
+| **docs/**     | The starting PDFs from the FDA used to build the soltuion. |
+| **scripts/**  | The SQL script for setting up the full end-to-end solution. |
+| **assets/**   | Images used in the README file |
 | **README.md** | This file – overview of the workflow and instructions for usage. |
 
 
 
 ## 📋 Prerequisites  
 
-- A **Snowflake account** with the correct role/permissions (ability to install native apps and use Cortex features).  
-- Access to the **LandingAI Agentic Document Extraction Native Application** from the Snowflake Marketplace.  
+- A **Snowflake account** with the correct role/permissions to create databases and use Cortex features.  
+- Access to the **LandingAI's Agentic Document Extraction Application** from the Snowflake Marketplace.  
 - Access to **Cortex Analyst, Cortex Search, Cortex Agents**, and optionally the **PubMed Cortex Knowledge Extension**.  
 
 
 ## References and Links
 
-- [Agentic Document Extraction | AI Document Intelligence by LandingAI](https://landing.ai/agentic-document-extraction)
+- [Agentic Document Extraction (ADE)| AI Document Intelligence by LandingAI](https://landing.ai/agentic-document-extraction)
 
-- [Visual Playground | LandingAI](https://va.landing.ai/my/playground/ade)
+- [ADE Visual Playground | LandingAI](https://va.landing.ai/)
 
 - [Using ADE on Snowflake | LandingAI Documentation](https://docs.landing.ai/ade/ade-sf-overview)
 
