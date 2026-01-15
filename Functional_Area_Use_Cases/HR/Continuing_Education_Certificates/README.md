@@ -132,22 +132,7 @@ The notebook will:
 
 - [LandingAI ADE Documentation](https://docs.landing.ai/ade/ade-overview)
 - [landingai-ade Python Library](https://github.com/landing-ai/ade-python)
-- [Parse API Documentation](https://docs.landing.ai/ade/ade-parse-python)
-- [Extract API Documentation](https://docs.landing.ai/ade/ade-extract-python)
+- [Parse API Documentation](https://docs.landing.ai/ade/ade-python#parse%3A-getting-started)
+- [Extract API Documentation](https://docs.landing.ai/ade/ade-python#extract%3A-getting-started)
 - [API Key Configuration Guide](https://docs.landing.ai/ade/agentic-api-key)
 
-## 🎥 Demo Video
-
-A walkthrough video accompanies this notebook to show:
-- How to test your schema in the Visual Playground
-- How to use Agentic Document Extraction with and without field extraction
-- How to batch process documents and inspect results
-
-[![Watch the Demo](https://img.youtube.com/vi/PPIFgGpP4vw/hqdefault.jpg)](https://www.youtube.com/watch?v=PPIFgGpP4vw)
-
-## 📝 Notes
-
-- This example uses the **landingai-ade** library (v1.4.0+), which replaces the legacy `agentic-doc` library
-- Grounding images are not automatically saved but can be extracted from the parse response
-- The notebook supports PDF, PNG, JPG, and JPEG formats
-- Processing time depends on document size and complexity (typically 3-6 seconds per document)
