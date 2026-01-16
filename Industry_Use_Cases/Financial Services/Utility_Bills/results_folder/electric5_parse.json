@@ -1,0 +1,1386 @@
+{
+  "chunks": [
+    {
+      "id": "b367e4fe-040f-49c8-aeb0-58bf8ff0a93b",
+      "grounding": {
+        "box": {
+          "bottom": 0.06198893487453461,
+          "left": 0.08838754147291183,
+          "right": 0.2044043242931366,
+          "top": 0.0057010650634765625
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b367e4fe-040f-49c8-aeb0-58bf8ff0a93b'></a>\n\n<::logo: SDG&E\nSDG&E\nBlack and red text with a red stylized line under \"SDG\" and an upward-pointing red arrow integrated into the \"E\"::>",
+      "type": "logo"
+    },
+    {
+      "id": "b7ea4058-b020-426c-85dd-742d76fb1d1c",
+      "grounding": {
+        "box": {
+          "bottom": 0.04188346490263939,
+          "left": 0.3195929527282715,
+          "right": 0.5853434801101685,
+          "top": 0.013571123592555523
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b7ea4058-b020-426c-85dd-742d76fb1d1c'></a>\n\nACCOUNT NUMBER 7397 873 592 9\nFOR",
+      "type": "text"
+    },
+    {
+      "id": "74e2d321-fe73-4fb2-a016-8fea219b37d0",
+      "grounding": {
+        "box": {
+          "bottom": 0.040683433413505554,
+          "left": 0.6550397872924805,
+          "right": 0.836509108543396,
+          "top": 0.007679672911763191
+        },
+        "page": 0
+      },
+      "markdown": "<a id='74e2d321-fe73-4fb2-a016-8fea219b37d0'></a>\n\nDATE MAILED Jan 17, 2020\nsdge.com",
+      "type": "text"
+    },
+    {
+      "id": "d6d39262-d889-4790-89fd-4a32b5cc72f9",
+      "grounding": {
+        "box": {
+          "bottom": 0.09420199692249298,
+          "left": 0.32300955057144165,
+          "right": 0.502007782459259,
+          "top": 0.04881314933300018
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d6d39262-d889-4790-89fd-4a32b5cc72f9'></a>\n\nDAINETTE R. WOODS\n568 S 36TH ST\nSAN DIEGO CA 92113",
+      "type": "text"
+    },
+    {
+      "id": "03223da9-b44b-4a72-89ba-fa8354efc995",
+      "grounding": {
+        "box": {
+          "bottom": 0.09668746590614319,
+          "left": 0.6448106169700623,
+          "right": 0.8863573670387268,
+          "top": 0.059991855174303055
+        },
+        "page": 0
+      },
+      "markdown": "<a id='03223da9-b44b-4a72-89ba-fa8354efc995'></a>\n\nSign up to go Paperless today.\nVisit sdge com/go paperless-today.",
+      "type": "text"
+    },
+    {
+      "id": "4a7308f1-835a-4e6e-9f42-5ea1778b50ba",
+      "grounding": {
+        "box": {
+          "bottom": 0.10280529409646988,
+          "left": 0.025957509875297546,
+          "right": 0.2699221968650818,
+          "top": 0.060893572866916656
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4a7308f1-835a-4e6e-9f42-5ea1778b50ba'></a>\n\n<::logo: Sempra Energy\nA Sempra Energy utility\nRed stylized figure with an arc, resembling a flame, next to the text in blue.::>",
+      "type": "logo"
+    },
+    {
+      "id": "4bfe6969-8ffc-4471-ad3c-66b6e799a0e8",
+      "grounding": {
+        "box": {
+          "bottom": 0.16456468403339386,
+          "left": 0.01577278971672058,
+          "right": 0.6150346994400024,
+          "top": 0.12889479100704193
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4bfe6969-8ffc-4471-ad3c-66b6e799a0e8'></a>\n\nHot weather can lead to higher energy bills. To get a more predictable bill each\nmonth, sign up for Level Pay at sdge.com/levelpay.",
+      "type": "text"
+    },
+    {
+      "id": "5b2ac3b4-aac7-4649-932d-ace17e130c7c",
+      "grounding": {
+        "box": {
+          "bottom": 0.2170892208814621,
+          "left": 0.01577785611152649,
+          "right": 0.5973809957504272,
+          "top": 0.16711480915546417
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5b2ac3b4-aac7-4649-932d-ace17e130c7c'></a>\n\n✔ Bill Discount: You can save 30% or more on your monthly energy bill. Eligibility is based on participation in certain public assistance programs or current household income and the number of people living in your home. To apply, call 1-877-646-5525 or visit sdge.com/CARE.",
+      "type": "text"
+    },
+    {
+      "id": "a6ffcd96-7021-486c-a948-6f00d06a0023",
+      "grounding": {
+        "box": {
+          "bottom": 0.27010029554367065,
+          "left": 0.015726923942565918,
+          "right": 0.6320852041244507,
+          "top": 0.2199583351612091
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a6ffcd96-7021-486c-a948-6f00d06a0023'></a>\n\n**Descuento en la factura:** Puede ahorrar 30% o más en su factura mensual de energía. Los requisitos del programa se basan en la participación en ciertos programas de asistencia pública, o el ingreso anual y el número de personas que viven en el hogar. Para aplicar, llame al 1-877-646-5525 o visite sdge.com/CARE.",
+      "type": "text"
+    },
+    {
+      "id": "61e88852-fc1b-497f-9ef6-5360ee7d2cf1",
+      "grounding": {
+        "box": {
+          "bottom": 0.3236502408981323,
+          "left": 0.015238314867019653,
+          "right": 0.6250755786895752,
+          "top": 0.27241432666778564
+        },
+        "page": 0
+      },
+      "markdown": "<a id='61e88852-fc1b-497f-9ef6-5360ee7d2cf1'></a>\n\n✔ **Savings Alert:** California is fighting climate change and so can you! Your bill includes a Climate Credit from a state program to cut carbon pollution while also reducing your energy costs. Find out how at EnergyUpgradeCA.org/credit.",
+      "type": "text"
+    },
+    {
+      "id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+      "grounding": {
+        "box": {
+          "bottom": 0.4175337553024292,
+          "left": 0.01498180627822876,
+          "right": 0.630641758441925,
+          "top": 0.3292034864425659
+        },
+        "page": 0
+      },
+      "markdown": "<a id='77ff0a21-8134-45e4-abaf-71f3baa0074f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Account Summary</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Previous Balance</td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\">$89.35</td></tr>\n<tr><td id=\"0-8\">Payment Received</td><td id=\"0-9\">12/03/20</td><td id=\"0-a\">THANK YOU</td><td id=\"0-b\">-89.35</td></tr>\n<tr><td id=\"0-c\">Current Charges</td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\">+ 22.45</td></tr>\n<tr><td id=\"0-g\">Total Amount Due</td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\">$22.45</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+      "grounding": {
+        "box": {
+          "bottom": 0.5422348976135254,
+          "left": 0.014132261276245117,
+          "right": 0.6308379173278809,
+          "top": 0.4500812590122223
+        },
+        "page": 0
+      },
+      "markdown": "<a id='86835bf0-1ff6-4539-a588-b6355de39ad9'></a>\n\nSummary of Current Charges\n(See page 2 for details)\n<table id=\"0-k\">\n<tr><td id=\"0-l\"></td><td id=\"0-m\">Billing Period</td><td id=\"0-n\">Usage</td><td id=\"0-o\">Amount($)</td></tr>\n<tr><td id=\"0-p\">Gas</td><td id=\"0-q\">Dec 14, 2020 - Jan 13, 2020</td><td id=\"0-r\">8 Therms</td><td id=\"0-s\">13.98</td></tr>\n<tr><td id=\"0-t\">Electric</td><td id=\"0-u\">Dec 14, 2020 - Jan 13, 2020</td><td id=\"0-v\">143 kWh</td><td id=\"0-w\">8.47</td></tr>\n<tr><td id=\"0-x\" colspan=\"2\">Total Charges this Month</td><td id=\"0-y\"></td><td id=\"0-z\">$22.45</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "03e2a55d-e991-441a-a23b-e0784614bd3b",
+      "grounding": {
+        "box": {
+          "bottom": 0.6083446145057678,
+          "left": 0.015087097883224487,
+          "right": 0.6163754463195801,
+          "top": 0.559411346912384
+        },
+        "page": 0
+      },
+      "markdown": "<a id='03e2a55d-e991-441a-a23b-e0784614bd3b'></a>\n\n**Regulatory Notices**\n\n*   All customers are required to pay a Competition Transition Charge as part of the charges above,\n    including those who choose an electric service provider other than SDG&E.",
+      "type": "text"
+    },
+    {
+      "id": "85cbb661-6aae-4359-9b9f-f97d92a10bf9",
+      "grounding": {
+        "box": {
+          "bottom": 0.20289477705955505,
+          "left": 0.6618990898132324,
+          "right": 0.9652154445648193,
+          "top": 0.13180357217788696
+        },
+        "page": 0
+      },
+      "markdown": "<a id='85cbb661-6aae-4359-9b9f-f97d92a10bf9'></a>\n\n<table><tbody><tr><td>DATE DUE</td><td>Jan 25, 2020</td></tr><tr><td>AMOUNT DUE</td><td>$22.45</td></tr></tbody></table>",
+      "type": "table"
+    },
+    {
+      "id": "c8281c37-ea44-47e1-9c2d-0b6ed3af05cb",
+      "grounding": {
+        "box": {
+          "bottom": 0.3219280540943146,
+          "left": 0.6583719253540039,
+          "right": 0.9464178085327148,
+          "top": 0.20610056817531586
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c8281c37-ea44-47e1-9c2d-0b6ed3af05cb'></a>\n\n<::Gas Usage History (Total therms used)\n: bar chart\n\nY-axis: Therms (0, 4, 8, 12, 16, 20)\nX-axis: Month/Year\n\n| Month/Year | Therms |\n| :--------- | :----- |\n| AUG 19     | 7      |\n| SEP 19     | 6      |\n| OCT 19     | 8      |\n| NOV 19     | 9      |\n| DEC 19     | 10     |\n| JAN 20     | 13     |\n| FEB 20     | 13     |\n| MAR 20     | 12     |\n| APR 20     | 9      |\n| MAY 20     | 9      |\n| JUN 20     | 10     |\n| JUL 20     | 8      |\n| AUG 20     | 8      |\n::>",
+      "type": "figure"
+    },
+    {
+      "id": "28e10832-a130-4e00-8341-18cfe5d39497",
+      "grounding": {
+        "box": {
+          "bottom": 0.4046213924884796,
+          "left": 0.6585953831672668,
+          "right": 0.9703155159950256,
+          "top": 0.32256004214286804
+        },
+        "page": 0
+      },
+      "markdown": "<a id='28e10832-a130-4e00-8341-18cfe5d39497'></a>\n\n<::A blue flame icon is displayed on the left. To the right, a list of metrics is presented:\n8 Therms used\n.3 Daily avg therms\n.3 Daily avg therms last month\n50.0% (upward arrow icon) Change in daily avg therms from last year\n0.0% (right arrow icon) Change in daily avg therms from last month\n30 (circular arrow icon) Days in billing cycle\n: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "c74a9a67-60d8-4fec-bedf-01081446456d",
+      "grounding": {
+        "box": {
+          "bottom": 0.6455332636833191,
+          "left": 0.6571650505065918,
+          "right": 0.9625046253204346,
+          "top": 0.40742573142051697
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c74a9a67-60d8-4fec-bedf-01081446456d'></a>\n\nElectric Usage History (Total kWh used)\n<::Bar chart showing electric usage history over months, from August (AUG) to July (JUBUG) across years 19 and 20. The Y-axis is labeled \"Kilowatt Hours\" with values 49, 98, 147, 198, 245. Each month has a stacked bar representing usage. The legend indicates different usage types:\n- On-Peak (represented by an orange patterned section)\n- Off-Peak (represented by a blue section)\n- Super Off-Peak (represented by a darker blue section)\n: chart::>\n143 kWh used\n4.8 Daily avg kWh\n3.6 Daily avg kWh last month\n54.8% ↑ Change in daily avg kWh from last year\n33.3% ↑ Change in daily avg KWh from last month\n1.0 Max monthly demand\n1.0 Max annual demand\n30 Days in billing cycle",
+      "type": "figure"
+    },
+    {
+      "id": "a84db369-306d-417f-9d12-188f890b2d1f",
+      "grounding": {
+        "box": {
+          "bottom": 0.7140212655067444,
+          "left": 0.026673004031181335,
+          "right": 0.48774516582489014,
+          "top": 0.6913551688194275
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a84db369-306d-417f-9d12-188f890b2d1f'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS. (FAVOR DE GUARDAR ESTA PARTE PARA SUS REGISTROS)\n...\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT (FAVOR DE DEVOLVER ESTA PARTE CON SU PAGO)",
+      "type": "text"
+    },
+    {
+      "id": "0a19af80-f869-45be-a4e4-913e42ca3129",
+      "grounding": {
+        "box": {
+          "bottom": 0.7463899254798889,
+          "left": 0.06282900273799896,
+          "right": 0.14068636298179626,
+          "top": 0.7114219069480896
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0a19af80-f869-45be-a4e4-913e42ca3129'></a>\n\n<::logo: SDG&E\nSDG&E\nThe text \"SDG&E\" is in black with a red underline that extends to form an arrow shape::>",
+      "type": "logo"
+    },
+    {
+      "id": "96b9e32a-59a2-4708-955a-2686fcb73474",
+      "grounding": {
+        "box": {
+          "bottom": 0.7629568576812744,
+          "left": 0.40122711658477783,
+          "right": 0.5111470222473145,
+          "top": 0.7137486934661865
+        },
+        "page": 0
+      },
+      "markdown": "<a id='96b9e32a-59a2-4708-955a-2686fcb73474'></a>\n\nSave Paper &\nPostage\n---\nPAY ONLINE\nsdge.com",
+      "type": "text"
+    },
+    {
+      "id": "c964ba7c-0f07-4be4-8a96-95a815d77a10",
+      "grounding": {
+        "box": {
+          "bottom": 0.7459391951560974,
+          "left": 0.519064724445343,
+          "right": 0.6424043774604797,
+          "top": 0.712716281414032
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c964ba7c-0f07-4be4-8a96-95a815d77a10'></a>\n\nACCOUNT NUMBER\n7397 873 592 9",
+      "type": "text"
+    },
+    {
+      "id": "d33041ef-9a29-4a4d-b788-3cd1c6d01a84",
+      "grounding": {
+        "box": {
+          "bottom": 0.777857780456543,
+          "left": 0.6648433804512024,
+          "right": 0.9645543694496155,
+          "top": 0.7062426805496216
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d33041ef-9a29-4a4d-b788-3cd1c6d01a84'></a>\n\n<table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>DATE DUE</td><td>Jan 25, 2020</td></tr><tr><td>AMOUNT DUE</td><td>$22.45</td></tr></tbody></table>",
+      "type": "table"
+    },
+    {
+      "id": "3fc5235b-af16-452c-932e-6ad4f0c67041",
+      "grounding": {
+        "box": {
+          "bottom": 0.7954550981521606,
+          "left": 0.03620429337024689,
+          "right": 0.32813316583633423,
+          "top": 0.7812821865081787
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3fc5235b-af16-452c-932e-6ad4f0c67041'></a>\n\nSERVICE ADDRESS: 568 S 36TH ST SAN DIEGO CA 92113",
+      "type": "text"
+    },
+    {
+      "id": "e2e06dcb-986c-49b5-bc84-477f4e272597",
+      "grounding": {
+        "box": {
+          "bottom": 0.8480713963508606,
+          "left": 0.7605757713317871,
+          "right": 0.9630341529846191,
+          "top": 0.7805156111717224
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e2e06dcb-986c-49b5-bc84-477f4e272597'></a>\n\nPlease enter amount enclosed.\n$\n\nWrite account number on check and make\npayable to San Diego Gas & Electric",
+      "type": "text"
+    },
+    {
+      "id": "455bec3b-e29b-4578-a760-347471adf7bb",
+      "grounding": {
+        "box": {
+          "bottom": 0.897079586982727,
+          "left": 0.1493295580148697,
+          "right": 0.49823206663131714,
+          "top": 0.8140714168548584
+        },
+        "page": 0
+      },
+      "markdown": "<a id='455bec3b-e29b-4578-a760-347471adf7bb'></a>\n\n9589.280.6874.583475 2 AV 0.389 oz 1.282\nייייייי\nDAINETTE R. WOODS\n568 S 36TH ST\nSAN DIEGO CA 92113",
+      "type": "text"
+    },
+    {
+      "id": "ca6679fc-58b6-4e2a-a2e6-00f14cad2151",
+      "grounding": {
+        "box": {
+          "bottom": 0.9142885208129883,
+          "left": 0.6450463533401489,
+          "right": 0.8712852001190186,
+          "top": 0.8672100305557251
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ca6679fc-58b6-4e2a-a2e6-00f14cad2151'></a>\n\nSAN DIEGO GAS & ELECTRIC\nPO BOX 25111\nSANTA ANA CA 92799-5111",
+      "type": "text"
+    },
+    {
+      "id": "c794b459-17d3-4963-95b7-a520f8cdbcf4",
+      "grounding": {
+        "box": {
+          "bottom": 0.9821135401725769,
+          "left": 0.2792452871799469,
+          "right": 0.7567691802978516,
+          "top": 0.960757315158844
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c794b459-17d3-4963-95b7-a520f8cdbcf4'></a>\n\n9 2 10000739787359200000022450000002245",
+      "type": "text"
+    },
+    {
+      "id": "1817833f-6e5b-42c6-ba93-05ba5328bb89",
+      "grounding": {
+        "box": {
+          "bottom": 0.8706443309783936,
+          "left": 0.963507890701294,
+          "right": 0.9827266931533813,
+          "top": 0.8466635942459106
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1817833f-6e5b-42c6-ba93-05ba5328bb89'></a>\n\nCY 10",
+      "type": "marginalia"
+    },
+    {
+      "id": "f59177d0-c32b-4d7d-8bc9-0254bdabc19b",
+      "grounding": {
+        "box": {
+          "bottom": 0.9352789521217346,
+          "left": 0.9621794819831848,
+          "right": 0.999612033367157,
+          "top": 0.9058167338371277
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f59177d0-c32b-4d7d-8bc9-0254bdabc19b'></a>\n\n<::scan_code: Data Matrix\n\nSmall, square, and clear Data Matrix code on a white background with no discernible quality issues.:>",
+      "type": "scan_code"
+    },
+    {
+      "id": "1efdacaa-e380-4a7a-b13b-e2468369067f",
+      "grounding": {
+        "box": {
+          "bottom": 0.05744491517543793,
+          "left": 0.6522142887115479,
+          "right": 0.834204912185669,
+          "top": 0.043163374066352844
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1efdacaa-e380-4a7a-b13b-e2468369067f'></a>\n\nSign up to go Paperless",
+      "type": "text"
+    },
+    {
+      "id": "04ffbae3-5505-4fcb-b5b0-c23886077118",
+      "grounding": {
+        "box": {
+          "bottom": 0.7756906151771545,
+          "left": 0.02029924839735031,
+          "right": 0.18876662850379944,
+          "top": 0.7476659417152405
+        },
+        "page": 0
+      },
+      "markdown": "<a id='04ffbae3-5505-4fcb-b5b0-c23886077118'></a>\n\n<::A Sempra Energy utility®\n: figure::>",
+      "type": "figure"
+    }
+  ],
+  "markdown": "<a id='b367e4fe-040f-49c8-aeb0-58bf8ff0a93b'></a>\n\n<::logo: SDG&E\nSDG&E\nBlack and red text with a red stylized line under \"SDG\" and an upward-pointing red arrow integrated into the \"E\"::>\n\n<a id='b7ea4058-b020-426c-85dd-742d76fb1d1c'></a>\n\nACCOUNT NUMBER 7397 873 592 9\nFOR\n\n<a id='74e2d321-fe73-4fb2-a016-8fea219b37d0'></a>\n\nDATE MAILED Jan 17, 2020\nsdge.com\n\n<a id='d6d39262-d889-4790-89fd-4a32b5cc72f9'></a>\n\nDAINETTE R. WOODS\n568 S 36TH ST\nSAN DIEGO CA 92113\n\n<a id='03223da9-b44b-4a72-89ba-fa8354efc995'></a>\n\nSign up to go Paperless today.\nVisit sdge com/go paperless-today.\n\n<a id='4a7308f1-835a-4e6e-9f42-5ea1778b50ba'></a>\n\n<::logo: Sempra Energy\nA Sempra Energy utility\nRed stylized figure with an arc, resembling a flame, next to the text in blue.::>\n\n<a id='4bfe6969-8ffc-4471-ad3c-66b6e799a0e8'></a>\n\nHot weather can lead to higher energy bills. To get a more predictable bill each\nmonth, sign up for Level Pay at sdge.com/levelpay.\n\n<a id='5b2ac3b4-aac7-4649-932d-ace17e130c7c'></a>\n\n✔ Bill Discount: You can save 30% or more on your monthly energy bill. Eligibility is based on participation in certain public assistance programs or current household income and the number of people living in your home. To apply, call 1-877-646-5525 or visit sdge.com/CARE.\n\n<a id='a6ffcd96-7021-486c-a948-6f00d06a0023'></a>\n\n**Descuento en la factura:** Puede ahorrar 30% o más en su factura mensual de energía. Los requisitos del programa se basan en la participación en ciertos programas de asistencia pública, o el ingreso anual y el número de personas que viven en el hogar. Para aplicar, llame al 1-877-646-5525 o visite sdge.com/CARE.\n\n<a id='61e88852-fc1b-497f-9ef6-5360ee7d2cf1'></a>\n\n✔ **Savings Alert:** California is fighting climate change and so can you! Your bill includes a Climate Credit from a state program to cut carbon pollution while also reducing your energy costs. Find out how at EnergyUpgradeCA.org/credit.\n\n<a id='77ff0a21-8134-45e4-abaf-71f3baa0074f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Account Summary</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Previous Balance</td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\">$89.35</td></tr>\n<tr><td id=\"0-8\">Payment Received</td><td id=\"0-9\">12/03/20</td><td id=\"0-a\">THANK YOU</td><td id=\"0-b\">-89.35</td></tr>\n<tr><td id=\"0-c\">Current Charges</td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\">+ 22.45</td></tr>\n<tr><td id=\"0-g\">Total Amount Due</td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\">$22.45</td></tr>\n</table>\n\n<a id='86835bf0-1ff6-4539-a588-b6355de39ad9'></a>\n\nSummary of Current Charges\n(See page 2 for details)\n<table id=\"0-k\">\n<tr><td id=\"0-l\"></td><td id=\"0-m\">Billing Period</td><td id=\"0-n\">Usage</td><td id=\"0-o\">Amount($)</td></tr>\n<tr><td id=\"0-p\">Gas</td><td id=\"0-q\">Dec 14, 2020 - Jan 13, 2020</td><td id=\"0-r\">8 Therms</td><td id=\"0-s\">13.98</td></tr>\n<tr><td id=\"0-t\">Electric</td><td id=\"0-u\">Dec 14, 2020 - Jan 13, 2020</td><td id=\"0-v\">143 kWh</td><td id=\"0-w\">8.47</td></tr>\n<tr><td id=\"0-x\" colspan=\"2\">Total Charges this Month</td><td id=\"0-y\"></td><td id=\"0-z\">$22.45</td></tr>\n</table>\n\n<a id='03e2a55d-e991-441a-a23b-e0784614bd3b'></a>\n\n**Regulatory Notices**\n\n*   All customers are required to pay a Competition Transition Charge as part of the charges above,\n    including those who choose an electric service provider other than SDG&E.\n\n<a id='85cbb661-6aae-4359-9b9f-f97d92a10bf9'></a>\n\n<table><tbody><tr><td>DATE DUE</td><td>Jan 25, 2020</td></tr><tr><td>AMOUNT DUE</td><td>$22.45</td></tr></tbody></table>\n\n<a id='c8281c37-ea44-47e1-9c2d-0b6ed3af05cb'></a>\n\n<::Gas Usage History (Total therms used)\n: bar chart\n\nY-axis: Therms (0, 4, 8, 12, 16, 20)\nX-axis: Month/Year\n\n| Month/Year | Therms |\n| :--------- | :----- |\n| AUG 19     | 7      |\n| SEP 19     | 6      |\n| OCT 19     | 8      |\n| NOV 19     | 9      |\n| DEC 19     | 10     |\n| JAN 20     | 13     |\n| FEB 20     | 13     |\n| MAR 20     | 12     |\n| APR 20     | 9      |\n| MAY 20     | 9      |\n| JUN 20     | 10     |\n| JUL 20     | 8      |\n| AUG 20     | 8      |\n::>\n\n<a id='28e10832-a130-4e00-8341-18cfe5d39497'></a>\n\n<::A blue flame icon is displayed on the left. To the right, a list of metrics is presented:\n8 Therms used\n.3 Daily avg therms\n.3 Daily avg therms last month\n50.0% (upward arrow icon) Change in daily avg therms from last year\n0.0% (right arrow icon) Change in daily avg therms from last month\n30 (circular arrow icon) Days in billing cycle\n: figure::>\n\n<a id='c74a9a67-60d8-4fec-bedf-01081446456d'></a>\n\nElectric Usage History (Total kWh used)\n<::Bar chart showing electric usage history over months, from August (AUG) to July (JUBUG) across years 19 and 20. The Y-axis is labeled \"Kilowatt Hours\" with values 49, 98, 147, 198, 245. Each month has a stacked bar representing usage. The legend indicates different usage types:\n- On-Peak (represented by an orange patterned section)\n- Off-Peak (represented by a blue section)\n- Super Off-Peak (represented by a darker blue section)\n: chart::>\n143 kWh used\n4.8 Daily avg kWh\n3.6 Daily avg kWh last month\n54.8% ↑ Change in daily avg kWh from last year\n33.3% ↑ Change in daily avg KWh from last month\n1.0 Max monthly demand\n1.0 Max annual demand\n30 Days in billing cycle\n\n<a id='a84db369-306d-417f-9d12-188f890b2d1f'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS. (FAVOR DE GUARDAR ESTA PARTE PARA SUS REGISTROS)\n...\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT (FAVOR DE DEVOLVER ESTA PARTE CON SU PAGO)\n\n<a id='0a19af80-f869-45be-a4e4-913e42ca3129'></a>\n\n<::logo: SDG&E\nSDG&E\nThe text \"SDG&E\" is in black with a red underline that extends to form an arrow shape::>\n\n<a id='96b9e32a-59a2-4708-955a-2686fcb73474'></a>\n\nSave Paper &\nPostage\n---\nPAY ONLINE\nsdge.com\n\n<a id='c964ba7c-0f07-4be4-8a96-95a815d77a10'></a>\n\nACCOUNT NUMBER\n7397 873 592 9\n\n<a id='d33041ef-9a29-4a4d-b788-3cd1c6d01a84'></a>\n\n<table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>DATE DUE</td><td>Jan 25, 2020</td></tr><tr><td>AMOUNT DUE</td><td>$22.45</td></tr></tbody></table>\n\n<a id='3fc5235b-af16-452c-932e-6ad4f0c67041'></a>\n\nSERVICE ADDRESS: 568 S 36TH ST SAN DIEGO CA 92113\n\n<a id='e2e06dcb-986c-49b5-bc84-477f4e272597'></a>\n\nPlease enter amount enclosed.\n$\n\nWrite account number on check and make\npayable to San Diego Gas & Electric\n\n<a id='455bec3b-e29b-4578-a760-347471adf7bb'></a>\n\n9589.280.6874.583475 2 AV 0.389 oz 1.282\nייייייי\nDAINETTE R. WOODS\n568 S 36TH ST\nSAN DIEGO CA 92113\n\n<a id='ca6679fc-58b6-4e2a-a2e6-00f14cad2151'></a>\n\nSAN DIEGO GAS & ELECTRIC\nPO BOX 25111\nSANTA ANA CA 92799-5111\n\n<a id='c794b459-17d3-4963-95b7-a520f8cdbcf4'></a>\n\n9 2 10000739787359200000022450000002245\n\n<a id='1817833f-6e5b-42c6-ba93-05ba5328bb89'></a>\n\nCY 10\n\n<a id='f59177d0-c32b-4d7d-8bc9-0254bdabc19b'></a>\n\n<::scan_code: Data Matrix\n\nSmall, square, and clear Data Matrix code on a white background with no discernible quality issues.:>\n\n<a id='1efdacaa-e380-4a7a-b13b-e2468369067f'></a>\n\nSign up to go Paperless\n\n<a id='04ffbae3-5505-4fcb-b5b0-c23886077118'></a>\n\n<::A Sempra Energy utility®\n: figure::>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 13844,
+    "filename": "electric5.pdf",
+    "job_id": "037daf2f413a4313b0589edd71a6e9f6",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "b367e4fe-040f-49c8-aeb0-58bf8ff0a93b",
+        "b7ea4058-b020-426c-85dd-742d76fb1d1c",
+        "74e2d321-fe73-4fb2-a016-8fea219b37d0",
+        "d6d39262-d889-4790-89fd-4a32b5cc72f9",
+        "03223da9-b44b-4a72-89ba-fa8354efc995",
+        "4a7308f1-835a-4e6e-9f42-5ea1778b50ba",
+        "4bfe6969-8ffc-4471-ad3c-66b6e799a0e8",
+        "5b2ac3b4-aac7-4649-932d-ace17e130c7c",
+        "a6ffcd96-7021-486c-a948-6f00d06a0023",
+        "61e88852-fc1b-497f-9ef6-5360ee7d2cf1",
+        "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "03e2a55d-e991-441a-a23b-e0784614bd3b",
+        "85cbb661-6aae-4359-9b9f-f97d92a10bf9",
+        "c8281c37-ea44-47e1-9c2d-0b6ed3af05cb",
+        "28e10832-a130-4e00-8341-18cfe5d39497",
+        "c74a9a67-60d8-4fec-bedf-01081446456d",
+        "a84db369-306d-417f-9d12-188f890b2d1f",
+        "0a19af80-f869-45be-a4e4-913e42ca3129",
+        "96b9e32a-59a2-4708-955a-2686fcb73474",
+        "c964ba7c-0f07-4be4-8a96-95a815d77a10",
+        "d33041ef-9a29-4a4d-b788-3cd1c6d01a84",
+        "3fc5235b-af16-452c-932e-6ad4f0c67041",
+        "e2e06dcb-986c-49b5-bc84-477f4e272597",
+        "455bec3b-e29b-4578-a760-347471adf7bb",
+        "ca6679fc-58b6-4e2a-a2e6-00f14cad2151",
+        "c794b459-17d3-4963-95b7-a520f8cdbcf4",
+        "1817833f-6e5b-42c6-ba93-05ba5328bb89",
+        "f59177d0-c32b-4d7d-8bc9-0254bdabc19b",
+        "1efdacaa-e380-4a7a-b13b-e2468369067f",
+        "04ffbae3-5505-4fcb-b5b0-c23886077118"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='b367e4fe-040f-49c8-aeb0-58bf8ff0a93b'></a>\n\n<::logo: SDG&E\nSDG&E\nBlack and red text with a red stylized line under \"SDG\" and an upward-pointing red arrow integrated into the \"E\"::>\n\n<a id='b7ea4058-b020-426c-85dd-742d76fb1d1c'></a>\n\nACCOUNT NUMBER 7397 873 592 9\nFOR\n\n<a id='74e2d321-fe73-4fb2-a016-8fea219b37d0'></a>\n\nDATE MAILED Jan 17, 2020\nsdge.com\n\n<a id='d6d39262-d889-4790-89fd-4a32b5cc72f9'></a>\n\nDAINETTE R. WOODS\n568 S 36TH ST\nSAN DIEGO CA 92113\n\n<a id='03223da9-b44b-4a72-89ba-fa8354efc995'></a>\n\nSign up to go Paperless today.\nVisit sdge com/go paperless-today.\n\n<a id='4a7308f1-835a-4e6e-9f42-5ea1778b50ba'></a>\n\n<::logo: Sempra Energy\nA Sempra Energy utility\nRed stylized figure with an arc, resembling a flame, next to the text in blue.::>\n\n<a id='4bfe6969-8ffc-4471-ad3c-66b6e799a0e8'></a>\n\nHot weather can lead to higher energy bills. To get a more predictable bill each\nmonth, sign up for Level Pay at sdge.com/levelpay.\n\n<a id='5b2ac3b4-aac7-4649-932d-ace17e130c7c'></a>\n\n✔ Bill Discount: You can save 30% or more on your monthly energy bill. Eligibility is based on participation in certain public assistance programs or current household income and the number of people living in your home. To apply, call 1-877-646-5525 or visit sdge.com/CARE.\n\n<a id='a6ffcd96-7021-486c-a948-6f00d06a0023'></a>\n\n**Descuento en la factura:** Puede ahorrar 30% o más en su factura mensual de energía. Los requisitos del programa se basan en la participación en ciertos programas de asistencia pública, o el ingreso anual y el número de personas que viven en el hogar. Para aplicar, llame al 1-877-646-5525 o visite sdge.com/CARE.\n\n<a id='61e88852-fc1b-497f-9ef6-5360ee7d2cf1'></a>\n\n✔ **Savings Alert:** California is fighting climate change and so can you! Your bill includes a Climate Credit from a state program to cut carbon pollution while also reducing your energy costs. Find out how at EnergyUpgradeCA.org/credit.\n\n<a id='77ff0a21-8134-45e4-abaf-71f3baa0074f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">Account Summary</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Previous Balance</td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\">$89.35</td></tr>\n<tr><td id=\"0-8\">Payment Received</td><td id=\"0-9\">12/03/20</td><td id=\"0-a\">THANK YOU</td><td id=\"0-b\">-89.35</td></tr>\n<tr><td id=\"0-c\">Current Charges</td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\">+ 22.45</td></tr>\n<tr><td id=\"0-g\">Total Amount Due</td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\">$22.45</td></tr>\n</table>\n\n<a id='86835bf0-1ff6-4539-a588-b6355de39ad9'></a>\n\nSummary of Current Charges\n(See page 2 for details)\n<table id=\"0-k\">\n<tr><td id=\"0-l\"></td><td id=\"0-m\">Billing Period</td><td id=\"0-n\">Usage</td><td id=\"0-o\">Amount($)</td></tr>\n<tr><td id=\"0-p\">Gas</td><td id=\"0-q\">Dec 14, 2020 - Jan 13, 2020</td><td id=\"0-r\">8 Therms</td><td id=\"0-s\">13.98</td></tr>\n<tr><td id=\"0-t\">Electric</td><td id=\"0-u\">Dec 14, 2020 - Jan 13, 2020</td><td id=\"0-v\">143 kWh</td><td id=\"0-w\">8.47</td></tr>\n<tr><td id=\"0-x\" colspan=\"2\">Total Charges this Month</td><td id=\"0-y\"></td><td id=\"0-z\">$22.45</td></tr>\n</table>\n\n<a id='03e2a55d-e991-441a-a23b-e0784614bd3b'></a>\n\n**Regulatory Notices**\n\n*   All customers are required to pay a Competition Transition Charge as part of the charges above,\n    including those who choose an electric service provider other than SDG&E.\n\n<a id='85cbb661-6aae-4359-9b9f-f97d92a10bf9'></a>\n\n<table><tbody><tr><td>DATE DUE</td><td>Jan 25, 2020</td></tr><tr><td>AMOUNT DUE</td><td>$22.45</td></tr></tbody></table>\n\n<a id='c8281c37-ea44-47e1-9c2d-0b6ed3af05cb'></a>\n\n<::Gas Usage History (Total therms used)\n: bar chart\n\nY-axis: Therms (0, 4, 8, 12, 16, 20)\nX-axis: Month/Year\n\n| Month/Year | Therms |\n| :--------- | :----- |\n| AUG 19     | 7      |\n| SEP 19     | 6      |\n| OCT 19     | 8      |\n| NOV 19     | 9      |\n| DEC 19     | 10     |\n| JAN 20     | 13     |\n| FEB 20     | 13     |\n| MAR 20     | 12     |\n| APR 20     | 9      |\n| MAY 20     | 9      |\n| JUN 20     | 10     |\n| JUL 20     | 8      |\n| AUG 20     | 8      |\n::>\n\n<a id='28e10832-a130-4e00-8341-18cfe5d39497'></a>\n\n<::A blue flame icon is displayed on the left. To the right, a list of metrics is presented:\n8 Therms used\n.3 Daily avg therms\n.3 Daily avg therms last month\n50.0% (upward arrow icon) Change in daily avg therms from last year\n0.0% (right arrow icon) Change in daily avg therms from last month\n30 (circular arrow icon) Days in billing cycle\n: figure::>\n\n<a id='c74a9a67-60d8-4fec-bedf-01081446456d'></a>\n\nElectric Usage History (Total kWh used)\n<::Bar chart showing electric usage history over months, from August (AUG) to July (JUBUG) across years 19 and 20. The Y-axis is labeled \"Kilowatt Hours\" with values 49, 98, 147, 198, 245. Each month has a stacked bar representing usage. The legend indicates different usage types:\n- On-Peak (represented by an orange patterned section)\n- Off-Peak (represented by a blue section)\n- Super Off-Peak (represented by a darker blue section)\n: chart::>\n143 kWh used\n4.8 Daily avg kWh\n3.6 Daily avg kWh last month\n54.8% ↑ Change in daily avg kWh from last year\n33.3% ↑ Change in daily avg KWh from last month\n1.0 Max monthly demand\n1.0 Max annual demand\n30 Days in billing cycle\n\n<a id='a84db369-306d-417f-9d12-188f890b2d1f'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS. (FAVOR DE GUARDAR ESTA PARTE PARA SUS REGISTROS)\n...\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT (FAVOR DE DEVOLVER ESTA PARTE CON SU PAGO)\n\n<a id='0a19af80-f869-45be-a4e4-913e42ca3129'></a>\n\n<::logo: SDG&E\nSDG&E\nThe text \"SDG&E\" is in black with a red underline that extends to form an arrow shape::>\n\n<a id='96b9e32a-59a2-4708-955a-2686fcb73474'></a>\n\nSave Paper &\nPostage\n---\nPAY ONLINE\nsdge.com\n\n<a id='c964ba7c-0f07-4be4-8a96-95a815d77a10'></a>\n\nACCOUNT NUMBER\n7397 873 592 9\n\n<a id='d33041ef-9a29-4a4d-b788-3cd1c6d01a84'></a>\n\n<table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>DATE DUE</td><td>Jan 25, 2020</td></tr><tr><td>AMOUNT DUE</td><td>$22.45</td></tr></tbody></table>\n\n<a id='3fc5235b-af16-452c-932e-6ad4f0c67041'></a>\n\nSERVICE ADDRESS: 568 S 36TH ST SAN DIEGO CA 92113\n\n<a id='e2e06dcb-986c-49b5-bc84-477f4e272597'></a>\n\nPlease enter amount enclosed.\n$\n\nWrite account number on check and make\npayable to San Diego Gas & Electric\n\n<a id='455bec3b-e29b-4578-a760-347471adf7bb'></a>\n\n9589.280.6874.583475 2 AV 0.389 oz 1.282\nייייייי\nDAINETTE R. WOODS\n568 S 36TH ST\nSAN DIEGO CA 92113\n\n<a id='ca6679fc-58b6-4e2a-a2e6-00f14cad2151'></a>\n\nSAN DIEGO GAS & ELECTRIC\nPO BOX 25111\nSANTA ANA CA 92799-5111\n\n<a id='c794b459-17d3-4963-95b7-a520f8cdbcf4'></a>\n\n9 2 10000739787359200000022450000002245\n\n<a id='1817833f-6e5b-42c6-ba93-05ba5328bb89'></a>\n\nCY 10\n\n<a id='f59177d0-c32b-4d7d-8bc9-0254bdabc19b'></a>\n\n<::scan_code: Data Matrix\n\nSmall, square, and clear Data Matrix code on a white background with no discernible quality issues.:>\n\n<a id='1efdacaa-e380-4a7a-b13b-e2468369067f'></a>\n\nSign up to go Paperless\n\n<a id='04ffbae3-5505-4fcb-b5b0-c23886077118'></a>\n\n<::A Sempra Energy utility®\n: figure::>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "b367e4fe-040f-49c8-aeb0-58bf8ff0a93b": {
+      "box": {
+        "bottom": 0.06198893487453461,
+        "left": 0.08838754147291183,
+        "right": 0.2044043242931366,
+        "top": 0.0057010650634765625
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "b7ea4058-b020-426c-85dd-742d76fb1d1c": {
+      "box": {
+        "bottom": 0.04188346490263939,
+        "left": 0.3195929527282715,
+        "right": 0.5853434801101685,
+        "top": 0.013571123592555523
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "74e2d321-fe73-4fb2-a016-8fea219b37d0": {
+      "box": {
+        "bottom": 0.040683433413505554,
+        "left": 0.6550397872924805,
+        "right": 0.836509108543396,
+        "top": 0.007679672911763191
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d6d39262-d889-4790-89fd-4a32b5cc72f9": {
+      "box": {
+        "bottom": 0.09420199692249298,
+        "left": 0.32300955057144165,
+        "right": 0.502007782459259,
+        "top": 0.04881314933300018
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "03223da9-b44b-4a72-89ba-fa8354efc995": {
+      "box": {
+        "bottom": 0.09668746590614319,
+        "left": 0.6448106169700623,
+        "right": 0.8863573670387268,
+        "top": 0.059991855174303055
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4a7308f1-835a-4e6e-9f42-5ea1778b50ba": {
+      "box": {
+        "bottom": 0.10280529409646988,
+        "left": 0.025957509875297546,
+        "right": 0.2699221968650818,
+        "top": 0.060893572866916656
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "4bfe6969-8ffc-4471-ad3c-66b6e799a0e8": {
+      "box": {
+        "bottom": 0.16456468403339386,
+        "left": 0.01577278971672058,
+        "right": 0.6150346994400024,
+        "top": 0.12889479100704193
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5b2ac3b4-aac7-4649-932d-ace17e130c7c": {
+      "box": {
+        "bottom": 0.2170892208814621,
+        "left": 0.01577785611152649,
+        "right": 0.5973809957504272,
+        "top": 0.16711480915546417
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a6ffcd96-7021-486c-a948-6f00d06a0023": {
+      "box": {
+        "bottom": 0.27010029554367065,
+        "left": 0.015726923942565918,
+        "right": 0.6320852041244507,
+        "top": 0.2199583351612091
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "61e88852-fc1b-497f-9ef6-5360ee7d2cf1": {
+      "box": {
+        "bottom": 0.3236502408981323,
+        "left": 0.015238314867019653,
+        "right": 0.6250755786895752,
+        "top": 0.27241432666778564
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "77ff0a21-8134-45e4-abaf-71f3baa0074f": {
+      "box": {
+        "bottom": 0.4175337553024292,
+        "left": 0.01498180627822876,
+        "right": 0.630641758441925,
+        "top": 0.3292034864425659
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.4175328971246586,
+        "left": 0.017585659460717218,
+        "right": 0.630370426792723,
+        "top": 0.33031441854395194
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3522799340787034,
+        "left": 0.017585659460717218,
+        "right": 0.4426816573984079,
+        "top": 0.33035045604744506
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 0,
+        "colspan": 3,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3520907612490244,
+        "left": 0.4423965376681659,
+        "right": 0.6303704267927231,
+        "top": 0.33031441854395194
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3697438622406931,
+        "left": 0.017627742520148666,
+        "right": 0.15566947346027551,
+        "top": 0.3522185185716834
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3697348419892752,
+        "left": 0.15553016204069461,
+        "right": 0.2733303407970359,
+        "top": 0.35216612734827857
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.36972715163873915,
+        "left": 0.2731694492457911,
+        "right": 0.4423965376681659,
+        "top": 0.3520907612490244
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.36971611652825925,
+        "left": 0.4421653846785442,
+        "right": 0.6302865136647048,
+        "top": 0.3520070835428614
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.38472987316609564,
+        "left": 0.017661381312972978,
+        "right": 0.15578853175657292,
+        "top": 0.3697348419892752
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.38470463864892857,
+        "left": 0.15566947346027551,
+        "right": 0.2734673653452666,
+        "top": 0.36972715163873915
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.3846831353510754,
+        "left": 0.2733303407970359,
+        "right": 0.4421653846785442,
+        "top": 0.36971611652825925
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.3846523451787113,
+        "left": 0.44196949904381344,
+        "right": 0.6302180578543818,
+        "top": 0.3697038253476085
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.3971356120448285,
+        "left": 0.017690247173626234,
+        "right": 0.15588731696645278,
+        "top": 0.38470463864892857
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.3971253984856747,
+        "left": 0.15578853175657292,
+        "right": 0.2735812798450601,
+        "top": 0.3846831353510754
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.3971166987198884,
+        "left": 0.2734673653452666,
+        "right": 0.44196949904381344,
+        "top": 0.3846523451787113
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.39710426377996205,
+        "left": 0.441806194635726,
+        "right": 0.6301603659357211,
+        "top": 0.38461795731013193
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.4175328726704135,
+        "left": 0.01771414294759549,
+        "right": 0.1560496223847166,
+        "top": 0.3971253984856747
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4175328787438794,
+        "left": 0.15588731696645278,
+        "right": 0.2737683299180069,
+        "top": 0.3971166987198884
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.41753288739964084,
+        "left": 0.2735812798450601,
+        "right": 0.441806194635726,
+        "top": 0.39710426377996205
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 2,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4175328971246586,
+        "left": 0.4415382773456212,
+        "right": 0.6301121193500008,
+        "top": 0.3970903444811203
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "77ff0a21-8134-45e4-abaf-71f3baa0074f",
+        "col": 3,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "86835bf0-1ff6-4539-a588-b6355de39ad9": {
+      "box": {
+        "bottom": 0.5422348976135254,
+        "left": 0.014132261276245117,
+        "right": 0.6308379173278809,
+        "top": 0.4500812590122223
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.5406053641047137,
+        "left": 0.018253366244958324,
+        "right": 0.6265549614298038,
+        "top": 0.4754565987130581
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.4907138798475178,
+        "left": 0.018253366244958324,
+        "right": 0.07815101175608125,
+        "top": 0.47550479858941896
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.4906264806500259,
+        "left": 0.07811160756727029,
+        "right": 0.3510248097895647,
+        "top": 0.47548081015909
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.49022786871398283,
+        "left": 0.3509336783681524,
+        "right": 0.4361909959723371,
+        "top": 0.4754733242510907
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.4901033271062145,
+        "left": 0.43616141190879626,
+        "right": 0.6264928884618886,
+        "top": 0.4754565987130581
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.5068997794363291,
+        "left": 0.01834099605942963,
+        "right": 0.07819330042101895,
+        "top": 0.4906264806500259
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.5068551041860417,
+        "left": 0.07815101175608125,
+        "right": 0.3509336783681524,
+        "top": 0.49022786871398283
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5066512820397528,
+        "left": 0.35083218768814667,
+        "right": 0.43616141190879626,
+        "top": 0.4901033271062145
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5065875156721249,
+        "left": 0.43612807840320617,
+        "right": 0.6265133112496913,
+        "top": 0.4898251994696567
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5226948097052152,
+        "left": 0.018434286258285193,
+        "right": 0.07823455632878543,
+        "top": 0.5068551041860417
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5226873986499398,
+        "left": 0.07819330042101895,
+        "right": 0.35083218768814667,
+        "top": 0.5066512820397528
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5226535763555421,
+        "left": 0.3507332993694065,
+        "right": 0.43612807840320617,
+        "top": 0.5065875156721249
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5226429812635037,
+        "left": 0.43609561183987494,
+        "right": 0.6265331862009144,
+        "top": 0.5064451855475801
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.5406053641047137,
+        "left": 0.018525323615006015,
+        "right": 0.3507332993694065,
+        "top": 0.5226535763555421
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 0,
+        "colspan": 2,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.54046041429763,
+        "left": 0.35062325963188995,
+        "right": 0.43609561183987494,
+        "top": 0.5226429812635037
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5404231125298007,
+        "left": 0.43605965774346384,
+        "right": 0.6265549614298038,
+        "top": 0.5226193443262006
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "86835bf0-1ff6-4539-a588-b6355de39ad9",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "03e2a55d-e991-441a-a23b-e0784614bd3b": {
+      "box": {
+        "bottom": 0.6083446145057678,
+        "left": 0.015087097883224487,
+        "right": 0.6163754463195801,
+        "top": 0.559411346912384
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "85cbb661-6aae-4359-9b9f-f97d92a10bf9": {
+      "box": {
+        "bottom": 0.20289477705955505,
+        "left": 0.6618990898132324,
+        "right": 0.9652154445648193,
+        "top": 0.13180357217788696
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "c8281c37-ea44-47e1-9c2d-0b6ed3af05cb": {
+      "box": {
+        "bottom": 0.3219280540943146,
+        "left": 0.6583719253540039,
+        "right": 0.9464178085327148,
+        "top": 0.20610056817531586
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "28e10832-a130-4e00-8341-18cfe5d39497": {
+      "box": {
+        "bottom": 0.4046213924884796,
+        "left": 0.6585953831672668,
+        "right": 0.9703155159950256,
+        "top": 0.32256004214286804
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "c74a9a67-60d8-4fec-bedf-01081446456d": {
+      "box": {
+        "bottom": 0.6455332636833191,
+        "left": 0.6571650505065918,
+        "right": 0.9625046253204346,
+        "top": 0.40742573142051697
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "a84db369-306d-417f-9d12-188f890b2d1f": {
+      "box": {
+        "bottom": 0.7140212655067444,
+        "left": 0.026673004031181335,
+        "right": 0.48774516582489014,
+        "top": 0.6913551688194275
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0a19af80-f869-45be-a4e4-913e42ca3129": {
+      "box": {
+        "bottom": 0.7463899254798889,
+        "left": 0.06282900273799896,
+        "right": 0.14068636298179626,
+        "top": 0.7114219069480896
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "96b9e32a-59a2-4708-955a-2686fcb73474": {
+      "box": {
+        "bottom": 0.7629568576812744,
+        "left": 0.40122711658477783,
+        "right": 0.5111470222473145,
+        "top": 0.7137486934661865
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c964ba7c-0f07-4be4-8a96-95a815d77a10": {
+      "box": {
+        "bottom": 0.7459391951560974,
+        "left": 0.519064724445343,
+        "right": 0.6424043774604797,
+        "top": 0.712716281414032
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d33041ef-9a29-4a4d-b788-3cd1c6d01a84": {
+      "box": {
+        "bottom": 0.777857780456543,
+        "left": 0.6648433804512024,
+        "right": 0.9645543694496155,
+        "top": 0.7062426805496216
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "3fc5235b-af16-452c-932e-6ad4f0c67041": {
+      "box": {
+        "bottom": 0.7954550981521606,
+        "left": 0.03620429337024689,
+        "right": 0.32813316583633423,
+        "top": 0.7812821865081787
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e2e06dcb-986c-49b5-bc84-477f4e272597": {
+      "box": {
+        "bottom": 0.8480713963508606,
+        "left": 0.7605757713317871,
+        "right": 0.9630341529846191,
+        "top": 0.7805156111717224
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "455bec3b-e29b-4578-a760-347471adf7bb": {
+      "box": {
+        "bottom": 0.897079586982727,
+        "left": 0.1493295580148697,
+        "right": 0.49823206663131714,
+        "top": 0.8140714168548584
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ca6679fc-58b6-4e2a-a2e6-00f14cad2151": {
+      "box": {
+        "bottom": 0.9142885208129883,
+        "left": 0.6450463533401489,
+        "right": 0.8712852001190186,
+        "top": 0.8672100305557251
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c794b459-17d3-4963-95b7-a520f8cdbcf4": {
+      "box": {
+        "bottom": 0.9821135401725769,
+        "left": 0.2792452871799469,
+        "right": 0.7567691802978516,
+        "top": 0.960757315158844
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1817833f-6e5b-42c6-ba93-05ba5328bb89": {
+      "box": {
+        "bottom": 0.8706443309783936,
+        "left": 0.963507890701294,
+        "right": 0.9827266931533813,
+        "top": 0.8466635942459106
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "f59177d0-c32b-4d7d-8bc9-0254bdabc19b": {
+      "box": {
+        "bottom": 0.9352789521217346,
+        "left": 0.9621794819831848,
+        "right": 0.999612033367157,
+        "top": 0.9058167338371277
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "1efdacaa-e380-4a7a-b13b-e2468369067f": {
+      "box": {
+        "bottom": 0.05744491517543793,
+        "left": 0.6522142887115479,
+        "right": 0.834204912185669,
+        "top": 0.043163374066352844
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "04ffbae3-5505-4fcb-b5b0-c23886077118": {
+      "box": {
+        "bottom": 0.7756906151771545,
+        "left": 0.02029924839735031,
+        "right": 0.18876662850379944,
+        "top": 0.7476659417152405
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    }
+  }
+}

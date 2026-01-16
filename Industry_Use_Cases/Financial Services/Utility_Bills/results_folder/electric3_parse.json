@@ -1,0 +1,2151 @@
+{
+  "chunks": [
+    {
+      "id": "dd552f2b-a968-45f9-83ad-acc583f05edd",
+      "grounding": {
+        "box": {
+          "bottom": 0.023859739303588867,
+          "left": 0.8962572813034058,
+          "right": 0.9661511182785034,
+          "top": 0.010778900235891342
+        },
+        "page": 0
+      },
+      "markdown": "<a id='dd552f2b-a968-45f9-83ad-acc583f05edd'></a>\n\nPage 1 of 2",
+      "type": "marginalia"
+    },
+    {
+      "id": "1448bc3f-e2e5-47d4-bbf8-f2de5d22ead1",
+      "grounding": {
+        "box": {
+          "bottom": 0.08426233381032944,
+          "left": 0.03184845298528671,
+          "right": 0.24334311485290527,
+          "top": 0.04662599414587021
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1448bc3f-e2e5-47d4-bbf8-f2de5d22ead1'></a>\n\n<::conEdison logo::>",
+      "type": "figure"
+    },
+    {
+      "id": "9ed1ee03-796c-4116-bba4-381da6a256c2",
+      "grounding": {
+        "box": {
+          "bottom": 0.10471095144748688,
+          "left": 0.5111027359962463,
+          "right": 0.9711217284202576,
+          "top": 0.02658100053668022
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9ed1ee03-796c-4116-bba4-381da6a256c2'></a>\n\n<::logo: N/A\nCurrent balance due\n$44.89\nDirect Pay\n04/07/23\nA rectangular blue box divided into two sections, with white text.::>",
+      "type": "logo"
+    },
+    {
+      "id": "4eb5d041-4e39-46e8-b66b-84e3f1fab7d5",
+      "grounding": {
+        "box": {
+          "bottom": 0.16640596091747284,
+          "left": 0.029276207089424133,
+          "right": 0.3203607201576233,
+          "top": 0.13005881011486053
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4eb5d041-4e39-46e8-b66b-84e3f1fab7d5'></a>\n\nMITCHELL JOHNSON\nAccount Number: 44-6011-0985-0021-7",
+      "type": "text"
+    },
+    {
+      "id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+      "grounding": {
+        "box": {
+          "bottom": 0.4050769507884979,
+          "left": 0.02578568458557129,
+          "right": 0.4902293086051941,
+          "top": 0.16870149970054626
+        },
+        "page": 0
+      },
+      "markdown": "<a id='58d7c260-b000-42fc-baa4-2186b12f1172'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Your bill breakdown</td><td id=\"0-3\">$ (dollar sign icon)</td></tr>\n<tr><td id=\"0-4\">Last billing period</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">Your billing summary as of Mar 28, 2023</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Your previous charges and payments</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Total charges from your last bill</td><td id=\"0-b\">$46.16</td></tr>\n<tr><td id=\"0-c\">Payments through Mar 24, thank you</td><td id=\"0-d\">-$46.16</td></tr>\n<tr><td id=\"0-e\">Balance from previous bill</td><td id=\"0-f\">None</td></tr>\n<tr><td id=\"0-g\">Your new charges</td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Billing period: Feb 24, 2023 to Mar 27, 2023</td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">Electricity charges - for 31 days</td><td id=\"0-l\">$44.89</td></tr>\n<tr><td id=\"0-m\">Total from this billing period</td><td id=\"0-n\">$44.89</td></tr>\n<tr><td id=\"0-o\">Total amount due</td><td id=\"0-p\">$44.89</td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">Direct Payment Plan - The amount of $44.89 will be automatically deducted from your bank on Apr 7, 2023.</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "2888268d-e66e-4627-9e78-f4c429777438",
+      "grounding": {
+        "box": {
+          "bottom": 0.30566707253456116,
+          "left": 0.5111544132232666,
+          "right": 0.9751741886138916,
+          "top": 0.13070884346961975
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2888268d-e66e-4627-9e78-f4c429777438'></a>\n\nService delivered to: 435 W 57 STRE 2H\nNext billing date: Tuesday, Apr 25, 2023\nYour average daily electric usage\n<::bar and line chart::>\n2.87 kWh\n\nBar chart (electric usage):\nLeft Y-axis: kWh, with values 0, 3.75, 7.5, 11.25, 15.\nX-axis: Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec, Jan, Feb, Mar.\nBars (approximate kWh):\nMar: 5\nApr: 5\nMay: 6\nJun: 10\nJul: 12\nAug: 13\nSep: 10\nOct: 3\nNov: 2\nDec: 4\nJan: 3\nFeb: 2\nMar: 3\n\nLine chart (temperature):\nRight Y-axis: temp*, with values 0, 25, 50, 75, 100.\nLine points (approximate temp*):\nMar: 70\nApr: 75\nMay: 85\nJun: 95\nJul: 100\nAug: 95\nSep: 85\nOct: 60\nNov: 50\nDec: 55\nJan: 50\nFeb: 60\nMar: 65\n<::>",
+      "type": "figure"
+    },
+    {
+      "id": "58b09a6f-833b-488b-be20-2f78f09445d5",
+      "grounding": {
+        "box": {
+          "bottom": 0.5701218843460083,
+          "left": 0.030055731534957886,
+          "right": 0.48092952370643616,
+          "top": 0.4778321087360382
+        },
+        "page": 0
+      },
+      "markdown": "<a id='58b09a6f-833b-488b-be20-2f78f09445d5'></a>\n\nMessages For You\n\n🔊 We're here to help. If you have trouble paying your bill, a few minutes is all it takes to set up a payment plan. _Need a few more days to pay your bill? No problem._ Visit **conEd.com/PaymentPlans** to schedule an extension, enroll in a payment agreement and manage your energy bill online.",
+      "type": "text"
+    },
+    {
+      "id": "d280cd6f-0f5a-422c-9a1f-9d1f84271b04",
+      "grounding": {
+        "box": {
+          "bottom": 0.6391351222991943,
+          "left": 0.029611334204673767,
+          "right": 0.481472909450531,
+          "top": 0.5749024152755737
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d280cd6f-0f5a-422c-9a1f-9d1f84271b04'></a>\n\nSupply costs are higher for electric and gas this winter. Weather and increased energy usage can also impact your bill. Visit **conEd.com/UnderstandYourRate** to learn about rising energy costs and how to manage your bill.",
+      "type": "text"
+    },
+    {
+      "id": "758b3d0b-94f8-4c5c-b63b-3956f276e409",
+      "grounding": {
+        "box": {
+          "bottom": 0.6939086318016052,
+          "left": 0.19851380586624146,
+          "right": 0.8167354464530945,
+          "top": 0.6739495396614075
+        },
+        "page": 0
+      },
+      "markdown": "<a id='758b3d0b-94f8-4c5c-b63b-3956f276e409'></a>\n\nQuestions? Contact Us: conEd.com/ContactUs 1-212-243-1900 or 1-800-752-6633",
+      "type": "text"
+    },
+    {
+      "id": "f7bbaa9e-f579-4cb1-bf61-f5ae35f6c6c9",
+      "grounding": {
+        "box": {
+          "bottom": 0.750243067741394,
+          "left": 0.07297594845294952,
+          "right": 0.4527202844619751,
+          "top": 0.7144608497619629
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f7bbaa9e-f579-4cb1-bf61-f5ae35f6c6c9'></a>\n\nconEdison PO Box 1702\nNew York, NY 10116-1702",
+      "type": "text"
+    },
+    {
+      "id": "3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5",
+      "grounding": {
+        "box": {
+          "bottom": 0.7691898941993713,
+          "left": 0.6223733425140381,
+          "right": 0.960689902305603,
+          "top": 0.698553740978241
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5'></a>\n\nAccount number: 44-6011-0985-0021-7\n\nDirect Pay\n04/07/23\n\n$44.89",
+      "type": "text"
+    },
+    {
+      "id": "29760581-2594-4fa2-bcf3-cd7c7a42e03d",
+      "grounding": {
+        "box": {
+          "bottom": 0.795683741569519,
+          "left": 0.07400727272033691,
+          "right": 0.3435423672199249,
+          "top": 0.7626255750656128
+        },
+        "page": 0
+      },
+      "markdown": "<a id='29760581-2594-4fa2-bcf3-cd7c7a42e03d'></a>\n\nYour Energy Bill",
+      "type": "text"
+    },
+    {
+      "id": "09503432-2f71-43bb-819b-a33209d59a11",
+      "grounding": {
+        "box": {
+          "bottom": 0.8037589192390442,
+          "left": 0.6284323930740356,
+          "right": 0.9177418947219849,
+          "top": 0.772244393825531
+        },
+        "page": 0
+      },
+      "markdown": "<a id='09503432-2f71-43bb-819b-a33209d59a11'></a>\n\nThe amount of $44.89 will be automatically\ndeducted from your bank on Apr 7, 2023.",
+      "type": "text"
+    },
+    {
+      "id": "59103170-bc7b-46e9-b985-128c9864e178",
+      "grounding": {
+        "box": {
+          "bottom": 0.8897848725318909,
+          "left": 0.10324324667453766,
+          "right": 0.27812594175338745,
+          "top": 0.8450822234153748
+        },
+        "page": 0
+      },
+      "markdown": "<a id='59103170-bc7b-46e9-b985-128c9864e178'></a>\n\nMITCHELL JOHNSON\n435 W 57 ST 2H\nNEW YORK NY 10019-1723",
+      "type": "text"
+    },
+    {
+      "id": "b0a60205-0765-472f-a820-6b2e8488ab76",
+      "grounding": {
+        "box": {
+          "bottom": 0.8872096538543701,
+          "left": 0.6278539896011353,
+          "right": 0.826413631439209,
+          "top": 0.8496524095535278
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b0a60205-0765-472f-a820-6b2e8488ab76'></a>\n\nDirect Payment Plan\nDo not mail a payment",
+      "type": "text"
+    },
+    {
+      "id": "29b738d5-eaee-4dd4-8a06-7ddbfe4ccce8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9877744317054749,
+          "left": 0.06110449135303497,
+          "right": 0.12061923742294312,
+          "top": 0.9560429453849792
+        },
+        "page": 0
+      },
+      "markdown": "<a id='29b738d5-eaee-4dd4-8a06-7ddbfe4ccce8'></a>\n\nM97\n0014317",
+      "type": "marginalia"
+    },
+    {
+      "id": "b7ed34d8-4983-4e66-9aa1-3967c74273bd",
+      "grounding": {
+        "box": {
+          "bottom": 0.9538954496383667,
+          "left": 0.298259437084198,
+          "right": 0.7072746157646179,
+          "top": 0.9345264434814453
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b7ed34d8-4983-4e66-9aa1-3967c74273bd'></a>\n\n0020 446011098500217 100000004489",
+      "type": "text"
+    },
+    {
+      "id": "385c0754-07ab-4f6a-8662-23325f3d760c",
+      "grounding": {
+        "box": {
+          "bottom": 0.954596996307373,
+          "left": 0.7237991690635681,
+          "right": 0.8652210831642151,
+          "top": 0.9344918727874756
+        },
+        "page": 0
+      },
+      "markdown": "<a id='385c0754-07ab-4f6a-8662-23325f3d760c'></a>\n\n10000004489",
+      "type": "text"
+    },
+    {
+      "id": "1d96a091-c232-4728-b944-fc13725dd9a8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9846696853637695,
+          "left": 0.3585163354873657,
+          "right": 0.580032229423523,
+          "top": 0.9578769207000732
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1d96a091-c232-4728-b944-fc13725dd9a8'></a>\n\n<::scan_code: Barcode\nNo readable text\nThis is a clean, black and white barcode with no visible damage or quality issues.:anesh::>",
+      "type": "scan_code"
+    },
+    {
+      "id": "73098002-fe45-4d55-973b-dd329be76321",
+      "grounding": {
+        "box": {
+          "bottom": 0.0421307347714901,
+          "left": 0.04445242881774902,
+          "right": 0.20664000511169434,
+          "top": 0.024780821055173874
+        },
+        "page": 1
+      },
+      "markdown": "<a id='73098002-fe45-4d55-973b-dd329be76321'></a>\n\nName: MITCHELL JOHNSON",
+      "type": "marginalia"
+    },
+    {
+      "id": "a525aa42-b3b6-4b9b-9bc1-8c82ac6dc85f",
+      "grounding": {
+        "box": {
+          "bottom": 0.0413019172847271,
+          "left": 0.4909941554069519,
+          "right": 0.7128178477287292,
+          "top": 0.0255759097635746
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a525aa42-b3b6-4b9b-9bc1-8c82ac6dc85f'></a>\n\nAccount number: 44-6011-0985-0021-7",
+      "type": "marginalia"
+    },
+    {
+      "id": "e42f1f63-ce77-4f3f-88af-b43357b460c6",
+      "grounding": {
+        "box": {
+          "bottom": 0.04205147549510002,
+          "left": 0.8820763230323792,
+          "right": 0.956182062625885,
+          "top": 0.025355275720357895
+        },
+        "page": 1
+      },
+      "markdown": "<a id='e42f1f63-ce77-4f3f-88af-b43357b460c6'></a>\n\nPage 2 of 2",
+      "type": "marginalia"
+    },
+    {
+      "id": "5295021f-a078-47c5-859b-fe6120df1e72",
+      "grounding": {
+        "box": {
+          "bottom": 0.1326158046722412,
+          "left": 0.0385909378528595,
+          "right": 0.9630943536758423,
+          "top": 0.05264955386519432
+        },
+        "page": 1
+      },
+      "markdown": "<a id='5295021f-a078-47c5-859b-fe6120df1e72'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Your electricity</td><td id=\"1-3\">breakdown Rate, EU Residential or Religious (lightbulb icon)</td></tr>\n<tr><td id=\"1-4\">Electric Meter Detail -</td><td id=\"1-5\">billing period from Feb 24, 2023 to Mar 27, 2023 (31 days)</td></tr>\n</table>\n<table id=\"1-6\">\n<tr><td id=\"1-7\">Meter #</td><td id=\"1-8\">New Reading</td><td id=\"1-9\">Reading Type</td><td id=\"1-a\">Date</td><td id=\"1-b\">Prior Reading</td><td id=\"1-c\">Reading Type</td><td id=\"1-d\">Date</td><td id=\"1-e\">Reading Diff</td><td id=\"1-f\">Total Usage</td></tr>\n<tr><td id=\"1-g\">013641924</td><td id=\"1-h\">5047</td><td id=\"1-i\">Actual</td><td id=\"1-j\">Mar 27, 23</td><td id=\"1-k\">4958</td><td id=\"1-l\">Actual</td><td id=\"1-m\">Feb 24, 23</td><td id=\"1-n\">89</td><td id=\"1-o\">89 kWh</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "88c7401c-4a93-42f3-af42-ca7f24b22b7a",
+      "grounding": {
+        "box": {
+          "bottom": 0.19402062892913818,
+          "left": 0.038527220487594604,
+          "right": 0.4929499924182892,
+          "top": 0.13412749767303467
+        },
+        "page": 1
+      },
+      "markdown": "<a id='88c7401c-4a93-42f3-af42-ca7f24b22b7a'></a>\n\n## Your Supply Charges\n\nSupply 89 kWh @11.1124¢/kWh $9.89\nMerchant function charge $0.43\nGRT & other tax surcharges $0.25",
+      "type": "text"
+    },
+    {
+      "id": "1d46dfd6-3db5-4973-9720-4bade476d7cd",
+      "grounding": {
+        "box": {
+          "bottom": 0.2620352804660797,
+          "left": 0.03740265965461731,
+          "right": 0.4909946024417877,
+          "top": 0.19256627559661865
+        },
+        "page": 1
+      },
+      "markdown": "<a id='1d46dfd6-3db5-4973-9720-4bade476d7cd'></a>\n\nTotal electricity supply charges $10.57\n\nYour total electricity supply cost for this bill is 11.9¢ per kWh. You can compare this price with those offered by energy services companies (ESCOs). For a list of ESCOs, visit PowerYourWay.com or call 1-800-780-2884.",
+      "type": "text"
+    },
+    {
+      "id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+      "grounding": {
+        "box": {
+          "bottom": 0.26663559675216675,
+          "left": 0.5125160217285156,
+          "right": 0.9649696350097656,
+          "top": 0.13463521003723145
+        },
+        "page": 1
+      },
+      "markdown": "<a id='c4915f34-8b25-4b75-bd00-ff15b7a2044b'></a>\n\n<table id=\"1-p\">\n<tr><td id=\"1-q\">Your Delivery Charges</td><td id=\"1-r\"></td></tr>\n<tr><td id=\"1-s\">Basic service charge</td><td id=\"1-t\">$18.85</td></tr>\n<tr><td id=\"1-u\">Delivery 89 kWh @12.988c/kWh</td><td id=\"1-v\">$11.56</td></tr>\n<tr><td id=\"1-w\">System Benefit Charge @0.5169c/kWh</td><td id=\"1-x\">$0.46</td></tr>\n<tr><td id=\"1-y\">GRT &amp; other tax surcharges</td><td id=\"1-z\">$1.52</td></tr>\n<tr><td id=\"1-A\">Total electricity delivery charges</td><td id=\"1-B\">$32.39</td></tr>\n<tr><td id=\"1-C\">Sales tax @4.5000%</td><td id=\"1-D\">$1.93</td></tr>\n<tr><td id=\"1-E\">Total sales tax</td><td id=\"1-F\">$1.93</td></tr>\n<tr><td id=\"1-G\">Your electricity total</td><td id=\"1-H\">$44.89</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "9d01d0cd-1713-4eaa-80ef-a298fa635569",
+      "grounding": {
+        "box": {
+          "bottom": 0.4316028952598572,
+          "left": 0.03827059268951416,
+          "right": 0.9598214030265808,
+          "top": 0.2806395888328552
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9d01d0cd-1713-4eaa-80ef-a298fa635569'></a>\n\n# Understanding your bill\n\n**Basic service charge (Electric):** Charge for basic system infrastructure and customer-related services, including customer accounting, and metering services. A billing and payment processing charge of $1.28, which may be avoided by switching to an energy services company (ESCO), is also included.\n\n**Billing charges:** These charges are for the electricity you need (supply) and getting the electricity to you (delivery). Rates are based on a 30 day period. When your billing period is more or less than 30 days, we prorate your bill accordingly.\n\n**Delivery:** Charge for maintaining the system through which Con Edison delivers electricity to you.\n\n**Electricity Supply:** Charge for the electricity supplied to you by Con Edison.\n\n**GRT & other tax surcharges:** Taxes on Con Edison gross receipts from sales of utility services and other tax surcharges.\n\n**Merchant Function Charge (Electric):** Charge associated with procuring electricity, credit and collection related activities and uncollectible accounts.\n\n**Sales tax:** Tax collected on behalf of New York City.\n\n**System Benefit Charge (Electric):** The System Benefits Charge recovers costs associated with clean energy activities conducted by the New York State Energy Research and Development Authority (NYSERDA) and energy efficiency programs implemented by the Company.\n\n**Temperature Data*** Source: Central Park Weather station",
+      "type": "text"
+    },
+    {
+      "id": "dddb0624-5361-4b06-8c97-778871e631a0",
+      "grounding": {
+        "box": {
+          "bottom": 0.49420300126075745,
+          "left": 0.036094993352890015,
+          "right": 0.915221095085144,
+          "top": 0.45505133271217346
+        },
+        "page": 1
+      },
+      "markdown": "<a id='dddb0624-5361-4b06-8c97-778871e631a0'></a>\n\nGet Smarter with your smart meter.\nLearn how much energy you are using, and how to avoid seasonal spikes in energy use. Log in or create an account at conEd.com/EnergyUsage.",
+      "type": "text"
+    },
+    {
+      "id": "520e8dcf-4528-49e0-8ac6-b526785a325c",
+      "grounding": {
+        "box": {
+          "bottom": 0.5454255938529968,
+          "left": 0.03557845950126648,
+          "right": 0.9240075349807739,
+          "top": 0.5066279768943787
+        },
+        "page": 1
+      },
+      "markdown": "<a id='520e8dcf-4528-49e0-8ac6-b526785a325c'></a>\n\nLooking for LED light bulbs or a new thermostat? Con Edison residential customers are eligible for instant rebates and additional savings on energy-efficient equipment from top brands. Shop the Con Edison Marketplace at: marketplace.conEd.com.",
+      "type": "text"
+    },
+    {
+      "id": "5518a08f-60dc-46fc-8b5e-e0e7d7076252",
+      "grounding": {
+        "box": {
+          "bottom": 0.5860834121704102,
+          "left": 0.03651478886604309,
+          "right": 0.9678128957748413,
+          "top": 0.5480737686157227
+        },
+        "page": 1
+      },
+      "markdown": "<a id='5518a08f-60dc-46fc-8b5e-e0e7d7076252'></a>\n\nWe have 662-231-8098 as your primary phone number and MDJOHNSONDAWGS@GMAIL.COM as your email address. Need to update? Please go to conEd.com or call us.",
+      "type": "text"
+    },
+    {
+      "id": "00af8813-c285-47a2-b4f2-a8bb17a2dc37",
+      "grounding": {
+        "box": {
+          "bottom": 0.7078537344932556,
+          "left": 0.08002059161663055,
+          "right": 0.4926803708076477,
+          "top": 0.6854602694511414
+        },
+        "page": 1
+      },
+      "markdown": "<a id='00af8813-c285-47a2-b4f2-a8bb17a2dc37'></a>\n\n(i) **How to get in touch with us**\nEmail or chat: conEd.com/ContactUs",
+      "type": "text"
+    },
+    {
+      "id": "0ec5e95c-b4f2-4b4c-9322-643b90ff4ef0",
+      "grounding": {
+        "box": {
+          "bottom": 0.7054066061973572,
+          "left": 0.5168901681900024,
+          "right": 0.6352294683456421,
+          "top": 0.6906645894050598
+        },
+        "page": 1
+      },
+      "markdown": "<a id='0ec5e95c-b4f2-4b4c-9322-643b90ff4ef0'></a>\n\nPhone: 1-800-752-6633",
+      "type": "text"
+    },
+    {
+      "id": "c61f55a5-174d-423a-b9e1-90d0ae61fa42",
+      "grounding": {
+        "box": {
+          "bottom": 0.7060067653656006,
+          "left": 0.6585652828216553,
+          "right": 0.9236787557601929,
+          "top": 0.6908663511276245
+        },
+        "page": 1
+      },
+      "markdown": "<a id='c61f55a5-174d-423a-b9e1-90d0ae61fa42'></a>\n\nMail: Con Edison, PO Box 138, New York, NY 10276-0138",
+      "type": "marginalia"
+    },
+    {
+      "id": "5864d2bf-3ba2-497e-9aec-c3fb06d5b43c",
+      "grounding": {
+        "box": {
+          "bottom": 0.8654529452323914,
+          "left": 0.04183873534202576,
+          "right": 0.49762699007987976,
+          "top": 0.7278727889060974
+        },
+        "page": 1
+      },
+      "markdown": "<a id='5864d2bf-3ba2-497e-9aec-c3fb06d5b43c'></a>\n\n## Ways to pay your bill\n\n1.  **Auto Pay**: Pay your bill automatically from your checking or savings account at no charge. Enroll at conEd.com/MyAccount or call 1-212-243-1900.\n2.  **Online**: Pay at conEd.com/MyAccount using your bank account, credit card or debit card at no charge.\n3.  **App**: Download the Con Edison app from the App Store or Google Play Store.\n4.  **Phone**: Pay by phone at 1-888-925-5016 using your bank account, credit card or debit card at no charge.\n5.  **In Person**: Our walk-in centers are open Monday through Friday from 8.30 a.m. to 5 p.m.",
+      "type": "text"
+    },
+    {
+      "id": "649c252f-81dc-4b43-8258-768166f28719",
+      "grounding": {
+        "box": {
+          "bottom": 0.9492664933204651,
+          "left": 0.1321607530117035,
+          "right": 0.3534906506538391,
+          "top": 0.8735310435295105
+        },
+        "page": 1
+      },
+      "markdown": "<a id='649c252f-81dc-4b43-8258-768166f28719'></a>\n\nBronx: 1775 Grand Concourse\nBrooklyn: 345 Jay Street\nManhattan: 122 East 124th Street\nQueens: 89-67 162nd Street\nStaten Island: 1140 Richmond Terrace\nWestchester: 1 Bogopa Plaza",
+      "type": "text"
+    },
+    {
+      "id": "31a80b76-343c-42fc-b7d1-ddc6979a6067",
+      "grounding": {
+        "box": {
+          "bottom": 0.8410425186157227,
+          "left": 0.5303229093551636,
+          "right": 0.9432287216186523,
+          "top": 0.755061149597168
+        },
+        "page": 1
+      },
+      "markdown": "<a id='31a80b76-343c-42fc-b7d1-ddc6979a6067'></a>\n\n6. **Mail**: Send a check or money order, payable to Con Edison, using the envelope provided to authorize us to make a one-time electronic fund transfer from your account or to process the payment as a check. You will not get the check back. Do not send cash.\nCon Edison\nPO Box 1702\nNew York, NY 10116-1702",
+      "type": "text"
+    },
+    {
+      "id": "4a5812d4-94d1-4bc3-832f-66322f597d95",
+      "grounding": {
+        "box": {
+          "bottom": 0.8908627033233643,
+          "left": 0.5312678813934326,
+          "right": 0.8712799549102783,
+          "top": 0.8481714725494385
+        },
+        "page": 1
+      },
+      "markdown": "<a id='4a5812d4-94d1-4bc3-832f-66322f597d95'></a>\n\nSave a stamp. Pay your bill online at ConEd.com/MyAccount",
+      "type": "text"
+    },
+    {
+      "id": "c514e390-5e0b-44e6-a0f0-e754c31f147d",
+      "grounding": {
+        "box": {
+          "bottom": 0.9472449421882629,
+          "left": 0.530814528465271,
+          "right": 0.9208875894546509,
+          "top": 0.901991069316864
+        },
+        "page": 1
+      },
+      "markdown": "<a id='c514e390-5e0b-44e6-a0f0-e754c31f147d'></a>\n\nGo Paperless!\nScan the QR Code with your smart device or\nvisit conEd.com/MyAccount to enroll in eBill",
+      "type": "text"
+    },
+    {
+      "id": "c98a1ed5-684c-4935-ba49-2e274c45a041",
+      "grounding": {
+        "box": {
+          "bottom": 0.9716722965240479,
+          "left": 0.5601578950881958,
+          "right": 0.8872305154800415,
+          "top": 0.9562010765075684
+        },
+        "page": 1
+      },
+      "markdown": "<a id='c98a1ed5-684c-4935-ba49-2e274c45a041'></a>\n\nQuestions? Call toll free 1-800-75-CONED (1-800-752-6633)",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='dd552f2b-a968-45f9-83ad-acc583f05edd'></a>\n\nPage 1 of 2\n\n<a id='1448bc3f-e2e5-47d4-bbf8-f2de5d22ead1'></a>\n\n<::conEdison logo::>\n\n<a id='9ed1ee03-796c-4116-bba4-381da6a256c2'></a>\n\n<::logo: N/A\nCurrent balance due\n$44.89\nDirect Pay\n04/07/23\nA rectangular blue box divided into two sections, with white text.::>\n\n<a id='4eb5d041-4e39-46e8-b66b-84e3f1fab7d5'></a>\n\nMITCHELL JOHNSON\nAccount Number: 44-6011-0985-0021-7\n\n<a id='58d7c260-b000-42fc-baa4-2186b12f1172'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Your bill breakdown</td><td id=\"0-3\">$ (dollar sign icon)</td></tr>\n<tr><td id=\"0-4\">Last billing period</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">Your billing summary as of Mar 28, 2023</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Your previous charges and payments</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Total charges from your last bill</td><td id=\"0-b\">$46.16</td></tr>\n<tr><td id=\"0-c\">Payments through Mar 24, thank you</td><td id=\"0-d\">-$46.16</td></tr>\n<tr><td id=\"0-e\">Balance from previous bill</td><td id=\"0-f\">None</td></tr>\n<tr><td id=\"0-g\">Your new charges</td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Billing period: Feb 24, 2023 to Mar 27, 2023</td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">Electricity charges - for 31 days</td><td id=\"0-l\">$44.89</td></tr>\n<tr><td id=\"0-m\">Total from this billing period</td><td id=\"0-n\">$44.89</td></tr>\n<tr><td id=\"0-o\">Total amount due</td><td id=\"0-p\">$44.89</td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">Direct Payment Plan - The amount of $44.89 will be automatically deducted from your bank on Apr 7, 2023.</td></tr>\n</table>\n\n<a id='2888268d-e66e-4627-9e78-f4c429777438'></a>\n\nService delivered to: 435 W 57 STRE 2H\nNext billing date: Tuesday, Apr 25, 2023\nYour average daily electric usage\n<::bar and line chart::>\n2.87 kWh\n\nBar chart (electric usage):\nLeft Y-axis: kWh, with values 0, 3.75, 7.5, 11.25, 15.\nX-axis: Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec, Jan, Feb, Mar.\nBars (approximate kWh):\nMar: 5\nApr: 5\nMay: 6\nJun: 10\nJul: 12\nAug: 13\nSep: 10\nOct: 3\nNov: 2\nDec: 4\nJan: 3\nFeb: 2\nMar: 3\n\nLine chart (temperature):\nRight Y-axis: temp*, with values 0, 25, 50, 75, 100.\nLine points (approximate temp*):\nMar: 70\nApr: 75\nMay: 85\nJun: 95\nJul: 100\nAug: 95\nSep: 85\nOct: 60\nNov: 50\nDec: 55\nJan: 50\nFeb: 60\nMar: 65\n<::>\n\n<a id='58b09a6f-833b-488b-be20-2f78f09445d5'></a>\n\nMessages For You\n\n🔊 We're here to help. If you have trouble paying your bill, a few minutes is all it takes to set up a payment plan. _Need a few more days to pay your bill? No problem._ Visit **conEd.com/PaymentPlans** to schedule an extension, enroll in a payment agreement and manage your energy bill online.\n\n<a id='d280cd6f-0f5a-422c-9a1f-9d1f84271b04'></a>\n\nSupply costs are higher for electric and gas this winter. Weather and increased energy usage can also impact your bill. Visit **conEd.com/UnderstandYourRate** to learn about rising energy costs and how to manage your bill.\n\n<a id='758b3d0b-94f8-4c5c-b63b-3956f276e409'></a>\n\nQuestions? Contact Us: conEd.com/ContactUs 1-212-243-1900 or 1-800-752-6633\n\n<a id='f7bbaa9e-f579-4cb1-bf61-f5ae35f6c6c9'></a>\n\nconEdison PO Box 1702\nNew York, NY 10116-1702\n\n<a id='3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5'></a>\n\nAccount number: 44-6011-0985-0021-7\n\nDirect Pay\n04/07/23\n\n$44.89\n\n<a id='29760581-2594-4fa2-bcf3-cd7c7a42e03d'></a>\n\nYour Energy Bill\n\n<a id='09503432-2f71-43bb-819b-a33209d59a11'></a>\n\nThe amount of $44.89 will be automatically\ndeducted from your bank on Apr 7, 2023.\n\n<a id='59103170-bc7b-46e9-b985-128c9864e178'></a>\n\nMITCHELL JOHNSON\n435 W 57 ST 2H\nNEW YORK NY 10019-1723\n\n<a id='b0a60205-0765-472f-a820-6b2e8488ab76'></a>\n\nDirect Payment Plan\nDo not mail a payment\n\n<a id='29b738d5-eaee-4dd4-8a06-7ddbfe4ccce8'></a>\n\nM97\n0014317\n\n<a id='b7ed34d8-4983-4e66-9aa1-3967c74273bd'></a>\n\n0020 446011098500217 100000004489\n\n<a id='385c0754-07ab-4f6a-8662-23325f3d760c'></a>\n\n10000004489\n\n<a id='1d96a091-c232-4728-b944-fc13725dd9a8'></a>\n\n<::scan_code: Barcode\nNo readable text\nThis is a clean, black and white barcode with no visible damage or quality issues.:anesh::>\n\n<!-- PAGE BREAK -->\n\n<a id='73098002-fe45-4d55-973b-dd329be76321'></a>\n\nName: MITCHELL JOHNSON\n\n<a id='a525aa42-b3b6-4b9b-9bc1-8c82ac6dc85f'></a>\n\nAccount number: 44-6011-0985-0021-7\n\n<a id='e42f1f63-ce77-4f3f-88af-b43357b460c6'></a>\n\nPage 2 of 2\n\n<a id='5295021f-a078-47c5-859b-fe6120df1e72'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Your electricity</td><td id=\"1-3\">breakdown Rate, EU Residential or Religious (lightbulb icon)</td></tr>\n<tr><td id=\"1-4\">Electric Meter Detail -</td><td id=\"1-5\">billing period from Feb 24, 2023 to Mar 27, 2023 (31 days)</td></tr>\n</table>\n<table id=\"1-6\">\n<tr><td id=\"1-7\">Meter #</td><td id=\"1-8\">New Reading</td><td id=\"1-9\">Reading Type</td><td id=\"1-a\">Date</td><td id=\"1-b\">Prior Reading</td><td id=\"1-c\">Reading Type</td><td id=\"1-d\">Date</td><td id=\"1-e\">Reading Diff</td><td id=\"1-f\">Total Usage</td></tr>\n<tr><td id=\"1-g\">013641924</td><td id=\"1-h\">5047</td><td id=\"1-i\">Actual</td><td id=\"1-j\">Mar 27, 23</td><td id=\"1-k\">4958</td><td id=\"1-l\">Actual</td><td id=\"1-m\">Feb 24, 23</td><td id=\"1-n\">89</td><td id=\"1-o\">89 kWh</td></tr>\n</table>\n\n<a id='88c7401c-4a93-42f3-af42-ca7f24b22b7a'></a>\n\n## Your Supply Charges\n\nSupply 89 kWh @11.1124¢/kWh $9.89\nMerchant function charge $0.43\nGRT & other tax surcharges $0.25\n\n<a id='1d46dfd6-3db5-4973-9720-4bade476d7cd'></a>\n\nTotal electricity supply charges $10.57\n\nYour total electricity supply cost for this bill is 11.9¢ per kWh. You can compare this price with those offered by energy services companies (ESCOs). For a list of ESCOs, visit PowerYourWay.com or call 1-800-780-2884.\n\n<a id='c4915f34-8b25-4b75-bd00-ff15b7a2044b'></a>\n\n<table id=\"1-p\">\n<tr><td id=\"1-q\">Your Delivery Charges</td><td id=\"1-r\"></td></tr>\n<tr><td id=\"1-s\">Basic service charge</td><td id=\"1-t\">$18.85</td></tr>\n<tr><td id=\"1-u\">Delivery 89 kWh @12.988c/kWh</td><td id=\"1-v\">$11.56</td></tr>\n<tr><td id=\"1-w\">System Benefit Charge @0.5169c/kWh</td><td id=\"1-x\">$0.46</td></tr>\n<tr><td id=\"1-y\">GRT &amp; other tax surcharges</td><td id=\"1-z\">$1.52</td></tr>\n<tr><td id=\"1-A\">Total electricity delivery charges</td><td id=\"1-B\">$32.39</td></tr>\n<tr><td id=\"1-C\">Sales tax @4.5000%</td><td id=\"1-D\">$1.93</td></tr>\n<tr><td id=\"1-E\">Total sales tax</td><td id=\"1-F\">$1.93</td></tr>\n<tr><td id=\"1-G\">Your electricity total</td><td id=\"1-H\">$44.89</td></tr>\n</table>\n\n<a id='9d01d0cd-1713-4eaa-80ef-a298fa635569'></a>\n\n# Understanding your bill\n\n**Basic service charge (Electric):** Charge for basic system infrastructure and customer-related services, including customer accounting, and metering services. A billing and payment processing charge of $1.28, which may be avoided by switching to an energy services company (ESCO), is also included.\n\n**Billing charges:** These charges are for the electricity you need (supply) and getting the electricity to you (delivery). Rates are based on a 30 day period. When your billing period is more or less than 30 days, we prorate your bill accordingly.\n\n**Delivery:** Charge for maintaining the system through which Con Edison delivers electricity to you.\n\n**Electricity Supply:** Charge for the electricity supplied to you by Con Edison.\n\n**GRT & other tax surcharges:** Taxes on Con Edison gross receipts from sales of utility services and other tax surcharges.\n\n**Merchant Function Charge (Electric):** Charge associated with procuring electricity, credit and collection related activities and uncollectible accounts.\n\n**Sales tax:** Tax collected on behalf of New York City.\n\n**System Benefit Charge (Electric):** The System Benefits Charge recovers costs associated with clean energy activities conducted by the New York State Energy Research and Development Authority (NYSERDA) and energy efficiency programs implemented by the Company.\n\n**Temperature Data*** Source: Central Park Weather station\n\n<a id='dddb0624-5361-4b06-8c97-778871e631a0'></a>\n\nGet Smarter with your smart meter.\nLearn how much energy you are using, and how to avoid seasonal spikes in energy use. Log in or create an account at conEd.com/EnergyUsage.\n\n<a id='520e8dcf-4528-49e0-8ac6-b526785a325c'></a>\n\nLooking for LED light bulbs or a new thermostat? Con Edison residential customers are eligible for instant rebates and additional savings on energy-efficient equipment from top brands. Shop the Con Edison Marketplace at: marketplace.conEd.com.\n\n<a id='5518a08f-60dc-46fc-8b5e-e0e7d7076252'></a>\n\nWe have 662-231-8098 as your primary phone number and MDJOHNSONDAWGS@GMAIL.COM as your email address. Need to update? Please go to conEd.com or call us.\n\n<a id='00af8813-c285-47a2-b4f2-a8bb17a2dc37'></a>\n\n(i) **How to get in touch with us**\nEmail or chat: conEd.com/ContactUs\n\n<a id='0ec5e95c-b4f2-4b4c-9322-643b90ff4ef0'></a>\n\nPhone: 1-800-752-6633\n\n<a id='c61f55a5-174d-423a-b9e1-90d0ae61fa42'></a>\n\nMail: Con Edison, PO Box 138, New York, NY 10276-0138\n\n<a id='5864d2bf-3ba2-497e-9aec-c3fb06d5b43c'></a>\n\n## Ways to pay your bill\n\n1.  **Auto Pay**: Pay your bill automatically from your checking or savings account at no charge. Enroll at conEd.com/MyAccount or call 1-212-243-1900.\n2.  **Online**: Pay at conEd.com/MyAccount using your bank account, credit card or debit card at no charge.\n3.  **App**: Download the Con Edison app from the App Store or Google Play Store.\n4.  **Phone**: Pay by phone at 1-888-925-5016 using your bank account, credit card or debit card at no charge.\n5.  **In Person**: Our walk-in centers are open Monday through Friday from 8.30 a.m. to 5 p.m.\n\n<a id='649c252f-81dc-4b43-8258-768166f28719'></a>\n\nBronx: 1775 Grand Concourse\nBrooklyn: 345 Jay Street\nManhattan: 122 East 124th Street\nQueens: 89-67 162nd Street\nStaten Island: 1140 Richmond Terrace\nWestchester: 1 Bogopa Plaza\n\n<a id='31a80b76-343c-42fc-b7d1-ddc6979a6067'></a>\n\n6. **Mail**: Send a check or money order, payable to Con Edison, using the envelope provided to authorize us to make a one-time electronic fund transfer from your account or to process the payment as a check. You will not get the check back. Do not send cash.\nCon Edison\nPO Box 1702\nNew York, NY 10116-1702\n\n<a id='4a5812d4-94d1-4bc3-832f-66322f597d95'></a>\n\nSave a stamp. Pay your bill online at ConEd.com/MyAccount\n\n<a id='c514e390-5e0b-44e6-a0f0-e754c31f147d'></a>\n\nGo Paperless!\nScan the QR Code with your smart device or\nvisit conEd.com/MyAccount to enroll in eBill\n\n<a id='c98a1ed5-684c-4935-ba49-2e274c45a041'></a>\n\nQuestions? Call toll free 1-800-75-CONED (1-800-752-6633)",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 14479,
+    "filename": "electric3.pdf",
+    "job_id": "22e35b84d5da45ac8e2706ff805f1437",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "dd552f2b-a968-45f9-83ad-acc583f05edd",
+        "1448bc3f-e2e5-47d4-bbf8-f2de5d22ead1",
+        "9ed1ee03-796c-4116-bba4-381da6a256c2",
+        "4eb5d041-4e39-46e8-b66b-84e3f1fab7d5",
+        "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "2888268d-e66e-4627-9e78-f4c429777438",
+        "58b09a6f-833b-488b-be20-2f78f09445d5",
+        "d280cd6f-0f5a-422c-9a1f-9d1f84271b04",
+        "758b3d0b-94f8-4c5c-b63b-3956f276e409",
+        "f7bbaa9e-f579-4cb1-bf61-f5ae35f6c6c9",
+        "3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5",
+        "29760581-2594-4fa2-bcf3-cd7c7a42e03d",
+        "09503432-2f71-43bb-819b-a33209d59a11",
+        "59103170-bc7b-46e9-b985-128c9864e178",
+        "b0a60205-0765-472f-a820-6b2e8488ab76",
+        "29b738d5-eaee-4dd4-8a06-7ddbfe4ccce8",
+        "b7ed34d8-4983-4e66-9aa1-3967c74273bd",
+        "385c0754-07ab-4f6a-8662-23325f3d760c",
+        "1d96a091-c232-4728-b944-fc13725dd9a8",
+        "73098002-fe45-4d55-973b-dd329be76321",
+        "a525aa42-b3b6-4b9b-9bc1-8c82ac6dc85f",
+        "e42f1f63-ce77-4f3f-88af-b43357b460c6",
+        "5295021f-a078-47c5-859b-fe6120df1e72",
+        "88c7401c-4a93-42f3-af42-ca7f24b22b7a",
+        "1d46dfd6-3db5-4973-9720-4bade476d7cd",
+        "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "9d01d0cd-1713-4eaa-80ef-a298fa635569",
+        "dddb0624-5361-4b06-8c97-778871e631a0",
+        "520e8dcf-4528-49e0-8ac6-b526785a325c",
+        "5518a08f-60dc-46fc-8b5e-e0e7d7076252",
+        "00af8813-c285-47a2-b4f2-a8bb17a2dc37",
+        "0ec5e95c-b4f2-4b4c-9322-643b90ff4ef0",
+        "c61f55a5-174d-423a-b9e1-90d0ae61fa42",
+        "5864d2bf-3ba2-497e-9aec-c3fb06d5b43c",
+        "649c252f-81dc-4b43-8258-768166f28719",
+        "31a80b76-343c-42fc-b7d1-ddc6979a6067",
+        "4a5812d4-94d1-4bc3-832f-66322f597d95",
+        "c514e390-5e0b-44e6-a0f0-e754c31f147d",
+        "c98a1ed5-684c-4935-ba49-2e274c45a041"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='dd552f2b-a968-45f9-83ad-acc583f05edd'></a>\n\nPage 1 of 2\n\n<a id='1448bc3f-e2e5-47d4-bbf8-f2de5d22ead1'></a>\n\n<::conEdison logo::>\n\n<a id='9ed1ee03-796c-4116-bba4-381da6a256c2'></a>\n\n<::logo: N/A\nCurrent balance due\n$44.89\nDirect Pay\n04/07/23\nA rectangular blue box divided into two sections, with white text.::>\n\n<a id='4eb5d041-4e39-46e8-b66b-84e3f1fab7d5'></a>\n\nMITCHELL JOHNSON\nAccount Number: 44-6011-0985-0021-7\n\n<a id='58d7c260-b000-42fc-baa4-2186b12f1172'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Your bill breakdown</td><td id=\"0-3\">$ (dollar sign icon)</td></tr>\n<tr><td id=\"0-4\">Last billing period</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">Your billing summary as of Mar 28, 2023</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Your previous charges and payments</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Total charges from your last bill</td><td id=\"0-b\">$46.16</td></tr>\n<tr><td id=\"0-c\">Payments through Mar 24, thank you</td><td id=\"0-d\">-$46.16</td></tr>\n<tr><td id=\"0-e\">Balance from previous bill</td><td id=\"0-f\">None</td></tr>\n<tr><td id=\"0-g\">Your new charges</td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Billing period: Feb 24, 2023 to Mar 27, 2023</td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">Electricity charges - for 31 days</td><td id=\"0-l\">$44.89</td></tr>\n<tr><td id=\"0-m\">Total from this billing period</td><td id=\"0-n\">$44.89</td></tr>\n<tr><td id=\"0-o\">Total amount due</td><td id=\"0-p\">$44.89</td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">Direct Payment Plan - The amount of $44.89 will be automatically deducted from your bank on Apr 7, 2023.</td></tr>\n</table>\n\n<a id='2888268d-e66e-4627-9e78-f4c429777438'></a>\n\nService delivered to: 435 W 57 STRE 2H\nNext billing date: Tuesday, Apr 25, 2023\nYour average daily electric usage\n<::bar and line chart::>\n2.87 kWh\n\nBar chart (electric usage):\nLeft Y-axis: kWh, with values 0, 3.75, 7.5, 11.25, 15.\nX-axis: Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec, Jan, Feb, Mar.\nBars (approximate kWh):\nMar: 5\nApr: 5\nMay: 6\nJun: 10\nJul: 12\nAug: 13\nSep: 10\nOct: 3\nNov: 2\nDec: 4\nJan: 3\nFeb: 2\nMar: 3\n\nLine chart (temperature):\nRight Y-axis: temp*, with values 0, 25, 50, 75, 100.\nLine points (approximate temp*):\nMar: 70\nApr: 75\nMay: 85\nJun: 95\nJul: 100\nAug: 95\nSep: 85\nOct: 60\nNov: 50\nDec: 55\nJan: 50\nFeb: 60\nMar: 65\n<::>\n\n<a id='58b09a6f-833b-488b-be20-2f78f09445d5'></a>\n\nMessages For You\n\n🔊 We're here to help. If you have trouble paying your bill, a few minutes is all it takes to set up a payment plan. _Need a few more days to pay your bill? No problem._ Visit **conEd.com/PaymentPlans** to schedule an extension, enroll in a payment agreement and manage your energy bill online.\n\n<a id='d280cd6f-0f5a-422c-9a1f-9d1f84271b04'></a>\n\nSupply costs are higher for electric and gas this winter. Weather and increased energy usage can also impact your bill. Visit **conEd.com/UnderstandYourRate** to learn about rising energy costs and how to manage your bill.\n\n<a id='758b3d0b-94f8-4c5c-b63b-3956f276e409'></a>\n\nQuestions? Contact Us: conEd.com/ContactUs 1-212-243-1900 or 1-800-752-6633\n\n<a id='f7bbaa9e-f579-4cb1-bf61-f5ae35f6c6c9'></a>\n\nconEdison PO Box 1702\nNew York, NY 10116-1702\n\n<a id='3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5'></a>\n\nAccount number: 44-6011-0985-0021-7\n\nDirect Pay\n04/07/23\n\n$44.89\n\n<a id='29760581-2594-4fa2-bcf3-cd7c7a42e03d'></a>\n\nYour Energy Bill\n\n<a id='09503432-2f71-43bb-819b-a33209d59a11'></a>\n\nThe amount of $44.89 will be automatically\ndeducted from your bank on Apr 7, 2023.\n\n<a id='59103170-bc7b-46e9-b985-128c9864e178'></a>\n\nMITCHELL JOHNSON\n435 W 57 ST 2H\nNEW YORK NY 10019-1723\n\n<a id='b0a60205-0765-472f-a820-6b2e8488ab76'></a>\n\nDirect Payment Plan\nDo not mail a payment\n\n<a id='29b738d5-eaee-4dd4-8a06-7ddbfe4ccce8'></a>\n\nM97\n0014317\n\n<a id='b7ed34d8-4983-4e66-9aa1-3967c74273bd'></a>\n\n0020 446011098500217 100000004489\n\n<a id='385c0754-07ab-4f6a-8662-23325f3d760c'></a>\n\n10000004489\n\n<a id='1d96a091-c232-4728-b944-fc13725dd9a8'></a>\n\n<::scan_code: Barcode\nNo readable text\nThis is a clean, black and white barcode with no visible damage or quality issues.:anesh::>\n\n<a id='73098002-fe45-4d55-973b-dd329be76321'></a>\n\nName: MITCHELL JOHNSON\n\n<a id='a525aa42-b3b6-4b9b-9bc1-8c82ac6dc85f'></a>\n\nAccount number: 44-6011-0985-0021-7\n\n<a id='e42f1f63-ce77-4f3f-88af-b43357b460c6'></a>\n\nPage 2 of 2\n\n<a id='5295021f-a078-47c5-859b-fe6120df1e72'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Your electricity</td><td id=\"1-3\">breakdown Rate, EU Residential or Religious (lightbulb icon)</td></tr>\n<tr><td id=\"1-4\">Electric Meter Detail -</td><td id=\"1-5\">billing period from Feb 24, 2023 to Mar 27, 2023 (31 days)</td></tr>\n</table>\n<table id=\"1-6\">\n<tr><td id=\"1-7\">Meter #</td><td id=\"1-8\">New Reading</td><td id=\"1-9\">Reading Type</td><td id=\"1-a\">Date</td><td id=\"1-b\">Prior Reading</td><td id=\"1-c\">Reading Type</td><td id=\"1-d\">Date</td><td id=\"1-e\">Reading Diff</td><td id=\"1-f\">Total Usage</td></tr>\n<tr><td id=\"1-g\">013641924</td><td id=\"1-h\">5047</td><td id=\"1-i\">Actual</td><td id=\"1-j\">Mar 27, 23</td><td id=\"1-k\">4958</td><td id=\"1-l\">Actual</td><td id=\"1-m\">Feb 24, 23</td><td id=\"1-n\">89</td><td id=\"1-o\">89 kWh</td></tr>\n</table>\n\n<a id='88c7401c-4a93-42f3-af42-ca7f24b22b7a'></a>\n\n## Your Supply Charges\n\nSupply 89 kWh @11.1124¢/kWh $9.89\nMerchant function charge $0.43\nGRT & other tax surcharges $0.25\n\n<a id='1d46dfd6-3db5-4973-9720-4bade476d7cd'></a>\n\nTotal electricity supply charges $10.57\n\nYour total electricity supply cost for this bill is 11.9¢ per kWh. You can compare this price with those offered by energy services companies (ESCOs). For a list of ESCOs, visit PowerYourWay.com or call 1-800-780-2884.\n\n<a id='c4915f34-8b25-4b75-bd00-ff15b7a2044b'></a>\n\n<table id=\"1-p\">\n<tr><td id=\"1-q\">Your Delivery Charges</td><td id=\"1-r\"></td></tr>\n<tr><td id=\"1-s\">Basic service charge</td><td id=\"1-t\">$18.85</td></tr>\n<tr><td id=\"1-u\">Delivery 89 kWh @12.988c/kWh</td><td id=\"1-v\">$11.56</td></tr>\n<tr><td id=\"1-w\">System Benefit Charge @0.5169c/kWh</td><td id=\"1-x\">$0.46</td></tr>\n<tr><td id=\"1-y\">GRT &amp; other tax surcharges</td><td id=\"1-z\">$1.52</td></tr>\n<tr><td id=\"1-A\">Total electricity delivery charges</td><td id=\"1-B\">$32.39</td></tr>\n<tr><td id=\"1-C\">Sales tax @4.5000%</td><td id=\"1-D\">$1.93</td></tr>\n<tr><td id=\"1-E\">Total sales tax</td><td id=\"1-F\">$1.93</td></tr>\n<tr><td id=\"1-G\">Your electricity total</td><td id=\"1-H\">$44.89</td></tr>\n</table>\n\n<a id='9d01d0cd-1713-4eaa-80ef-a298fa635569'></a>\n\n# Understanding your bill\n\n**Basic service charge (Electric):** Charge for basic system infrastructure and customer-related services, including customer accounting, and metering services. A billing and payment processing charge of $1.28, which may be avoided by switching to an energy services company (ESCO), is also included.\n\n**Billing charges:** These charges are for the electricity you need (supply) and getting the electricity to you (delivery). Rates are based on a 30 day period. When your billing period is more or less than 30 days, we prorate your bill accordingly.\n\n**Delivery:** Charge for maintaining the system through which Con Edison delivers electricity to you.\n\n**Electricity Supply:** Charge for the electricity supplied to you by Con Edison.\n\n**GRT & other tax surcharges:** Taxes on Con Edison gross receipts from sales of utility services and other tax surcharges.\n\n**Merchant Function Charge (Electric):** Charge associated with procuring electricity, credit and collection related activities and uncollectible accounts.\n\n**Sales tax:** Tax collected on behalf of New York City.\n\n**System Benefit Charge (Electric):** The System Benefits Charge recovers costs associated with clean energy activities conducted by the New York State Energy Research and Development Authority (NYSERDA) and energy efficiency programs implemented by the Company.\n\n**Temperature Data*** Source: Central Park Weather station\n\n<a id='dddb0624-5361-4b06-8c97-778871e631a0'></a>\n\nGet Smarter with your smart meter.\nLearn how much energy you are using, and how to avoid seasonal spikes in energy use. Log in or create an account at conEd.com/EnergyUsage.\n\n<a id='520e8dcf-4528-49e0-8ac6-b526785a325c'></a>\n\nLooking for LED light bulbs or a new thermostat? Con Edison residential customers are eligible for instant rebates and additional savings on energy-efficient equipment from top brands. Shop the Con Edison Marketplace at: marketplace.conEd.com.\n\n<a id='5518a08f-60dc-46fc-8b5e-e0e7d7076252'></a>\n\nWe have 662-231-8098 as your primary phone number and MDJOHNSONDAWGS@GMAIL.COM as your email address. Need to update? Please go to conEd.com or call us.\n\n<a id='00af8813-c285-47a2-b4f2-a8bb17a2dc37'></a>\n\n(i) **How to get in touch with us**\nEmail or chat: conEd.com/ContactUs\n\n<a id='0ec5e95c-b4f2-4b4c-9322-643b90ff4ef0'></a>\n\nPhone: 1-800-752-6633\n\n<a id='c61f55a5-174d-423a-b9e1-90d0ae61fa42'></a>\n\nMail: Con Edison, PO Box 138, New York, NY 10276-0138\n\n<a id='5864d2bf-3ba2-497e-9aec-c3fb06d5b43c'></a>\n\n## Ways to pay your bill\n\n1.  **Auto Pay**: Pay your bill automatically from your checking or savings account at no charge. Enroll at conEd.com/MyAccount or call 1-212-243-1900.\n2.  **Online**: Pay at conEd.com/MyAccount using your bank account, credit card or debit card at no charge.\n3.  **App**: Download the Con Edison app from the App Store or Google Play Store.\n4.  **Phone**: Pay by phone at 1-888-925-5016 using your bank account, credit card or debit card at no charge.\n5.  **In Person**: Our walk-in centers are open Monday through Friday from 8.30 a.m. to 5 p.m.\n\n<a id='649c252f-81dc-4b43-8258-768166f28719'></a>\n\nBronx: 1775 Grand Concourse\nBrooklyn: 345 Jay Street\nManhattan: 122 East 124th Street\nQueens: 89-67 162nd Street\nStaten Island: 1140 Richmond Terrace\nWestchester: 1 Bogopa Plaza\n\n<a id='31a80b76-343c-42fc-b7d1-ddc6979a6067'></a>\n\n6. **Mail**: Send a check or money order, payable to Con Edison, using the envelope provided to authorize us to make a one-time electronic fund transfer from your account or to process the payment as a check. You will not get the check back. Do not send cash.\nCon Edison\nPO Box 1702\nNew York, NY 10116-1702\n\n<a id='4a5812d4-94d1-4bc3-832f-66322f597d95'></a>\n\nSave a stamp. Pay your bill online at ConEd.com/MyAccount\n\n<a id='c514e390-5e0b-44e6-a0f0-e754c31f147d'></a>\n\nGo Paperless!\nScan the QR Code with your smart device or\nvisit conEd.com/MyAccount to enroll in eBill\n\n<a id='c98a1ed5-684c-4935-ba49-2e274c45a041'></a>\n\nQuestions? Call toll free 1-800-75-CONED (1-800-752-6633)",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "dd552f2b-a968-45f9-83ad-acc583f05edd": {
+      "box": {
+        "bottom": 0.023859739303588867,
+        "left": 0.8962572813034058,
+        "right": 0.9661511182785034,
+        "top": 0.010778900235891342
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "1448bc3f-e2e5-47d4-bbf8-f2de5d22ead1": {
+      "box": {
+        "bottom": 0.08426233381032944,
+        "left": 0.03184845298528671,
+        "right": 0.24334311485290527,
+        "top": 0.04662599414587021
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "9ed1ee03-796c-4116-bba4-381da6a256c2": {
+      "box": {
+        "bottom": 0.10471095144748688,
+        "left": 0.5111027359962463,
+        "right": 0.9711217284202576,
+        "top": 0.02658100053668022
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "4eb5d041-4e39-46e8-b66b-84e3f1fab7d5": {
+      "box": {
+        "bottom": 0.16640596091747284,
+        "left": 0.029276207089424133,
+        "right": 0.3203607201576233,
+        "top": 0.13005881011486053
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "58d7c260-b000-42fc-baa4-2186b12f1172": {
+      "box": {
+        "bottom": 0.4050769507884979,
+        "left": 0.02578568458557129,
+        "right": 0.4902293086051941,
+        "top": 0.16870149970054626
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.4039542346852514,
+        "left": 0.029620976558716594,
+        "right": 0.4865603425675964,
+        "top": 0.17053224673765527
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.19612984121758031,
+        "left": 0.02964818882691274,
+        "right": 0.27262940658431867,
+        "top": 0.17053224673765527
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.19614674442720742,
+        "left": 0.2725517953320422,
+        "right": 0.4865350733412164,
+        "top": 0.17057546305650817
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.22056154087597407,
+        "left": 0.029644991723751995,
+        "right": 0.2725517953320422,
+        "top": 0.19611065350058607
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.22058961788302364,
+        "left": 0.27247759376885883,
+        "right": 0.48653804655597427,
+        "top": 0.19612984121758031
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.23514682332028247,
+        "left": 0.02964307795114535,
+        "right": 0.27247759376885883,
+        "top": 0.22052969000118283
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.2351361396710157,
+        "left": 0.2724333292261343,
+        "right": 0.4865398148391227,
+        "top": 0.22056154087597407
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.24852207514147107,
+        "left": 0.02964132677394914,
+        "right": 0.2724333292261343,
+        "top": 0.2351361396710157
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.24851490399799336,
+        "left": 0.2723926965546295,
+        "right": 0.4865414425995622,
+        "top": 0.23512671821119174
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.26082691714462464,
+        "left": 0.029639721283310567,
+        "right": 0.2723926965546295,
+        "top": 0.24851490399799336
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.2608642666847761,
+        "left": 0.27235530371523686,
+        "right": 0.4865429455372828,
+        "top": 0.2485085778076001
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.27167275677272346,
+        "left": 0.029638295732269226,
+        "right": 0.27235530371523686,
+        "top": 0.2607845929688959
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.27165011958651064,
+        "left": 0.27232243254576993,
+        "right": 0.4865442550905768,
+        "top": 0.26082691714462464
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.292438982251915,
+        "left": 0.029635576879495713,
+        "right": 0.27232243254576993,
+        "top": 0.27165011958651064
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.2924115927710488,
+        "left": 0.2722593778346437,
+        "right": 0.48654677999036966,
+        "top": 0.27163013731922503
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.31187483566062707,
+        "left": 0.02963303521135607,
+        "right": 0.2722593778346437,
+        "top": 0.2924115927710488
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.3118951069325645,
+        "left": 0.27220026598130487,
+        "right": 0.48654915289451534,
+        "top": 0.292387402148867
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.32503770506399765,
+        "left": 0.029631312428636605,
+        "right": 0.27220026598130487,
+        "top": 0.3118518957407196
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.32506195315882147,
+        "left": 0.27216028900469813,
+        "right": 0.4865507545008725,
+        "top": 0.31187483566062707
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.3360793419577588,
+        "left": 0.02962986319247337,
+        "right": 0.27216028900469813,
+        "top": 0.325010274433592
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.3360632657018835,
+        "left": 0.2721268032527551,
+        "right": 0.48655209096402857,
+        "top": 0.32503770506399765
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.3524111457165786,
+        "left": 0.029627728733190032,
+        "right": 0.2721268032527551,
+        "top": 0.3360632657018835
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.3524368846003615,
+        "left": 0.2720771530741436,
+        "right": 0.4865540843692001,
+        "top": 0.3360490504470826
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.3771977803743179,
+        "left": 0.02962448191433124,
+        "right": 0.2720771530741436,
+        "top": 0.35238204991816957
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.37721280440857907,
+        "left": 0.2720018735371741,
+        "right": 0.4865570980954933,
+        "top": 0.3524111457165786
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 1,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.4039542346852514,
+        "left": 0.029620976558716594,
+        "right": 0.4865603425675964,
+        "top": 0.3771808081181383
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "58d7c260-b000-42fc-baa4-2186b12f1172",
+        "col": 0,
+        "colspan": 2,
+        "row": 12,
+        "rowspan": 1
+      }
+    },
+    "2888268d-e66e-4627-9e78-f4c429777438": {
+      "box": {
+        "bottom": 0.30566707253456116,
+        "left": 0.5111544132232666,
+        "right": 0.9751741886138916,
+        "top": 0.13070884346961975
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "58b09a6f-833b-488b-be20-2f78f09445d5": {
+      "box": {
+        "bottom": 0.5701218843460083,
+        "left": 0.030055731534957886,
+        "right": 0.48092952370643616,
+        "top": 0.4778321087360382
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d280cd6f-0f5a-422c-9a1f-9d1f84271b04": {
+      "box": {
+        "bottom": 0.6391351222991943,
+        "left": 0.029611334204673767,
+        "right": 0.481472909450531,
+        "top": 0.5749024152755737
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "758b3d0b-94f8-4c5c-b63b-3956f276e409": {
+      "box": {
+        "bottom": 0.6939086318016052,
+        "left": 0.19851380586624146,
+        "right": 0.8167354464530945,
+        "top": 0.6739495396614075
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f7bbaa9e-f579-4cb1-bf61-f5ae35f6c6c9": {
+      "box": {
+        "bottom": 0.750243067741394,
+        "left": 0.07297594845294952,
+        "right": 0.4527202844619751,
+        "top": 0.7144608497619629
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5": {
+      "box": {
+        "bottom": 0.7691898941993713,
+        "left": 0.6223733425140381,
+        "right": 0.960689902305603,
+        "top": 0.698553740978241
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "29760581-2594-4fa2-bcf3-cd7c7a42e03d": {
+      "box": {
+        "bottom": 0.795683741569519,
+        "left": 0.07400727272033691,
+        "right": 0.3435423672199249,
+        "top": 0.7626255750656128
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "09503432-2f71-43bb-819b-a33209d59a11": {
+      "box": {
+        "bottom": 0.8037589192390442,
+        "left": 0.6284323930740356,
+        "right": 0.9177418947219849,
+        "top": 0.772244393825531
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "59103170-bc7b-46e9-b985-128c9864e178": {
+      "box": {
+        "bottom": 0.8897848725318909,
+        "left": 0.10324324667453766,
+        "right": 0.27812594175338745,
+        "top": 0.8450822234153748
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b0a60205-0765-472f-a820-6b2e8488ab76": {
+      "box": {
+        "bottom": 0.8872096538543701,
+        "left": 0.6278539896011353,
+        "right": 0.826413631439209,
+        "top": 0.8496524095535278
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "29b738d5-eaee-4dd4-8a06-7ddbfe4ccce8": {
+      "box": {
+        "bottom": 0.9877744317054749,
+        "left": 0.06110449135303497,
+        "right": 0.12061923742294312,
+        "top": 0.9560429453849792
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "b7ed34d8-4983-4e66-9aa1-3967c74273bd": {
+      "box": {
+        "bottom": 0.9538954496383667,
+        "left": 0.298259437084198,
+        "right": 0.7072746157646179,
+        "top": 0.9345264434814453
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "385c0754-07ab-4f6a-8662-23325f3d760c": {
+      "box": {
+        "bottom": 0.954596996307373,
+        "left": 0.7237991690635681,
+        "right": 0.8652210831642151,
+        "top": 0.9344918727874756
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1d96a091-c232-4728-b944-fc13725dd9a8": {
+      "box": {
+        "bottom": 0.9846696853637695,
+        "left": 0.3585163354873657,
+        "right": 0.580032229423523,
+        "top": 0.9578769207000732
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "73098002-fe45-4d55-973b-dd329be76321": {
+      "box": {
+        "bottom": 0.0421307347714901,
+        "left": 0.04445242881774902,
+        "right": 0.20664000511169434,
+        "top": 0.024780821055173874
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "a525aa42-b3b6-4b9b-9bc1-8c82ac6dc85f": {
+      "box": {
+        "bottom": 0.0413019172847271,
+        "left": 0.4909941554069519,
+        "right": 0.7128178477287292,
+        "top": 0.0255759097635746
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "e42f1f63-ce77-4f3f-88af-b43357b460c6": {
+      "box": {
+        "bottom": 0.04205147549510002,
+        "left": 0.8820763230323792,
+        "right": 0.956182062625885,
+        "top": 0.025355275720357895
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "5295021f-a078-47c5-859b-fe6120df1e72": {
+      "box": {
+        "bottom": 0.1326158046722412,
+        "left": 0.0385909378528595,
+        "right": 0.9630943536758423,
+        "top": 0.05264955386519432
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.10847646972717007,
+        "left": 0.04404524732517695,
+        "right": 0.9558749770215869,
+        "top": 0.05747525144546667
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.09123547696012362,
+        "left": 0.04404524732517695,
+        "right": 0.24426263698207656,
+        "top": 0.057496529715509614
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.09124844015313074,
+        "left": 0.24328082672469514,
+        "right": 0.9558749770215867,
+        "top": 0.05747525144546667
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.10847646972717007,
+        "left": 0.04404667364099974,
+        "right": 0.24328082672469514,
+        "top": 0.09123185083890409
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.1084523916941858,
+        "left": 0.24277981098867335,
+        "right": 0.955532465236773,
+        "top": 0.09123547696012362
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.13190147506939165,
+        "left": 0.04293718226070001,
+        "right": 0.958396292464565,
+        "top": 0.11129537127718292
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.12204934226629167,
+        "left": 0.0430481064861183,
+        "right": 0.09869373492253233,
+        "top": 0.11138214472297658
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.12205121130002453,
+        "left": 0.09857959936358593,
+        "right": 0.23446146743553545,
+        "top": 0.11136842731121027
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.12205243121971275,
+        "left": 0.23422535387209695,
+        "right": 0.3230672592129312,
+        "top": 0.11135948246707514
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.12205327848922141,
+        "left": 0.32268694096262374,
+        "right": 0.38446372836368115,
+        "top": 0.11135328443152934
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.12205487572208418,
+        "left": 0.38412607187714004,
+        "right": 0.5003505059016978,
+        "top": 0.11134158554433918
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 4,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.12205641559428745,
+        "left": 0.499948248826674,
+        "right": 0.6120629366569464,
+        "top": 0.1113303080616711
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 5,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.1220575287163139,
+        "left": 0.6116109593595185,
+        "right": 0.6926436933027361,
+        "top": 0.11132217335293448
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 6,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.12205938861202632,
+        "left": 0.6923281918421427,
+        "right": 0.8273914312228274,
+        "top": 0.11130857043275198
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 7,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.12206119621379508,
+        "left": 0.8271971739004871,
+        "right": 0.9582740987467179,
+        "top": 0.11129537127718292
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 8,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.13190147506939165,
+        "left": 0.04293718226070001,
+        "right": 0.09879910885759141,
+        "top": 0.12204857489143524
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.1318976716700987,
+        "left": 0.09869373492253233,
+        "right": 0.23422535387209695,
+        "top": 0.12204934226629167
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.13188846588075304,
+        "left": 0.23400792841109921,
+        "right": 0.32268694096262374,
+        "top": 0.12205121130002453
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.13188245191121012,
+        "left": 0.32233731464752924,
+        "right": 0.38412607187714004,
+        "top": 0.12205243121971275
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.131878266088987,
+        "left": 0.38381602770558637,
+        "right": 0.499948248826674,
+        "top": 0.12205327848922141
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 4,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.13187038423634215,
+        "left": 0.49957970119291156,
+        "right": 0.6116109593595185,
+        "top": 0.12205487572208418
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 5,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.13186278464233714,
+        "left": 0.6111977380519339,
+        "right": 0.6923281918421427,
+        "top": 0.12205641559428745
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 6,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.1318572804262938,
+        "left": 0.6920401868461923,
+        "right": 0.8271971739004871,
+        "top": 0.1220575287163139
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 7,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.13184809020851007,
+        "left": 0.8270203011332603,
+        "right": 0.958396292464565,
+        "top": 0.12205938861202632
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "5295021f-a078-47c5-859b-fe6120df1e72",
+        "col": 8,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "88c7401c-4a93-42f3-af42-ca7f24b22b7a": {
+      "box": {
+        "bottom": 0.19402062892913818,
+        "left": 0.038527220487594604,
+        "right": 0.4929499924182892,
+        "top": 0.13412749767303467
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "1d46dfd6-3db5-4973-9720-4bade476d7cd": {
+      "box": {
+        "bottom": 0.2620352804660797,
+        "left": 0.03740265965461731,
+        "right": 0.4909946024417877,
+        "top": 0.19256627559661865
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "c4915f34-8b25-4b75-bd00-ff15b7a2044b": {
+      "box": {
+        "bottom": 0.26663559675216675,
+        "left": 0.5125160217285156,
+        "right": 0.9649696350097656,
+        "top": 0.13463521003723145
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.2666321978469455,
+        "left": 0.5154154449360249,
+        "right": 0.9615829242939071,
+        "top": 0.13561658103865268
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-q": {
+      "box": {
+        "bottom": 0.15384696908499246,
+        "left": 0.5154154449360249,
+        "right": 0.746281233645273,
+        "top": 0.13561658103865268
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-r": {
+      "box": {
+        "bottom": 0.15383380013963627,
+        "left": 0.746246823988916,
+        "right": 0.9614863028203797,
+        "top": 0.1356321267171889
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-s": {
+      "box": {
+        "bottom": 0.16879604858470296,
+        "left": 0.515418134667436,
+        "right": 0.746246823988916,
+        "top": 0.15383380013963627
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-t": {
+      "box": {
+        "bottom": 0.16879574938339736,
+        "left": 0.7462185389230342,
+        "right": 0.9614991280107064,
+        "top": 0.1538215205701271
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-u": {
+      "box": {
+        "bottom": 0.1805388137327708,
+        "left": 0.5154203402709919,
+        "right": 0.7462185389230342,
+        "top": 0.16879574938339736
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-v": {
+      "box": {
+        "bottom": 0.18055880982769512,
+        "left": 0.7461963390516564,
+        "right": 0.9615092033128858,
+        "top": 0.16879547029875241
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-w": {
+      "box": {
+        "bottom": 0.19238135651653637,
+        "left": 0.5154220696493179,
+        "right": 0.7461963390516564,
+        "top": 0.1805173817379251
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "1-x": {
+      "box": {
+        "bottom": 0.1923851982647779,
+        "left": 0.7461739511196172,
+        "right": 0.9615193326164653,
+        "top": 0.1805388137327708
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "1-y": {
+      "box": {
+        "bottom": 0.20352495409239701,
+        "left": 0.5154238194657826,
+        "right": 0.7461739511196172,
+        "top": 0.19237723994850808
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "1-z": {
+      "box": {
+        "bottom": 0.20352543270884177,
+        "left": 0.746152884520175,
+        "right": 0.9615288742290404,
+        "top": 0.19238135651653637
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "1-A": {
+      "box": {
+        "bottom": 0.2191458412297571,
+        "left": 0.5154254641360831,
+        "right": 0.746152884520175,
+        "top": 0.20352444136143844
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "1-B": {
+      "box": {
+        "bottom": 0.21913765921252987,
+        "left": 0.7461233692220198,
+        "right": 0.9615422395596926,
+        "top": 0.20352495409239701
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "1-C": {
+      "box": {
+        "bottom": 0.2312917462973696,
+        "left": 0.5154277689345222,
+        "right": 0.7461233692220198,
+        "top": 0.21913765921252987
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "1-D": {
+      "box": {
+        "bottom": 0.23130377241330827,
+        "left": 0.7461003923258732,
+        "right": 0.9615526663814202,
+        "top": 0.21913001901087029
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "1-E": {
+      "box": {
+        "bottom": 0.24279806735233705,
+        "left": 0.5154295590549755,
+        "right": 0.7461003923258732,
+        "top": 0.23127887071182865
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "1-F": {
+      "box": {
+        "bottom": 0.24279355635311511,
+        "left": 0.7460786485376886,
+        "right": 0.9615625037735334,
+        "top": 0.2312917462973696
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "1-G": {
+      "box": {
+        "bottom": 0.2666321978469455,
+        "left": 0.5154312586098592,
+        "right": 0.7460786485376886,
+        "top": 0.24279355635311511
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 0,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "1-H": {
+      "box": {
+        "bottom": 0.26663166105350317,
+        "left": 0.7460335833960444,
+        "right": 0.9615829242939071,
+        "top": 0.24278934192214485
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "c4915f34-8b25-4b75-bd00-ff15b7a2044b",
+        "col": 1,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "9d01d0cd-1713-4eaa-80ef-a298fa635569": {
+      "box": {
+        "bottom": 0.4316028952598572,
+        "left": 0.03827059268951416,
+        "right": 0.9598214030265808,
+        "top": 0.2806395888328552
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "dddb0624-5361-4b06-8c97-778871e631a0": {
+      "box": {
+        "bottom": 0.49420300126075745,
+        "left": 0.036094993352890015,
+        "right": 0.915221095085144,
+        "top": 0.45505133271217346
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "520e8dcf-4528-49e0-8ac6-b526785a325c": {
+      "box": {
+        "bottom": 0.5454255938529968,
+        "left": 0.03557845950126648,
+        "right": 0.9240075349807739,
+        "top": 0.5066279768943787
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "5518a08f-60dc-46fc-8b5e-e0e7d7076252": {
+      "box": {
+        "bottom": 0.5860834121704102,
+        "left": 0.03651478886604309,
+        "right": 0.9678128957748413,
+        "top": 0.5480737686157227
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "00af8813-c285-47a2-b4f2-a8bb17a2dc37": {
+      "box": {
+        "bottom": 0.7078537344932556,
+        "left": 0.08002059161663055,
+        "right": 0.4926803708076477,
+        "top": 0.6854602694511414
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "0ec5e95c-b4f2-4b4c-9322-643b90ff4ef0": {
+      "box": {
+        "bottom": 0.7054066061973572,
+        "left": 0.5168901681900024,
+        "right": 0.6352294683456421,
+        "top": 0.6906645894050598
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "c61f55a5-174d-423a-b9e1-90d0ae61fa42": {
+      "box": {
+        "bottom": 0.7060067653656006,
+        "left": 0.6585652828216553,
+        "right": 0.9236787557601929,
+        "top": 0.6908663511276245
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "5864d2bf-3ba2-497e-9aec-c3fb06d5b43c": {
+      "box": {
+        "bottom": 0.8654529452323914,
+        "left": 0.04183873534202576,
+        "right": 0.49762699007987976,
+        "top": 0.7278727889060974
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "649c252f-81dc-4b43-8258-768166f28719": {
+      "box": {
+        "bottom": 0.9492664933204651,
+        "left": 0.1321607530117035,
+        "right": 0.3534906506538391,
+        "top": 0.8735310435295105
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "31a80b76-343c-42fc-b7d1-ddc6979a6067": {
+      "box": {
+        "bottom": 0.8410425186157227,
+        "left": 0.5303229093551636,
+        "right": 0.9432287216186523,
+        "top": 0.755061149597168
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "4a5812d4-94d1-4bc3-832f-66322f597d95": {
+      "box": {
+        "bottom": 0.8908627033233643,
+        "left": 0.5312678813934326,
+        "right": 0.8712799549102783,
+        "top": 0.8481714725494385
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "c514e390-5e0b-44e6-a0f0-e754c31f147d": {
+      "box": {
+        "bottom": 0.9472449421882629,
+        "left": 0.530814528465271,
+        "right": 0.9208875894546509,
+        "top": 0.901991069316864
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "c98a1ed5-684c-4935-ba49-2e274c45a041": {
+      "box": {
+        "bottom": 0.9716722965240479,
+        "left": 0.5601578950881958,
+        "right": 0.8872305154800415,
+        "top": 0.9562010765075684
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    }
+  }
+}

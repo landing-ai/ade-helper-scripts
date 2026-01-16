@@ -1,0 +1,178 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "PSEG",
+      "phone_number": "1-800-436-7734",
+      "website": "pseg.com/myaccount",
+      "usage_bar_chart": true
+    },
+    "account_info": {
+      "account_holder": "ARISLEIDY BAEZ NUNEZ",
+      "account_number": "7491381707",
+      "service_address": "1146 N 31ST ST CAMDEN CITY NJ 08105-4118",
+      "service_address_primary": "1146 N 31ST ST",
+      "service_address_city": "CAMDEN CITY",
+      "service_address_state": "NJ",
+      "service_address_zip": "08105"
+    },
+    "billing_summary": {
+      "due_date": "2025-06-26",
+      "bill_date": "2025-06-11",
+      "service_start_date": "05-09-2025",
+      "service_end_date": "06-09-2025",
+      "total_amount_due": "$1,467.77"
+    },
+    "electric_charges": {
+      "meter_number": null,
+      "usage_kwh": null,
+      "total_electric_charges": null
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": null,
+      "total_gas_charges": null
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "PSEG",
+        "references": [
+          "d81276b6-2ab2-4870-aefa-0e0d1e92e2a6"
+        ]
+      },
+      "phone_number": {
+        "value": "1-800-436-7734",
+        "references": [
+          "85335fae-2ef7-4c9f-911c-dc4293e43b88"
+        ]
+      },
+      "website": {
+        "value": "pseg.com/myaccount",
+        "references": [
+          "85335fae-2ef7-4c9f-911c-dc4293e43b88"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": true,
+        "references": [
+          "05bc726e-6753-4d1b-a308-27f8192e539b"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "ARISLEIDY BAEZ NUNEZ",
+        "references": [
+          "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733"
+        ]
+      },
+      "account_number": {
+        "value": "7491381707",
+        "references": [
+          "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733"
+        ]
+      },
+      "service_address": {
+        "value": "1146 N 31ST ST CAMDEN CITY NJ 08105-4118",
+        "references": [
+          "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733"
+        ]
+      },
+      "service_address_primary": {
+        "value": "1146 N 31ST ST",
+        "references": [
+          "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733"
+        ]
+      },
+      "service_address_city": {
+        "value": "CAMDEN CITY",
+        "references": [
+          "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733"
+        ]
+      },
+      "service_address_state": {
+        "value": "NJ",
+        "references": [
+          "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733"
+        ]
+      },
+      "service_address_zip": {
+        "value": "08105",
+        "references": [
+          "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2025-06-26",
+        "references": [
+          "32b5da15-95d2-4467-8970-428c62930bd3"
+        ]
+      },
+      "bill_date": {
+        "value": "2025-06-11",
+        "references": [
+          "38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142"
+        ]
+      },
+      "service_start_date": {
+        "value": "05-09-2025",
+        "references": [
+          "38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142"
+        ]
+      },
+      "service_end_date": {
+        "value": "06-09-2025",
+        "references": [
+          "38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$1,467.77",
+        "references": [
+          "32b5da15-95d2-4467-8970-428c62930bd3"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_kwh": {
+        "value": null,
+        "references": []
+      },
+      "total_electric_charges": {
+        "value": null,
+        "references": []
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": null,
+        "references": []
+      },
+      "total_gas_charges": {
+        "value": null,
+        "references": []
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 1.6714,
+    "duration_ms": 20986,
+    "filename": "upload.md",
+    "job_id": "e694e83f7b1c49df8254647549efd833",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'string'\n\nFailed validating 'type' in schema['properties']['electric_charges']['properties']['meter_number']:\n    {'type': 'string',\n     'title': 'Electric Meter Number',\n     'description': 'Identifier for the electric meter. Blank if this bill '\n                    'does not inlcude electric service.'}\n\nOn instance['electric_charges']['meter_number']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

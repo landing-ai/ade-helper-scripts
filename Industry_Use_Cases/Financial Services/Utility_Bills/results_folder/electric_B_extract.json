@@ -1,0 +1,187 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "Alabama Power",
+      "phone_number": "800-245-2244",
+      "website": "AlabamaPower.com",
+      "usage_bar_chart": true
+    },
+    "account_info": {
+      "account_holder": "ERIKA J ZAPATA",
+      "account_number": "96762-33381",
+      "service_address": "703 RALEIGH CT APT A BIRMINGHAM AL 35209",
+      "service_address_primary": "703 RALEIGH CT APT A",
+      "service_address_city": "BIRMINGHAM",
+      "service_address_state": "AL",
+      "service_address_zip": "35209"
+    },
+    "billing_summary": {
+      "due_date": "2024-07-01",
+      "bill_date": null,
+      "service_start_date": "05-16-2024",
+      "service_end_date": "06-17-2024",
+      "total_amount_due": "$176.51"
+    },
+    "electric_charges": {
+      "meter_number": null,
+      "usage_kwh": "935",
+      "total_electric_charges": "$176.51"
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": "0",
+      "total_gas_charges": "$0.00"
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "Alabama Power",
+        "references": [
+          "044ca166-863f-4083-bd6d-9b9749c49711"
+        ]
+      },
+      "phone_number": {
+        "value": "800-245-2244",
+        "references": [
+          "7acbd63c-f7a4-4a85-9a1c-ad256c951514"
+        ]
+      },
+      "website": {
+        "value": "AlabamaPower.com",
+        "references": [
+          "7acbd63c-f7a4-4a85-9a1c-ad256c951514"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": true,
+        "references": [
+          "f676505e-6d00-41cd-a117-d64123e5039e"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "ERIKA J ZAPATA",
+        "references": [
+          "0cb2152c-6cbf-49a3-90f9-efda90d76051"
+        ]
+      },
+      "account_number": {
+        "value": "96762-33381",
+        "references": [
+          "bbcdef9e-1960-425c-ac23-9d4585805b09"
+        ]
+      },
+      "service_address": {
+        "value": "703 RALEIGH CT APT A BIRMINGHAM AL 35209",
+        "references": [
+          "b89614f1-21dd-4bd4-a9c0-921bb44ab558",
+          "1333aa48-fae2-4e82-832e-1ef5d71d783d"
+        ]
+      },
+      "service_address_primary": {
+        "value": "703 RALEIGH CT APT A",
+        "references": [
+          "b89614f1-21dd-4bd4-a9c0-921bb44ab558",
+          "1333aa48-fae2-4e82-832e-1ef5d71d783d"
+        ]
+      },
+      "service_address_city": {
+        "value": "BIRMINGHAM",
+        "references": [
+          "1333aa48-fae2-4e82-832e-1ef5d71d783d"
+        ]
+      },
+      "service_address_state": {
+        "value": "AL",
+        "references": [
+          "1333aa48-fae2-4e82-832e-1ef5d71d783d"
+        ]
+      },
+      "service_address_zip": {
+        "value": "35209",
+        "references": [
+          "1333aa48-fae2-4e82-832e-1ef5d71d783d"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2024-07-01",
+        "references": [
+          "0-3",
+          "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208"
+        ]
+      },
+      "bill_date": {
+        "value": null,
+        "references": []
+      },
+      "service_start_date": {
+        "value": "05-16-2024",
+        "references": [
+          "fe143fe6-815a-467e-9d1f-3798bffe4e0a"
+        ]
+      },
+      "service_end_date": {
+        "value": "06-17-2024",
+        "references": [
+          "fe143fe6-815a-467e-9d1f-3798bffe4e0a"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$176.51",
+        "references": [
+          "0-5",
+          "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208",
+          "0ecaac0c-e0be-4afa-8785-5d89d1de14ee"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_kwh": {
+        "value": "935",
+        "references": [
+          "f676505e-6d00-41cd-a117-d64123e5039e",
+          "0-D",
+          "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "$176.51",
+        "references": [
+          "0ecaac0c-e0be-4afa-8785-5d89d1de14ee"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": "0",
+        "references": []
+      },
+      "total_gas_charges": {
+        "value": "$0.00",
+        "references": []
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 1.9632,
+    "duration_ms": 13987,
+    "filename": "upload.md",
+    "job_id": "255d4c3cf58c470abadeb37b93ddc869",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'string'\n\nFailed validating 'type' in schema['properties']['billing_summary']['properties']['bill_date']:\n    {'type': 'string',\n     'title': 'Bill Date',\n     'description': 'Date the bill was issued, in YYYY-MM-DD format.'}\n\nOn instance['billing_summary']['bill_date']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

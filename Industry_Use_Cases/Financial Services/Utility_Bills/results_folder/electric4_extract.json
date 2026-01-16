@@ -1,0 +1,185 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "Duke Energy",
+      "phone_number": "800-700-8744",
+      "website": "duke-energy.com",
+      "usage_bar_chart": false
+    },
+    "account_info": {
+      "account_holder": "KAREN G PEREZ",
+      "account_number": "9100 7883 2561",
+      "service_address": "13619 TORTONA LN APT 3121 WINDERMERE FL 34786",
+      "service_address_primary": "13619 TORTONA LN APT 3121",
+      "service_address_city": "WINDERMERE",
+      "service_address_state": "FL",
+      "service_address_zip": "34786"
+    },
+    "billing_summary": {
+      "due_date": "2022-03-16",
+      "bill_date": "2022-02-23",
+      "service_start_date": "01-25-2022",
+      "service_end_date": "02-21-2022",
+      "total_amount_due": "$170.95"
+    },
+    "electric_charges": {
+      "meter_number": "1262413",
+      "usage_kwh": "1,059",
+      "total_electric_charges": "$154.26"
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": null,
+      "total_gas_charges": null
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "Duke Energy",
+        "references": [
+          "7c8cc88f-3cb4-46cc-8751-44806cf40af1"
+        ]
+      },
+      "phone_number": {
+        "value": "800-700-8744",
+        "references": [
+          "7c8cc88f-3cb4-46cc-8751-44806cf40af1"
+        ]
+      },
+      "website": {
+        "value": "duke-energy.com",
+        "references": [
+          "7c8cc88f-3cb4-46cc-8751-44806cf40af1"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": false,
+        "references": [
+          "e7b86602-1529-4917-94f0-e70fb26535d0"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "KAREN G PEREZ",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "account_number": {
+        "value": "9100 7883 2561",
+        "references": [
+          "4bd41128-7e47-4776-8ff7-7a50eed9c239"
+        ]
+      },
+      "service_address": {
+        "value": "13619 TORTONA LN APT 3121 WINDERMERE FL 34786",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "service_address_primary": {
+        "value": "13619 TORTONA LN APT 3121",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "service_address_city": {
+        "value": "WINDERMERE",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "service_address_state": {
+        "value": "FL",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "service_address_zip": {
+        "value": "34786",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2022-03-16",
+        "references": [
+          "0-a",
+          "602dcb16-cb0c-41bc-b9c1-94900b4b9d4d"
+        ]
+      },
+      "bill_date": {
+        "value": "2022-02-23",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "service_start_date": {
+        "value": "01-25-2022",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "service_end_date": {
+        "value": "02-21-2022",
+        "references": [
+          "2eb96aa1-51cc-44b6-878a-b8379f534a89"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$170.95",
+        "references": [
+          "0-b"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": "1262413",
+        "references": [
+          "2-2"
+        ]
+      },
+      "usage_kwh": {
+        "value": "1,059",
+        "references": [
+          "2-8"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "$154.26",
+        "references": [
+          "0-7"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": null,
+        "references": []
+      },
+      "total_gas_charges": {
+        "value": null,
+        "references": []
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 3.3402,
+    "duration_ms": 11350,
+    "filename": "upload.md",
+    "job_id": "58e74a44427041e48499fdfca85b1dd6",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'string'\n\nFailed validating 'type' in schema['properties']['gas_charges']['properties']['meter_number']:\n    {'type': 'string',\n     'title': 'Gas Meter Number',\n     'description': 'Identifier for the gas meter. Blank if this bill does '\n                    'not inlcude gas service.'}\n\nOn instance['gas_charges']['meter_number']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

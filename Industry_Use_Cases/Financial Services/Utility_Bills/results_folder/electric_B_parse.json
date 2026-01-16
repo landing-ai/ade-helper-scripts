@@ -1,0 +1,1583 @@
+{
+  "chunks": [
+    {
+      "id": "5d59ad95-f0f7-495f-beee-dcce54199267",
+      "grounding": {
+        "box": {
+          "bottom": 0.025401795282959938,
+          "left": 0.8139773607254028,
+          "right": 0.8772212266921997,
+          "top": 0.013639694079756737
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5d59ad95-f0f7-495f-beee-dcce54199267'></a>\n\nPage 1 of 2",
+      "type": "marginalia"
+    },
+    {
+      "id": "044ca166-863f-4083-bd6d-9b9749c49711",
+      "grounding": {
+        "box": {
+          "bottom": 0.10929616540670395,
+          "left": 0.10006590932607651,
+          "right": 0.33289745450019836,
+          "top": 0.07568278163671494
+        },
+        "page": 0
+      },
+      "markdown": "<a id='044ca166-863f-4083-bd6d-9b9749c49711'></a>\n\nAlabama Power\nCustom\nERIKA",
+      "type": "text"
+    },
+    {
+      "id": "0cb2152c-6cbf-49a3-90f9-efda90d76051",
+      "grounding": {
+        "box": {
+          "bottom": 0.10209380835294724,
+          "left": 0.2952597141265869,
+          "right": 0.3916469216346741,
+          "top": 0.07138029485940933
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0cb2152c-6cbf-49a3-90f9-efda90d76051'></a>\n\nCustomer Name\nERIKA J ZAPATA",
+      "type": "marginalia"
+    },
+    {
+      "id": "bbcdef9e-1960-425c-ac23-9d4585805b09",
+      "grounding": {
+        "box": {
+          "bottom": 0.09374885261058807,
+          "left": 0.4985082149505615,
+          "right": 0.592002272605896,
+          "top": 0.06110765039920807
+        },
+        "page": 0
+      },
+      "markdown": "<a id='bbcdef9e-1960-425c-ac23-9d4585805b09'></a>\n\nAccount Number\n96762-33381",
+      "type": "text"
+    },
+    {
+      "id": "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208",
+      "grounding": {
+        "box": {
+          "bottom": 0.08368653059005737,
+          "left": 0.6060515642166138,
+          "right": 0.89872145652771,
+          "top": 0.024941686540842056
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4d52e5e5-9fe8-4331-ad3a-0f205ff4d208'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Please Pay By</td><td id=\"0-3\">Jul 1, 2024</td></tr>\n<tr><td id=\"0-4\">Total Due</td><td id=\"0-5\">$176.51</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "b89614f1-21dd-4bd4-a9c0-921bb44ab558",
+      "grounding": {
+        "box": {
+          "bottom": 0.1540311723947525,
+          "left": 0.09695074707269669,
+          "right": 0.2316340208053589,
+          "top": 0.12600181996822357
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b89614f1-21dd-4bd4-a9c0-921bb44ab558'></a>\n\nService Address\n703 RALEIGH CT APT A",
+      "type": "text"
+    },
+    {
+      "id": "fe143fe6-815a-467e-9d1f-3798bffe4e0a",
+      "grounding": {
+        "box": {
+          "bottom": 0.1458771973848343,
+          "left": 0.43040353059768677,
+          "right": 0.5962339043617249,
+          "top": 0.1106887012720108
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fe143fe6-815a-467e-9d1f-3798bffe4e0a'></a>\n\nService Period\nMay 16, 2024 - June 17, 2024",
+      "type": "text"
+    },
+    {
+      "id": "0ecaac0c-e0be-4afa-8785-5d89d1de14ee",
+      "grounding": {
+        "box": {
+          "bottom": 0.23590470850467682,
+          "left": 0.09601292014122009,
+          "right": 0.6027888059616089,
+          "top": 0.16341529786586761
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0ecaac0c-e0be-4afa-8785-5d89d1de14ee'></a>\n\n## Billing Summary\n\nPrevious Bill Amount $129.29\nPayment Received On 05/29/24 -129.29\nCurrent Electric Service +176.51\n\nThank You!\n\nTotal Due $176.51",
+      "type": "text"
+    },
+    {
+      "id": "4a66d199-cd34-4861-937f-d08294c4c1e2",
+      "grounding": {
+        "box": {
+          "bottom": 0.29051530361175537,
+          "left": 0.09510871767997742,
+          "right": 0.43343237042427063,
+          "top": 0.24115878343582153
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4a66d199-cd34-4861-937f-d08294c4c1e2'></a>\n\nElectric service balances unpaid after 07/12/2024 are\nsubject to a late charge of 1.5% of the amount due or $2.00,\nwhichever is greater.",
+      "type": "text"
+    },
+    {
+      "id": "ba539b3e-65c7-406f-9a36-b2790a107b0b",
+      "grounding": {
+        "box": {
+          "bottom": 0.5958438515663147,
+          "left": 0.08968272805213928,
+          "right": 0.6306895017623901,
+          "top": 0.48114651441574097
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ba539b3e-65c7-406f-9a36-b2790a107b0b'></a>\n\nElectronic Home Energy Reports, or eHERs, help you better understand your home's\nenergy usage. Each month, you will receive an emailed report that compares your\nhome's energy usage over time, provides energy insights based on your usage and\ncharacteristics and shares tips and recommendations designed to help you save\nenergy and money. Enroll now to receive your free monthly report at\nehers.alabamapowerprograms.com.",
+      "type": "text"
+    },
+    {
+      "id": "7acbd63c-f7a4-4a85-9a1c-ad256c951514",
+      "grounding": {
+        "box": {
+          "bottom": 0.2083408385515213,
+          "left": 0.618475079536438,
+          "right": 0.9090745449066162,
+          "top": 0.09473349153995514
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7acbd63c-f7a4-4a85-9a1c-ad256c951514'></a>\n\nContact Us 24 hours a day, 7 days a week\n\nAlabamaPower.com\n\nAccount Number\n96762-33381\n\nWeb Access Code\n521812\n\nCustomer Service\n1-800-245-2244\n\nPower Outage Reporting\n1-800-888-2726\n\nGo Paperless",
+      "type": "text"
+    },
+    {
+      "id": "217d6a1c-aaa4-4023-933e-ed7e1796c979",
+      "grounding": {
+        "box": {
+          "bottom": 0.245900958776474,
+          "left": 0.6254448890686035,
+          "right": 0.9129742383956909,
+          "top": 0.20560210943222046
+        },
+        "page": 0
+      },
+      "markdown": "<a id='217d6a1c-aaa4-4023-933e-ed7e1796c979'></a>\n\nPaperless Billing Clear the clutter of paper by going paperless.\nReceive email notifications when your bill is ready and view your\nbill online. Sign up at AlabamaPower.com/paperless.",
+      "type": "text"
+    },
+    {
+      "id": "f24d5d2d-004f-41e7-afa7-1ef8b4400728",
+      "grounding": {
+        "box": {
+          "bottom": 0.2922041714191437,
+          "left": 0.628504753112793,
+          "right": 0.8898398876190186,
+          "top": 0.24514015018939972
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f24d5d2d-004f-41e7-afa7-1ef8b4400728'></a>\n\nOnline Visit AlabamaPower.com/mypayment to make a one-time payment. Or set up your online account by using:\nAccount number: 96762-33381\nWeb access code: 521812",
+      "type": "text"
+    },
+    {
+      "id": "f2327ecf-4b07-408c-b3e9-a2273c84588d",
+      "grounding": {
+        "box": {
+          "bottom": 0.3398836851119995,
+          "left": 0.6326291561126709,
+          "right": 0.93461012840271,
+          "top": 0.2884474992752075
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f2327ecf-4b07-408c-b3e9-a2273c84588d'></a>\n\nAutoPay Save time and effort with this free bill payment option.\nVisit AlabamaPower.com/autopay to authorize your bill amount to\nbe automatically debited from your checking or savings account\neach month.",
+      "type": "text"
+    },
+    {
+      "id": "eae28ecd-6759-4a24-843c-f9af84ce76ba",
+      "grounding": {
+        "box": {
+          "bottom": 0.36537879705429077,
+          "left": 0.6352108716964722,
+          "right": 0.9407588243484497,
+          "top": 0.3354547619819641
+        },
+        "page": 0
+      },
+      "markdown": "<a id='eae28ecd-6759-4a24-843c-f9af84ce76ba'></a>\n\nFor current billing details, turn page over",
+      "type": "text"
+    },
+    {
+      "id": "f676505e-6d00-41cd-a117-d64123e5039e",
+      "grounding": {
+        "box": {
+          "bottom": 0.48194217681884766,
+          "left": 0.639474630355835,
+          "right": 0.9532166719436646,
+          "top": 0.3670145869255066
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f676505e-6d00-41cd-a117-d64123e5039e'></a>\n\nUsage Information\nTotal Used\n935 kWh\nNext Scheduled Read Date\nOn or after July 16, 2024\n1550\n1240\n930\n620\n<table id=\"0-6\">\n<tr><td id=\"0-7\">(white rectangle)</td><td id=\"0-8\" colspan=\"3\">grey rectangle</td><td id=\"0-9\" colspan=\"2\">brown rectangle</td></tr>\n<tr><td id=\"0-a\">(grey T-shape)</td><td id=\"0-b\" colspan=\"2\">textured rectangle with small squares</td><td id=\"0-c\">(grey square)</td><td id=\"0-d\">(grey rectangle with stripes)</td><td id=\"0-e\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-f\">(grey I-shape)</td><td id=\"0-g\" colspan=\"2\">scanned image (text partially visible)</td><td id=\"0-h\">(grey square)</td><td id=\"0-i\">(grey rectangle with stripes)</td><td id=\"0-j\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-k\">(grey I-shape)</td><td id=\"0-l\" colspan=\"2\">striped pattern</td><td id=\"0-m\">(grey square)</td><td id=\"0-n\">(grey rectangle with stripes)</td><td id=\"0-o\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-p\">(grey I-shape)</td><td id=\"0-q\"></td><td id=\"0-r\">(grey rectangle with stripes)</td><td id=\"0-s\">(grey square)</td><td id=\"0-t\">(grey rectangle with stripes)</td><td id=\"0-u\">(blurred rectangle)</td></tr>\n</table>\n310\n0\nJun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May\nTotal kWh\n2023\n2024",
+      "type": "table"
+    },
+    {
+      "id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+      "grounding": {
+        "box": {
+          "bottom": 0.5599507689476013,
+          "left": 0.6572092771530151,
+          "right": 0.9697275161743164,
+          "top": 0.47777292132377625
+        },
+        "page": 0
+      },
+      "markdown": "<a id='87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c'></a>\n\n<table id=\"0-v\">\n<tr><td id=\"0-w\"></td><td id=\"0-x\">1 Year Ago</td><td id=\"0-y\">Last Month</td><td id=\"0-z\">This Month</td></tr>\n<tr><td id=\"0-A\">Total kWh Used</td><td id=\"0-B\">1,043</td><td id=\"0-C\">678</td><td id=\"0-D\">935</td></tr>\n<tr><td id=\"0-E\">Average Daily kWh</td><td id=\"0-F\">35</td><td id=\"0-G\">23</td><td id=\"0-H\">29</td></tr>\n<tr><td id=\"0-I\">Days In Billing Period</td><td id=\"0-J\">30</td><td id=\"0-K\">30</td><td id=\"0-L\">32</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "6c13dfac-ccd3-4e0a-9c44-976bf02a65bc",
+      "grounding": {
+        "box": {
+          "bottom": 0.6092982292175293,
+          "left": 0.08264012634754181,
+          "right": 0.2869611978530884,
+          "top": 0.5906301736831665
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6c13dfac-ccd3-4e0a-9c44-976bf02a65bc'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS.",
+      "type": "text"
+    },
+    {
+      "id": "7dac3321-7c4b-4bde-8812-2d337f0356fc",
+      "grounding": {
+        "box": {
+          "bottom": 0.6219004392623901,
+          "left": 0.17949697375297546,
+          "right": 0.6075680255889893,
+          "top": 0.5921331644058228
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7dac3321-7c4b-4bde-8812-2d337f0356fc'></a>\n\nITION FOR YOUR RECORDS.\nPORTION WITH YOUR PAYMENT, MAKING SURE THE RETURN ADDRESS SHOWS IN THE ENVELOPE WINDOW.",
+      "type": "text"
+    },
+    {
+      "id": "04821c6f-b5ac-412d-8ecb-22881089e5bc",
+      "grounding": {
+        "box": {
+          "bottom": 0.6124760508537292,
+          "left": 0.6716590523719788,
+          "right": 0.8581920266151428,
+          "top": 0.5888389945030212
+        },
+        "page": 0
+      },
+      "markdown": "<a id='04821c6f-b5ac-412d-8ecb-22881089e5bc'></a>\n\nAccount Number 96762-33381",
+      "type": "text"
+    },
+    {
+      "id": "7599af7a-b4b0-48e7-a4c4-34f2d76a6425",
+      "grounding": {
+        "box": {
+          "bottom": 0.6787879467010498,
+          "left": 0.6658828258514404,
+          "right": 0.9967834949493408,
+          "top": 0.6103522777557373
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7599af7a-b4b0-48e7-a4c4-34f2d76a6425'></a>\n\nPlease Pay By Jul 1, 2024\nTotal Due $176.51",
+      "type": "text"
+    },
+    {
+      "id": "09966d69-8a10-49b9-bdce-fcac764f6c77",
+      "grounding": {
+        "box": {
+          "bottom": 0.6999021768569946,
+          "left": 0.09324562549591064,
+          "right": 0.35991182923316956,
+          "top": 0.6626771688461304
+        },
+        "page": 0
+      },
+      "markdown": "<a id='09966d69-8a10-49b9-bdce-fcac764f6c77'></a>\n\nAlabama Power P.O. Box 830728\nBirmingham, AL 35283",
+      "type": "text"
+    },
+    {
+      "id": "51f277eb-2caf-4dbe-bb4f-994b649068f6",
+      "grounding": {
+        "box": {
+          "bottom": 0.7088357210159302,
+          "left": 0.5608368515968323,
+          "right": 0.9945206046104431,
+          "top": 0.6732344627380371
+        },
+        "page": 0
+      },
+      "markdown": "<a id='51f277eb-2caf-4dbe-bb4f-994b649068f6'></a>\n\noption Yes, I want to save a stamp on my next payment!: [ ]\nEnroll me in paperless billing today.\nPlease verify your email address on the back of this statement.",
+      "type": "text"
+    },
+    {
+      "id": "68a7a9aa-b415-4397-9364-8ec85c44201b",
+      "grounding": {
+        "box": {
+          "bottom": 0.7598220705986023,
+          "left": 0.0864107608795166,
+          "right": 0.7264968156814575,
+          "top": 0.7187744975090027
+        },
+        "page": 0
+      },
+      "markdown": "<a id='68a7a9aa-b415-4397-9364-8ec85c44201b'></a>\n\n01967623338151000001765100000000000000000000000000000000",
+      "type": "text"
+    },
+    {
+      "id": "f2af84d5-4e2c-476e-8114-9558dfece0d6",
+      "grounding": {
+        "box": {
+          "bottom": 0.8122277855873108,
+          "left": 0.5489274859428406,
+          "right": 0.6522729992866516,
+          "top": 0.7581669688224792
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f2af84d5-4e2c-476e-8114-9558dfece0d6'></a>\n\nMail To:\nPO BOX 242\nBIRMINGHAM AL\n35292",
+      "type": "text"
+    },
+    {
+      "id": "1333aa48-fae2-4e82-832e-1ef5d71d783d",
+      "grounding": {
+        "box": {
+          "bottom": 0.832639217376709,
+          "left": 0.08953015506267548,
+          "right": 0.2376568764448166,
+          "top": 0.7888767719268799
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1333aa48-fae2-4e82-832e-1ef5d71d783d'></a>\n\nERIKA J ZAPATA\n703 RALEIGH CT APT A\nBIRMINGHAM AL 35209",
+      "type": "text"
+    },
+    {
+      "id": "93f0a367-3bd6-4ecb-a5bb-1df01cd1630f",
+      "grounding": {
+        "box": {
+          "bottom": 0.9209145307540894,
+          "left": 0.09789977967739105,
+          "right": 0.1819404810667038,
+          "top": 0.9026174545288086
+        },
+        "page": 0
+      },
+      "markdown": "<a id='93f0a367-3bd6-4ecb-a5bb-1df01cd1630f'></a>\n\nROO011285",
+      "type": "marginalia"
+    },
+    {
+      "id": "64244f40-a1b3-4042-b297-51da61cc545c",
+      "grounding": {
+        "box": {
+          "bottom": 0.9163082242012024,
+          "left": 0.22682835161685944,
+          "right": 0.253170371055603,
+          "top": 0.9011239409446716
+        },
+        "page": 0
+      },
+      "markdown": "<a id='64244f40-a1b3-4042-b297-51da61cc545c'></a>\n\n12",
+      "type": "marginalia"
+    },
+    {
+      "id": "2788c13a-fe30-4bf8-b370-282f7f9d0093",
+      "grounding": {
+        "box": {
+          "bottom": 0.6098135709762573,
+          "left": 0.03421692177653313,
+          "right": 0.056547362357378006,
+          "top": 0.5562705993652344
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2788c13a-fe30-4bf8-b370-282f7f9d0093'></a>\n\n96762-33381 12",
+      "type": "marginalia"
+    },
+    {
+      "id": "a90cb3e1-e3f4-4505-a541-93a97283bcaf",
+      "grounding": {
+        "box": {
+          "bottom": 0.7889437079429626,
+          "left": 0.6805017590522766,
+          "right": 0.9563772082328796,
+          "top": 0.74407559633255
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a90cb3e1-e3f4-4505-a541-93a97283bcaf'></a>\n\n✓PROJECT SHARE\noption $1: [ ]\noption $2: [ ]\noption $5: [ ]\noption $10: [ ]\nMONTHLY",
+      "type": "text"
+    },
+    {
+      "id": "7d311c88-2d77-4735-a99f-a5d4614d0ecd",
+      "grounding": {
+        "box": {
+          "bottom": 0.6271800994873047,
+          "left": 0.08397670835256577,
+          "right": 0.18171313405036926,
+          "top": 0.6118289232254028
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7d311c88-2d77-4735-a99f-a5d4614d0ecd'></a>\n\nPLEASE RETURN THIS P",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='5d59ad95-f0f7-495f-beee-dcce54199267'></a>\n\nPage 1 of 2\n\n<a id='044ca166-863f-4083-bd6d-9b9749c49711'></a>\n\nAlabama Power\nCustom\nERIKA\n\n<a id='0cb2152c-6cbf-49a3-90f9-efda90d76051'></a>\n\nCustomer Name\nERIKA J ZAPATA\n\n<a id='bbcdef9e-1960-425c-ac23-9d4585805b09'></a>\n\nAccount Number\n96762-33381\n\n<a id='4d52e5e5-9fe8-4331-ad3a-0f205ff4d208'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Please Pay By</td><td id=\"0-3\">Jul 1, 2024</td></tr>\n<tr><td id=\"0-4\">Total Due</td><td id=\"0-5\">$176.51</td></tr>\n</table>\n\n<a id='b89614f1-21dd-4bd4-a9c0-921bb44ab558'></a>\n\nService Address\n703 RALEIGH CT APT A\n\n<a id='fe143fe6-815a-467e-9d1f-3798bffe4e0a'></a>\n\nService Period\nMay 16, 2024 - June 17, 2024\n\n<a id='0ecaac0c-e0be-4afa-8785-5d89d1de14ee'></a>\n\n## Billing Summary\n\nPrevious Bill Amount $129.29\nPayment Received On 05/29/24 -129.29\nCurrent Electric Service +176.51\n\nThank You!\n\nTotal Due $176.51\n\n<a id='4a66d199-cd34-4861-937f-d08294c4c1e2'></a>\n\nElectric service balances unpaid after 07/12/2024 are\nsubject to a late charge of 1.5% of the amount due or $2.00,\nwhichever is greater.\n\n<a id='ba539b3e-65c7-406f-9a36-b2790a107b0b'></a>\n\nElectronic Home Energy Reports, or eHERs, help you better understand your home's\nenergy usage. Each month, you will receive an emailed report that compares your\nhome's energy usage over time, provides energy insights based on your usage and\ncharacteristics and shares tips and recommendations designed to help you save\nenergy and money. Enroll now to receive your free monthly report at\nehers.alabamapowerprograms.com.\n\n<a id='7acbd63c-f7a4-4a85-9a1c-ad256c951514'></a>\n\nContact Us 24 hours a day, 7 days a week\n\nAlabamaPower.com\n\nAccount Number\n96762-33381\n\nWeb Access Code\n521812\n\nCustomer Service\n1-800-245-2244\n\nPower Outage Reporting\n1-800-888-2726\n\nGo Paperless\n\n<a id='217d6a1c-aaa4-4023-933e-ed7e1796c979'></a>\n\nPaperless Billing Clear the clutter of paper by going paperless.\nReceive email notifications when your bill is ready and view your\nbill online. Sign up at AlabamaPower.com/paperless.\n\n<a id='f24d5d2d-004f-41e7-afa7-1ef8b4400728'></a>\n\nOnline Visit AlabamaPower.com/mypayment to make a one-time payment. Or set up your online account by using:\nAccount number: 96762-33381\nWeb access code: 521812\n\n<a id='f2327ecf-4b07-408c-b3e9-a2273c84588d'></a>\n\nAutoPay Save time and effort with this free bill payment option.\nVisit AlabamaPower.com/autopay to authorize your bill amount to\nbe automatically debited from your checking or savings account\neach month.\n\n<a id='eae28ecd-6759-4a24-843c-f9af84ce76ba'></a>\n\nFor current billing details, turn page over\n\n<a id='f676505e-6d00-41cd-a117-d64123e5039e'></a>\n\nUsage Information\nTotal Used\n935 kWh\nNext Scheduled Read Date\nOn or after July 16, 2024\n1550\n1240\n930\n620\n<table id=\"0-6\">\n<tr><td id=\"0-7\">(white rectangle)</td><td id=\"0-8\" colspan=\"3\">grey rectangle</td><td id=\"0-9\" colspan=\"2\">brown rectangle</td></tr>\n<tr><td id=\"0-a\">(grey T-shape)</td><td id=\"0-b\" colspan=\"2\">textured rectangle with small squares</td><td id=\"0-c\">(grey square)</td><td id=\"0-d\">(grey rectangle with stripes)</td><td id=\"0-e\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-f\">(grey I-shape)</td><td id=\"0-g\" colspan=\"2\">scanned image (text partially visible)</td><td id=\"0-h\">(grey square)</td><td id=\"0-i\">(grey rectangle with stripes)</td><td id=\"0-j\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-k\">(grey I-shape)</td><td id=\"0-l\" colspan=\"2\">striped pattern</td><td id=\"0-m\">(grey square)</td><td id=\"0-n\">(grey rectangle with stripes)</td><td id=\"0-o\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-p\">(grey I-shape)</td><td id=\"0-q\"></td><td id=\"0-r\">(grey rectangle with stripes)</td><td id=\"0-s\">(grey square)</td><td id=\"0-t\">(grey rectangle with stripes)</td><td id=\"0-u\">(blurred rectangle)</td></tr>\n</table>\n310\n0\nJun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May\nTotal kWh\n2023\n2024\n\n<a id='87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c'></a>\n\n<table id=\"0-v\">\n<tr><td id=\"0-w\"></td><td id=\"0-x\">1 Year Ago</td><td id=\"0-y\">Last Month</td><td id=\"0-z\">This Month</td></tr>\n<tr><td id=\"0-A\">Total kWh Used</td><td id=\"0-B\">1,043</td><td id=\"0-C\">678</td><td id=\"0-D\">935</td></tr>\n<tr><td id=\"0-E\">Average Daily kWh</td><td id=\"0-F\">35</td><td id=\"0-G\">23</td><td id=\"0-H\">29</td></tr>\n<tr><td id=\"0-I\">Days In Billing Period</td><td id=\"0-J\">30</td><td id=\"0-K\">30</td><td id=\"0-L\">32</td></tr>\n</table>\n\n<a id='6c13dfac-ccd3-4e0a-9c44-976bf02a65bc'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS.\n\n<a id='7dac3321-7c4b-4bde-8812-2d337f0356fc'></a>\n\nITION FOR YOUR RECORDS.\nPORTION WITH YOUR PAYMENT, MAKING SURE THE RETURN ADDRESS SHOWS IN THE ENVELOPE WINDOW.\n\n<a id='04821c6f-b5ac-412d-8ecb-22881089e5bc'></a>\n\nAccount Number 96762-33381\n\n<a id='7599af7a-b4b0-48e7-a4c4-34f2d76a6425'></a>\n\nPlease Pay By Jul 1, 2024\nTotal Due $176.51\n\n<a id='09966d69-8a10-49b9-bdce-fcac764f6c77'></a>\n\nAlabama Power P.O. Box 830728\nBirmingham, AL 35283\n\n<a id='51f277eb-2caf-4dbe-bb4f-994b649068f6'></a>\n\noption Yes, I want to save a stamp on my next payment!: [ ]\nEnroll me in paperless billing today.\nPlease verify your email address on the back of this statement.\n\n<a id='68a7a9aa-b415-4397-9364-8ec85c44201b'></a>\n\n01967623338151000001765100000000000000000000000000000000\n\n<a id='f2af84d5-4e2c-476e-8114-9558dfece0d6'></a>\n\nMail To:\nPO BOX 242\nBIRMINGHAM AL\n35292\n\n<a id='1333aa48-fae2-4e82-832e-1ef5d71d783d'></a>\n\nERIKA J ZAPATA\n703 RALEIGH CT APT A\nBIRMINGHAM AL 35209\n\n<a id='93f0a367-3bd6-4ecb-a5bb-1df01cd1630f'></a>\n\nROO011285\n\n<a id='64244f40-a1b3-4042-b297-51da61cc545c'></a>\n\n12\n\n<a id='2788c13a-fe30-4bf8-b370-282f7f9d0093'></a>\n\n96762-33381 12\n\n<a id='a90cb3e1-e3f4-4505-a541-93a97283bcaf'></a>\n\n✓PROJECT SHARE\noption $1: [ ]\noption $2: [ ]\noption $5: [ ]\noption $10: [ ]\nMONTHLY\n\n<a id='7d311c88-2d77-4735-a99f-a5d4614d0ecd'></a>\n\nPLEASE RETURN THIS P",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 6707,
+    "filename": "electric_B.jpg",
+    "job_id": "74e3392e3b1146b484e1b83875ddfb30",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "5d59ad95-f0f7-495f-beee-dcce54199267",
+        "044ca166-863f-4083-bd6d-9b9749c49711",
+        "0cb2152c-6cbf-49a3-90f9-efda90d76051",
+        "bbcdef9e-1960-425c-ac23-9d4585805b09",
+        "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208",
+        "b89614f1-21dd-4bd4-a9c0-921bb44ab558",
+        "fe143fe6-815a-467e-9d1f-3798bffe4e0a",
+        "0ecaac0c-e0be-4afa-8785-5d89d1de14ee",
+        "4a66d199-cd34-4861-937f-d08294c4c1e2",
+        "ba539b3e-65c7-406f-9a36-b2790a107b0b",
+        "7acbd63c-f7a4-4a85-9a1c-ad256c951514",
+        "217d6a1c-aaa4-4023-933e-ed7e1796c979",
+        "f24d5d2d-004f-41e7-afa7-1ef8b4400728",
+        "f2327ecf-4b07-408c-b3e9-a2273c84588d",
+        "eae28ecd-6759-4a24-843c-f9af84ce76ba",
+        "f676505e-6d00-41cd-a117-d64123e5039e",
+        "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "6c13dfac-ccd3-4e0a-9c44-976bf02a65bc",
+        "7dac3321-7c4b-4bde-8812-2d337f0356fc",
+        "04821c6f-b5ac-412d-8ecb-22881089e5bc",
+        "7599af7a-b4b0-48e7-a4c4-34f2d76a6425",
+        "09966d69-8a10-49b9-bdce-fcac764f6c77",
+        "51f277eb-2caf-4dbe-bb4f-994b649068f6",
+        "68a7a9aa-b415-4397-9364-8ec85c44201b",
+        "f2af84d5-4e2c-476e-8114-9558dfece0d6",
+        "1333aa48-fae2-4e82-832e-1ef5d71d783d",
+        "93f0a367-3bd6-4ecb-a5bb-1df01cd1630f",
+        "64244f40-a1b3-4042-b297-51da61cc545c",
+        "2788c13a-fe30-4bf8-b370-282f7f9d0093",
+        "a90cb3e1-e3f4-4505-a541-93a97283bcaf",
+        "7d311c88-2d77-4735-a99f-a5d4614d0ecd"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='5d59ad95-f0f7-495f-beee-dcce54199267'></a>\n\nPage 1 of 2\n\n<a id='044ca166-863f-4083-bd6d-9b9749c49711'></a>\n\nAlabama Power\nCustom\nERIKA\n\n<a id='0cb2152c-6cbf-49a3-90f9-efda90d76051'></a>\n\nCustomer Name\nERIKA J ZAPATA\n\n<a id='bbcdef9e-1960-425c-ac23-9d4585805b09'></a>\n\nAccount Number\n96762-33381\n\n<a id='4d52e5e5-9fe8-4331-ad3a-0f205ff4d208'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Please Pay By</td><td id=\"0-3\">Jul 1, 2024</td></tr>\n<tr><td id=\"0-4\">Total Due</td><td id=\"0-5\">$176.51</td></tr>\n</table>\n\n<a id='b89614f1-21dd-4bd4-a9c0-921bb44ab558'></a>\n\nService Address\n703 RALEIGH CT APT A\n\n<a id='fe143fe6-815a-467e-9d1f-3798bffe4e0a'></a>\n\nService Period\nMay 16, 2024 - June 17, 2024\n\n<a id='0ecaac0c-e0be-4afa-8785-5d89d1de14ee'></a>\n\n## Billing Summary\n\nPrevious Bill Amount $129.29\nPayment Received On 05/29/24 -129.29\nCurrent Electric Service +176.51\n\nThank You!\n\nTotal Due $176.51\n\n<a id='4a66d199-cd34-4861-937f-d08294c4c1e2'></a>\n\nElectric service balances unpaid after 07/12/2024 are\nsubject to a late charge of 1.5% of the amount due or $2.00,\nwhichever is greater.\n\n<a id='ba539b3e-65c7-406f-9a36-b2790a107b0b'></a>\n\nElectronic Home Energy Reports, or eHERs, help you better understand your home's\nenergy usage. Each month, you will receive an emailed report that compares your\nhome's energy usage over time, provides energy insights based on your usage and\ncharacteristics and shares tips and recommendations designed to help you save\nenergy and money. Enroll now to receive your free monthly report at\nehers.alabamapowerprograms.com.\n\n<a id='7acbd63c-f7a4-4a85-9a1c-ad256c951514'></a>\n\nContact Us 24 hours a day, 7 days a week\n\nAlabamaPower.com\n\nAccount Number\n96762-33381\n\nWeb Access Code\n521812\n\nCustomer Service\n1-800-245-2244\n\nPower Outage Reporting\n1-800-888-2726\n\nGo Paperless\n\n<a id='217d6a1c-aaa4-4023-933e-ed7e1796c979'></a>\n\nPaperless Billing Clear the clutter of paper by going paperless.\nReceive email notifications when your bill is ready and view your\nbill online. Sign up at AlabamaPower.com/paperless.\n\n<a id='f24d5d2d-004f-41e7-afa7-1ef8b4400728'></a>\n\nOnline Visit AlabamaPower.com/mypayment to make a one-time payment. Or set up your online account by using:\nAccount number: 96762-33381\nWeb access code: 521812\n\n<a id='f2327ecf-4b07-408c-b3e9-a2273c84588d'></a>\n\nAutoPay Save time and effort with this free bill payment option.\nVisit AlabamaPower.com/autopay to authorize your bill amount to\nbe automatically debited from your checking or savings account\neach month.\n\n<a id='eae28ecd-6759-4a24-843c-f9af84ce76ba'></a>\n\nFor current billing details, turn page over\n\n<a id='f676505e-6d00-41cd-a117-d64123e5039e'></a>\n\nUsage Information\nTotal Used\n935 kWh\nNext Scheduled Read Date\nOn or after July 16, 2024\n1550\n1240\n930\n620\n<table id=\"0-6\">\n<tr><td id=\"0-7\">(white rectangle)</td><td id=\"0-8\" colspan=\"3\">grey rectangle</td><td id=\"0-9\" colspan=\"2\">brown rectangle</td></tr>\n<tr><td id=\"0-a\">(grey T-shape)</td><td id=\"0-b\" colspan=\"2\">textured rectangle with small squares</td><td id=\"0-c\">(grey square)</td><td id=\"0-d\">(grey rectangle with stripes)</td><td id=\"0-e\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-f\">(grey I-shape)</td><td id=\"0-g\" colspan=\"2\">scanned image (text partially visible)</td><td id=\"0-h\">(grey square)</td><td id=\"0-i\">(grey rectangle with stripes)</td><td id=\"0-j\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-k\">(grey I-shape)</td><td id=\"0-l\" colspan=\"2\">striped pattern</td><td id=\"0-m\">(grey square)</td><td id=\"0-n\">(grey rectangle with stripes)</td><td id=\"0-o\">(blurred rectangle)</td></tr>\n<tr><td id=\"0-p\">(grey I-shape)</td><td id=\"0-q\"></td><td id=\"0-r\">(grey rectangle with stripes)</td><td id=\"0-s\">(grey square)</td><td id=\"0-t\">(grey rectangle with stripes)</td><td id=\"0-u\">(blurred rectangle)</td></tr>\n</table>\n310\n0\nJun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May\nTotal kWh\n2023\n2024\n\n<a id='87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c'></a>\n\n<table id=\"0-v\">\n<tr><td id=\"0-w\"></td><td id=\"0-x\">1 Year Ago</td><td id=\"0-y\">Last Month</td><td id=\"0-z\">This Month</td></tr>\n<tr><td id=\"0-A\">Total kWh Used</td><td id=\"0-B\">1,043</td><td id=\"0-C\">678</td><td id=\"0-D\">935</td></tr>\n<tr><td id=\"0-E\">Average Daily kWh</td><td id=\"0-F\">35</td><td id=\"0-G\">23</td><td id=\"0-H\">29</td></tr>\n<tr><td id=\"0-I\">Days In Billing Period</td><td id=\"0-J\">30</td><td id=\"0-K\">30</td><td id=\"0-L\">32</td></tr>\n</table>\n\n<a id='6c13dfac-ccd3-4e0a-9c44-976bf02a65bc'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS.\n\n<a id='7dac3321-7c4b-4bde-8812-2d337f0356fc'></a>\n\nITION FOR YOUR RECORDS.\nPORTION WITH YOUR PAYMENT, MAKING SURE THE RETURN ADDRESS SHOWS IN THE ENVELOPE WINDOW.\n\n<a id='04821c6f-b5ac-412d-8ecb-22881089e5bc'></a>\n\nAccount Number 96762-33381\n\n<a id='7599af7a-b4b0-48e7-a4c4-34f2d76a6425'></a>\n\nPlease Pay By Jul 1, 2024\nTotal Due $176.51\n\n<a id='09966d69-8a10-49b9-bdce-fcac764f6c77'></a>\n\nAlabama Power P.O. Box 830728\nBirmingham, AL 35283\n\n<a id='51f277eb-2caf-4dbe-bb4f-994b649068f6'></a>\n\noption Yes, I want to save a stamp on my next payment!: [ ]\nEnroll me in paperless billing today.\nPlease verify your email address on the back of this statement.\n\n<a id='68a7a9aa-b415-4397-9364-8ec85c44201b'></a>\n\n01967623338151000001765100000000000000000000000000000000\n\n<a id='f2af84d5-4e2c-476e-8114-9558dfece0d6'></a>\n\nMail To:\nPO BOX 242\nBIRMINGHAM AL\n35292\n\n<a id='1333aa48-fae2-4e82-832e-1ef5d71d783d'></a>\n\nERIKA J ZAPATA\n703 RALEIGH CT APT A\nBIRMINGHAM AL 35209\n\n<a id='93f0a367-3bd6-4ecb-a5bb-1df01cd1630f'></a>\n\nROO011285\n\n<a id='64244f40-a1b3-4042-b297-51da61cc545c'></a>\n\n12\n\n<a id='2788c13a-fe30-4bf8-b370-282f7f9d0093'></a>\n\n96762-33381 12\n\n<a id='a90cb3e1-e3f4-4505-a541-93a97283bcaf'></a>\n\n✓PROJECT SHARE\noption $1: [ ]\noption $2: [ ]\noption $5: [ ]\noption $10: [ ]\nMONTHLY\n\n<a id='7d311c88-2d77-4735-a99f-a5d4614d0ecd'></a>\n\nPLEASE RETURN THIS P",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "5d59ad95-f0f7-495f-beee-dcce54199267": {
+      "box": {
+        "bottom": 0.025401795282959938,
+        "left": 0.8139773607254028,
+        "right": 0.8772212266921997,
+        "top": 0.013639694079756737
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "044ca166-863f-4083-bd6d-9b9749c49711": {
+      "box": {
+        "bottom": 0.10929616540670395,
+        "left": 0.10006590932607651,
+        "right": 0.33289745450019836,
+        "top": 0.07568278163671494
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0cb2152c-6cbf-49a3-90f9-efda90d76051": {
+      "box": {
+        "bottom": 0.10209380835294724,
+        "left": 0.2952597141265869,
+        "right": 0.3916469216346741,
+        "top": 0.07138029485940933
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "bbcdef9e-1960-425c-ac23-9d4585805b09": {
+      "box": {
+        "bottom": 0.09374885261058807,
+        "left": 0.4985082149505615,
+        "right": 0.592002272605896,
+        "top": 0.06110765039920807
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208": {
+      "box": {
+        "bottom": 0.08368653059005737,
+        "left": 0.6060515642166138,
+        "right": 0.89872145652771,
+        "top": 0.024941686540842056
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.08165744530277586,
+        "left": 0.6078069771173216,
+        "right": 0.8924065704139039,
+        "top": 0.025276283881776197
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.05768073269614173,
+        "left": 0.6078069771173216,
+        "right": 0.7248985068396498,
+        "top": 0.03083806268966334
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.053158488528248435,
+        "left": 0.7230698846439696,
+        "right": 0.8867366764678484,
+        "top": 0.025276283881776197
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.08165744530277587,
+        "left": 0.6101173634925041,
+        "right": 0.7269297559027725,
+        "top": 0.053158488528248435
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.07795220708871707,
+        "left": 0.7248985068396498,
+        "right": 0.8924065704139039,
+        "top": 0.04678225200192146
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "4d52e5e5-9fe8-4331-ad3a-0f205ff4d208",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "b89614f1-21dd-4bd4-a9c0-921bb44ab558": {
+      "box": {
+        "bottom": 0.1540311723947525,
+        "left": 0.09695074707269669,
+        "right": 0.2316340208053589,
+        "top": 0.12600181996822357
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "fe143fe6-815a-467e-9d1f-3798bffe4e0a": {
+      "box": {
+        "bottom": 0.1458771973848343,
+        "left": 0.43040353059768677,
+        "right": 0.5962339043617249,
+        "top": 0.1106887012720108
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0ecaac0c-e0be-4afa-8785-5d89d1de14ee": {
+      "box": {
+        "bottom": 0.23590470850467682,
+        "left": 0.09601292014122009,
+        "right": 0.6027888059616089,
+        "top": 0.16341529786586761
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4a66d199-cd34-4861-937f-d08294c4c1e2": {
+      "box": {
+        "bottom": 0.29051530361175537,
+        "left": 0.09510871767997742,
+        "right": 0.43343237042427063,
+        "top": 0.24115878343582153
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ba539b3e-65c7-406f-9a36-b2790a107b0b": {
+      "box": {
+        "bottom": 0.5958438515663147,
+        "left": 0.08968272805213928,
+        "right": 0.6306895017623901,
+        "top": 0.48114651441574097
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "7acbd63c-f7a4-4a85-9a1c-ad256c951514": {
+      "box": {
+        "bottom": 0.2083408385515213,
+        "left": 0.618475079536438,
+        "right": 0.9090745449066162,
+        "top": 0.09473349153995514
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "217d6a1c-aaa4-4023-933e-ed7e1796c979": {
+      "box": {
+        "bottom": 0.245900958776474,
+        "left": 0.6254448890686035,
+        "right": 0.9129742383956909,
+        "top": 0.20560210943222046
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f24d5d2d-004f-41e7-afa7-1ef8b4400728": {
+      "box": {
+        "bottom": 0.2922041714191437,
+        "left": 0.628504753112793,
+        "right": 0.8898398876190186,
+        "top": 0.24514015018939972
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f2327ecf-4b07-408c-b3e9-a2273c84588d": {
+      "box": {
+        "bottom": 0.3398836851119995,
+        "left": 0.6326291561126709,
+        "right": 0.93461012840271,
+        "top": 0.2884474992752075
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "eae28ecd-6759-4a24-843c-f9af84ce76ba": {
+      "box": {
+        "bottom": 0.36537879705429077,
+        "left": 0.6352108716964722,
+        "right": 0.9407588243484497,
+        "top": 0.3354547619819641
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f676505e-6d00-41cd-a117-d64123e5039e": {
+      "box": {
+        "bottom": 0.48194217681884766,
+        "left": 0.639474630355835,
+        "right": 0.9532166719436646,
+        "top": 0.3670145869255066
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.46548573330265697,
+        "left": 0.7075279271571393,
+        "right": 0.9469008456374581,
+        "top": 0.40813855989522985
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.427046693128616,
+        "left": 0.7075279271571393,
+        "right": 0.7339298402152916,
+        "top": 0.41673813058364356
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.42597547919506323,
+        "left": 0.7328847584017553,
+        "right": 0.8400553904404243,
+        "top": 0.41232734877170685
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 1,
+        "colspan": 3,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4214800867742398,
+        "left": 0.83873186662346,
+        "right": 0.9407009056267105,
+        "top": 0.40813855989522985
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 4,
+        "colspan": 2,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.4364839781787949,
+        "left": 0.7086410205828801,
+        "right": 0.7350004424523138,
+        "top": 0.42597547919506323
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.4354383996664043,
+        "left": 0.7339298402152916,
+        "right": 0.8246748799568091,
+        "top": 0.42219149047254795
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 1,
+        "colspan": 2,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.43172124269600665,
+        "left": 0.8232608368514149,
+        "right": 0.8414358373754034,
+        "top": 0.42148008677423987
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.43102647268759775,
+        "left": 0.8400553904404243,
+        "right": 0.9290630256329271,
+        "top": 0.41777640922442844
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 4,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.4273941776580195,
+        "left": 0.9274904308185479,
+        "right": 0.9422383483123372,
+        "top": 0.4172168242027055
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 5,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.44627857801149806,
+        "left": 0.7097764162107248,
+        "right": 0.7361109158118033,
+        "top": 0.4354383996664043
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.44525373604718743,
+        "left": 0.7350004424523138,
+        "right": 0.826138642381439,
+        "top": 0.43172124269600665
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 1,
+        "colspan": 2,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4415860715456493,
+        "left": 0.8246748799568091,
+        "right": 0.842864267301265,
+        "top": 0.43102647268759775
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.44090468167697316,
+        "left": 0.8414358373754034,
+        "right": 0.9306871089613253,
+        "top": 0.4273941776580195
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 4,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4373268425927921,
+        "left": 0.9290630256329271,
+        "right": 0.9438256495205474,
+        "top": 0.4268480382687141
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 5,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.4558626220095935,
+        "left": 0.7109548002234372,
+        "right": 0.7371964291251227,
+        "top": 0.44525373604718743
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.45484845367368376,
+        "left": 0.7361109158118033,
+        "right": 0.8275645019126584,
+        "top": 0.4415860715456493
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 1,
+        "colspan": 2,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.45119545897248475,
+        "left": 0.826138642381439,
+        "right": 0.844254794758809,
+        "top": 0.44090468167697316
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.45052077875138724,
+        "left": 0.842864267301265,
+        "right": 0.9322627413877255,
+        "top": 0.4373268425927921
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 4,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.4469631886337503,
+        "left": 0.9306871089613253,
+        "right": 0.9453648090490856,
+        "top": 0.4367915879479488
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 5,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.46548573330265697,
+        "left": 0.7121078523559785,
+        "right": 0.7382856449637464,
+        "top": 0.45484845367368376
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.4644758974624147,
+        "left": 0.7371964291251227,
+        "right": 0.7777901718322916,
+        "top": 0.45326840818238917
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.4628814521059875,
+        "left": 0.7762837198671706,
+        "right": 0.8289918527688546,
+        "top": 0.45119545897248475
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 2,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.4608148969822614,
+        "left": 0.8275645019126583,
+        "right": 0.8456461659950252,
+        "top": 0.45052077875138724
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 3,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.46014271091922326,
+        "left": 0.844254794758809,
+        "right": 0.9338357169108296,
+        "top": 0.4469631886337503
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 4,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.4565832854282914,
+        "left": 0.9322627413877255,
+        "right": 0.9469008456374581,
+        "top": 0.446433557069578
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f676505e-6d00-41cd-a117-d64123e5039e",
+        "col": 5,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c": {
+      "box": {
+        "bottom": 0.5599507689476013,
+        "left": 0.6572092771530151,
+        "right": 0.9697275161743164,
+        "top": 0.47777292132377625
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5538620747420495,
+        "left": 0.6602169415338125,
+        "right": 0.9645662722828945,
+        "top": 0.4793896550327414
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5124032451691046,
+        "left": 0.6602169415338125,
+        "right": 0.7700116727182706,
+        "top": 0.4845507104578259
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.5080716781764133,
+        "left": 0.7691799985523026,
+        "right": 0.8449402403005837,
+        "top": 0.48252035179342967
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5050879708152163,
+        "left": 0.8441160065157739,
+        "right": 0.901106958551122,
+        "top": 0.4809979083922044
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5028513732649654,
+        "left": 0.900305995426958,
+        "right": 0.9612210699631197,
+        "top": 0.4793896550327414
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5270344314400183,
+        "left": 0.6612348823499994,
+        "right": 0.7705360155904263,
+        "top": 0.5080716781764133
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5229008652235876,
+        "left": 0.7700116727182706,
+        "right": 0.8454867244447732,
+        "top": 0.5050879708152163
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5200507716549848,
+        "left": 0.8449402403005837,
+        "right": 0.9016590544647956,
+        "top": 0.5028513732649654
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5179147492080909,
+        "left": 0.901106958551122,
+        "right": 0.9623414274071529,
+        "top": 0.5004575877900896
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.5393941497642675,
+        "left": 0.6618330167026556,
+        "right": 0.7709786248347673,
+        "top": 0.5229008652235876
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.535418505152892,
+        "left": 0.7705360155904263,
+        "right": 0.8459477987744392,
+        "top": 0.5200507716549848
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.5326750416186647,
+        "left": 0.8454867244447732,
+        "right": 0.9021246948209987,
+        "top": 0.5179147492080909
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.5306192731251526,
+        "left": 0.9016590544647956,
+        "right": 0.9632860903737386,
+        "top": 0.5156072267911026
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.5538620747420495,
+        "left": 0.6623382916668317,
+        "right": 0.7715267610113489,
+        "top": 0.535418505152892
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.5509206018180665,
+        "left": 0.7709786248347673,
+        "right": 0.8465399708742838,
+        "top": 0.5326750416186647
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.5488887841161402,
+        "left": 0.8459477987744392,
+        "right": 0.9027385095081695,
+        "top": 0.5306192731251526
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.5473665830821175,
+        "left": 0.9021246948209987,
+        "right": 0.9645662722828945,
+        "top": 0.5283810990919637
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "87bb4ed6-5f9e-4eb3-b82f-3195b7d5476c",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "6c13dfac-ccd3-4e0a-9c44-976bf02a65bc": {
+      "box": {
+        "bottom": 0.6092982292175293,
+        "left": 0.08264012634754181,
+        "right": 0.2869611978530884,
+        "top": 0.5906301736831665
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "7dac3321-7c4b-4bde-8812-2d337f0356fc": {
+      "box": {
+        "bottom": 0.6219004392623901,
+        "left": 0.17949697375297546,
+        "right": 0.6075680255889893,
+        "top": 0.5921331644058228
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "04821c6f-b5ac-412d-8ecb-22881089e5bc": {
+      "box": {
+        "bottom": 0.6124760508537292,
+        "left": 0.6716590523719788,
+        "right": 0.8581920266151428,
+        "top": 0.5888389945030212
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "7599af7a-b4b0-48e7-a4c4-34f2d76a6425": {
+      "box": {
+        "bottom": 0.6787879467010498,
+        "left": 0.6658828258514404,
+        "right": 0.9967834949493408,
+        "top": 0.6103522777557373
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "09966d69-8a10-49b9-bdce-fcac764f6c77": {
+      "box": {
+        "bottom": 0.6999021768569946,
+        "left": 0.09324562549591064,
+        "right": 0.35991182923316956,
+        "top": 0.6626771688461304
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "51f277eb-2caf-4dbe-bb4f-994b649068f6": {
+      "box": {
+        "bottom": 0.7088357210159302,
+        "left": 0.5608368515968323,
+        "right": 0.9945206046104431,
+        "top": 0.6732344627380371
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "68a7a9aa-b415-4397-9364-8ec85c44201b": {
+      "box": {
+        "bottom": 0.7598220705986023,
+        "left": 0.0864107608795166,
+        "right": 0.7264968156814575,
+        "top": 0.7187744975090027
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f2af84d5-4e2c-476e-8114-9558dfece0d6": {
+      "box": {
+        "bottom": 0.8122277855873108,
+        "left": 0.5489274859428406,
+        "right": 0.6522729992866516,
+        "top": 0.7581669688224792
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1333aa48-fae2-4e82-832e-1ef5d71d783d": {
+      "box": {
+        "bottom": 0.832639217376709,
+        "left": 0.08953015506267548,
+        "right": 0.2376568764448166,
+        "top": 0.7888767719268799
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "93f0a367-3bd6-4ecb-a5bb-1df01cd1630f": {
+      "box": {
+        "bottom": 0.9209145307540894,
+        "left": 0.09789977967739105,
+        "right": 0.1819404810667038,
+        "top": 0.9026174545288086
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "64244f40-a1b3-4042-b297-51da61cc545c": {
+      "box": {
+        "bottom": 0.9163082242012024,
+        "left": 0.22682835161685944,
+        "right": 0.253170371055603,
+        "top": 0.9011239409446716
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "2788c13a-fe30-4bf8-b370-282f7f9d0093": {
+      "box": {
+        "bottom": 0.6098135709762573,
+        "left": 0.03421692177653313,
+        "right": 0.056547362357378006,
+        "top": 0.5562705993652344
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "a90cb3e1-e3f4-4505-a541-93a97283bcaf": {
+      "box": {
+        "bottom": 0.7889437079429626,
+        "left": 0.6805017590522766,
+        "right": 0.9563772082328796,
+        "top": 0.74407559633255
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "7d311c88-2d77-4735-a99f-a5d4614d0ecd": {
+      "box": {
+        "bottom": 0.6271800994873047,
+        "left": 0.08397670835256577,
+        "right": 0.18171313405036926,
+        "top": 0.6118289232254028
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

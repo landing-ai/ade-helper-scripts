@@ -1,0 +1,198 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "Mid-Carolina Electric Cooperative",
+      "phone_number": "803-749-6400",
+      "website": "www.mcecoop.com",
+      "usage_bar_chart": null
+    },
+    "account_info": {
+      "account_holder": "CARL P TERRY",
+      "account_number": "7700000024",
+      "service_address": "134 LAND OF LAKES CIR LEXINGTON, SC 29073-7702",
+      "service_address_primary": "134 LAND OF LAKES CIR",
+      "service_address_city": "LEXINGTON",
+      "service_address_state": "SC",
+      "service_address_zip": "29073-7702"
+    },
+    "billing_summary": {
+      "due_date": "2022-10-25",
+      "bill_date": "2022-10-05",
+      "service_start_date": "09-01-2022",
+      "service_end_date": "10-01-2022",
+      "total_amount_due": "$393.00"
+    },
+    "electric_charges": {
+      "meter_number": "71123288",
+      "usage_kwh": "1025",
+      "total_electric_charges": "$221.00"
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": null,
+      "total_gas_charges": null
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "Mid-Carolina Electric Cooperative",
+        "references": [
+          "b96142e0-360c-47ee-9826-f25a6797943d"
+        ]
+      },
+      "phone_number": {
+        "value": "803-749-6400",
+        "references": [
+          "a7980eac-d250-43b9-a8f0-9b3676e4748a"
+        ]
+      },
+      "website": {
+        "value": "www.mcecoop.com",
+        "references": [
+          "a7980eac-d250-43b9-a8f0-9b3676e4748a"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": null,
+        "references": []
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "CARL P TERRY",
+        "references": [
+          "0-2",
+          "706be5e6-eb94-40eb-aee8-04a94f28bdb3",
+          "9c7053ae-b333-4d76-8190-da65a5454e28"
+        ]
+      },
+      "account_number": {
+        "value": "7700000024",
+        "references": [
+          "0-2",
+          "dfb4a2a7-7781-4284-a167-b64baaef3c16",
+          "0-M"
+        ]
+      },
+      "service_address": {
+        "value": "134 LAND OF LAKES CIR LEXINGTON, SC 29073-7702",
+        "references": [
+          "706be5e6-eb94-40eb-aee8-04a94f28bdb3",
+          "9c7053ae-b333-4d76-8190-da65a5454e28"
+        ]
+      },
+      "service_address_primary": {
+        "value": "134 LAND OF LAKES CIR",
+        "references": [
+          "706be5e6-eb94-40eb-aee8-04a94f28bdb3",
+          "4357c327-99ce-471b-b6f8-a541e35e9533",
+          "9c7053ae-b333-4d76-8190-da65a5454e28"
+        ]
+      },
+      "service_address_city": {
+        "value": "LEXINGTON",
+        "references": [
+          "706be5e6-eb94-40eb-aee8-04a94f28bdb3",
+          "9c7053ae-b333-4d76-8190-da65a5454e28"
+        ]
+      },
+      "service_address_state": {
+        "value": "SC",
+        "references": [
+          "706be5e6-eb94-40eb-aee8-04a94f28bdb3",
+          "9c7053ae-b333-4d76-8190-da65a5454e28"
+        ]
+      },
+      "service_address_zip": {
+        "value": "29073-7702",
+        "references": [
+          "706be5e6-eb94-40eb-aee8-04a94f28bdb3"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2022-10-25",
+        "references": [
+          "0-a",
+          "0-Q"
+        ]
+      },
+      "bill_date": {
+        "value": "2022-10-05",
+        "references": [
+          "0-s",
+          "9c7053ae-b333-4d76-8190-da65a5454e28"
+        ]
+      },
+      "service_start_date": {
+        "value": "09-01-2022",
+        "references": [
+          "0-n",
+          "0-s"
+        ]
+      },
+      "service_end_date": {
+        "value": "10-01-2022",
+        "references": [
+          "0-n",
+          "0-s"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$393.00",
+        "references": [
+          "0-6",
+          "0-O"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": "71123288",
+        "references": [
+          "0-k"
+        ]
+      },
+      "usage_kwh": {
+        "value": "1025",
+        "references": [
+          "0-o",
+          "0-x"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "$221.00",
+        "references": [
+          "0-b",
+          "0-K"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": null,
+        "references": []
+      },
+      "total_gas_charges": {
+        "value": null,
+        "references": []
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 1.8422,
+    "duration_ms": 12200,
+    "filename": "upload.md",
+    "job_id": "bf16d10a00dd47a695009905923c268a",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'boolean'\n\nFailed validating 'type' in schema['properties']['provider_info']['properties']['usage_bar_chart']:\n    {'type': 'boolean',\n     'description': 'Does the utility bill include a chart depicting usage '\n                    'trends over time?'}\n\nOn instance['provider_info']['usage_bar_chart']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}
