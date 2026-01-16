@@ -11,11 +11,6 @@ Use this workflow to:
 
 To learn more visit the [LandingAI Documentation](https://docs.landing.ai/ade/ade-overview).
 
----
-
-## 🎥 Demo Video
-
-[![Utility Bill Extraction Demo](https://img.youtube.com/vi/_yvlR7-6GBc/0.jpg)](https://youtu.be/_yvlR7-6GBc)
 
 ## 📁 Contents
 
