@@ -1,0 +1,1217 @@
+{
+  "chunks": [
+    {
+      "id": "adafffa2-2cac-4cd6-b1cd-d5841c3b9819",
+      "grounding": {
+        "box": {
+          "bottom": 0.08407563716173172,
+          "left": 0.042976126074790955,
+          "right": 0.27973705530166626,
+          "top": 0.0015134811401367188
+        },
+        "page": 0
+      },
+      "markdown": "<a id='adafffa2-2cac-4cd6-b1cd-d5841c3b9819'></a>\n\nNNNN\n<::logo of Mountain View Electric Association, Inc. The logo features a stylized depiction of blue mountains with white caps. Below the mountains, it reads \"A Member-Owned Cooperative\" in smaller text, followed by \"MOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\" in large, bold, dark blue letters. Below this, it says \"Your Touchstone Energy® Cooperative\" with the Touchstone Energy logo (three stylized human figures in red, green, and blue) to the right.\n: logo::>",
+      "type": "figure"
+    },
+    {
+      "id": "c74cf314-497e-4f8f-8f4b-4836b0f0884c",
+      "grounding": {
+        "box": {
+          "bottom": 0.07591709494590759,
+          "left": 0.5305263996124268,
+          "right": 0.9425454139709473,
+          "top": 0.019552763551473618
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c74cf314-497e-4f8f-8f4b-4836b0f0884c'></a>\n\nLocal. Trusted. Serving You.\nFalcon | Limon | Monument | 1-800-388-9881\nOutage: 1-800-388-9881 Automated Pay-By-Phone: 1-877-999-3415\nWebsite: www.mvea.coop Office Hours: 7 a.m. - 5:30 p.m. M - Th",
+      "type": "text"
+    },
+    {
+      "id": "531aa430-5dd0-4542-a7be-64e6ec50f972",
+      "grounding": {
+        "box": {
+          "bottom": 0.21725192666053772,
+          "left": 0.04564163088798523,
+          "right": 0.3763396143913269,
+          "top": 0.08893797546625137
+        },
+        "page": 0
+      },
+      "markdown": "<a id='531aa430-5dd0-4542-a7be-64e6ec50f972'></a>\n\nMVEA Monthly Message Board\n\nImportant COVID-19 Update: While keeping the lights on is our priority, serving our co-op members — our friends and neighbors — is equally as important. Stay in the know about MVEA's services during Colorado's \"Safer-At-Home\" COVID-19 Executive Order by following us on Facebook or Twitter and visiting www.mvea.coop/covid-19-response.",
+      "type": "text"
+    },
+    {
+      "id": "5b3e2318-ff07-486c-8077-45308b6165eb",
+      "grounding": {
+        "box": {
+          "bottom": 0.26847463846206665,
+          "left": 0.3780117630958557,
+          "right": 0.6415330767631531,
+          "top": 0.06819424033164978
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5b3e2318-ff07-486c-8077-45308b6165eb'></a>\n\nwebsite. www.\n\n<::AMOUNT DUE\n$170.00\nAUTOMATIC PAYMENT\nWILL DRAFT ON\n05/28/2020\n: figure::>\n\n-",
+      "type": "figure"
+    },
+    {
+      "id": "7ab49125-ed87-4cd7-963d-f4d919b034d1",
+      "grounding": {
+        "box": {
+          "bottom": 0.17759579420089722,
+          "left": 0.6448773145675659,
+          "right": 0.8815743923187256,
+          "top": 0.07779702544212341
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7ab49125-ed87-4cd7-963d-f4d919b034d1'></a>\n\nMember Name RON A BAUMERT\n\n■ Bill Date: 05/13/2020\n■ Account #: 61358805\n■ Member #: 153933\n■ Meter #: 24071\n\n■ Payment Type Bank Draft",
+      "type": "text"
+    },
+    {
+      "id": "2efdfdd1-4751-4aaf-afe5-a63c15404f0d",
+      "grounding": {
+        "box": {
+          "bottom": 0.2203434407711029,
+          "left": 0.6419908404350281,
+          "right": 0.9508569836616516,
+          "top": 0.1852426826953888
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2efdfdd1-4751-4aaf-afe5-a63c15404f0d'></a>\n\nThank you for your previous payment of $201.00.\nCharge detail found on the back of this page.",
+      "type": "text"
+    },
+    {
+      "id": "e3293829-c88d-4a35-88cb-38430b472a15",
+      "grounding": {
+        "box": {
+          "bottom": 0.44481754302978516,
+          "left": 0.04116952419281006,
+          "right": 0.6496471166610718,
+          "top": 0.22204013168811798
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e3293829-c88d-4a35-88cb-38430b472a15'></a>\n\nMonthly Energy Use\n04/06/2020 through 05/04/2020 (28 days)\n<::chart: Bar chart showing \"Monthly Use\" in Kilowatt Hours (left y-axis) and line graphs showing \"Monthly High\" and \"Monthly Low\" temperatures (right y-axis) over months from May 2019 to May 2020. \n\nLeft Y-axis: Kilowatt Hours, ranging from 0 to 1750 in increments of 250.\nRight Y-axis: Temp, ranging from 0 to 75 in increments of 15.\nX-axis: Months, labeled May, Jun, Jul, Aug, Sep, Oct, Nov, Dec for 2019, and Jan, Feb, Mar, Apr, May for 2020.\n\nData Series:\nMonthly Use (bars):\nMay 2019: 1300 kWh\nJun 2019: 950 kWh\nJul 2019: 850 kWh\nAug 2019: 1200 kWh\nSep 2019: 1100 kWh\nOct 2019: 1150 kWh\nNov 2019: 800 kWh\nDec 2019: 1250 kWh\nJan 2020: 1700 kWh\nFeb 2020: 1300 kWh\nMar 2020: 1500 kWh\nApr 2020: 1450 kWh\nMay 2020: 1200 kWh (highlighted in green)\n\nMonthly High (red line with dots):\nMay 2019: 60°\nJun 2019: 58°\nJul 2019: 68°\nAug 2019: 72°\nSep 2019: 70°\nOct 2019: 65°\nNov 2019: 50°\nDec 2019: 45°\nJan 2020: 40°\nFeb 2020: 40°\nMar 2020: 35°\nApr 2020: 50°\nMay 2020: 60°\n\nMonthly Low (blue line with dots):\nMay 2019: 35°\nJun 2019: 38°\nJul 2019: 45°\nAug 2019: 48°\nSep 2019: 48°\nOct 2019: 40°\nNov 2019: 25°\nDec 2019: 25°\nJan 2020: 20°\nFeb 2020: 18°\nMar 2020: 15°\nApr 2020: 25°\nMay 2020: 30°::>",
+      "type": "figure"
+    },
+    {
+      "id": "e6c716ea-8f2b-4b69-af45-518ffd649e65",
+      "grounding": {
+        "box": {
+          "bottom": 0.669901967048645,
+          "left": 0.04052838683128357,
+          "right": 0.602932333946228,
+          "top": 0.47379112243652344
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e6c716ea-8f2b-4b69-af45-518ffd649e65'></a>\n\n<::Monthly Energy Use Comparison chart:\nTotal Energy Use This Month (28 Days): 1255 kWh\nTotal Energy Use Last Month (35 Days): 1541 kWh\nTotal Energy Use This Month Last Year (35 Days): 1337 kWh::>",
+      "type": "figure"
+    },
+    {
+      "id": "fef83a75-da4f-4348-8f0b-b4f6536f018c",
+      "grounding": {
+        "box": {
+          "bottom": 0.47855478525161743,
+          "left": 0.6834841966629028,
+          "right": 0.968306303024292,
+          "top": 0.22126847505569458
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fef83a75-da4f-4348-8f0b-b4f6536f018c'></a>\n\n<::Your Average Daily Use (28 days)\n\n45 kWh\nAVERAGE DAILY USE\n\n$6.07\nAVERAGE DAILY COST\n: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "930a3542-1f24-49c1-99fa-d10d0be464ff",
+      "grounding": {
+        "box": {
+          "bottom": 0.6553447842597961,
+          "left": 0.6878117322921753,
+          "right": 0.9425666332244873,
+          "top": 0.4866044223308563
+        },
+        "page": 0
+      },
+      "markdown": "<a id='930a3542-1f24-49c1-99fa-d10d0be464ff'></a>\n\n**Operation Round Up®**\n*Neighbors Helping Neighbors*\n\nFor less than $12 per year, you can\nround up your monthly electric bill to\nthe nearest dollar, turning your coins\ninto CHANGE to help support your\ncommunity, and your neighbors.\n\n*To learn more, apply for funds,\nor opt-in to the program, visit:\nwww.mvea.coop/round-up*",
+      "type": "text"
+    },
+    {
+      "id": "97988f78-0e96-4c5a-8da4-2ff0510169f3",
+      "grounding": {
+        "box": {
+          "bottom": 0.6982014179229736,
+          "left": 0.14277777075767517,
+          "right": 0.859175443649292,
+          "top": 0.6675220727920532
+        },
+        "page": 0
+      },
+      "markdown": "<a id='97988f78-0e96-4c5a-8da4-2ff0510169f3'></a>\n\n___ ___ ___ ___ ___ ___ Return only this portion with your check made payable to MVEA. ___ ___ ___ ___ Please write your account number ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ on this payment stub. Credit cards are only accepted through www.mvea.coop, the SmartHub app, or Automated Pay-By-Phone at 1-877-999-3415.\nPlease visit www.myea.coon for a full explanation of our rules and regulations",
+      "type": "text"
+    },
+    {
+      "id": "793f88f9-975e-47d7-9733-541ee21f8272",
+      "grounding": {
+        "box": {
+          "bottom": 0.7637929320335388,
+          "left": 0.02619674801826477,
+          "right": 0.42599746584892273,
+          "top": 0.6943318247795105
+        },
+        "page": 0
+      },
+      "markdown": "<a id='793f88f9-975e-47d7-9733-541ee21f8272'></a>\n\nA Member-Owned Cooperative\nMOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\nYour Touchstone Energy Cooperative\n\nPlease visit www.mvei\nMVEA\nPO BOX 1600\nLIMON, CO 80828-1600",
+      "type": "text"
+    },
+    {
+      "id": "dca052f6-16be-4fba-90c9-a7124d429734",
+      "grounding": {
+        "box": {
+          "bottom": 0.9096612930297852,
+          "left": 0.06426575034856796,
+          "right": 0.2715854048728943,
+          "top": 0.8716675043106079
+        },
+        "page": 0
+      },
+      "markdown": "<a id='dca052f6-16be-4fba-90c9-a7124d429734'></a>\n\nRON A BAUMERT\n935 FLAMING TREE WAY\nMONUMENT CO 80132-9306",
+      "type": "text"
+    },
+    {
+      "id": "ef34187c-33bf-4546-bceb-2b1ce4ecadff",
+      "grounding": {
+        "box": {
+          "bottom": 0.8786841630935669,
+          "left": 0.33836811780929565,
+          "right": 0.4024387001991272,
+          "top": 0.8616142272949219
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ef34187c-33bf-4546-bceb-2b1ce4ecadff'></a>\n\n4 2357",
+      "type": "marginalia"
+    },
+    {
+      "id": "521817d4-197b-477a-88f0-d46cf4cd1c4c",
+      "grounding": {
+        "box": {
+          "bottom": 0.7526167035102844,
+          "left": 0.5352926850318909,
+          "right": 0.9638906121253967,
+          "top": 0.7011831402778625
+        },
+        "page": 0
+      },
+      "markdown": "<a id='521817d4-197b-477a-88f0-d46cf4cd1c4c'></a>\n\nAccount #: 61358805\nAutomatic Payment Amount Due: $170.00\nPayment is due by 05/28/2020",
+      "type": "text"
+    },
+    {
+      "id": "03aaab7c-85ee-42ea-bcb7-a9166ad95eff",
+      "grounding": {
+        "box": {
+          "bottom": 0.894775927066803,
+          "left": 0.5735926628112793,
+          "right": 0.9167771339416504,
+          "top": 0.8223147988319397
+        },
+        "page": 0
+      },
+      "markdown": "<a id='03aaab7c-85ee-42ea-bcb7-a9166ad95eff'></a>\n\nMVEA\nPO BOX 1600 2\nLIMON, CO 80828-1600\n[barcode]",
+      "type": "text"
+    },
+    {
+      "id": "d735d239-0ee8-4251-8d77-4de6d091b3a7",
+      "grounding": {
+        "box": {
+          "bottom": 0.9103602766990662,
+          "left": 0.9398049116134644,
+          "right": 0.987906813621521,
+          "top": 0.8718416094779968
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d735d239-0ee8-4251-8d77-4de6d091b3a7'></a>\n\n<::scan_code: Data Matrix\n\nThis is a small, black and white Data Matrix code with no discernible quality issues, centered on a white background.::>",
+      "type": "scan_code"
+    },
+    {
+      "id": "5180047c-5875-455b-a90a-d4d50022cd61",
+      "grounding": {
+        "box": {
+          "bottom": 0.948451817035675,
+          "left": 0.0678025633096695,
+          "right": 0.4131699800491333,
+          "top": 0.9245137572288513
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5180047c-5875-455b-a90a-d4d50022cd61'></a>\n\n<::scan_code: Code 128 Barcode\n\nThis barcode consists of vertical black lines of varying widths and spacing on a white background, appearing clear and well-defined.::>",
+      "type": "scan_code"
+    },
+    {
+      "id": "4220a04a-2c94-43a9-be98-e040e59b17a0",
+      "grounding": {
+        "box": {
+          "bottom": 0.9721994996070862,
+          "left": 0.303202748298645,
+          "right": 0.6787598729133606,
+          "top": 0.951487123966217
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4220a04a-2c94-43a9-be98-e040e59b17a0'></a>\n\n0061358805000001700000000170003",
+      "type": "text"
+    },
+    {
+      "id": "f47bf7ac-f6f2-40b1-9f03-d604581c7111",
+      "grounding": {
+        "box": {
+          "bottom": 0.08388975262641907,
+          "left": 0.042205072939395905,
+          "right": 0.2799573540687561,
+          "top": 0.01763809844851494
+        },
+        "page": 1
+      },
+      "markdown": "<a id='f47bf7ac-f6f2-40b1-9f03-d604581c7111'></a>\n\n<::logo: Mountain View Electric Association, Inc.\nA Member-Owned Cooperative\nYour Touchstone Energy Cooperative\nFeatures a stylized blue mountain range with white peaks and a small multi-colored human figure logo on the right::>",
+      "type": "logo"
+    },
+    {
+      "id": "7ade9912-8b53-44de-96e1-d41b3f7f6a05",
+      "grounding": {
+        "box": {
+          "bottom": 0.07616784423589706,
+          "left": 0.5306656360626221,
+          "right": 0.9424479007720947,
+          "top": 0.019541049376130104
+        },
+        "page": 1
+      },
+      "markdown": "<a id='7ade9912-8b53-44de-96e1-d41b3f7f6a05'></a>\n\nLocal. Trusted. Serving You.\nFalcon | Limon | Monument | 1-800-388-9881\nOutage: 1-800-388-9881 Automated Pay-By-Phone: 1-877-999-3415\nWebsite: www.mvea.coop Office Hours: 7 a.m. - 5:30 p.m. M - Th",
+      "type": "text"
+    },
+    {
+      "id": "e410898c-8583-4866-b989-899b5792de62",
+      "grounding": {
+        "box": {
+          "bottom": 0.4075279235839844,
+          "left": 0.05182155966758728,
+          "right": 0.48754259943962097,
+          "top": 0.09858138859272003
+        },
+        "page": 1
+      },
+      "markdown": "<a id='e410898c-8583-4866-b989-899b5792de62'></a>\n\nAccount Information\n\nAccount Number: 61358805\nBilling Period: 04/06/2020 - 05/04/2020 for 28 Days\nBill Date: 05/13/2020\nBill Cycle: 2\nPhone Number: (650) 745-1771\nService Address: 935 FLAMING TREE WAY\nMONUMENT\nCO\nRate: RESIDENTIAL\nBill Type: Regular\nMeter Number: 24071\nPrior Reading: 20451\nPresent Reading: 21706\nkWh Use: 1255",
+      "type": "text"
+    },
+    {
+      "id": "cd40051a-56ab-4a56-aafc-b67626505039",
+      "grounding": {
+        "box": {
+          "bottom": 0.41052067279815674,
+          "left": 0.4875882863998413,
+          "right": 0.9464995861053467,
+          "top": 0.07747502624988556
+        },
+        "page": 1
+      },
+      "markdown": "<a id='cd40051a-56ab-4a56-aafc-b67626505039'></a>\n\nAutomatic Payment\nOn 05/28/2020\n$170.00\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Activity Prior To Billing</td><td id=\"1-3\"></td></tr>\n<tr><td id=\"1-4\">Previous Balance</td><td id=\"1-5\">$201.00</td></tr>\n<tr><td id=\"1-6\">Payment Received - Thank You</td><td id=\"1-7\">-$201.00</td></tr>\n<tr><td id=\"1-8\">Balance Forward</td><td id=\"1-9\">$0.00</td></tr>\n<tr><td id=\"1-a\">Current Bill Information</td><td id=\"1-b\"></td></tr>\n<tr><td id=\"1-c\">Energy</td><td id=\"1-d\">$135.89</td></tr>\n<tr><td id=\"1-e\">Grid Access</td><td id=\"1-f\">$34.50</td></tr>\n<tr><td id=\"1-g\">Ach Bank Draft Credit</td><td id=\"1-h\">-$0.50</td></tr>\n<tr><td id=\"1-i\">Paperless Credit</td><td id=\"1-j\">-$0.50</td></tr>\n<tr><td id=\"1-k\">Operation Round Up Fund</td><td id=\"1-l\">$0.61</td></tr>\n<tr><td id=\"1-m\">Current Charges Due By 05/28/2020</td><td id=\"1-n\">$170.00</td></tr>\n<tr><td id=\"1-o\">Previous Balance Was Due 04/30/2020</td><td id=\"1-p\">$0.00</td></tr>\n<tr><td id=\"1-q\">Total Amount Due</td><td id=\"1-r\">$170.00</td></tr>\n<tr><td id=\"1-s\"></td><td id=\"1-t\"></td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "c62c6ca3-ba13-4e25-9766-e709a5392e51",
+      "grounding": {
+        "box": {
+          "bottom": 0.842508852481842,
+          "left": 0.057607829570770264,
+          "right": 0.942171573638916,
+          "top": 0.4434341788291931
+        },
+        "page": 1
+      },
+      "markdown": "<a id='c62c6ca3-ba13-4e25-9766-e709a5392e51'></a>\n\nTHE COOPERATIVE Advantage\n\nLocal | Trusted | Serving You\n\n• Virtual Only •\n2020 Annual\nMeeting of\nMembers\n\nThursday • June 4, 2020 • 6 p.m.\n\nMVEA's 2020 Annual Meeting of\nMembers is going VIRTUAL ONLY in\nthe interest of public health and safety\ndue to the COVID-19 pandemic and\nState of Colorado directives.\n\nThis year, we invite you to attend your\nco-op's Annual Meeting of Members\nfrom the comfort and safety of your\nown home on June 4 at 6 p.m.\n\nMail-In Ballot Only Election\n50+ Chances To Win Bill Credits & Door Prizes\n\nComplete your mail-in ballot for a chance to\nwin a $50 bill credit! $2,500 in bill credits,\nplus door prizes, will be awarded!\n\nLearn More Now & Attend On June 4!\nwww.mvea.coop/annual-meeting\n\nA Member-Owned Cooperative\nMOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\nYour Touchstone Energy Cooperative",
+      "type": "text"
+    },
+    {
+      "id": "df9d197c-72b6-4f58-9e3c-a555f4dde27b",
+      "grounding": {
+        "box": {
+          "bottom": 0.8996987342834473,
+          "left": 0.052689939737319946,
+          "right": 0.28048133850097656,
+          "top": 0.87633216381073
+        },
+        "page": 1
+      },
+      "markdown": "<a id='df9d197c-72b6-4f58-9e3c-a555f4dde27b'></a>\n\nOther Ways to Pay Your Bill",
+      "type": "text"
+    },
+    {
+      "id": "d2ae7028-ef31-432d-aaf9-7e0b4ba1e429",
+      "grounding": {
+        "box": {
+          "bottom": 0.9537728428840637,
+          "left": 0.053595855832099915,
+          "right": 0.40797102451324463,
+          "top": 0.9028577208518982
+        },
+        "page": 1
+      },
+      "markdown": "<a id='d2ae7028-ef31-432d-aaf9-7e0b4ba1e429'></a>\n\n<::logo: [MVREA] Online Pay your bill at www.mvea.coop Automated Pay-By-Phone 1-877-999-3415 A green square with a monitor icon and a green square with a phone icon.::>",
+      "type": "logo"
+    },
+    {
+      "id": "a7185b6f-8806-49fd-94d6-85a588a7c73a",
+      "grounding": {
+        "box": {
+          "bottom": 0.975464940071106,
+          "left": 0.43200039863586426,
+          "right": 0.6369327306747437,
+          "top": 0.9020367860794067
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a7185b6f-8806-49fd-94d6-85a588a7c73a'></a>\n\nSmartHub App\nManage your account\nonline or with your\nmobile device. Visit:\nwww.smarthubapp.com",
+      "type": "text"
+    },
+    {
+      "id": "a1d4d06f-2803-482f-bbb5-11bc358a9f3a",
+      "grounding": {
+        "box": {
+          "bottom": 0.9872708916664124,
+          "left": 0.6512184143066406,
+          "right": 0.9253126382827759,
+          "top": 0.9013094305992126
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a1d4d06f-2803-482f-bbb5-11bc358a9f3a'></a>\n\nIn-Person\nThe closest office to your address is:\nMonument Office\n15706 Jackson Creek Parkway\nSuite 100\nMonument, CO 80132",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='adafffa2-2cac-4cd6-b1cd-d5841c3b9819'></a>\n\nNNNN\n<::logo of Mountain View Electric Association, Inc. The logo features a stylized depiction of blue mountains with white caps. Below the mountains, it reads \"A Member-Owned Cooperative\" in smaller text, followed by \"MOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\" in large, bold, dark blue letters. Below this, it says \"Your Touchstone Energy® Cooperative\" with the Touchstone Energy logo (three stylized human figures in red, green, and blue) to the right.\n: logo::>\n\n<a id='c74cf314-497e-4f8f-8f4b-4836b0f0884c'></a>\n\nLocal. Trusted. Serving You.\nFalcon | Limon | Monument | 1-800-388-9881\nOutage: 1-800-388-9881 Automated Pay-By-Phone: 1-877-999-3415\nWebsite: www.mvea.coop Office Hours: 7 a.m. - 5:30 p.m. M - Th\n\n<a id='531aa430-5dd0-4542-a7be-64e6ec50f972'></a>\n\nMVEA Monthly Message Board\n\nImportant COVID-19 Update: While keeping the lights on is our priority, serving our co-op members — our friends and neighbors — is equally as important. Stay in the know about MVEA's services during Colorado's \"Safer-At-Home\" COVID-19 Executive Order by following us on Facebook or Twitter and visiting www.mvea.coop/covid-19-response.\n\n<a id='5b3e2318-ff07-486c-8077-45308b6165eb'></a>\n\nwebsite. www.\n\n<::AMOUNT DUE\n$170.00\nAUTOMATIC PAYMENT\nWILL DRAFT ON\n05/28/2020\n: figure::>\n\n-\n\n<a id='7ab49125-ed87-4cd7-963d-f4d919b034d1'></a>\n\nMember Name RON A BAUMERT\n\n■ Bill Date: 05/13/2020\n■ Account #: 61358805\n■ Member #: 153933\n■ Meter #: 24071\n\n■ Payment Type Bank Draft\n\n<a id='2efdfdd1-4751-4aaf-afe5-a63c15404f0d'></a>\n\nThank you for your previous payment of $201.00.\nCharge detail found on the back of this page.\n\n<a id='e3293829-c88d-4a35-88cb-38430b472a15'></a>\n\nMonthly Energy Use\n04/06/2020 through 05/04/2020 (28 days)\n<::chart: Bar chart showing \"Monthly Use\" in Kilowatt Hours (left y-axis) and line graphs showing \"Monthly High\" and \"Monthly Low\" temperatures (right y-axis) over months from May 2019 to May 2020. \n\nLeft Y-axis: Kilowatt Hours, ranging from 0 to 1750 in increments of 250.\nRight Y-axis: Temp, ranging from 0 to 75 in increments of 15.\nX-axis: Months, labeled May, Jun, Jul, Aug, Sep, Oct, Nov, Dec for 2019, and Jan, Feb, Mar, Apr, May for 2020.\n\nData Series:\nMonthly Use (bars):\nMay 2019: 1300 kWh\nJun 2019: 950 kWh\nJul 2019: 850 kWh\nAug 2019: 1200 kWh\nSep 2019: 1100 kWh\nOct 2019: 1150 kWh\nNov 2019: 800 kWh\nDec 2019: 1250 kWh\nJan 2020: 1700 kWh\nFeb 2020: 1300 kWh\nMar 2020: 1500 kWh\nApr 2020: 1450 kWh\nMay 2020: 1200 kWh (highlighted in green)\n\nMonthly High (red line with dots):\nMay 2019: 60°\nJun 2019: 58°\nJul 2019: 68°\nAug 2019: 72°\nSep 2019: 70°\nOct 2019: 65°\nNov 2019: 50°\nDec 2019: 45°\nJan 2020: 40°\nFeb 2020: 40°\nMar 2020: 35°\nApr 2020: 50°\nMay 2020: 60°\n\nMonthly Low (blue line with dots):\nMay 2019: 35°\nJun 2019: 38°\nJul 2019: 45°\nAug 2019: 48°\nSep 2019: 48°\nOct 2019: 40°\nNov 2019: 25°\nDec 2019: 25°\nJan 2020: 20°\nFeb 2020: 18°\nMar 2020: 15°\nApr 2020: 25°\nMay 2020: 30°::>\n\n<a id='e6c716ea-8f2b-4b69-af45-518ffd649e65'></a>\n\n<::Monthly Energy Use Comparison chart:\nTotal Energy Use This Month (28 Days): 1255 kWh\nTotal Energy Use Last Month (35 Days): 1541 kWh\nTotal Energy Use This Month Last Year (35 Days): 1337 kWh::>\n\n<a id='fef83a75-da4f-4348-8f0b-b4f6536f018c'></a>\n\n<::Your Average Daily Use (28 days)\n\n45 kWh\nAVERAGE DAILY USE\n\n$6.07\nAVERAGE DAILY COST\n: figure::>\n\n<a id='930a3542-1f24-49c1-99fa-d10d0be464ff'></a>\n\n**Operation Round Up®**\n*Neighbors Helping Neighbors*\n\nFor less than $12 per year, you can\nround up your monthly electric bill to\nthe nearest dollar, turning your coins\ninto CHANGE to help support your\ncommunity, and your neighbors.\n\n*To learn more, apply for funds,\nor opt-in to the program, visit:\nwww.mvea.coop/round-up*\n\n<a id='97988f78-0e96-4c5a-8da4-2ff0510169f3'></a>\n\n___ ___ ___ ___ ___ ___ Return only this portion with your check made payable to MVEA. ___ ___ ___ ___ Please write your account number ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ on this payment stub. Credit cards are only accepted through www.mvea.coop, the SmartHub app, or Automated Pay-By-Phone at 1-877-999-3415.\nPlease visit www.myea.coon for a full explanation of our rules and regulations\n\n<a id='793f88f9-975e-47d7-9733-541ee21f8272'></a>\n\nA Member-Owned Cooperative\nMOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\nYour Touchstone Energy Cooperative\n\nPlease visit www.mvei\nMVEA\nPO BOX 1600\nLIMON, CO 80828-1600\n\n<a id='dca052f6-16be-4fba-90c9-a7124d429734'></a>\n\nRON A BAUMERT\n935 FLAMING TREE WAY\nMONUMENT CO 80132-9306\n\n<a id='ef34187c-33bf-4546-bceb-2b1ce4ecadff'></a>\n\n4 2357\n\n<a id='521817d4-197b-477a-88f0-d46cf4cd1c4c'></a>\n\nAccount #: 61358805\nAutomatic Payment Amount Due: $170.00\nPayment is due by 05/28/2020\n\n<a id='03aaab7c-85ee-42ea-bcb7-a9166ad95eff'></a>\n\nMVEA\nPO BOX 1600 2\nLIMON, CO 80828-1600\n[barcode]\n\n<a id='d735d239-0ee8-4251-8d77-4de6d091b3a7'></a>\n\n<::scan_code: Data Matrix\n\nThis is a small, black and white Data Matrix code with no discernible quality issues, centered on a white background.::>\n\n<a id='5180047c-5875-455b-a90a-d4d50022cd61'></a>\n\n<::scan_code: Code 128 Barcode\n\nThis barcode consists of vertical black lines of varying widths and spacing on a white background, appearing clear and well-defined.::>\n\n<a id='4220a04a-2c94-43a9-be98-e040e59b17a0'></a>\n\n0061358805000001700000000170003\n\n<!-- PAGE BREAK -->\n\n<a id='f47bf7ac-f6f2-40b1-9f03-d604581c7111'></a>\n\n<::logo: Mountain View Electric Association, Inc.\nA Member-Owned Cooperative\nYour Touchstone Energy Cooperative\nFeatures a stylized blue mountain range with white peaks and a small multi-colored human figure logo on the right::>\n\n<a id='7ade9912-8b53-44de-96e1-d41b3f7f6a05'></a>\n\nLocal. Trusted. Serving You.\nFalcon | Limon | Monument | 1-800-388-9881\nOutage: 1-800-388-9881 Automated Pay-By-Phone: 1-877-999-3415\nWebsite: www.mvea.coop Office Hours: 7 a.m. - 5:30 p.m. M - Th\n\n<a id='e410898c-8583-4866-b989-899b5792de62'></a>\n\nAccount Information\n\nAccount Number: 61358805\nBilling Period: 04/06/2020 - 05/04/2020 for 28 Days\nBill Date: 05/13/2020\nBill Cycle: 2\nPhone Number: (650) 745-1771\nService Address: 935 FLAMING TREE WAY\nMONUMENT\nCO\nRate: RESIDENTIAL\nBill Type: Regular\nMeter Number: 24071\nPrior Reading: 20451\nPresent Reading: 21706\nkWh Use: 1255\n\n<a id='cd40051a-56ab-4a56-aafc-b67626505039'></a>\n\nAutomatic Payment\nOn 05/28/2020\n$170.00\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Activity Prior To Billing</td><td id=\"1-3\"></td></tr>\n<tr><td id=\"1-4\">Previous Balance</td><td id=\"1-5\">$201.00</td></tr>\n<tr><td id=\"1-6\">Payment Received - Thank You</td><td id=\"1-7\">-$201.00</td></tr>\n<tr><td id=\"1-8\">Balance Forward</td><td id=\"1-9\">$0.00</td></tr>\n<tr><td id=\"1-a\">Current Bill Information</td><td id=\"1-b\"></td></tr>\n<tr><td id=\"1-c\">Energy</td><td id=\"1-d\">$135.89</td></tr>\n<tr><td id=\"1-e\">Grid Access</td><td id=\"1-f\">$34.50</td></tr>\n<tr><td id=\"1-g\">Ach Bank Draft Credit</td><td id=\"1-h\">-$0.50</td></tr>\n<tr><td id=\"1-i\">Paperless Credit</td><td id=\"1-j\">-$0.50</td></tr>\n<tr><td id=\"1-k\">Operation Round Up Fund</td><td id=\"1-l\">$0.61</td></tr>\n<tr><td id=\"1-m\">Current Charges Due By 05/28/2020</td><td id=\"1-n\">$170.00</td></tr>\n<tr><td id=\"1-o\">Previous Balance Was Due 04/30/2020</td><td id=\"1-p\">$0.00</td></tr>\n<tr><td id=\"1-q\">Total Amount Due</td><td id=\"1-r\">$170.00</td></tr>\n<tr><td id=\"1-s\"></td><td id=\"1-t\"></td></tr>\n</table>\n\n<a id='c62c6ca3-ba13-4e25-9766-e709a5392e51'></a>\n\nTHE COOPERATIVE Advantage\n\nLocal | Trusted | Serving You\n\n• Virtual Only •\n2020 Annual\nMeeting of\nMembers\n\nThursday • June 4, 2020 • 6 p.m.\n\nMVEA's 2020 Annual Meeting of\nMembers is going VIRTUAL ONLY in\nthe interest of public health and safety\ndue to the COVID-19 pandemic and\nState of Colorado directives.\n\nThis year, we invite you to attend your\nco-op's Annual Meeting of Members\nfrom the comfort and safety of your\nown home on June 4 at 6 p.m.\n\nMail-In Ballot Only Election\n50+ Chances To Win Bill Credits & Door Prizes\n\nComplete your mail-in ballot for a chance to\nwin a $50 bill credit! $2,500 in bill credits,\nplus door prizes, will be awarded!\n\nLearn More Now & Attend On June 4!\nwww.mvea.coop/annual-meeting\n\nA Member-Owned Cooperative\nMOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\nYour Touchstone Energy Cooperative\n\n<a id='df9d197c-72b6-4f58-9e3c-a555f4dde27b'></a>\n\nOther Ways to Pay Your Bill\n\n<a id='d2ae7028-ef31-432d-aaf9-7e0b4ba1e429'></a>\n\n<::logo: [MVREA] Online Pay your bill at www.mvea.coop Automated Pay-By-Phone 1-877-999-3415 A green square with a monitor icon and a green square with a phone icon.::>\n\n<a id='a7185b6f-8806-49fd-94d6-85a588a7c73a'></a>\n\nSmartHub App\nManage your account\nonline or with your\nmobile device. Visit:\nwww.smarthubapp.com\n\n<a id='a1d4d06f-2803-482f-bbb5-11bc358a9f3a'></a>\n\nIn-Person\nThe closest office to your address is:\nMonument Office\n15706 Jackson Creek Parkway\nSuite 100\nMonument, CO 80132",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 17419,
+    "filename": "electric1.pdf",
+    "job_id": "7fee378433e843f7b39a382c8b2d0fe8",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "adafffa2-2cac-4cd6-b1cd-d5841c3b9819",
+        "c74cf314-497e-4f8f-8f4b-4836b0f0884c",
+        "531aa430-5dd0-4542-a7be-64e6ec50f972",
+        "5b3e2318-ff07-486c-8077-45308b6165eb",
+        "7ab49125-ed87-4cd7-963d-f4d919b034d1",
+        "2efdfdd1-4751-4aaf-afe5-a63c15404f0d",
+        "e3293829-c88d-4a35-88cb-38430b472a15",
+        "e6c716ea-8f2b-4b69-af45-518ffd649e65",
+        "fef83a75-da4f-4348-8f0b-b4f6536f018c",
+        "930a3542-1f24-49c1-99fa-d10d0be464ff",
+        "97988f78-0e96-4c5a-8da4-2ff0510169f3",
+        "793f88f9-975e-47d7-9733-541ee21f8272",
+        "dca052f6-16be-4fba-90c9-a7124d429734",
+        "ef34187c-33bf-4546-bceb-2b1ce4ecadff",
+        "521817d4-197b-477a-88f0-d46cf4cd1c4c",
+        "03aaab7c-85ee-42ea-bcb7-a9166ad95eff",
+        "d735d239-0ee8-4251-8d77-4de6d091b3a7",
+        "5180047c-5875-455b-a90a-d4d50022cd61",
+        "4220a04a-2c94-43a9-be98-e040e59b17a0",
+        "f47bf7ac-f6f2-40b1-9f03-d604581c7111",
+        "7ade9912-8b53-44de-96e1-d41b3f7f6a05",
+        "e410898c-8583-4866-b989-899b5792de62",
+        "cd40051a-56ab-4a56-aafc-b67626505039",
+        "c62c6ca3-ba13-4e25-9766-e709a5392e51",
+        "df9d197c-72b6-4f58-9e3c-a555f4dde27b",
+        "d2ae7028-ef31-432d-aaf9-7e0b4ba1e429",
+        "a7185b6f-8806-49fd-94d6-85a588a7c73a",
+        "a1d4d06f-2803-482f-bbb5-11bc358a9f3a"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='adafffa2-2cac-4cd6-b1cd-d5841c3b9819'></a>\n\nNNNN\n<::logo of Mountain View Electric Association, Inc. The logo features a stylized depiction of blue mountains with white caps. Below the mountains, it reads \"A Member-Owned Cooperative\" in smaller text, followed by \"MOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\" in large, bold, dark blue letters. Below this, it says \"Your Touchstone Energy® Cooperative\" with the Touchstone Energy logo (three stylized human figures in red, green, and blue) to the right.\n: logo::>\n\n<a id='c74cf314-497e-4f8f-8f4b-4836b0f0884c'></a>\n\nLocal. Trusted. Serving You.\nFalcon | Limon | Monument | 1-800-388-9881\nOutage: 1-800-388-9881 Automated Pay-By-Phone: 1-877-999-3415\nWebsite: www.mvea.coop Office Hours: 7 a.m. - 5:30 p.m. M - Th\n\n<a id='531aa430-5dd0-4542-a7be-64e6ec50f972'></a>\n\nMVEA Monthly Message Board\n\nImportant COVID-19 Update: While keeping the lights on is our priority, serving our co-op members — our friends and neighbors — is equally as important. Stay in the know about MVEA's services during Colorado's \"Safer-At-Home\" COVID-19 Executive Order by following us on Facebook or Twitter and visiting www.mvea.coop/covid-19-response.\n\n<a id='5b3e2318-ff07-486c-8077-45308b6165eb'></a>\n\nwebsite. www.\n\n<::AMOUNT DUE\n$170.00\nAUTOMATIC PAYMENT\nWILL DRAFT ON\n05/28/2020\n: figure::>\n\n-\n\n<a id='7ab49125-ed87-4cd7-963d-f4d919b034d1'></a>\n\nMember Name RON A BAUMERT\n\n■ Bill Date: 05/13/2020\n■ Account #: 61358805\n■ Member #: 153933\n■ Meter #: 24071\n\n■ Payment Type Bank Draft\n\n<a id='2efdfdd1-4751-4aaf-afe5-a63c15404f0d'></a>\n\nThank you for your previous payment of $201.00.\nCharge detail found on the back of this page.\n\n<a id='e3293829-c88d-4a35-88cb-38430b472a15'></a>\n\nMonthly Energy Use\n04/06/2020 through 05/04/2020 (28 days)\n<::chart: Bar chart showing \"Monthly Use\" in Kilowatt Hours (left y-axis) and line graphs showing \"Monthly High\" and \"Monthly Low\" temperatures (right y-axis) over months from May 2019 to May 2020. \n\nLeft Y-axis: Kilowatt Hours, ranging from 0 to 1750 in increments of 250.\nRight Y-axis: Temp, ranging from 0 to 75 in increments of 15.\nX-axis: Months, labeled May, Jun, Jul, Aug, Sep, Oct, Nov, Dec for 2019, and Jan, Feb, Mar, Apr, May for 2020.\n\nData Series:\nMonthly Use (bars):\nMay 2019: 1300 kWh\nJun 2019: 950 kWh\nJul 2019: 850 kWh\nAug 2019: 1200 kWh\nSep 2019: 1100 kWh\nOct 2019: 1150 kWh\nNov 2019: 800 kWh\nDec 2019: 1250 kWh\nJan 2020: 1700 kWh\nFeb 2020: 1300 kWh\nMar 2020: 1500 kWh\nApr 2020: 1450 kWh\nMay 2020: 1200 kWh (highlighted in green)\n\nMonthly High (red line with dots):\nMay 2019: 60°\nJun 2019: 58°\nJul 2019: 68°\nAug 2019: 72°\nSep 2019: 70°\nOct 2019: 65°\nNov 2019: 50°\nDec 2019: 45°\nJan 2020: 40°\nFeb 2020: 40°\nMar 2020: 35°\nApr 2020: 50°\nMay 2020: 60°\n\nMonthly Low (blue line with dots):\nMay 2019: 35°\nJun 2019: 38°\nJul 2019: 45°\nAug 2019: 48°\nSep 2019: 48°\nOct 2019: 40°\nNov 2019: 25°\nDec 2019: 25°\nJan 2020: 20°\nFeb 2020: 18°\nMar 2020: 15°\nApr 2020: 25°\nMay 2020: 30°::>\n\n<a id='e6c716ea-8f2b-4b69-af45-518ffd649e65'></a>\n\n<::Monthly Energy Use Comparison chart:\nTotal Energy Use This Month (28 Days): 1255 kWh\nTotal Energy Use Last Month (35 Days): 1541 kWh\nTotal Energy Use This Month Last Year (35 Days): 1337 kWh::>\n\n<a id='fef83a75-da4f-4348-8f0b-b4f6536f018c'></a>\n\n<::Your Average Daily Use (28 days)\n\n45 kWh\nAVERAGE DAILY USE\n\n$6.07\nAVERAGE DAILY COST\n: figure::>\n\n<a id='930a3542-1f24-49c1-99fa-d10d0be464ff'></a>\n\n**Operation Round Up®**\n*Neighbors Helping Neighbors*\n\nFor less than $12 per year, you can\nround up your monthly electric bill to\nthe nearest dollar, turning your coins\ninto CHANGE to help support your\ncommunity, and your neighbors.\n\n*To learn more, apply for funds,\nor opt-in to the program, visit:\nwww.mvea.coop/round-up*\n\n<a id='97988f78-0e96-4c5a-8da4-2ff0510169f3'></a>\n\n___ ___ ___ ___ ___ ___ Return only this portion with your check made payable to MVEA. ___ ___ ___ ___ Please write your account number ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ on this payment stub. Credit cards are only accepted through www.mvea.coop, the SmartHub app, or Automated Pay-By-Phone at 1-877-999-3415.\nPlease visit www.myea.coon for a full explanation of our rules and regulations\n\n<a id='793f88f9-975e-47d7-9733-541ee21f8272'></a>\n\nA Member-Owned Cooperative\nMOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\nYour Touchstone Energy Cooperative\n\nPlease visit www.mvei\nMVEA\nPO BOX 1600\nLIMON, CO 80828-1600\n\n<a id='dca052f6-16be-4fba-90c9-a7124d429734'></a>\n\nRON A BAUMERT\n935 FLAMING TREE WAY\nMONUMENT CO 80132-9306\n\n<a id='ef34187c-33bf-4546-bceb-2b1ce4ecadff'></a>\n\n4 2357\n\n<a id='521817d4-197b-477a-88f0-d46cf4cd1c4c'></a>\n\nAccount #: 61358805\nAutomatic Payment Amount Due: $170.00\nPayment is due by 05/28/2020\n\n<a id='03aaab7c-85ee-42ea-bcb7-a9166ad95eff'></a>\n\nMVEA\nPO BOX 1600 2\nLIMON, CO 80828-1600\n[barcode]\n\n<a id='d735d239-0ee8-4251-8d77-4de6d091b3a7'></a>\n\n<::scan_code: Data Matrix\n\nThis is a small, black and white Data Matrix code with no discernible quality issues, centered on a white background.::>\n\n<a id='5180047c-5875-455b-a90a-d4d50022cd61'></a>\n\n<::scan_code: Code 128 Barcode\n\nThis barcode consists of vertical black lines of varying widths and spacing on a white background, appearing clear and well-defined.::>\n\n<a id='4220a04a-2c94-43a9-be98-e040e59b17a0'></a>\n\n0061358805000001700000000170003\n\n<a id='f47bf7ac-f6f2-40b1-9f03-d604581c7111'></a>\n\n<::logo: Mountain View Electric Association, Inc.\nA Member-Owned Cooperative\nYour Touchstone Energy Cooperative\nFeatures a stylized blue mountain range with white peaks and a small multi-colored human figure logo on the right::>\n\n<a id='7ade9912-8b53-44de-96e1-d41b3f7f6a05'></a>\n\nLocal. Trusted. Serving You.\nFalcon | Limon | Monument | 1-800-388-9881\nOutage: 1-800-388-9881 Automated Pay-By-Phone: 1-877-999-3415\nWebsite: www.mvea.coop Office Hours: 7 a.m. - 5:30 p.m. M - Th\n\n<a id='e410898c-8583-4866-b989-899b5792de62'></a>\n\nAccount Information\n\nAccount Number: 61358805\nBilling Period: 04/06/2020 - 05/04/2020 for 28 Days\nBill Date: 05/13/2020\nBill Cycle: 2\nPhone Number: (650) 745-1771\nService Address: 935 FLAMING TREE WAY\nMONUMENT\nCO\nRate: RESIDENTIAL\nBill Type: Regular\nMeter Number: 24071\nPrior Reading: 20451\nPresent Reading: 21706\nkWh Use: 1255\n\n<a id='cd40051a-56ab-4a56-aafc-b67626505039'></a>\n\nAutomatic Payment\nOn 05/28/2020\n$170.00\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Activity Prior To Billing</td><td id=\"1-3\"></td></tr>\n<tr><td id=\"1-4\">Previous Balance</td><td id=\"1-5\">$201.00</td></tr>\n<tr><td id=\"1-6\">Payment Received - Thank You</td><td id=\"1-7\">-$201.00</td></tr>\n<tr><td id=\"1-8\">Balance Forward</td><td id=\"1-9\">$0.00</td></tr>\n<tr><td id=\"1-a\">Current Bill Information</td><td id=\"1-b\"></td></tr>\n<tr><td id=\"1-c\">Energy</td><td id=\"1-d\">$135.89</td></tr>\n<tr><td id=\"1-e\">Grid Access</td><td id=\"1-f\">$34.50</td></tr>\n<tr><td id=\"1-g\">Ach Bank Draft Credit</td><td id=\"1-h\">-$0.50</td></tr>\n<tr><td id=\"1-i\">Paperless Credit</td><td id=\"1-j\">-$0.50</td></tr>\n<tr><td id=\"1-k\">Operation Round Up Fund</td><td id=\"1-l\">$0.61</td></tr>\n<tr><td id=\"1-m\">Current Charges Due By 05/28/2020</td><td id=\"1-n\">$170.00</td></tr>\n<tr><td id=\"1-o\">Previous Balance Was Due 04/30/2020</td><td id=\"1-p\">$0.00</td></tr>\n<tr><td id=\"1-q\">Total Amount Due</td><td id=\"1-r\">$170.00</td></tr>\n<tr><td id=\"1-s\"></td><td id=\"1-t\"></td></tr>\n</table>\n\n<a id='c62c6ca3-ba13-4e25-9766-e709a5392e51'></a>\n\nTHE COOPERATIVE Advantage\n\nLocal | Trusted | Serving You\n\n• Virtual Only •\n2020 Annual\nMeeting of\nMembers\n\nThursday • June 4, 2020 • 6 p.m.\n\nMVEA's 2020 Annual Meeting of\nMembers is going VIRTUAL ONLY in\nthe interest of public health and safety\ndue to the COVID-19 pandemic and\nState of Colorado directives.\n\nThis year, we invite you to attend your\nco-op's Annual Meeting of Members\nfrom the comfort and safety of your\nown home on June 4 at 6 p.m.\n\nMail-In Ballot Only Election\n50+ Chances To Win Bill Credits & Door Prizes\n\nComplete your mail-in ballot for a chance to\nwin a $50 bill credit! $2,500 in bill credits,\nplus door prizes, will be awarded!\n\nLearn More Now & Attend On June 4!\nwww.mvea.coop/annual-meeting\n\nA Member-Owned Cooperative\nMOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.\nYour Touchstone Energy Cooperative\n\n<a id='df9d197c-72b6-4f58-9e3c-a555f4dde27b'></a>\n\nOther Ways to Pay Your Bill\n\n<a id='d2ae7028-ef31-432d-aaf9-7e0b4ba1e429'></a>\n\n<::logo: [MVREA] Online Pay your bill at www.mvea.coop Automated Pay-By-Phone 1-877-999-3415 A green square with a monitor icon and a green square with a phone icon.::>\n\n<a id='a7185b6f-8806-49fd-94d6-85a588a7c73a'></a>\n\nSmartHub App\nManage your account\nonline or with your\nmobile device. Visit:\nwww.smarthubapp.com\n\n<a id='a1d4d06f-2803-482f-bbb5-11bc358a9f3a'></a>\n\nIn-Person\nThe closest office to your address is:\nMonument Office\n15706 Jackson Creek Parkway\nSuite 100\nMonument, CO 80132",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "adafffa2-2cac-4cd6-b1cd-d5841c3b9819": {
+      "box": {
+        "bottom": 0.08407563716173172,
+        "left": 0.042976126074790955,
+        "right": 0.27973705530166626,
+        "top": 0.0015134811401367188
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "c74cf314-497e-4f8f-8f4b-4836b0f0884c": {
+      "box": {
+        "bottom": 0.07591709494590759,
+        "left": 0.5305263996124268,
+        "right": 0.9425454139709473,
+        "top": 0.019552763551473618
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "531aa430-5dd0-4542-a7be-64e6ec50f972": {
+      "box": {
+        "bottom": 0.21725192666053772,
+        "left": 0.04564163088798523,
+        "right": 0.3763396143913269,
+        "top": 0.08893797546625137
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5b3e2318-ff07-486c-8077-45308b6165eb": {
+      "box": {
+        "bottom": 0.26847463846206665,
+        "left": 0.3780117630958557,
+        "right": 0.6415330767631531,
+        "top": 0.06819424033164978
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "7ab49125-ed87-4cd7-963d-f4d919b034d1": {
+      "box": {
+        "bottom": 0.17759579420089722,
+        "left": 0.6448773145675659,
+        "right": 0.8815743923187256,
+        "top": 0.07779702544212341
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2efdfdd1-4751-4aaf-afe5-a63c15404f0d": {
+      "box": {
+        "bottom": 0.2203434407711029,
+        "left": 0.6419908404350281,
+        "right": 0.9508569836616516,
+        "top": 0.1852426826953888
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e3293829-c88d-4a35-88cb-38430b472a15": {
+      "box": {
+        "bottom": 0.44481754302978516,
+        "left": 0.04116952419281006,
+        "right": 0.6496471166610718,
+        "top": 0.22204013168811798
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "e6c716ea-8f2b-4b69-af45-518ffd649e65": {
+      "box": {
+        "bottom": 0.669901967048645,
+        "left": 0.04052838683128357,
+        "right": 0.602932333946228,
+        "top": 0.47379112243652344
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "fef83a75-da4f-4348-8f0b-b4f6536f018c": {
+      "box": {
+        "bottom": 0.47855478525161743,
+        "left": 0.6834841966629028,
+        "right": 0.968306303024292,
+        "top": 0.22126847505569458
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "930a3542-1f24-49c1-99fa-d10d0be464ff": {
+      "box": {
+        "bottom": 0.6553447842597961,
+        "left": 0.6878117322921753,
+        "right": 0.9425666332244873,
+        "top": 0.4866044223308563
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "97988f78-0e96-4c5a-8da4-2ff0510169f3": {
+      "box": {
+        "bottom": 0.6982014179229736,
+        "left": 0.14277777075767517,
+        "right": 0.859175443649292,
+        "top": 0.6675220727920532
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "793f88f9-975e-47d7-9733-541ee21f8272": {
+      "box": {
+        "bottom": 0.7637929320335388,
+        "left": 0.02619674801826477,
+        "right": 0.42599746584892273,
+        "top": 0.6943318247795105
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "dca052f6-16be-4fba-90c9-a7124d429734": {
+      "box": {
+        "bottom": 0.9096612930297852,
+        "left": 0.06426575034856796,
+        "right": 0.2715854048728943,
+        "top": 0.8716675043106079
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ef34187c-33bf-4546-bceb-2b1ce4ecadff": {
+      "box": {
+        "bottom": 0.8786841630935669,
+        "left": 0.33836811780929565,
+        "right": 0.4024387001991272,
+        "top": 0.8616142272949219
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "521817d4-197b-477a-88f0-d46cf4cd1c4c": {
+      "box": {
+        "bottom": 0.7526167035102844,
+        "left": 0.5352926850318909,
+        "right": 0.9638906121253967,
+        "top": 0.7011831402778625
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "03aaab7c-85ee-42ea-bcb7-a9166ad95eff": {
+      "box": {
+        "bottom": 0.894775927066803,
+        "left": 0.5735926628112793,
+        "right": 0.9167771339416504,
+        "top": 0.8223147988319397
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d735d239-0ee8-4251-8d77-4de6d091b3a7": {
+      "box": {
+        "bottom": 0.9103602766990662,
+        "left": 0.9398049116134644,
+        "right": 0.987906813621521,
+        "top": 0.8718416094779968
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "5180047c-5875-455b-a90a-d4d50022cd61": {
+      "box": {
+        "bottom": 0.948451817035675,
+        "left": 0.0678025633096695,
+        "right": 0.4131699800491333,
+        "top": 0.9245137572288513
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "4220a04a-2c94-43a9-be98-e040e59b17a0": {
+      "box": {
+        "bottom": 0.9721994996070862,
+        "left": 0.303202748298645,
+        "right": 0.6787598729133606,
+        "top": 0.951487123966217
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f47bf7ac-f6f2-40b1-9f03-d604581c7111": {
+      "box": {
+        "bottom": 0.08388975262641907,
+        "left": 0.042205072939395905,
+        "right": 0.2799573540687561,
+        "top": 0.01763809844851494
+      },
+      "page": 1,
+      "type": "chunkLogo"
+    },
+    "7ade9912-8b53-44de-96e1-d41b3f7f6a05": {
+      "box": {
+        "bottom": 0.07616784423589706,
+        "left": 0.5306656360626221,
+        "right": 0.9424479007720947,
+        "top": 0.019541049376130104
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "e410898c-8583-4866-b989-899b5792de62": {
+      "box": {
+        "bottom": 0.4075279235839844,
+        "left": 0.05182155966758728,
+        "right": 0.48754259943962097,
+        "top": 0.09858138859272003
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "cd40051a-56ab-4a56-aafc-b67626505039": {
+      "box": {
+        "bottom": 0.41052067279815674,
+        "left": 0.4875882863998413,
+        "right": 0.9464995861053467,
+        "top": 0.07747502624988556
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.40787039648417434,
+        "left": 0.48996096286001933,
+        "right": 0.941274405125526,
+        "top": 0.1328923281935599
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.1509898416808137,
+        "left": 0.490060714900663,
+        "right": 0.7637616922284056,
+        "top": 0.13289232819355992
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.1508532592643887,
+        "left": 0.7637614282425438,
+        "right": 0.941274405125526,
+        "top": 0.13293372318937474
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.16498656135492623,
+        "left": 0.49005527231744156,
+        "right": 0.7637614282425438,
+        "top": 0.1508532592643887
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.16497085868667882,
+        "left": 0.7637612202658062,
+        "right": 0.9412655777877773,
+        "top": 0.15076468095790813
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.18102656844481174,
+        "left": 0.49004905488649914,
+        "right": 0.7637612202658062,
+        "top": 0.16497085868667882
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.18105938506878927,
+        "left": 0.7637609837373402,
+        "right": 0.941258539365707,
+        "top": 0.1649606755630108
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.19675425541771074,
+        "left": 0.490042926768583,
+        "right": 0.7637609837373402,
+        "top": 0.18097596095698443
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.19676630397910688,
+        "left": 0.7637607520412191,
+        "right": 0.9412505575711627,
+        "top": 0.18102656844481174
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.2135673541773281,
+        "left": 0.4900363818192352,
+        "right": 0.7637607520412191,
+        "top": 0.19673567378301648
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.21341657758821608,
+        "left": 0.7637605065762996,
+        "right": 0.9412427700277191,
+        "top": 0.19675425541771074
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.22795137810303756,
+        "left": 0.49003078863389626,
+        "right": 0.7637605065762996,
+        "top": 0.21341657758821608
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.22776041010912532,
+        "left": 0.7637602952667559,
+        "right": 0.9412345632349564,
+        "top": 0.21331881882127288
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.24332795540170152,
+        "left": 0.49002480949710153,
+        "right": 0.7637602952667559,
+        "top": 0.22776041010912532
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.24316123815787438,
+        "left": 0.7637600683858341,
+        "right": 0.941227464430817,
+        "top": 0.22763659974721936
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.25912122645731944,
+        "left": 0.4900186683301667,
+        "right": 0.7637600683858341,
+        "top": 0.24316123815787438
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.2590125317032468,
+        "left": 0.7637598348687735,
+        "right": 0.9412198208496221,
+        "top": 0.24305315708369668
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.27472652775508094,
+        "left": 0.4900126002547186,
+        "right": 0.7637598348687735,
+        "top": 0.2590125317032468
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.2746850842006209,
+        "left": 0.763759603984879,
+        "right": 0.9412119430726539,
+        "top": 0.25894207056835505
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.29050929759597177,
+        "left": 0.4900064631711502,
+        "right": 0.763759603984879,
+        "top": 0.2746850842006209
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.29045060549273255,
+        "left": 0.7637593717313926,
+        "right": 0.9412041509525746,
+        "top": 0.27465822022532366
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.30659785327994293,
+        "left": 0.4900002071836573,
+        "right": 0.7637593717313926,
+        "top": 0.29045060549273255
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.30658763940867156,
+        "left": 0.7637591340048807,
+        "right": 0.9411963398960481,
+        "top": 0.2904125633440345
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.3221128824883922,
+        "left": 0.4899941920221537,
+        "right": 0.7637591340048807,
+        "top": 0.30658763940867156
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.3221425691194383,
+        "left": 0.7637589052911093,
+        "right": 0.9411883235208427,
+        "top": 0.3065810195737586
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "1-q": {
+      "box": {
+        "bottom": 0.339172204358897,
+        "left": 0.4899875407431799,
+        "right": 0.7637589052911093,
+        "top": 0.3220670755103856
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 12,
+        "rowspan": 1
+      }
+    },
+    "1-r": {
+      "box": {
+        "bottom": 0.3388389957221875,
+        "left": 0.7637586588864369,
+        "right": 0.9411806080520209,
+        "top": 0.3221128824883922
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 12,
+        "rowspan": 1
+      }
+    },
+    "1-s": {
+      "box": {
+        "bottom": 0.4077336936588668,
+        "left": 0.48996096286001933,
+        "right": 0.7637586588864369,
+        "top": 0.3388389957221875
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 0,
+        "colspan": 1,
+        "row": 13,
+        "rowspan": 1
+      }
+    },
+    "1-t": {
+      "box": {
+        "bottom": 0.4078703964841743,
+        "left": 0.7637576439479844,
+        "right": 0.941172436966879,
+        "top": 0.33862306424070543
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "cd40051a-56ab-4a56-aafc-b67626505039",
+        "col": 1,
+        "colspan": 1,
+        "row": 13,
+        "rowspan": 1
+      }
+    },
+    "c62c6ca3-ba13-4e25-9766-e709a5392e51": {
+      "box": {
+        "bottom": 0.842508852481842,
+        "left": 0.057607829570770264,
+        "right": 0.942171573638916,
+        "top": 0.4434341788291931
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "df9d197c-72b6-4f58-9e3c-a555f4dde27b": {
+      "box": {
+        "bottom": 0.8996987342834473,
+        "left": 0.052689939737319946,
+        "right": 0.28048133850097656,
+        "top": 0.87633216381073
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "d2ae7028-ef31-432d-aaf9-7e0b4ba1e429": {
+      "box": {
+        "bottom": 0.9537728428840637,
+        "left": 0.053595855832099915,
+        "right": 0.40797102451324463,
+        "top": 0.9028577208518982
+      },
+      "page": 1,
+      "type": "chunkLogo"
+    },
+    "a7185b6f-8806-49fd-94d6-85a588a7c73a": {
+      "box": {
+        "bottom": 0.975464940071106,
+        "left": 0.43200039863586426,
+        "right": 0.6369327306747437,
+        "top": 0.9020367860794067
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "a1d4d06f-2803-482f-bbb5-11bc358a9f3a": {
+      "box": {
+        "bottom": 0.9872708916664124,
+        "left": 0.6512184143066406,
+        "right": 0.9253126382827759,
+        "top": 0.9013094305992126
+      },
+      "page": 1,
+      "type": "chunkText"
+    }
+  }
+}

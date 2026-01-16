@@ -1,0 +1,199 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "SDG&E",
+      "phone_number": "1-877-646-5525",
+      "website": "sdge.com",
+      "usage_bar_chart": true
+    },
+    "account_info": {
+      "account_holder": "DAINETTE R. WOODS",
+      "account_number": "7397 873 592 9",
+      "service_address": "568 S 36TH ST SAN DIEGO CA 92113",
+      "service_address_primary": "568 S 36TH ST",
+      "service_address_city": "SAN DIEGO",
+      "service_address_state": "CA",
+      "service_address_zip": "92113"
+    },
+    "billing_summary": {
+      "due_date": "2020-01-25",
+      "bill_date": "2020-01-17",
+      "service_start_date": "12-14-2020",
+      "service_end_date": "01-13-2020",
+      "total_amount_due": "$22.45"
+    },
+    "electric_charges": {
+      "meter_number": null,
+      "usage_kwh": "143 kWh",
+      "total_electric_charges": "8.47"
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": "8 Therms",
+      "total_gas_charges": "13.98"
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "SDG&E",
+        "references": [
+          "b367e4fe-040f-49c8-aeb0-58bf8ff0a93b"
+        ]
+      },
+      "phone_number": {
+        "value": "1-877-646-5525",
+        "references": [
+          "5b2ac3b4-aac7-4649-932d-ace17e130c7c",
+          "a6ffcd96-7021-486c-a948-6f00d06a0023"
+        ]
+      },
+      "website": {
+        "value": "sdge.com",
+        "references": [
+          "74e2d321-fe73-4fb2-a016-8fea219b37d0",
+          "4bfe6969-8ffc-4471-ad3c-66b6e799a0e8",
+          "5b2ac3b4-aac7-4649-932d-ace17e130c7c",
+          "a6ffcd96-7021-486c-a948-6f00d06a0023",
+          "96b9e32a-59a2-4708-955a-2686fcb73474"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": true,
+        "references": [
+          "c8281c37-ea44-47e1-9c2d-0b6ed3af05cb",
+          "c74a9a67-60d8-4fec-bedf-01081446456d"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "DAINETTE R. WOODS",
+        "references": [
+          "d6d39262-d889-4790-89fd-4a32b5cc72f9",
+          "455bec3b-e29b-4578-a760-347471adf7bb"
+        ]
+      },
+      "account_number": {
+        "value": "7397 873 592 9",
+        "references": [
+          "b7ea4058-b020-426c-85dd-742d76fb1d1c",
+          "c964ba7c-0f07-4be4-8a96-95a815d77a10"
+        ]
+      },
+      "service_address": {
+        "value": "568 S 36TH ST SAN DIEGO CA 92113",
+        "references": [
+          "3fc5235b-af16-452c-932e-6ad4f0c67041"
+        ]
+      },
+      "service_address_primary": {
+        "value": "568 S 36TH ST",
+        "references": [
+          "3fc5235b-af16-452c-932e-6ad4f0c67041"
+        ]
+      },
+      "service_address_city": {
+        "value": "SAN DIEGO",
+        "references": [
+          "3fc5235b-af16-452c-932e-6ad4f0c67041"
+        ]
+      },
+      "service_address_state": {
+        "value": "CA",
+        "references": [
+          "3fc5235b-af16-452c-932e-6ad4f0c67041"
+        ]
+      },
+      "service_address_zip": {
+        "value": "92113",
+        "references": [
+          "3fc5235b-af16-452c-932e-6ad4f0c67041"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2020-01-25",
+        "references": [
+          "85cbb661-6aae-4359-9b9f-f97d92a10bf9",
+          "d33041ef-9a29-4a4d-b788-3cd1c6d01a84"
+        ]
+      },
+      "bill_date": {
+        "value": "2020-01-17",
+        "references": [
+          "74e2d321-fe73-4fb2-a016-8fea219b37d0"
+        ]
+      },
+      "service_start_date": {
+        "value": "12-14-2020",
+        "references": [
+          "0-q",
+          "0-u"
+        ]
+      },
+      "service_end_date": {
+        "value": "01-13-2020",
+        "references": [
+          "0-q",
+          "0-u"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$22.45",
+        "references": [
+          "0-j",
+          "85cbb661-6aae-4359-9b9f-f97d92a10bf9",
+          "d33041ef-9a29-4a4d-b788-3cd1c6d01a84"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_kwh": {
+        "value": "143 kWh",
+        "references": [
+          "0-v"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "8.47",
+        "references": [
+          "0-w"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": "8 Therms",
+        "references": [
+          "0-r"
+        ]
+      },
+      "total_gas_charges": {
+        "value": "13.98",
+        "references": [
+          "0-s"
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 2.198,
+    "duration_ms": 16424,
+    "filename": "upload.md",
+    "job_id": "eb1a4b4d011c42b39d6eba9295af5a06",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'string'\n\nFailed validating 'type' in schema['properties']['electric_charges']['properties']['meter_number']:\n    {'type': 'string',\n     'title': 'Electric Meter Number',\n     'description': 'Identifier for the electric meter. Blank if this bill '\n                    'does not inlcude electric service.'}\n\nOn instance['electric_charges']['meter_number']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

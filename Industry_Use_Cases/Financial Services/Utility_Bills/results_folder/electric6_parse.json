@@ -1,0 +1,2604 @@
+{
+  "chunks": [
+    {
+      "id": "58a75335-1fe3-4050-b49c-1ae113887fdc",
+      "grounding": {
+        "box": {
+          "bottom": 0.02038857340812683,
+          "left": 0.8993270397186279,
+          "right": 0.9695776700973511,
+          "top": 0.0063499887473881245
+        },
+        "page": 0
+      },
+      "markdown": "<a id='58a75335-1fe3-4050-b49c-1ae113887fdc'></a>\n\nPage 1 of2",
+      "type": "marginalia"
+    },
+    {
+      "id": "b3a03410-109c-4762-864d-8a6ae717af29",
+      "grounding": {
+        "box": {
+          "bottom": 0.09191612154245377,
+          "left": 0.07299397140741348,
+          "right": 0.28804612159729004,
+          "top": 0.06054220348596573
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b3a03410-109c-4762-864d-8a6ae717af29'></a>\n\n<::logo: Mississippi Power\nMississippi Power\nA stylized, colorful triangular symbol with shades of red, blue, and green, resembling a 3D arrow or folded paper shape.::>",
+      "type": "logo"
+    },
+    {
+      "id": "69d1d3a4-b7b9-451d-817c-58eacbf0b274",
+      "grounding": {
+        "box": {
+          "bottom": 0.09265308082103729,
+          "left": 0.2969151735305786,
+          "right": 0.4371602535247803,
+          "top": 0.05764295533299446
+        },
+        "page": 0
+      },
+      "markdown": "<a id='69d1d3a4-b7b9-451d-817c-58eacbf0b274'></a>\n\nCustomer Name\nWILLIAM A VALENCIA",
+      "type": "text"
+    },
+    {
+      "id": "241c9eee-4700-44ed-bd7f-9e7d4ee65524",
+      "grounding": {
+        "box": {
+          "bottom": 0.09283119440078735,
+          "left": 0.5329606533050537,
+          "right": 0.6329213380813599,
+          "top": 0.05763806402683258
+        },
+        "page": 0
+      },
+      "markdown": "<a id='241c9eee-4700-44ed-bd7f-9e7d4ee65524'></a>\n\nAccount Number\n09931-83323",
+      "type": "text"
+    },
+    {
+      "id": "63d6310c-4700-4638-a5f9-efd3ea6fc5ee",
+      "grounding": {
+        "box": {
+          "bottom": 0.09113442897796631,
+          "left": 0.6516264081001282,
+          "right": 0.9745411276817322,
+          "top": 0.021407920867204666
+        },
+        "page": 0
+      },
+      "markdown": "<a id='63d6310c-4700-4638-a5f9-efd3ea6fc5ee'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Delinquent After</td><td id=\"0-3\">Nov 5, 2018</td></tr>\n<tr><td id=\"0-4\">Total Due</td><td id=\"0-5\">$ 86.72</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72",
+      "grounding": {
+        "box": {
+          "bottom": 0.15341146290302277,
+          "left": 0.07309421896934509,
+          "right": 0.22683992981910706,
+          "top": 0.120310939848423
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72'></a>\n\nService Address\n2501 W 7TH ST APT 224",
+      "type": "text"
+    },
+    {
+      "id": "c3c2b5c5-b595-41dd-b001-d077fe9741f6",
+      "grounding": {
+        "box": {
+          "bottom": 0.15493424236774445,
+          "left": 0.4560436010360718,
+          "right": 0.6329569816589355,
+          "top": 0.12059874087572098
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c3c2b5c5-b595-41dd-b001-d077fe9741f6'></a>\n\nService Period\nSept 24, 2018 - Oct 22, 2018",
+      "type": "text"
+    },
+    {
+      "id": "692e6b8e-3838-4ce7-b5ac-60db3d906327",
+      "grounding": {
+        "box": {
+          "bottom": 0.29437148571014404,
+          "left": 0.07277008891105652,
+          "right": 0.6331655979156494,
+          "top": 0.16993898153305054
+        },
+        "page": 0
+      },
+      "markdown": "<a id='692e6b8e-3838-4ce7-b5ac-60db3d906327'></a>\n\n**Important Payment Notice**\n\nBecause we value your business, we want to minimize the possibility of a service interruption.\nWe appreciate you paying your bill promptly. If you cannot pay this bill by November 5, 2018,\nplease call us at 1-800-532-1502. If payment is not received by the due date, you may be\nrequired to pay a deposit. Additionally, your service could be disconnected, in which case you\nwill be charged a reconnection fee to restore service. If you have any questions about this bill,\nplease contact us before your payment is due. Thank you for allowing us to serve you.",
+      "type": "text"
+    },
+    {
+      "id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+      "grounding": {
+        "box": {
+          "bottom": 0.4103023111820221,
+          "left": 0.07275334000587463,
+          "right": 0.6323707103729248,
+          "top": 0.2994724214076996
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ef1f68e0-916f-481c-be2a-3b8f0796ef53'></a>\n\n<table id=\"0-6\">\n<tr><td id=\"0-7\">Billing Summary</td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">Previous Bill Amount</td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\">$ 99.77</td></tr>\n<tr><td id=\"0-f\">Payment Received On 09/26/18</td><td id=\"0-g\">Thank You!</td><td id=\"0-h\"></td><td id=\"0-i\">-99.77</td></tr>\n<tr><td id=\"0-j\">Current Electric Service</td><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\">+86.72</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">(beige box)</td><td id=\"0-p\">Total Due</td><td id=\"0-q\">$ 86.72</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "3f57de1d-3e76-4e13-848c-a6277c7e480f",
+      "grounding": {
+        "box": {
+          "bottom": 0.40960678458213806,
+          "left": 0.6523667573928833,
+          "right": 0.9748196601867676,
+          "top": 0.11279603838920593
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3f57de1d-3e76-4e13-848c-a6277c7e480f'></a>\n\n# Contact Us\nmississippipower.com\n\nAccount Number: 09931-83323\nWeb Access Code: 384255\n\nCustomer Service: 1-800-532-1502\nMon - Fri: 7am - 9pm\nEmergencies: 24hrs/7 days\n\nPower Outage Reporting: 1-800-487-3275\n24 hrs/7 days\n\n# Payment Options\n**Online** Just visit mississippipower.com/mypayment\nLogin to your account using the following:\nAccount number: 09931-83323\nWeb access code: 384255\n\n**By Mail**\nMississippi Power Payments\nPO Box 245\nBirmingham, AL 35201-0245\n\n**Local Office** The Mississippi Power local office for your service address is:\n420 West Pine St.\nHattiesburg, MS 39401",
+      "type": "text"
+    },
+    {
+      "id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+      "grounding": {
+        "box": {
+          "bottom": 0.6657460927963257,
+          "left": 0.6521177291870117,
+          "right": 0.974539041519165,
+          "top": 0.41314196586608887
+        },
+        "page": 0
+      },
+      "markdown": "<a id='882eed53-adac-4d5c-be0e-5fa3ee214ed2'></a>\n\nFor current billing details, turn page over\n<table id=\"0-r\">\n<tr><td id=\"0-s\" colspan=\"3\">Usage Information Total Used 539 kWh Next Scheduled Read Date On or after Nov 19, 2018</td></tr>\n<tr><td id=\"0-t\" rowspan=\"2\">550 440 220</td><td id=\"0-u\">(horizontal line)</td><td id=\"0-v\">(vertical bar)</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">(two vertical bars)</td></tr>\n<tr><td id=\"0-y\">300</td><td id=\"0-z\"></td><td id=\"0-A\">(two vertical bars)</td></tr>\n<tr><td id=\"0-B\">220</td><td id=\"0-C\" colspan=\"2\">grey rectangle with black vertical bars</td></tr>\n<tr><td id=\"0-D\">110</td><td id=\"0-E\"></td><td id=\"0-F\">(vertical black bars)</td></tr>\n<tr><td id=\"0-G\">Total kWh</td><td id=\"0-H\"></td><td id=\"0-I\">Oct Nov 2018</td></tr>\n</table>\n<table id=\"0-J\">\n<tr><td id=\"0-K\"></td><td id=\"0-L\">1 Year Ago</td><td id=\"0-M\">Last Month</td><td id=\"0-N\">This Month</td></tr>\n<tr><td id=\"0-O\">Total kWh Used</td><td id=\"0-P\"></td><td id=\"0-Q\">430</td><td id=\"0-R\">539</td></tr>\n<tr><td id=\"0-S\">Average Daily kWh</td><td id=\"0-T\"></td><td id=\"0-U\">24</td><td id=\"0-V\">19</td></tr>\n<tr><td id=\"0-W\">Days In Billing Period</td><td id=\"0-X\"></td><td id=\"0-Y\">18</td><td id=\"0-Z\">28</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "a20f41f7-85e5-45ab-b704-04a3475e31a1",
+      "grounding": {
+        "box": {
+          "bottom": 0.6813827157020569,
+          "left": 0.0743408054113388,
+          "right": 0.2768264412879944,
+          "top": 0.6655951142311096
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a20f41f7-85e5-45ab-b704-04a3475e31a1'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS.",
+      "type": "text"
+    },
+    {
+      "id": "d9f002fb-73e6-4087-b4d3-8f2c7f529fcc",
+      "grounding": {
+        "box": {
+          "bottom": 0.700005829334259,
+          "left": 0.07394114136695862,
+          "right": 0.602318286895752,
+          "top": 0.6839279532432556
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d9f002fb-73e6-4087-b4d3-8f2c7f529fcc'></a>\n\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT, MAKING SURE THE RETURN ADDRESS SHOWS IN THE ENVELOPE WINDOW.",
+      "type": "text"
+    },
+    {
+      "id": "df85c081-8032-4431-b8b8-f8927e2e14ae",
+      "grounding": {
+        "box": {
+          "bottom": 0.7058424353599548,
+          "left": 0.6636757850646973,
+          "right": 0.8456426858901978,
+          "top": 0.687398374080658
+        },
+        "page": 0
+      },
+      "markdown": "<a id='df85c081-8032-4431-b8b8-f8927e2e14ae'></a>\n\nAccount Number 09931-83323",
+      "type": "text"
+    },
+    {
+      "id": "6879fa0c-f592-4c23-86ae-2394e3bc3adf",
+      "grounding": {
+        "box": {
+          "bottom": 0.7741208672523499,
+          "left": 0.06670956313610077,
+          "right": 0.35016292333602905,
+          "top": 0.7430829405784607
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6879fa0c-f592-4c23-86ae-2394e3bc3adf'></a>\n\nMississippi Power\n\n420 West Pine St.\nHattiesburg, MS 39401",
+      "type": "text"
+    },
+    {
+      "id": "53b70185-0817-428e-bdd5-84d39ae3e48b",
+      "grounding": {
+        "box": {
+          "bottom": 0.7741379737854004,
+          "left": 0.6529903411865234,
+          "right": 0.9736860990524292,
+          "top": 0.707460880279541
+        },
+        "page": 0
+      },
+      "markdown": "<a id='53b70185-0817-428e-bdd5-84d39ae3e48b'></a>\n\n<table id=\"0-10\">\n<tr><td id=\"0-11\">Delinquent After</td><td id=\"0-12\">Nov 5, 2018</td></tr>\n<tr><td id=\"0-13\">Total Due</td><td id=\"0-14\">$86.72</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "9565087b-2d67-454c-8c20-0e45802820b3",
+      "grounding": {
+        "box": {
+          "bottom": 0.8023260235786438,
+          "left": 0.5468260049819946,
+          "right": 0.9651939868927002,
+          "top": 0.7753761410713196
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9565087b-2d67-454c-8c20-0e45802820b3'></a>\n\noption Yes, I want to save a stamp on my next payment! Enroll me in paperless billing today.: [ ]\nPlease verify your email address on the back of this statement.",
+      "type": "text"
+    },
+    {
+      "id": "1c6825dd-9cae-4ee4-8b52-dd98338e8a76",
+      "grounding": {
+        "box": {
+          "bottom": 0.8340160250663757,
+          "left": 0.06815361976623535,
+          "right": 0.7023050785064697,
+          "top": 0.815452516078949
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1c6825dd-9cae-4ee4-8b52-dd98338e8a76'></a>\n\n040993183323570000008672000000000000000000000000",
+      "type": "text"
+    },
+    {
+      "id": "8d79fd3b-66a0-44af-a74c-6521817b6e92",
+      "grounding": {
+        "box": {
+          "bottom": 0.9093595147132874,
+          "left": 0.06947701424360275,
+          "right": 0.2231578230857849,
+          "top": 0.8662015795707703
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8d79fd3b-66a0-44af-a74c-6521817b6e92'></a>\n\nWILLIAM A VALENCIA\n2501 W 7TH ST APT 224\nHATTIESBURG MS 39401",
+      "type": "text"
+    },
+    {
+      "id": "2918b48a-325a-4ac6-9185-16863c66385e",
+      "grounding": {
+        "box": {
+          "bottom": 0.9022945165634155,
+          "left": 0.5308639407157898,
+          "right": 0.6260754466056824,
+          "top": 0.8479824066162109
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2918b48a-325a-4ac6-9185-16863c66385e'></a>\n\nMail To:\nPO BOX 245\nBIRMINGHAM AL\n35201-0245",
+      "type": "text"
+    },
+    {
+      "id": "0cb968e2-95e1-43c9-b59e-d43a5ee6053d",
+      "grounding": {
+        "box": {
+          "bottom": 0.9950169920921326,
+          "left": 0.20113781094551086,
+          "right": 0.2282395362854004,
+          "top": 0.9806267619132996
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0cb968e2-95e1-43c9-b59e-d43a5ee6053d'></a>\n\n03",
+      "type": "marginalia"
+    },
+    {
+      "id": "0387e3bd-d66a-4a40-8ae1-25212641ede8",
+      "grounding": {
+        "box": {
+          "bottom": 0.674314022064209,
+          "left": 0.021969415247440338,
+          "right": 0.041747890412807465,
+          "top": 0.622879147529602
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0387e3bd-d66a-4a40-8ae1-25212641ede8'></a>\n\n09931-83323 03",
+      "type": "marginalia"
+    },
+    {
+      "id": "a90b490f-2185-4a71-9e54-ee3639dc2564",
+      "grounding": {
+        "box": {
+          "bottom": 0.019961446523666382,
+          "left": 0.8500837087631226,
+          "right": 0.9206949472427368,
+          "top": 0.006338938605040312
+        },
+        "page": 1
+      },
+      "markdown": "<a id='a90b490f-2185-4a71-9e54-ee3639dc2564'></a>\n\nPage 2 of2",
+      "type": "marginalia"
+    },
+    {
+      "id": "8b393390-3e70-49ab-8a42-cc93e04c294f",
+      "grounding": {
+        "box": {
+          "bottom": 0.09195561707019806,
+          "left": 0.0246562659740448,
+          "right": 0.2384466528892517,
+          "top": 0.06084245443344116
+        },
+        "page": 1
+      },
+      "markdown": "<a id='8b393390-3e70-49ab-8a42-cc93e04c294f'></a>\n\n<::logo: Mississippi Power\nMississippi Power\nThe logo features a colorful abstract triangle shape with red, blue, and green elements, positioned to the left of the company name.::>",
+      "type": "logo"
+    },
+    {
+      "id": "953bdf59-eec6-4cd8-afdb-f64ab8f78535",
+      "grounding": {
+        "box": {
+          "bottom": 0.0925811380147934,
+          "left": 0.24808907508850098,
+          "right": 0.38841962814331055,
+          "top": 0.05778934061527252
+        },
+        "page": 1
+      },
+      "markdown": "<a id='953bdf59-eec6-4cd8-afdb-f64ab8f78535'></a>\n\nCustomer Name\nWILLIAM A VALENCIA",
+      "type": "text"
+    },
+    {
+      "id": "de5f5b97-5da7-4845-b828-e66bc292bd4e",
+      "grounding": {
+        "box": {
+          "bottom": 0.0927523523569107,
+          "left": 0.4835559129714966,
+          "right": 0.5842405557632446,
+          "top": 0.05746467411518097
+        },
+        "page": 1
+      },
+      "markdown": "<a id='de5f5b97-5da7-4845-b828-e66bc292bd4e'></a>\n\nAccount Number\n09931-83323",
+      "type": "text"
+    },
+    {
+      "id": "3e9c0f45-6a3a-4847-b023-35773cf6be9f",
+      "grounding": {
+        "box": {
+          "bottom": 0.09052345156669617,
+          "left": 0.6037998199462891,
+          "right": 0.9249519109725952,
+          "top": 0.021563488990068436
+        },
+        "page": 1
+      },
+      "markdown": "<a id='3e9c0f45-6a3a-4847-b023-35773cf6be9f'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Delinquent After</td><td id=\"1-3\">Nov 5, 2018</td></tr>\n<tr><td id=\"1-4\">Total Due</td><td id=\"1-5\">$ 86.72</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "f217361b-51a0-44aa-ace9-3f7bdb1712e0",
+      "grounding": {
+        "box": {
+          "bottom": 0.16753444075584412,
+          "left": 0.02483081817626953,
+          "right": 0.3990429639816284,
+          "top": 0.12733066082000732
+        },
+        "page": 1
+      },
+      "markdown": "<a id='f217361b-51a0-44aa-ace9-3f7bdb1712e0'></a>\n\nCurrent Electric Service - Residential All Electric\nNext Scheduled Read Date: On or after Nov 19, 2018",
+      "type": "text"
+    },
+    {
+      "id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+      "grounding": {
+        "box": {
+          "bottom": 0.20211777091026306,
+          "left": 0.02476826310157776,
+          "right": 0.5833611488342285,
+          "top": 0.1676170527935028
+        },
+        "page": 1
+      },
+      "markdown": "<a id='97d77907-9f24-46b9-9f6e-c71d9865dc43'></a>\n\n<table id=\"1-6\">\n<tr><td id=\"1-7\"></td><td id=\"1-8\" colspan=\"2\"></td><td id=\"1-9\" colspan=\"5\">Meter Reading</td></tr>\n<tr><td id=\"1-a\">Service Period</td><td id=\"1-b\">Meter #</td><td id=\"1-c\">Reading Type</td><td id=\"1-d\">Current</td><td id=\"1-e\">(black dot)</td><td id=\"1-f\">Previous</td><td id=\"1-g\">x Constant</td><td id=\"1-h\">= Usage</td></tr>\n<tr><td id=\"1-i\">Sep 24 - Oct 22</td><td id=\"1-j\">173691</td><td id=\"1-k\">Tot kWh</td><td id=\"1-l\">37009</td><td id=\"1-m\"></td><td id=\"1-n\">36470</td><td id=\"1-o\">1</td><td id=\"1-p\">539</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "cfeff2ba-7395-4afd-8f6c-8b358aceecd9",
+      "grounding": {
+        "box": {
+          "bottom": 0.23617374897003174,
+          "left": 0.025768250226974487,
+          "right": 0.5827944278717041,
+          "top": 0.20226213335990906
+        },
+        "page": 1
+      },
+      "markdown": "<a id='cfeff2ba-7395-4afd-8f6c-8b358aceecd9'></a>\n\n---\nBilling Period\nSept 24, 2018 - Oct 22, 2018\n---",
+      "type": "text"
+    },
+    {
+      "id": "4e1217b2-b006-44f0-8a05-f3767af2ae34",
+      "grounding": {
+        "box": {
+          "bottom": 0.27343612909317017,
+          "left": 0.025359928607940674,
+          "right": 0.5835340619087219,
+          "top": 0.236245259642601
+        },
+        "page": 1
+      },
+      "markdown": "<a id='4e1217b2-b006-44f0-8a05-f3767af2ae34'></a>\n\n<table><thead><tr><th>Description</th><th>Amount</th></tr></thead><tbody><tr><td>Current Service</td><td>$81.13</td></tr><tr><td>Environmental Costs</td><td>5.59</td></tr></tbody></table>",
+      "type": "table"
+    },
+    {
+      "id": "55fb8094-af35-4a03-8805-6e73ff5d8916",
+      "grounding": {
+        "box": {
+          "bottom": 0.31490829586982727,
+          "left": 0.025909096002578735,
+          "right": 0.5842540264129639,
+          "top": 0.27384641766548157
+        },
+        "page": 1
+      },
+      "markdown": "<a id='55fb8094-af35-4a03-8805-6e73ff5d8916'></a>\n\nTotal Current Electric Service $86.72\nRESIDENTIAL ELECTRIC SERVICE IS EXEMPT FROM SALES TAX. ALL OTHER TAX TOTALS $ 11.27.",
+      "type": "text"
+    },
+    {
+      "id": "13363dca-5a6b-44e3-a37d-7e940bac4ee6",
+      "grounding": {
+        "box": {
+          "bottom": 0.2520987093448639,
+          "left": 0.6090928316116333,
+          "right": 0.9156241416931152,
+          "top": 0.11567985266447067
+        },
+        "page": 1
+      },
+      "markdown": "<a id='13363dca-5a6b-44e3-a37d-7e940bac4ee6'></a>\n\n## Convenient Payment Programs\n\n**Authorized Payment Locations** We now have over 1500 locations where you can pay your bill. Locations are open evenings and weekends and include: Walmart, Dollar General, and many more. A transaction fee of $1.50 will be added to your payment. Cash is accepted at all locations. Checks and credit cards are not accepted. You will need an account number or the barcode on the back of this bill to make your payment. Visit mississippipower.com/APL for a location near you.",
+      "type": "text"
+    },
+    {
+      "id": "0f8b9c42-841a-421e-b5c1-b96ecb82a4cb",
+      "grounding": {
+        "box": {
+          "bottom": 0.29391101002693176,
+          "left": 0.6109320521354675,
+          "right": 0.8889395594596863,
+          "top": 0.25385352969169617
+        },
+        "page": 1
+      },
+      "markdown": "<a id='0f8b9c42-841a-421e-b5c1-b96ecb82a4cb'></a>\n\nPaperless Billing Pay your electric bill with a mouse\nclick. It's quick, easy, and convenient. To sign up, call\n1-800-532-1502 or visit mississippipower.com/paperless",
+      "type": "text"
+    },
+    {
+      "id": "56dbf577-6550-41ca-ba79-b620bc92d2d2",
+      "grounding": {
+        "box": {
+          "bottom": 0.35718992352485657,
+          "left": 0.6102409958839417,
+          "right": 0.9058408141136169,
+          "top": 0.2950558364391327
+        },
+        "page": 1
+      },
+      "markdown": "<a id='56dbf577-6550-41ca-ba79-b620bc92d2d2'></a>\n\nAuto Pay Save time and effort. Auto pay is a free bill payment option-you can authorize your bill amount to be automatically debited from your checking or savings account. To sign up, call 1-800-532-1502 or visit mississippipower.com/autopay",
+      "type": "text"
+    },
+    {
+      "id": "4d6daac9-ae51-4fb6-b1a0-72243102e735",
+      "grounding": {
+        "box": {
+          "bottom": 0.433734655380249,
+          "left": 0.6116106510162354,
+          "right": 0.9145114421844482,
+          "top": 0.35800600051879883
+        },
+        "page": 1
+      },
+      "markdown": "<a id='4d6daac9-ae51-4fb6-b1a0-72243102e735'></a>\n\n**Credit Card** Credit card payments are only accepted through BillMatrix, an authorized independent automated payment service. BillMatrix is not affiliated with Mississippi Power or Southern Company, and a service fee will be charged to handle the payment. To pay by phone: 1-800-834-2073 or visit our website and select Pay My Bill for the credit card option.",
+      "type": "text"
+    },
+    {
+      "id": "6c91b439-e5f1-43e2-b55c-5afc39d241be",
+      "grounding": {
+        "box": {
+          "bottom": 0.9512898921966553,
+          "left": 0.04425426572561264,
+          "right": 0.1382232904434204,
+          "top": 0.727522611618042
+        },
+        "page": 1
+      },
+      "markdown": "<a id='6c91b439-e5f1-43e2-b55c-5afc39d241be'></a>\n\n<::scan_code: Code 128\n799366003990006371682069560251\nThis is a clear, high-contrast barcode with the numbers oriented vertically alongside it.::>",
+      "type": "scan_code"
+    },
+    {
+      "id": "2833d741-4df7-494b-b15e-fce87ad7ae5f",
+      "grounding": {
+        "box": {
+          "bottom": 0.9598474502563477,
+          "left": 0.14629554748535156,
+          "right": 0.22348424792289734,
+          "top": 0.7108227014541626
+        },
+        "page": 1
+      },
+      "markdown": "<a id='2833d741-4df7-494b-b15e-fce87ad7ae5f'></a>\n\nBy using this barcode to make a payment, you agree to a\n$1.50 convenience fee and to the full terms and conditions\navailable at www.mississippipowercheckout.com. You may\nalso visit this website to search payment locations and\nto view your full e-receipts after making payments.",
+      "type": "text"
+    },
+    {
+      "id": "b091c94b-0e24-4dbb-bc71-2de999d67977",
+      "grounding": {
+        "box": {
+          "bottom": 0.6563981175422668,
+          "left": 0.6118301749229431,
+          "right": 0.9019312262535095,
+          "top": 0.6148740649223328
+        },
+        "page": 1
+      },
+      "markdown": "<a id='b091c94b-0e24-4dbb-bc71-2de999d67977'></a>\n\n**Consumer Check Conversion** - When you pay your bill by check, you authorize us to make a one-time electronic debit from your banking account.",
+      "type": "text"
+    },
+    {
+      "id": "1d4a89f9-998f-4d0c-b284-d78e0ffd0e24",
+      "grounding": {
+        "box": {
+          "bottom": 0.7515419125556946,
+          "left": 0.25056686997413635,
+          "right": 0.7432724237442017,
+          "top": 0.6908357739448547
+        },
+        "page": 1
+      },
+      "markdown": "<a id='1d4a89f9-998f-4d0c-b284-d78e0ffd0e24'></a>\n\n**Do we have your correct primary phone number and email?**\n**Why?** When you call to report a power outage, our automated systems identify your address by your phone number. We may occasionally want to contact you via email with important information.",
+      "type": "text"
+    },
+    {
+      "id": "cf0ba1d1-f605-419a-b9fc-f675a8ec5873",
+      "grounding": {
+        "box": {
+          "bottom": 0.7816782593727112,
+          "left": 0.2510611414909363,
+          "right": 0.7348190546035767,
+          "top": 0.7534529566764832
+        },
+        "page": 1
+      },
+      "markdown": "<a id='cf0ba1d1-f605-419a-b9fc-f675a8ec5873'></a>\n\nIf your phone number or email address has changed, please update our records in the box\nbelow and mark the box on the front of the stub if you have entered a correction.",
+      "type": "text"
+    },
+    {
+      "id": "88e23a7f-7999-4086-8e1b-86a1641979cc",
+      "grounding": {
+        "box": {
+          "bottom": 0.891907811164856,
+          "left": 0.2503232955932617,
+          "right": 0.6282415986061096,
+          "top": 0.8415260314941406
+        },
+        "page": 1
+      },
+      "markdown": "<a id='88e23a7f-7999-4086-8e1b-86a1641979cc'></a>\n\nPrimary Phone Number on file: 601-298-4818 at 2501 W 7TH ST APT 224\n\n[redacted][redacted][redacted]-[redacted][redacted][redacted]-[redacted][redacted][redacted][redacted]",
+      "type": "text"
+    },
+    {
+      "id": "77cbd324-ab02-406c-8d38-8550e64c27b3",
+      "grounding": {
+        "box": {
+          "bottom": 0.9765073657035828,
+          "left": 0.25064796209335327,
+          "right": 0.8263261914253235,
+          "top": 0.8957082629203796
+        },
+        "page": 1
+      },
+      "markdown": "<a id='77cbd324-ab02-406c-8d38-8550e64c27b3'></a>\n\nEmail Address on file: william.valencia@eagles.usm.edu\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='58a75335-1fe3-4050-b49c-1ae113887fdc'></a>\n\nPage 1 of2\n\n<a id='b3a03410-109c-4762-864d-8a6ae717af29'></a>\n\n<::logo: Mississippi Power\nMississippi Power\nA stylized, colorful triangular symbol with shades of red, blue, and green, resembling a 3D arrow or folded paper shape.::>\n\n<a id='69d1d3a4-b7b9-451d-817c-58eacbf0b274'></a>\n\nCustomer Name\nWILLIAM A VALENCIA\n\n<a id='241c9eee-4700-44ed-bd7f-9e7d4ee65524'></a>\n\nAccount Number\n09931-83323\n\n<a id='63d6310c-4700-4638-a5f9-efd3ea6fc5ee'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Delinquent After</td><td id=\"0-3\">Nov 5, 2018</td></tr>\n<tr><td id=\"0-4\">Total Due</td><td id=\"0-5\">$ 86.72</td></tr>\n</table>\n\n<a id='3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72'></a>\n\nService Address\n2501 W 7TH ST APT 224\n\n<a id='c3c2b5c5-b595-41dd-b001-d077fe9741f6'></a>\n\nService Period\nSept 24, 2018 - Oct 22, 2018\n\n<a id='692e6b8e-3838-4ce7-b5ac-60db3d906327'></a>\n\n**Important Payment Notice**\n\nBecause we value your business, we want to minimize the possibility of a service interruption.\nWe appreciate you paying your bill promptly. If you cannot pay this bill by November 5, 2018,\nplease call us at 1-800-532-1502. If payment is not received by the due date, you may be\nrequired to pay a deposit. Additionally, your service could be disconnected, in which case you\nwill be charged a reconnection fee to restore service. If you have any questions about this bill,\nplease contact us before your payment is due. Thank you for allowing us to serve you.\n\n<a id='ef1f68e0-916f-481c-be2a-3b8f0796ef53'></a>\n\n<table id=\"0-6\">\n<tr><td id=\"0-7\">Billing Summary</td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">Previous Bill Amount</td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\">$ 99.77</td></tr>\n<tr><td id=\"0-f\">Payment Received On 09/26/18</td><td id=\"0-g\">Thank You!</td><td id=\"0-h\"></td><td id=\"0-i\">-99.77</td></tr>\n<tr><td id=\"0-j\">Current Electric Service</td><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\">+86.72</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">(beige box)</td><td id=\"0-p\">Total Due</td><td id=\"0-q\">$ 86.72</td></tr>\n</table>\n\n<a id='3f57de1d-3e76-4e13-848c-a6277c7e480f'></a>\n\n# Contact Us\nmississippipower.com\n\nAccount Number: 09931-83323\nWeb Access Code: 384255\n\nCustomer Service: 1-800-532-1502\nMon - Fri: 7am - 9pm\nEmergencies: 24hrs/7 days\n\nPower Outage Reporting: 1-800-487-3275\n24 hrs/7 days\n\n# Payment Options\n**Online** Just visit mississippipower.com/mypayment\nLogin to your account using the following:\nAccount number: 09931-83323\nWeb access code: 384255\n\n**By Mail**\nMississippi Power Payments\nPO Box 245\nBirmingham, AL 35201-0245\n\n**Local Office** The Mississippi Power local office for your service address is:\n420 West Pine St.\nHattiesburg, MS 39401\n\n<a id='882eed53-adac-4d5c-be0e-5fa3ee214ed2'></a>\n\nFor current billing details, turn page over\n<table id=\"0-r\">\n<tr><td id=\"0-s\" colspan=\"3\">Usage Information Total Used 539 kWh Next Scheduled Read Date On or after Nov 19, 2018</td></tr>\n<tr><td id=\"0-t\" rowspan=\"2\">550 440 220</td><td id=\"0-u\">(horizontal line)</td><td id=\"0-v\">(vertical bar)</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">(two vertical bars)</td></tr>\n<tr><td id=\"0-y\">300</td><td id=\"0-z\"></td><td id=\"0-A\">(two vertical bars)</td></tr>\n<tr><td id=\"0-B\">220</td><td id=\"0-C\" colspan=\"2\">grey rectangle with black vertical bars</td></tr>\n<tr><td id=\"0-D\">110</td><td id=\"0-E\"></td><td id=\"0-F\">(vertical black bars)</td></tr>\n<tr><td id=\"0-G\">Total kWh</td><td id=\"0-H\"></td><td id=\"0-I\">Oct Nov 2018</td></tr>\n</table>\n<table id=\"0-J\">\n<tr><td id=\"0-K\"></td><td id=\"0-L\">1 Year Ago</td><td id=\"0-M\">Last Month</td><td id=\"0-N\">This Month</td></tr>\n<tr><td id=\"0-O\">Total kWh Used</td><td id=\"0-P\"></td><td id=\"0-Q\">430</td><td id=\"0-R\">539</td></tr>\n<tr><td id=\"0-S\">Average Daily kWh</td><td id=\"0-T\"></td><td id=\"0-U\">24</td><td id=\"0-V\">19</td></tr>\n<tr><td id=\"0-W\">Days In Billing Period</td><td id=\"0-X\"></td><td id=\"0-Y\">18</td><td id=\"0-Z\">28</td></tr>\n</table>\n\n<a id='a20f41f7-85e5-45ab-b704-04a3475e31a1'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS.\n\n<a id='d9f002fb-73e6-4087-b4d3-8f2c7f529fcc'></a>\n\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT, MAKING SURE THE RETURN ADDRESS SHOWS IN THE ENVELOPE WINDOW.\n\n<a id='df85c081-8032-4431-b8b8-f8927e2e14ae'></a>\n\nAccount Number 09931-83323\n\n<a id='6879fa0c-f592-4c23-86ae-2394e3bc3adf'></a>\n\nMississippi Power\n\n420 West Pine St.\nHattiesburg, MS 39401\n\n<a id='53b70185-0817-428e-bdd5-84d39ae3e48b'></a>\n\n<table id=\"0-10\">\n<tr><td id=\"0-11\">Delinquent After</td><td id=\"0-12\">Nov 5, 2018</td></tr>\n<tr><td id=\"0-13\">Total Due</td><td id=\"0-14\">$86.72</td></tr>\n</table>\n\n<a id='9565087b-2d67-454c-8c20-0e45802820b3'></a>\n\noption Yes, I want to save a stamp on my next payment! Enroll me in paperless billing today.: [ ]\nPlease verify your email address on the back of this statement.\n\n<a id='1c6825dd-9cae-4ee4-8b52-dd98338e8a76'></a>\n\n040993183323570000008672000000000000000000000000\n\n<a id='8d79fd3b-66a0-44af-a74c-6521817b6e92'></a>\n\nWILLIAM A VALENCIA\n2501 W 7TH ST APT 224\nHATTIESBURG MS 39401\n\n<a id='2918b48a-325a-4ac6-9185-16863c66385e'></a>\n\nMail To:\nPO BOX 245\nBIRMINGHAM AL\n35201-0245\n\n<a id='0cb968e2-95e1-43c9-b59e-d43a5ee6053d'></a>\n\n03\n\n<a id='0387e3bd-d66a-4a40-8ae1-25212641ede8'></a>\n\n09931-83323 03\n\n<!-- PAGE BREAK -->\n\n<a id='a90b490f-2185-4a71-9e54-ee3639dc2564'></a>\n\nPage 2 of2\n\n<a id='8b393390-3e70-49ab-8a42-cc93e04c294f'></a>\n\n<::logo: Mississippi Power\nMississippi Power\nThe logo features a colorful abstract triangle shape with red, blue, and green elements, positioned to the left of the company name.::>\n\n<a id='953bdf59-eec6-4cd8-afdb-f64ab8f78535'></a>\n\nCustomer Name\nWILLIAM A VALENCIA\n\n<a id='de5f5b97-5da7-4845-b828-e66bc292bd4e'></a>\n\nAccount Number\n09931-83323\n\n<a id='3e9c0f45-6a3a-4847-b023-35773cf6be9f'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Delinquent After</td><td id=\"1-3\">Nov 5, 2018</td></tr>\n<tr><td id=\"1-4\">Total Due</td><td id=\"1-5\">$ 86.72</td></tr>\n</table>\n\n<a id='f217361b-51a0-44aa-ace9-3f7bdb1712e0'></a>\n\nCurrent Electric Service - Residential All Electric\nNext Scheduled Read Date: On or after Nov 19, 2018\n\n<a id='97d77907-9f24-46b9-9f6e-c71d9865dc43'></a>\n\n<table id=\"1-6\">\n<tr><td id=\"1-7\"></td><td id=\"1-8\" colspan=\"2\"></td><td id=\"1-9\" colspan=\"5\">Meter Reading</td></tr>\n<tr><td id=\"1-a\">Service Period</td><td id=\"1-b\">Meter #</td><td id=\"1-c\">Reading Type</td><td id=\"1-d\">Current</td><td id=\"1-e\">(black dot)</td><td id=\"1-f\">Previous</td><td id=\"1-g\">x Constant</td><td id=\"1-h\">= Usage</td></tr>\n<tr><td id=\"1-i\">Sep 24 - Oct 22</td><td id=\"1-j\">173691</td><td id=\"1-k\">Tot kWh</td><td id=\"1-l\">37009</td><td id=\"1-m\"></td><td id=\"1-n\">36470</td><td id=\"1-o\">1</td><td id=\"1-p\">539</td></tr>\n</table>\n\n<a id='cfeff2ba-7395-4afd-8f6c-8b358aceecd9'></a>\n\n---\nBilling Period\nSept 24, 2018 - Oct 22, 2018\n---\n\n<a id='4e1217b2-b006-44f0-8a05-f3767af2ae34'></a>\n\n<table><thead><tr><th>Description</th><th>Amount</th></tr></thead><tbody><tr><td>Current Service</td><td>$81.13</td></tr><tr><td>Environmental Costs</td><td>5.59</td></tr></tbody></table>\n\n<a id='55fb8094-af35-4a03-8805-6e73ff5d8916'></a>\n\nTotal Current Electric Service $86.72\nRESIDENTIAL ELECTRIC SERVICE IS EXEMPT FROM SALES TAX. ALL OTHER TAX TOTALS $ 11.27.\n\n<a id='13363dca-5a6b-44e3-a37d-7e940bac4ee6'></a>\n\n## Convenient Payment Programs\n\n**Authorized Payment Locations** We now have over 1500 locations where you can pay your bill. Locations are open evenings and weekends and include: Walmart, Dollar General, and many more. A transaction fee of $1.50 will be added to your payment. Cash is accepted at all locations. Checks and credit cards are not accepted. You will need an account number or the barcode on the back of this bill to make your payment. Visit mississippipower.com/APL for a location near you.\n\n<a id='0f8b9c42-841a-421e-b5c1-b96ecb82a4cb'></a>\n\nPaperless Billing Pay your electric bill with a mouse\nclick. It's quick, easy, and convenient. To sign up, call\n1-800-532-1502 or visit mississippipower.com/paperless\n\n<a id='56dbf577-6550-41ca-ba79-b620bc92d2d2'></a>\n\nAuto Pay Save time and effort. Auto pay is a free bill payment option-you can authorize your bill amount to be automatically debited from your checking or savings account. To sign up, call 1-800-532-1502 or visit mississippipower.com/autopay\n\n<a id='4d6daac9-ae51-4fb6-b1a0-72243102e735'></a>\n\n**Credit Card** Credit card payments are only accepted through BillMatrix, an authorized independent automated payment service. BillMatrix is not affiliated with Mississippi Power or Southern Company, and a service fee will be charged to handle the payment. To pay by phone: 1-800-834-2073 or visit our website and select Pay My Bill for the credit card option.\n\n<a id='6c91b439-e5f1-43e2-b55c-5afc39d241be'></a>\n\n<::scan_code: Code 128\n799366003990006371682069560251\nThis is a clear, high-contrast barcode with the numbers oriented vertically alongside it.::>\n\n<a id='2833d741-4df7-494b-b15e-fce87ad7ae5f'></a>\n\nBy using this barcode to make a payment, you agree to a\n$1.50 convenience fee and to the full terms and conditions\navailable at www.mississippipowercheckout.com. You may\nalso visit this website to search payment locations and\nto view your full e-receipts after making payments.\n\n<a id='b091c94b-0e24-4dbb-bc71-2de999d67977'></a>\n\n**Consumer Check Conversion** - When you pay your bill by check, you authorize us to make a one-time electronic debit from your banking account.\n\n<a id='1d4a89f9-998f-4d0c-b284-d78e0ffd0e24'></a>\n\n**Do we have your correct primary phone number and email?**\n**Why?** When you call to report a power outage, our automated systems identify your address by your phone number. We may occasionally want to contact you via email with important information.\n\n<a id='cf0ba1d1-f605-419a-b9fc-f675a8ec5873'></a>\n\nIf your phone number or email address has changed, please update our records in the box\nbelow and mark the box on the front of the stub if you have entered a correction.\n\n<a id='88e23a7f-7999-4086-8e1b-86a1641979cc'></a>\n\nPrimary Phone Number on file: 601-298-4818 at 2501 W 7TH ST APT 224\n\n[redacted][redacted][redacted]-[redacted][redacted][redacted]-[redacted][redacted][redacted][redacted]\n\n<a id='77cbd324-ab02-406c-8d38-8550e64c27b3'></a>\n\nEmail Address on file: william.valencia@eagles.usm.edu\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 7965,
+    "filename": "electric6.pdf",
+    "job_id": "83feca64f95d4cba853e427e6e113fe2",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "58a75335-1fe3-4050-b49c-1ae113887fdc",
+        "b3a03410-109c-4762-864d-8a6ae717af29",
+        "69d1d3a4-b7b9-451d-817c-58eacbf0b274",
+        "241c9eee-4700-44ed-bd7f-9e7d4ee65524",
+        "63d6310c-4700-4638-a5f9-efd3ea6fc5ee",
+        "3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72",
+        "c3c2b5c5-b595-41dd-b001-d077fe9741f6",
+        "692e6b8e-3838-4ce7-b5ac-60db3d906327",
+        "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "3f57de1d-3e76-4e13-848c-a6277c7e480f",
+        "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "a20f41f7-85e5-45ab-b704-04a3475e31a1",
+        "d9f002fb-73e6-4087-b4d3-8f2c7f529fcc",
+        "df85c081-8032-4431-b8b8-f8927e2e14ae",
+        "6879fa0c-f592-4c23-86ae-2394e3bc3adf",
+        "53b70185-0817-428e-bdd5-84d39ae3e48b",
+        "9565087b-2d67-454c-8c20-0e45802820b3",
+        "1c6825dd-9cae-4ee4-8b52-dd98338e8a76",
+        "8d79fd3b-66a0-44af-a74c-6521817b6e92",
+        "2918b48a-325a-4ac6-9185-16863c66385e",
+        "0cb968e2-95e1-43c9-b59e-d43a5ee6053d",
+        "0387e3bd-d66a-4a40-8ae1-25212641ede8",
+        "a90b490f-2185-4a71-9e54-ee3639dc2564",
+        "8b393390-3e70-49ab-8a42-cc93e04c294f",
+        "953bdf59-eec6-4cd8-afdb-f64ab8f78535",
+        "de5f5b97-5da7-4845-b828-e66bc292bd4e",
+        "3e9c0f45-6a3a-4847-b023-35773cf6be9f",
+        "f217361b-51a0-44aa-ace9-3f7bdb1712e0",
+        "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "cfeff2ba-7395-4afd-8f6c-8b358aceecd9",
+        "4e1217b2-b006-44f0-8a05-f3767af2ae34",
+        "55fb8094-af35-4a03-8805-6e73ff5d8916",
+        "13363dca-5a6b-44e3-a37d-7e940bac4ee6",
+        "0f8b9c42-841a-421e-b5c1-b96ecb82a4cb",
+        "56dbf577-6550-41ca-ba79-b620bc92d2d2",
+        "4d6daac9-ae51-4fb6-b1a0-72243102e735",
+        "6c91b439-e5f1-43e2-b55c-5afc39d241be",
+        "2833d741-4df7-494b-b15e-fce87ad7ae5f",
+        "b091c94b-0e24-4dbb-bc71-2de999d67977",
+        "1d4a89f9-998f-4d0c-b284-d78e0ffd0e24",
+        "cf0ba1d1-f605-419a-b9fc-f675a8ec5873",
+        "88e23a7f-7999-4086-8e1b-86a1641979cc",
+        "77cbd324-ab02-406c-8d38-8550e64c27b3"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='58a75335-1fe3-4050-b49c-1ae113887fdc'></a>\n\nPage 1 of2\n\n<a id='b3a03410-109c-4762-864d-8a6ae717af29'></a>\n\n<::logo: Mississippi Power\nMississippi Power\nA stylized, colorful triangular symbol with shades of red, blue, and green, resembling a 3D arrow or folded paper shape.::>\n\n<a id='69d1d3a4-b7b9-451d-817c-58eacbf0b274'></a>\n\nCustomer Name\nWILLIAM A VALENCIA\n\n<a id='241c9eee-4700-44ed-bd7f-9e7d4ee65524'></a>\n\nAccount Number\n09931-83323\n\n<a id='63d6310c-4700-4638-a5f9-efd3ea6fc5ee'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Delinquent After</td><td id=\"0-3\">Nov 5, 2018</td></tr>\n<tr><td id=\"0-4\">Total Due</td><td id=\"0-5\">$ 86.72</td></tr>\n</table>\n\n<a id='3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72'></a>\n\nService Address\n2501 W 7TH ST APT 224\n\n<a id='c3c2b5c5-b595-41dd-b001-d077fe9741f6'></a>\n\nService Period\nSept 24, 2018 - Oct 22, 2018\n\n<a id='692e6b8e-3838-4ce7-b5ac-60db3d906327'></a>\n\n**Important Payment Notice**\n\nBecause we value your business, we want to minimize the possibility of a service interruption.\nWe appreciate you paying your bill promptly. If you cannot pay this bill by November 5, 2018,\nplease call us at 1-800-532-1502. If payment is not received by the due date, you may be\nrequired to pay a deposit. Additionally, your service could be disconnected, in which case you\nwill be charged a reconnection fee to restore service. If you have any questions about this bill,\nplease contact us before your payment is due. Thank you for allowing us to serve you.\n\n<a id='ef1f68e0-916f-481c-be2a-3b8f0796ef53'></a>\n\n<table id=\"0-6\">\n<tr><td id=\"0-7\">Billing Summary</td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">Previous Bill Amount</td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\">$ 99.77</td></tr>\n<tr><td id=\"0-f\">Payment Received On 09/26/18</td><td id=\"0-g\">Thank You!</td><td id=\"0-h\"></td><td id=\"0-i\">-99.77</td></tr>\n<tr><td id=\"0-j\">Current Electric Service</td><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\">+86.72</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">(beige box)</td><td id=\"0-p\">Total Due</td><td id=\"0-q\">$ 86.72</td></tr>\n</table>\n\n<a id='3f57de1d-3e76-4e13-848c-a6277c7e480f'></a>\n\n# Contact Us\nmississippipower.com\n\nAccount Number: 09931-83323\nWeb Access Code: 384255\n\nCustomer Service: 1-800-532-1502\nMon - Fri: 7am - 9pm\nEmergencies: 24hrs/7 days\n\nPower Outage Reporting: 1-800-487-3275\n24 hrs/7 days\n\n# Payment Options\n**Online** Just visit mississippipower.com/mypayment\nLogin to your account using the following:\nAccount number: 09931-83323\nWeb access code: 384255\n\n**By Mail**\nMississippi Power Payments\nPO Box 245\nBirmingham, AL 35201-0245\n\n**Local Office** The Mississippi Power local office for your service address is:\n420 West Pine St.\nHattiesburg, MS 39401\n\n<a id='882eed53-adac-4d5c-be0e-5fa3ee214ed2'></a>\n\nFor current billing details, turn page over\n<table id=\"0-r\">\n<tr><td id=\"0-s\" colspan=\"3\">Usage Information Total Used 539 kWh Next Scheduled Read Date On or after Nov 19, 2018</td></tr>\n<tr><td id=\"0-t\" rowspan=\"2\">550 440 220</td><td id=\"0-u\">(horizontal line)</td><td id=\"0-v\">(vertical bar)</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">(two vertical bars)</td></tr>\n<tr><td id=\"0-y\">300</td><td id=\"0-z\"></td><td id=\"0-A\">(two vertical bars)</td></tr>\n<tr><td id=\"0-B\">220</td><td id=\"0-C\" colspan=\"2\">grey rectangle with black vertical bars</td></tr>\n<tr><td id=\"0-D\">110</td><td id=\"0-E\"></td><td id=\"0-F\">(vertical black bars)</td></tr>\n<tr><td id=\"0-G\">Total kWh</td><td id=\"0-H\"></td><td id=\"0-I\">Oct Nov 2018</td></tr>\n</table>\n<table id=\"0-J\">\n<tr><td id=\"0-K\"></td><td id=\"0-L\">1 Year Ago</td><td id=\"0-M\">Last Month</td><td id=\"0-N\">This Month</td></tr>\n<tr><td id=\"0-O\">Total kWh Used</td><td id=\"0-P\"></td><td id=\"0-Q\">430</td><td id=\"0-R\">539</td></tr>\n<tr><td id=\"0-S\">Average Daily kWh</td><td id=\"0-T\"></td><td id=\"0-U\">24</td><td id=\"0-V\">19</td></tr>\n<tr><td id=\"0-W\">Days In Billing Period</td><td id=\"0-X\"></td><td id=\"0-Y\">18</td><td id=\"0-Z\">28</td></tr>\n</table>\n\n<a id='a20f41f7-85e5-45ab-b704-04a3475e31a1'></a>\n\nPLEASE KEEP THIS PORTION FOR YOUR RECORDS.\n\n<a id='d9f002fb-73e6-4087-b4d3-8f2c7f529fcc'></a>\n\nPLEASE RETURN THIS PORTION WITH YOUR PAYMENT, MAKING SURE THE RETURN ADDRESS SHOWS IN THE ENVELOPE WINDOW.\n\n<a id='df85c081-8032-4431-b8b8-f8927e2e14ae'></a>\n\nAccount Number 09931-83323\n\n<a id='6879fa0c-f592-4c23-86ae-2394e3bc3adf'></a>\n\nMississippi Power\n\n420 West Pine St.\nHattiesburg, MS 39401\n\n<a id='53b70185-0817-428e-bdd5-84d39ae3e48b'></a>\n\n<table id=\"0-10\">\n<tr><td id=\"0-11\">Delinquent After</td><td id=\"0-12\">Nov 5, 2018</td></tr>\n<tr><td id=\"0-13\">Total Due</td><td id=\"0-14\">$86.72</td></tr>\n</table>\n\n<a id='9565087b-2d67-454c-8c20-0e45802820b3'></a>\n\noption Yes, I want to save a stamp on my next payment! Enroll me in paperless billing today.: [ ]\nPlease verify your email address on the back of this statement.\n\n<a id='1c6825dd-9cae-4ee4-8b52-dd98338e8a76'></a>\n\n040993183323570000008672000000000000000000000000\n\n<a id='8d79fd3b-66a0-44af-a74c-6521817b6e92'></a>\n\nWILLIAM A VALENCIA\n2501 W 7TH ST APT 224\nHATTIESBURG MS 39401\n\n<a id='2918b48a-325a-4ac6-9185-16863c66385e'></a>\n\nMail To:\nPO BOX 245\nBIRMINGHAM AL\n35201-0245\n\n<a id='0cb968e2-95e1-43c9-b59e-d43a5ee6053d'></a>\n\n03\n\n<a id='0387e3bd-d66a-4a40-8ae1-25212641ede8'></a>\n\n09931-83323 03\n\n<a id='a90b490f-2185-4a71-9e54-ee3639dc2564'></a>\n\nPage 2 of2\n\n<a id='8b393390-3e70-49ab-8a42-cc93e04c294f'></a>\n\n<::logo: Mississippi Power\nMississippi Power\nThe logo features a colorful abstract triangle shape with red, blue, and green elements, positioned to the left of the company name.::>\n\n<a id='953bdf59-eec6-4cd8-afdb-f64ab8f78535'></a>\n\nCustomer Name\nWILLIAM A VALENCIA\n\n<a id='de5f5b97-5da7-4845-b828-e66bc292bd4e'></a>\n\nAccount Number\n09931-83323\n\n<a id='3e9c0f45-6a3a-4847-b023-35773cf6be9f'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Delinquent After</td><td id=\"1-3\">Nov 5, 2018</td></tr>\n<tr><td id=\"1-4\">Total Due</td><td id=\"1-5\">$ 86.72</td></tr>\n</table>\n\n<a id='f217361b-51a0-44aa-ace9-3f7bdb1712e0'></a>\n\nCurrent Electric Service - Residential All Electric\nNext Scheduled Read Date: On or after Nov 19, 2018\n\n<a id='97d77907-9f24-46b9-9f6e-c71d9865dc43'></a>\n\n<table id=\"1-6\">\n<tr><td id=\"1-7\"></td><td id=\"1-8\" colspan=\"2\"></td><td id=\"1-9\" colspan=\"5\">Meter Reading</td></tr>\n<tr><td id=\"1-a\">Service Period</td><td id=\"1-b\">Meter #</td><td id=\"1-c\">Reading Type</td><td id=\"1-d\">Current</td><td id=\"1-e\">(black dot)</td><td id=\"1-f\">Previous</td><td id=\"1-g\">x Constant</td><td id=\"1-h\">= Usage</td></tr>\n<tr><td id=\"1-i\">Sep 24 - Oct 22</td><td id=\"1-j\">173691</td><td id=\"1-k\">Tot kWh</td><td id=\"1-l\">37009</td><td id=\"1-m\"></td><td id=\"1-n\">36470</td><td id=\"1-o\">1</td><td id=\"1-p\">539</td></tr>\n</table>\n\n<a id='cfeff2ba-7395-4afd-8f6c-8b358aceecd9'></a>\n\n---\nBilling Period\nSept 24, 2018 - Oct 22, 2018\n---\n\n<a id='4e1217b2-b006-44f0-8a05-f3767af2ae34'></a>\n\n<table><thead><tr><th>Description</th><th>Amount</th></tr></thead><tbody><tr><td>Current Service</td><td>$81.13</td></tr><tr><td>Environmental Costs</td><td>5.59</td></tr></tbody></table>\n\n<a id='55fb8094-af35-4a03-8805-6e73ff5d8916'></a>\n\nTotal Current Electric Service $86.72\nRESIDENTIAL ELECTRIC SERVICE IS EXEMPT FROM SALES TAX. ALL OTHER TAX TOTALS $ 11.27.\n\n<a id='13363dca-5a6b-44e3-a37d-7e940bac4ee6'></a>\n\n## Convenient Payment Programs\n\n**Authorized Payment Locations** We now have over 1500 locations where you can pay your bill. Locations are open evenings and weekends and include: Walmart, Dollar General, and many more. A transaction fee of $1.50 will be added to your payment. Cash is accepted at all locations. Checks and credit cards are not accepted. You will need an account number or the barcode on the back of this bill to make your payment. Visit mississippipower.com/APL for a location near you.\n\n<a id='0f8b9c42-841a-421e-b5c1-b96ecb82a4cb'></a>\n\nPaperless Billing Pay your electric bill with a mouse\nclick. It's quick, easy, and convenient. To sign up, call\n1-800-532-1502 or visit mississippipower.com/paperless\n\n<a id='56dbf577-6550-41ca-ba79-b620bc92d2d2'></a>\n\nAuto Pay Save time and effort. Auto pay is a free bill payment option-you can authorize your bill amount to be automatically debited from your checking or savings account. To sign up, call 1-800-532-1502 or visit mississippipower.com/autopay\n\n<a id='4d6daac9-ae51-4fb6-b1a0-72243102e735'></a>\n\n**Credit Card** Credit card payments are only accepted through BillMatrix, an authorized independent automated payment service. BillMatrix is not affiliated with Mississippi Power or Southern Company, and a service fee will be charged to handle the payment. To pay by phone: 1-800-834-2073 or visit our website and select Pay My Bill for the credit card option.\n\n<a id='6c91b439-e5f1-43e2-b55c-5afc39d241be'></a>\n\n<::scan_code: Code 128\n799366003990006371682069560251\nThis is a clear, high-contrast barcode with the numbers oriented vertically alongside it.::>\n\n<a id='2833d741-4df7-494b-b15e-fce87ad7ae5f'></a>\n\nBy using this barcode to make a payment, you agree to a\n$1.50 convenience fee and to the full terms and conditions\navailable at www.mississippipowercheckout.com. You may\nalso visit this website to search payment locations and\nto view your full e-receipts after making payments.\n\n<a id='b091c94b-0e24-4dbb-bc71-2de999d67977'></a>\n\n**Consumer Check Conversion** - When you pay your bill by check, you authorize us to make a one-time electronic debit from your banking account.\n\n<a id='1d4a89f9-998f-4d0c-b284-d78e0ffd0e24'></a>\n\n**Do we have your correct primary phone number and email?**\n**Why?** When you call to report a power outage, our automated systems identify your address by your phone number. We may occasionally want to contact you via email with important information.\n\n<a id='cf0ba1d1-f605-419a-b9fc-f675a8ec5873'></a>\n\nIf your phone number or email address has changed, please update our records in the box\nbelow and mark the box on the front of the stub if you have entered a correction.\n\n<a id='88e23a7f-7999-4086-8e1b-86a1641979cc'></a>\n\nPrimary Phone Number on file: 601-298-4818 at 2501 W 7TH ST APT 224\n\n[redacted][redacted][redacted]-[redacted][redacted][redacted]-[redacted][redacted][redacted][redacted]\n\n<a id='77cbd324-ab02-406c-8d38-8550e64c27b3'></a>\n\nEmail Address on file: william.valencia@eagles.usm.edu\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "58a75335-1fe3-4050-b49c-1ae113887fdc": {
+      "box": {
+        "bottom": 0.02038857340812683,
+        "left": 0.8993270397186279,
+        "right": 0.9695776700973511,
+        "top": 0.0063499887473881245
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "b3a03410-109c-4762-864d-8a6ae717af29": {
+      "box": {
+        "bottom": 0.09191612154245377,
+        "left": 0.07299397140741348,
+        "right": 0.28804612159729004,
+        "top": 0.06054220348596573
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "69d1d3a4-b7b9-451d-817c-58eacbf0b274": {
+      "box": {
+        "bottom": 0.09265308082103729,
+        "left": 0.2969151735305786,
+        "right": 0.4371602535247803,
+        "top": 0.05764295533299446
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "241c9eee-4700-44ed-bd7f-9e7d4ee65524": {
+      "box": {
+        "bottom": 0.09283119440078735,
+        "left": 0.5329606533050537,
+        "right": 0.6329213380813599,
+        "top": 0.05763806402683258
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "63d6310c-4700-4638-a5f9-efd3ea6fc5ee": {
+      "box": {
+        "bottom": 0.09113442897796631,
+        "left": 0.6516264081001282,
+        "right": 0.9745411276817322,
+        "top": 0.021407920867204666
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.08616666314033083,
+        "left": 0.6618264744394291,
+        "right": 0.9690724543663691,
+        "top": 0.02936548862846089
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.05372233750862252,
+        "left": 0.6620749427643595,
+        "right": 0.8014127151421533,
+        "top": 0.02936548862846089
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "63d6310c-4700-4638-a5f9-efd3ea6fc5ee",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.0537013778641263,
+        "left": 0.8013505295840199,
+        "right": 0.9689486794036464,
+        "top": 0.0293741125053874
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "63d6310c-4700-4638-a5f9-efd3ea6fc5ee",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.08616666314033083,
+        "left": 0.6618264744394291,
+        "right": 0.8014957017353682,
+        "top": 0.0537013778641263
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "63d6310c-4700-4638-a5f9-efd3ea6fc5ee",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.08616610013979811,
+        "left": 0.8014127151421533,
+        "right": 0.9690724543663691,
+        "top": 0.05367617655516802
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "63d6310c-4700-4638-a5f9-efd3ea6fc5ee",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72": {
+      "box": {
+        "bottom": 0.15341146290302277,
+        "left": 0.07309421896934509,
+        "right": 0.22683992981910706,
+        "top": 0.120310939848423
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c3c2b5c5-b595-41dd-b001-d077fe9741f6": {
+      "box": {
+        "bottom": 0.15493424236774445,
+        "left": 0.4560436010360718,
+        "right": 0.6329569816589355,
+        "top": 0.12059874087572098
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "692e6b8e-3838-4ce7-b5ac-60db3d906327": {
+      "box": {
+        "bottom": 0.29437148571014404,
+        "left": 0.07277008891105652,
+        "right": 0.6331655979156494,
+        "top": 0.16993898153305054
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ef1f68e0-916f-481c-be2a-3b8f0796ef53": {
+      "box": {
+        "bottom": 0.4103023111820221,
+        "left": 0.07275334000587463,
+        "right": 0.6323707103729248,
+        "top": 0.2994724214076996
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.40749029904666756,
+        "left": 0.07730394545376398,
+        "right": 0.6278649095749085,
+        "top": 0.3040605675033232
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3304250327730946,
+        "left": 0.07734983352164819,
+        "right": 0.2660945160728546,
+        "top": 0.3040605675033232
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3304500495649075,
+        "left": 0.26590977303177615,
+        "right": 0.4474834103384023,
+        "top": 0.3040904397379791
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3304652389562196,
+        "left": 0.44726677215587846,
+        "right": 0.5573809085926928,
+        "top": 0.30411915017243163
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.3304749547840343,
+        "left": 0.5573574643667836,
+        "right": 0.6278649095749084,
+        "top": 0.3041365411590132
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.3482140984615072,
+        "left": 0.07733922896275156,
+        "right": 0.26590977303177615,
+        "top": 0.33039902239150604
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.3482177632642534,
+        "left": 0.2657849787701431,
+        "right": 0.44726677215587846,
+        "top": 0.3304250327730946
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.348219991950983,
+        "left": 0.44712058781382263,
+        "right": 0.5573967182025482,
+        "top": 0.3304500495649075
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.3482214144262585,
+        "left": 0.5573809085926928,
+        "right": 0.6278149350525126,
+        "top": 0.3304652389562196
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3650675334374252,
+        "left": 0.07732920553680772,
+        "right": 0.2657849787701431,
+        "top": 0.34821028996242065
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.36508875030347887,
+        "left": 0.26566674816654434,
+        "right": 0.44712058781382263,
+        "top": 0.3482140984615072
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.3651016724413817,
+        "left": 0.44698178131446675,
+        "right": 0.5574117503903986,
+        "top": 0.3482177632642534
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.36510990308848423,
+        "left": 0.5573967182025482,
+        "right": 0.6277812486354887,
+        "top": 0.348219991950983
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.38247564397186795,
+        "left": 0.07731883735514423,
+        "right": 0.26566674816654434,
+        "top": 0.3650454948212913
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.38249095596181554,
+        "left": 0.2655446263902452,
+        "right": 0.44698178131446675,
+        "top": 0.3650675334374252
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.3825002962175944,
+        "left": 0.4468386041996431,
+        "right": 0.5574272428871966,
+        "top": 0.36508875030347887
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.38250623278175083,
+        "left": 0.5574117503903986,
+        "right": 0.6277491908232009,
+        "top": 0.3651016724413817
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.4074782359011173,
+        "left": 0.07730394545376398,
+        "right": 0.2655446263902452,
+        "top": 0.3824597465249455
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.40748427126914805,
+        "left": 0.2653692276338757,
+        "right": 0.4468386041996431,
+        "top": 0.38247564397186795
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.40748796102244056,
+        "left": 0.4466329710261338,
+        "right": 0.5574494929985823,
+        "top": 0.38249095596181554
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 2,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.40749029904666756,
+        "left": 0.5574272428871966,
+        "right": 0.6277161690245691,
+        "top": 0.3825002962175944
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "ef1f68e0-916f-481c-be2a-3b8f0796ef53",
+        "col": 3,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "3f57de1d-3e76-4e13-848c-a6277c7e480f": {
+      "box": {
+        "bottom": 0.40960678458213806,
+        "left": 0.6523667573928833,
+        "right": 0.9748196601867676,
+        "top": 0.11279603838920593
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "882eed53-adac-4d5c-be0e-5fa3ee214ed2": {
+      "box": {
+        "bottom": 0.6657460927963257,
+        "left": 0.6521177291870117,
+        "right": 0.974539041519165,
+        "top": 0.41314196586608887
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.573543777292258,
+        "left": 0.6615192543184976,
+        "right": 0.9582381702493166,
+        "top": 0.44982868209016935
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.49427061557345076,
+        "left": 0.6615192543184976,
+        "right": 0.9579358080333781,
+        "top": 0.44982868209016935
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 3,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5205759437750488,
+        "left": 0.6616408783582426,
+        "right": 0.721042653477852,
+        "top": 0.49379268843846125
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 2
+      }
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5102266363662894,
+        "left": 0.7210233013811203,
+        "right": 0.8712145993997684,
+        "top": 0.4938884729709039
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5102011104876739,
+        "left": 0.8711898871644409,
+        "right": 0.9579965135700352,
+        "top": 0.4941306934037451
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5206324985517015,
+        "left": 0.721035148802735,
+        "right": 0.8712306402352541,
+        "top": 0.5102011104876739
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.52066518615264,
+        "left": 0.8712145993997684,
+        "right": 0.9580364817125405,
+        "top": 0.5101863602365688
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.5311581876435065,
+        "left": 0.661714910978245,
+        "right": 0.7210503249630996,
+        "top": 0.5205536033249315
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.5311552903652468,
+        "left": 0.721042653477852,
+        "right": 0.8712468103432918,
+        "top": 0.5205759437750488
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.5311479528201931,
+        "left": 0.8712306402352541,
+        "right": 0.9580764487064637,
+        "top": 0.5206324985517015
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.5414987696055897,
+        "left": 0.6617442479857603,
+        "right": 0.7210578254119908,
+        "top": 0.5311552903652468
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.5415309639478995,
+        "left": 0.7210503249630996,
+        "right": 0.9581160675733118,
+        "top": 0.531143710934094
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 2,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.5521856537231119,
+        "left": 0.6617728323714189,
+        "right": 0.721065574876776,
+        "top": 0.5414907182451207
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.5522279712111378,
+        "left": 0.7210578254119908,
+        "right": 0.8712792260778969,
+        "top": 0.5414987696055897
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.5522524460008021,
+        "left": 0.8712627586490246,
+        "right": 0.9581569612503316,
+        "top": 0.5415191685969648
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.5735180790485256,
+        "left": 0.6618023731437308,
+        "right": 0.7210810438270354,
+        "top": 0.5521689583707944
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.5735343580089213,
+        "left": 0.721065574876776,
+        "right": 0.8713119899098357,
+        "top": 0.5521856537231119
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.573543777292258,
+        "left": 0.8712792260778969,
+        "right": 0.9582381702493166,
+        "top": 0.5522279712111378
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.6439949246191077,
+        "left": 0.6644867138543447,
+        "right": 0.960492649716727,
+        "top": 0.5768341833581516
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.6007917509124037,
+        "left": 0.6645033411968175,
+        "right": 0.7690820830782452,
+        "top": 0.5768341833581516
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.6007929734168049,
+        "left": 0.7689531845561904,
+        "right": 0.8458269090724119,
+        "top": 0.5769933485702479
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.6007938410570657,
+        "left": 0.8457063410895712,
+        "right": 0.9002707472015051,
+        "top": 0.5771101618272821
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.6007947999091923,
+        "left": 0.9001798699206095,
+        "right": 0.9603800027633522,
+        "top": 0.5771930307630694
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.6156847230341408,
+        "left": 0.6644976319468894,
+        "right": 0.7689531845561904,
+        "top": 0.6007900872623471
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.6157285534113995,
+        "left": 0.7688725202297413,
+        "right": 0.8457063410895712,
+        "top": 0.6007917509124037
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.6157596695020895,
+        "left": 0.8456303048155124,
+        "right": 0.9001798699206095,
+        "top": 0.6007929734168049
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.6157941004313118,
+        "left": 0.9001222425011062,
+        "right": 0.9604192787946938,
+        "top": 0.6007938410570657
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.6294520211064071,
+        "left": 0.6644923326589544,
+        "right": 0.7688725202297413,
+        "top": 0.6156251226854013
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.6294940554862727,
+        "left": 0.7687979528554827,
+        "right": 0.8456303048155124,
+        "top": 0.6156847230341408
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.6295239041689009,
+        "left": 0.8455602253483139,
+        "right": 0.9001222425011062,
+        "top": 0.6157285534113995
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.629556971079818,
+        "left": 0.9000692419386447,
+        "right": 0.9604553172044945,
+        "top": 0.6157596695020895
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-W": {
+      "box": {
+        "bottom": 0.6439949246191077,
+        "left": 0.6644867138543447,
+        "right": 0.7687979528554827,
+        "top": 0.6293949042191775
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-X": {
+      "box": {
+        "bottom": 0.6439312339117308,
+        "left": 0.7687195295603266,
+        "right": 0.8455602253483139,
+        "top": 0.6294520211064071
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-Y": {
+      "box": {
+        "bottom": 0.643884325725979,
+        "left": 0.8454869652183341,
+        "right": 0.9000692419386447,
+        "top": 0.6294940554862727
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-Z": {
+      "box": {
+        "bottom": 0.6438510073309452,
+        "left": 0.900014073994737,
+        "right": 0.960492649716727,
+        "top": 0.6295239041689009
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "882eed53-adac-4d5c-be0e-5fa3ee214ed2",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "a20f41f7-85e5-45ab-b704-04a3475e31a1": {
+      "box": {
+        "bottom": 0.6813827157020569,
+        "left": 0.0743408054113388,
+        "right": 0.2768264412879944,
+        "top": 0.6655951142311096
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d9f002fb-73e6-4087-b4d3-8f2c7f529fcc": {
+      "box": {
+        "bottom": 0.700005829334259,
+        "left": 0.07394114136695862,
+        "right": 0.602318286895752,
+        "top": 0.6839279532432556
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "df85c081-8032-4431-b8b8-f8927e2e14ae": {
+      "box": {
+        "bottom": 0.7058424353599548,
+        "left": 0.6636757850646973,
+        "right": 0.8456426858901978,
+        "top": 0.687398374080658
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "6879fa0c-f592-4c23-86ae-2394e3bc3adf": {
+      "box": {
+        "bottom": 0.7741208672523499,
+        "left": 0.06670956313610077,
+        "right": 0.35016292333602905,
+        "top": 0.7430829405784607
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "53b70185-0817-428e-bdd5-84d39ae3e48b": {
+      "box": {
+        "bottom": 0.7741379737854004,
+        "left": 0.6529903411865234,
+        "right": 0.9736860990524292,
+        "top": 0.707460880279541
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-10": {
+      "box": {
+        "bottom": 0.7711408458212645,
+        "left": 0.6602782983490565,
+        "right": 0.9675625270896475,
+        "top": 0.7165522397754671
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-11": {
+      "box": {
+        "bottom": 0.7404769791255293,
+        "left": 0.6603106002394218,
+        "right": 0.8014106387448572,
+        "top": 0.7165654135194974
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "53b70185-0817-428e-bdd5-84d39ae3e48b",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-12": {
+      "box": {
+        "bottom": 0.7404806333948271,
+        "left": 0.8013679945721305,
+        "right": 0.9675262820222039,
+        "top": 0.7165522397754671
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "53b70185-0817-428e-bdd5-84d39ae3e48b",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-13": {
+      "box": {
+        "bottom": 0.7710084787447015,
+        "left": 0.6602782983490565,
+        "right": 0.8014650889872553,
+        "top": 0.7404738751581459
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "53b70185-0817-428e-bdd5-84d39ae3e48b",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-14": {
+      "box": {
+        "bottom": 0.7711408458212645,
+        "left": 0.8014106387448572,
+        "right": 0.9675625270896475,
+        "top": 0.7404769791255293
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "53b70185-0817-428e-bdd5-84d39ae3e48b",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "9565087b-2d67-454c-8c20-0e45802820b3": {
+      "box": {
+        "bottom": 0.8023260235786438,
+        "left": 0.5468260049819946,
+        "right": 0.9651939868927002,
+        "top": 0.7753761410713196
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1c6825dd-9cae-4ee4-8b52-dd98338e8a76": {
+      "box": {
+        "bottom": 0.8340160250663757,
+        "left": 0.06815361976623535,
+        "right": 0.7023050785064697,
+        "top": 0.815452516078949
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8d79fd3b-66a0-44af-a74c-6521817b6e92": {
+      "box": {
+        "bottom": 0.9093595147132874,
+        "left": 0.06947701424360275,
+        "right": 0.2231578230857849,
+        "top": 0.8662015795707703
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2918b48a-325a-4ac6-9185-16863c66385e": {
+      "box": {
+        "bottom": 0.9022945165634155,
+        "left": 0.5308639407157898,
+        "right": 0.6260754466056824,
+        "top": 0.8479824066162109
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0cb968e2-95e1-43c9-b59e-d43a5ee6053d": {
+      "box": {
+        "bottom": 0.9950169920921326,
+        "left": 0.20113781094551086,
+        "right": 0.2282395362854004,
+        "top": 0.9806267619132996
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "0387e3bd-d66a-4a40-8ae1-25212641ede8": {
+      "box": {
+        "bottom": 0.674314022064209,
+        "left": 0.021969415247440338,
+        "right": 0.041747890412807465,
+        "top": 0.622879147529602
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "a90b490f-2185-4a71-9e54-ee3639dc2564": {
+      "box": {
+        "bottom": 0.019961446523666382,
+        "left": 0.8500837087631226,
+        "right": 0.9206949472427368,
+        "top": 0.006338938605040312
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "8b393390-3e70-49ab-8a42-cc93e04c294f": {
+      "box": {
+        "bottom": 0.09195561707019806,
+        "left": 0.0246562659740448,
+        "right": 0.2384466528892517,
+        "top": 0.06084245443344116
+      },
+      "page": 1,
+      "type": "chunkLogo"
+    },
+    "953bdf59-eec6-4cd8-afdb-f64ab8f78535": {
+      "box": {
+        "bottom": 0.0925811380147934,
+        "left": 0.24808907508850098,
+        "right": 0.38841962814331055,
+        "top": 0.05778934061527252
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "de5f5b97-5da7-4845-b828-e66bc292bd4e": {
+      "box": {
+        "bottom": 0.0927523523569107,
+        "left": 0.4835559129714966,
+        "right": 0.5842405557632446,
+        "top": 0.05746467411518097
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "3e9c0f45-6a3a-4847-b023-35773cf6be9f": {
+      "box": {
+        "bottom": 0.09052345156669617,
+        "left": 0.6037998199462891,
+        "right": 0.9249519109725952,
+        "top": 0.021563488990068436
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.0861620788400772,
+        "left": 0.6108990511163968,
+        "right": 0.9200656267278404,
+        "top": 0.0280702002345517
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.053772798426396776,
+        "left": 0.6108990511163968,
+        "right": 0.752864561090121,
+        "top": 0.0280702002345517
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "3e9c0f45-6a3a-4847-b023-35773cf6be9f",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.053767750646383644,
+        "left": 0.7528146538839025,
+        "right": 0.9197662910869235,
+        "top": 0.028116110642704726
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "3e9c0f45-6a3a-4847-b023-35773cf6be9f",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.08613067747851266,
+        "left": 0.6109136380907875,
+        "right": 0.7529275256125848,
+        "top": 0.053767750646383644
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "3e9c0f45-6a3a-4847-b023-35773cf6be9f",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.08616207884007719,
+        "left": 0.752864561090121,
+        "right": 0.9200656267278404,
+        "top": 0.053761815614761205
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "3e9c0f45-6a3a-4847-b023-35773cf6be9f",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "f217361b-51a0-44aa-ace9-3f7bdb1712e0": {
+      "box": {
+        "bottom": 0.16753444075584412,
+        "left": 0.02483081817626953,
+        "right": 0.3990429639816284,
+        "top": 0.12733066082000732
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "97d77907-9f24-46b9-9f6e-c71d9865dc43": {
+      "box": {
+        "bottom": 0.20211777091026306,
+        "left": 0.02476826310157776,
+        "right": 0.5833611488342285,
+        "top": 0.1676170527935028
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.026632411393376673,
+        "right": 0.5833557217931524,
+        "top": 0.16761782962780625
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-7": {
+      "box": {
+        "bottom": 0.1764568168796395,
+        "left": 0.026632411393376673,
+        "right": 0.10409687319278457,
+        "top": 0.16761782962780625
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-8": {
+      "box": {
+        "bottom": 0.17648247952594331,
+        "left": 0.10391076981945667,
+        "right": 0.2481934679158515,
+        "top": 0.1676179593121542
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 1,
+        "colspan": 2,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-9": {
+      "box": {
+        "bottom": 0.17654217104369485,
+        "left": 0.24819117095396923,
+        "right": 0.5833557217931525,
+        "top": 0.16761820143954925
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 3,
+        "colspan": 5,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-a": {
+      "box": {
+        "bottom": 0.1870154276555144,
+        "left": 0.026665876588496815,
+        "right": 0.10431907360700145,
+        "top": 0.1764430267136879
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-b": {
+      "box": {
+        "bottom": 0.1870100797118984,
+        "left": 0.10409687319278457,
+        "right": 0.15654297086354263,
+        "top": 0.1764568168796395
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-c": {
+      "box": {
+        "bottom": 0.18700648121583466,
+        "left": 0.15644833802701977,
+        "right": 0.24819117095396914,
+        "top": 0.17646614047638415
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-d": {
+      "box": {
+        "bottom": 0.18700016636961964,
+        "left": 0.2481884455514565,
+        "right": 0.32713491278117257,
+        "top": 0.17648247952594331
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-e": {
+      "box": {
+        "bottom": 0.186994736586134,
+        "left": 0.32698926952241947,
+        "right": 0.3604566571861272,
+        "top": 0.17649653910606475
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 4,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-f": {
+      "box": {
+        "bottom": 0.18699243051038902,
+        "left": 0.36025132620278655,
+        "right": 0.4218376389764257,
+        "top": 0.17650243701332197
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 5,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-g": {
+      "box": {
+        "bottom": 0.18698820104393854,
+        "left": 0.4217778533042083,
+        "right": 0.5154212501582556,
+        "top": 0.17651339465375493
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 6,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-h": {
+      "box": {
+        "bottom": 0.18698179164963816,
+        "left": 0.5148552617528641,
+        "right": 0.5833556442851713,
+        "top": 0.17653007218651987
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 7,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-i": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.026705967190096252,
+        "right": 0.10463716095538979,
+        "top": 0.1870100797118984
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-j": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.10431907360700145,
+        "right": 0.15667863933370982,
+        "top": 0.18700648121583466
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-k": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.15654297086354263,
+        "right": 0.2481884455514565,
+        "top": 0.18700016636961964
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-l": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.24818452828070467,
+        "right": 0.32698926952241947,
+        "top": 0.186994736586134
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-m": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.326779469860318,
+        "right": 0.3607527137019062,
+        "top": 0.18699243051038902
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 4,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-n": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.3604566571861272,
+        "right": 0.4219239900804475,
+        "top": 0.18698820104393854
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 5,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-o": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.4218376389764257,
+        "right": 0.5148552617528641,
+        "top": 0.18698179164963816
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 6,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "1-p": {
+      "box": {
+        "bottom": 0.20211742954735712,
+        "left": 0.5140356267073063,
+        "right": 0.5833555536484824,
+        "top": 0.18697707162597654
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "97d77907-9f24-46b9-9f6e-c71d9865dc43",
+        "col": 7,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "cfeff2ba-7395-4afd-8f6c-8b358aceecd9": {
+      "box": {
+        "bottom": 0.23617374897003174,
+        "left": 0.025768250226974487,
+        "right": 0.5827944278717041,
+        "top": 0.20226213335990906
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "4e1217b2-b006-44f0-8a05-f3767af2ae34": {
+      "box": {
+        "bottom": 0.27343612909317017,
+        "left": 0.025359928607940674,
+        "right": 0.5835340619087219,
+        "top": 0.236245259642601
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "55fb8094-af35-4a03-8805-6e73ff5d8916": {
+      "box": {
+        "bottom": 0.31490829586982727,
+        "left": 0.025909096002578735,
+        "right": 0.5842540264129639,
+        "top": 0.27384641766548157
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "13363dca-5a6b-44e3-a37d-7e940bac4ee6": {
+      "box": {
+        "bottom": 0.2520987093448639,
+        "left": 0.6090928316116333,
+        "right": 0.9156241416931152,
+        "top": 0.11567985266447067
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "0f8b9c42-841a-421e-b5c1-b96ecb82a4cb": {
+      "box": {
+        "bottom": 0.29391101002693176,
+        "left": 0.6109320521354675,
+        "right": 0.8889395594596863,
+        "top": 0.25385352969169617
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "56dbf577-6550-41ca-ba79-b620bc92d2d2": {
+      "box": {
+        "bottom": 0.35718992352485657,
+        "left": 0.6102409958839417,
+        "right": 0.9058408141136169,
+        "top": 0.2950558364391327
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "4d6daac9-ae51-4fb6-b1a0-72243102e735": {
+      "box": {
+        "bottom": 0.433734655380249,
+        "left": 0.6116106510162354,
+        "right": 0.9145114421844482,
+        "top": 0.35800600051879883
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "6c91b439-e5f1-43e2-b55c-5afc39d241be": {
+      "box": {
+        "bottom": 0.9512898921966553,
+        "left": 0.04425426572561264,
+        "right": 0.1382232904434204,
+        "top": 0.727522611618042
+      },
+      "page": 1,
+      "type": "chunkScanCode"
+    },
+    "2833d741-4df7-494b-b15e-fce87ad7ae5f": {
+      "box": {
+        "bottom": 0.9598474502563477,
+        "left": 0.14629554748535156,
+        "right": 0.22348424792289734,
+        "top": 0.7108227014541626
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "b091c94b-0e24-4dbb-bc71-2de999d67977": {
+      "box": {
+        "bottom": 0.6563981175422668,
+        "left": 0.6118301749229431,
+        "right": 0.9019312262535095,
+        "top": 0.6148740649223328
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "1d4a89f9-998f-4d0c-b284-d78e0ffd0e24": {
+      "box": {
+        "bottom": 0.7515419125556946,
+        "left": 0.25056686997413635,
+        "right": 0.7432724237442017,
+        "top": 0.6908357739448547
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "cf0ba1d1-f605-419a-b9fc-f675a8ec5873": {
+      "box": {
+        "bottom": 0.7816782593727112,
+        "left": 0.2510611414909363,
+        "right": 0.7348190546035767,
+        "top": 0.7534529566764832
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "88e23a7f-7999-4086-8e1b-86a1641979cc": {
+      "box": {
+        "bottom": 0.891907811164856,
+        "left": 0.2503232955932617,
+        "right": 0.6282415986061096,
+        "top": 0.8415260314941406
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "77cbd324-ab02-406c-8d38-8550e64c27b3": {
+      "box": {
+        "bottom": 0.9765073657035828,
+        "left": 0.25064796209335327,
+        "right": 0.8263261914253235,
+        "top": 0.8957082629203796
+      },
+      "page": 1,
+      "type": "chunkText"
+    }
+  }
+}

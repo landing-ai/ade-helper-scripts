@@ -1,0 +1,195 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "PSEG",
+      "phone_number": "800-436-7734",
+      "website": "pseg.com",
+      "usage_bar_chart": true
+    },
+    "account_info": {
+      "account_holder": "EDITH AVELLA",
+      "account_number": "7002365118",
+      "service_address": "214 KIPP AVE APT C HASBROUCK HEIGHTS NJ 07604-1932",
+      "service_address_primary": "214 KIPP AVE APT C",
+      "service_address_city": "HASBROUCK HEIGHTS",
+      "service_address_state": "NJ",
+      "service_address_zip": "07604"
+    },
+    "billing_summary": {
+      "due_date": "2020-07-06",
+      "bill_date": "2020-06-19",
+      "service_start_date": "05-19-2020",
+      "service_end_date": "06-17-2020",
+      "total_amount_due": "$67.09"
+    },
+    "electric_charges": {
+      "meter_number": "127292249",
+      "usage_kwh": "238",
+      "total_electric_charges": "$46.42"
+    },
+    "gas_charges": {
+      "meter_number": "3113676",
+      "usage_therms": "17.806",
+      "total_gas_charges": "$20.67"
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "PSEG",
+        "references": [
+          "a1e91599-5c0c-40d3-a4b3-205f24b35b84"
+        ]
+      },
+      "phone_number": {
+        "value": "800-436-7734",
+        "references": [
+          "7ac5adfe-e743-4215-8b47-307b5ab30e17"
+        ]
+      },
+      "website": {
+        "value": "pseg.com",
+        "references": [
+          "7ac5adfe-e743-4215-8b47-307b5ab30e17"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": true,
+        "references": [
+          "c9f857f1-b671-405a-ad1c-7c2d8c0da78e",
+          "b15aba09-0b2a-436a-aee3-699b7f3702f6"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "EDITH AVELLA",
+        "references": [
+          "f8837e6b-234e-4c6a-950a-7bec60762401"
+        ]
+      },
+      "account_number": {
+        "value": "7002365118",
+        "references": [
+          "f8837e6b-234e-4c6a-950a-7bec60762401"
+        ]
+      },
+      "service_address": {
+        "value": "214 KIPP AVE APT C HASBROUCK HEIGHTS NJ 07604-1932",
+        "references": [
+          "f8837e6b-234e-4c6a-950a-7bec60762401"
+        ]
+      },
+      "service_address_primary": {
+        "value": "214 KIPP AVE APT C",
+        "references": [
+          "f8837e6b-234e-4c6a-950a-7bec60762401"
+        ]
+      },
+      "service_address_city": {
+        "value": "HASBROUCK HEIGHTS",
+        "references": [
+          "f8837e6b-234e-4c6a-950a-7bec60762401"
+        ]
+      },
+      "service_address_state": {
+        "value": "NJ",
+        "references": [
+          "f8837e6b-234e-4c6a-950a-7bec60762401"
+        ]
+      },
+      "service_address_zip": {
+        "value": "07604",
+        "references": [
+          "f8837e6b-234e-4c6a-950a-7bec60762401"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2020-07-06",
+        "references": [
+          "3408b619-83e7-4332-b86e-894c3b174810"
+        ]
+      },
+      "bill_date": {
+        "value": "2020-06-19",
+        "references": [
+          "1c277f6e-83a4-4172-ab04-d1dacc1a972f"
+        ]
+      },
+      "service_start_date": {
+        "value": "05-19-2020",
+        "references": [
+          "1c277f6e-83a4-4172-ab04-d1dacc1a972f"
+        ]
+      },
+      "service_end_date": {
+        "value": "06-17-2020",
+        "references": [
+          "1c277f6e-83a4-4172-ab04-d1dacc1a972f"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$67.09",
+        "references": [
+          "3408b619-83e7-4332-b86e-894c3b174810"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": "127292249",
+        "references": [
+          "c659be1f-9fe0-4a53-8927-5a22df303932"
+        ]
+      },
+      "usage_kwh": {
+        "value": "238",
+        "references": [
+          "c659be1f-9fe0-4a53-8927-5a22df303932"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "$46.42",
+        "references": [
+          "ed886210-6bdf-441c-9591-5f3d2f98addd",
+          "3-r"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": "3113676",
+        "references": [
+          "238bbaac-96ec-4f42-8f3d-5cb7402eae48",
+          "2-2"
+        ]
+      },
+      "usage_therms": {
+        "value": "17.806",
+        "references": [
+          "238bbaac-96ec-4f42-8f3d-5cb7402eae48",
+          "2-g"
+        ]
+      },
+      "total_gas_charges": {
+        "value": "$20.67",
+        "references": [
+          "3933b2e9-aaf3-4be4-a340-fac91c62221a",
+          "2-H"
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 4.0649999999999995,
+    "duration_ms": 16637,
+    "filename": "upload.md",
+    "job_id": "3a1ce4acfadf44848782a4a8be8092f5",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": null
+  }
+}

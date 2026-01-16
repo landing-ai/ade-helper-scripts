@@ -1,0 +1,655 @@
+{
+  "chunks": [
+    {
+      "id": "94d75a84-7b0b-4996-ba56-4661863a2fe9",
+      "grounding": {
+        "box": {
+          "bottom": 0.039192840456962585,
+          "left": 0.6765761971473694,
+          "right": 0.9236930012702942,
+          "top": 0.014950261451303959
+        },
+        "page": 0
+      },
+      "markdown": "<a id='94d75a84-7b0b-4996-ba56-4661863a2fe9'></a>\n\nia.pxpsg.j10b0s01.ipsgbill 202506 102152.csv-272055-000009640",
+      "type": "marginalia"
+    },
+    {
+      "id": "d81276b6-2ab2-4870-aefa-0e0d1e92e2a6",
+      "grounding": {
+        "box": {
+          "bottom": 0.12159416079521179,
+          "left": 0.08390103280544281,
+          "right": 0.3306434750556946,
+          "top": 0.06359539926052094
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d81276b6-2ab2-4870-aefa-0e0d1e92e2a6'></a>\n\n<::logo: PSEG\nPSEG\nAn orange sun-like symbol with rays emanating from the center, next to the company name in dark gray text.::>",
+      "type": "logo"
+    },
+    {
+      "id": "f7a7b5b1-744f-4a08-8daf-15b04ba077b0",
+      "grounding": {
+        "box": {
+          "bottom": 0.1371183842420578,
+          "left": 0.47135013341903687,
+          "right": 0.9220030903816223,
+          "top": 0.0429876446723938
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f7a7b5b1-744f-4a08-8daf-15b04ba077b0'></a>\n\n✔Shut-off notice $1,467.77\nTotal amount due\nSee shut-off notice below for payment details",
+      "type": "text"
+    },
+    {
+      "id": "d0e7f6ca-5cca-4998-a6ba-6d4f631cbf3e",
+      "grounding": {
+        "box": {
+          "bottom": 0.18655483424663544,
+          "left": 0.077561154961586,
+          "right": 0.45045971870422363,
+          "top": 0.12955926358699799
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d0e7f6ca-5cca-4998-a6ba-6d4f631cbf3e'></a>\n\nYour energy bill",
+      "type": "text"
+    },
+    {
+      "id": "38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142",
+      "grounding": {
+        "box": {
+          "bottom": 0.17779578268527985,
+          "left": 0.4763250946998596,
+          "right": 0.8144863247871399,
+          "top": 0.14167101681232452
+        },
+        "page": 0
+      },
+      "markdown": "<a id='38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142'></a>\n\nBill date: June 11, 2025\nFor the period: May 09, 2025 to June 09, 2025",
+      "type": "text"
+    },
+    {
+      "id": "50a9bda7-8221-44ab-91d8-394e7be0fdc4",
+      "grounding": {
+        "box": {
+          "bottom": 0.33087360858917236,
+          "left": 0.08316846191883087,
+          "right": 0.45760130882263184,
+          "top": 0.19434142112731934
+        },
+        "page": 0
+      },
+      "markdown": "<a id='50a9bda7-8221-44ab-91d8-394e7be0fdc4'></a>\n\n! Message Center\n\n**SHUT-OFF NOTICE**\n1-800-357-2262 (Mon-Fri, 7:30 AM - 8:00 PM)\n\nYour service is currently in danger of being shut off. $1,130.86 is due\nimmediately. Note further that an additional $159.80 is now past due\nand must be paid by 6/26/2025 or $1,290.66 will be required to avoid\nshut off. A statement of customer rights and fees is shown on the\nreverse side.",
+      "type": "text"
+    },
+    {
+      "id": "64d37001-0dc3-4752-98d7-10889909fc53",
+      "grounding": {
+        "box": {
+          "bottom": 0.36135134100914,
+          "left": 0.08547700941562653,
+          "right": 0.4596870541572571,
+          "top": 0.335122674703598
+        },
+        "page": 0
+      },
+      "markdown": "<a id='64d37001-0dc3-4752-98d7-10889909fc53'></a>\n\nSi en el futuro usted desea recibir la notificación de desconexión de\nservicio en español, por favor llame al 1-800-357-2262",
+      "type": "text"
+    },
+    {
+      "id": "0741a995-d53a-45b4-8f1c-68db98c03b24",
+      "grounding": {
+        "box": {
+          "bottom": 0.4005107879638672,
+          "left": 0.08097130060195923,
+          "right": 0.4605668783187866,
+          "top": 0.3630608320236206
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0741a995-d53a-45b4-8f1c-68db98c03b24'></a>\n\nIf you or any member of your household rely on electricity to\noperate life sustaining equipment, please notify PSE&G. For more\ninformation, visit pseg.com/life or call 1-800-436-PSEG.",
+      "type": "text"
+    },
+    {
+      "id": "64d45b22-73fc-4f82-9627-d184edd41208",
+      "grounding": {
+        "box": {
+          "bottom": 0.441291481256485,
+          "left": 0.07018981128931046,
+          "right": 0.308034747838974,
+          "top": 0.4178977310657501
+        },
+        "page": 0
+      },
+      "markdown": "<a id='64d45b22-73fc-4f82-9627-d184edd41208'></a>\n\nNEXT METER READING July 9, 2025",
+      "type": "text"
+    },
+    {
+      "id": "85335fae-2ef7-4c9f-911c-dc4293e43b88",
+      "grounding": {
+        "box": {
+          "bottom": 0.6203818321228027,
+          "left": 0.05352377891540527,
+          "right": 0.4619123339653015,
+          "top": 0.4459122121334076
+        },
+        "page": 0
+      },
+      "markdown": "<a id='85335fae-2ef7-4c9f-911c-dc4293e43b88'></a>\n\n## How to contact us\n\n📞 1-800-436-PSEG (7734)\nCustomer Service: 7am to 8pm Mon-Fri\nEmergencies / Outages / WorryFree Services: 24/7\nTDD/TTY for the hearing impaired: 711\n\n<br>\n\n↖ Visit pseg.com/myaccount to access your account anytime\n\n<br>\n\n📱 Text us. Register for MyAlerts by texting **REG** to 4PSEG(47734)\n> Text **OUT** to report an outage.\n\n<br>\n\n_f_ @PSEG _@_ @PSEG _X_ @PSEGDelivers",
+      "type": "text"
+    },
+    {
+      "id": "e66dc725-4bad-4e23-99c7-eec0aeb8c65c",
+      "grounding": {
+        "box": {
+          "bottom": 0.17812132835388184,
+          "left": 0.4760188162326813,
+          "right": 0.8150986433029175,
+          "top": 0.1417558789253235
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e66dc725-4bad-4e23-99c7-eec0aeb8c65c'></a>\n\nBill date: June 11, 2025\nFor the period: May 09, 2025 to June 09, 2025",
+      "type": "text"
+    },
+    {
+      "id": "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733",
+      "grounding": {
+        "box": {
+          "bottom": 0.2678360342979431,
+          "left": 0.4768083095550537,
+          "right": 0.866148829460144,
+          "top": 0.18580669164657593
+        },
+        "page": 0
+      },
+      "markdown": "<a id='34494d9c-7c74-41f6-9f0c-d8f4e2ab6733'></a>\n\nARISLEIDY BAEZ NUNEZ\n\nACCOUNT NUMBER\n74 913 817 07\n\nSERVICE ADDRESS\n1146 N 31ST ST\nCAMDEN CITY NJ 08105-4118",
+      "type": "text"
+    },
+    {
+      "id": "32b5da15-95d2-4467-8970-428c62930bd3",
+      "grounding": {
+        "box": {
+          "bottom": 0.41654008626937866,
+          "left": 0.5022051334381104,
+          "right": 0.9137459993362427,
+          "top": 0.3160105347633362
+        },
+        "page": 0
+      },
+      "markdown": "<a id='32b5da15-95d2-4467-8970-428c62930bd3'></a>\n\n## Snapshot of what you owe\n\nSee page 2 for details\n\nBalance remaining from your last bill $1,290.66\nPlus This month's charges and credits $177.11\nTotal amount due by Jun 26, 2025 $1,467.77",
+      "type": "text"
+    },
+    {
+      "id": "05bc726e-6753-4d1b-a308-27f8192e539b",
+      "grounding": {
+        "box": {
+          "bottom": 0.5642014741897583,
+          "left": 0.5156453847885132,
+          "right": 0.9201442003250122,
+          "top": 0.4231199026107788
+        },
+        "page": 0
+      },
+      "markdown": "<a id='05bc726e-6753-4d1b-a308-27f8192e539b'></a>\n\nHow much energy you're using\n\nELECTRIC\n🔌 You used 18.9% ⬆️ more electric compared to this month last year.\n\nGAS\n⛽ You used 70.3% ⬆️ more gas compared to this month last year.",
+      "type": "text"
+    },
+    {
+      "id": "75ad81ba-c00f-48a0-9411-dd7e7c538d01",
+      "grounding": {
+        "box": {
+          "bottom": 0.5919811129570007,
+          "left": 0.5286940336227417,
+          "right": 0.862450122833252,
+          "top": 0.565545380115509
+        },
+        "page": 0
+      },
+      "markdown": "<a id='75ad81ba-c00f-48a0-9411-dd7e7c538d01'></a>\n\nThis month was 3°F colder compared to this month last year.",
+      "type": "text"
+    },
+    {
+      "id": "00a4785e-079d-4311-a3f1-f522e9742098",
+      "grounding": {
+        "box": {
+          "bottom": 0.625781238079071,
+          "left": 0.7852920889854431,
+          "right": 0.8708265423774719,
+          "top": 0.6043347716331482
+        },
+        "page": 0
+      },
+      "markdown": "<a id='00a4785e-079d-4311-a3f1-f522e9742098'></a>\n\nPage 1 of 5",
+      "type": "marginalia"
+    },
+    {
+      "id": "962199b1-c78c-40cf-bc47-30e8c1ea5ec5",
+      "grounding": {
+        "box": {
+          "bottom": 0.6817501783370972,
+          "left": 0.059453219175338745,
+          "right": 0.1977120041847229,
+          "top": 0.6499001979827881
+        },
+        "page": 0
+      },
+      "markdown": "<a id='962199b1-c78c-40cf-bc47-30e8c1ea5ec5'></a>\n\n<::logo: PSEG\nPSEG\nThe logo features an orange, sun-like symbol with radiating lines to the left of the black text \"PSEG\".::>",
+      "type": "logo"
+    },
+    {
+      "id": "5c407bce-53a0-48d5-995c-493e2ac67c2d",
+      "grounding": {
+        "box": {
+          "bottom": 0.6989490985870361,
+          "left": 0.5791857838630676,
+          "right": 0.9155542254447937,
+          "top": 0.6376111507415771
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5c407bce-53a0-48d5-995c-493e2ac67c2d'></a>\n\nAccount number 7491381707\nTotal amount due $1,467.77\n\nSee shut-off notice above for amount that must be paid to avoid shut-off.",
+      "type": "text"
+    },
+    {
+      "id": "585f2096-832a-4298-913d-df881d8d0609",
+      "grounding": {
+        "box": {
+          "bottom": 0.7431529760360718,
+          "left": 0.05773848295211792,
+          "right": 0.5561882853507996,
+          "top": 0.6862137317657471
+        },
+        "page": 0
+      },
+      "markdown": "<a id='585f2096-832a-4298-913d-df881d8d0609'></a>\n\nPAY YOUR WAY, 24/7\nWe offer a variety of methods that make it easy to pay your bill. See reverse side for more information.\noption By checking this box, I authorize PSE&G to initiate recurring ACH/Electronic Debits using the bank account number on the enclosed check.: [ ]",
+      "type": "text"
+    },
+    {
+      "id": "8f11e2a2-3fbf-4f19-9ac8-685d1e2756a5",
+      "grounding": {
+        "box": {
+          "bottom": 0.7417575716972351,
+          "left": 0.6074404716491699,
+          "right": 0.9072486162185669,
+          "top": 0.7017459273338318
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8f11e2a2-3fbf-4f19-9ac8-685d1e2756a5'></a>\n\nAmount enclosed",
+      "type": "text"
+    },
+    {
+      "id": "f29d0ebb-6a83-4ea0-96bb-c1c321dcda76",
+      "grounding": {
+        "box": {
+          "bottom": 0.8401265144348145,
+          "left": 0.11738362908363342,
+          "right": 0.4930630624294281,
+          "top": 0.7659165859222412
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f29d0ebb-6a83-4ea0-96bb-c1c321dcda76'></a>\n\n136028 00009640\n\n<::transcription of the content\n: barcode::>\n\nARISLEIDY BAEZ NUNEZ\n1146 N 31ST ST\nCAMDEN NJ 08105-4118\n\n<::transcription of the content\n: scan_code::>",
+      "type": "text"
+    },
+    {
+      "id": "796beccf-4a51-4a5f-b310-881fb9c3c79e",
+      "grounding": {
+        "box": {
+          "bottom": 0.8322334885597229,
+          "left": 0.5643790364265442,
+          "right": 0.9021907448768616,
+          "top": 0.7666065096855164
+        },
+        "page": 0
+      },
+      "markdown": "<a id='796beccf-4a51-4a5f-b310-881fb9c3c79e'></a>\n\n<::transcription of the content\n: The image shows a postal routing barcode.\n::>\nPSE&G CO\nPO BOX 14444\nNEW BRUNSWICK NJ 08906-4444",
+      "type": "scan_code"
+    },
+    {
+      "id": "4066dcef-a8bb-40c6-8117-35a0bede2ff6",
+      "grounding": {
+        "box": {
+          "bottom": 0.8650091290473938,
+          "left": 0.0554356649518013,
+          "right": 0.09656745940446854,
+          "top": 0.8531190752983093
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4066dcef-a8bb-40c6-8117-35a0bede2ff6'></a>\n\n23 5 89",
+      "type": "text"
+    },
+    {
+      "id": "ab9da7ef-b659-41ce-8a1a-024fb6de9a3e",
+      "grounding": {
+        "box": {
+          "bottom": 0.8912657499313354,
+          "left": 0.3013896346092224,
+          "right": 0.6818837523460388,
+          "top": 0.866399884223938
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ab9da7ef-b659-41ce-8a1a-024fb6de9a3e'></a>\n\n7491381707 0001467778 00011308627",
+      "type": "text"
+    },
+    {
+      "id": "060b1e1a-1340-4c6e-b4d1-e1a2add97af1",
+      "grounding": {
+        "box": {
+          "bottom": 0.8500173091888428,
+          "left": 0.04339568689465523,
+          "right": 0.0949784517288208,
+          "top": 0.8152152299880981
+        },
+        "page": 0
+      },
+      "markdown": "<a id='060b1e1a-1340-4c6e-b4d1-e1a2add97af1'></a>\n\n<::scan_code: Data Matrix\n\nA small, square Data Matrix code with good contrast and no visible damage or obstruction.::>",
+      "type": "scan_code"
+    }
+  ],
+  "markdown": "<a id='94d75a84-7b0b-4996-ba56-4661863a2fe9'></a>\n\nia.pxpsg.j10b0s01.ipsgbill 202506 102152.csv-272055-000009640\n\n<a id='d81276b6-2ab2-4870-aefa-0e0d1e92e2a6'></a>\n\n<::logo: PSEG\nPSEG\nAn orange sun-like symbol with rays emanating from the center, next to the company name in dark gray text.::>\n\n<a id='f7a7b5b1-744f-4a08-8daf-15b04ba077b0'></a>\n\n✔Shut-off notice $1,467.77\nTotal amount due\nSee shut-off notice below for payment details\n\n<a id='d0e7f6ca-5cca-4998-a6ba-6d4f631cbf3e'></a>\n\nYour energy bill\n\n<a id='38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142'></a>\n\nBill date: June 11, 2025\nFor the period: May 09, 2025 to June 09, 2025\n\n<a id='50a9bda7-8221-44ab-91d8-394e7be0fdc4'></a>\n\n! Message Center\n\n**SHUT-OFF NOTICE**\n1-800-357-2262 (Mon-Fri, 7:30 AM - 8:00 PM)\n\nYour service is currently in danger of being shut off. $1,130.86 is due\nimmediately. Note further that an additional $159.80 is now past due\nand must be paid by 6/26/2025 or $1,290.66 will be required to avoid\nshut off. A statement of customer rights and fees is shown on the\nreverse side.\n\n<a id='64d37001-0dc3-4752-98d7-10889909fc53'></a>\n\nSi en el futuro usted desea recibir la notificación de desconexión de\nservicio en español, por favor llame al 1-800-357-2262\n\n<a id='0741a995-d53a-45b4-8f1c-68db98c03b24'></a>\n\nIf you or any member of your household rely on electricity to\noperate life sustaining equipment, please notify PSE&G. For more\ninformation, visit pseg.com/life or call 1-800-436-PSEG.\n\n<a id='64d45b22-73fc-4f82-9627-d184edd41208'></a>\n\nNEXT METER READING July 9, 2025\n\n<a id='85335fae-2ef7-4c9f-911c-dc4293e43b88'></a>\n\n## How to contact us\n\n📞 1-800-436-PSEG (7734)\nCustomer Service: 7am to 8pm Mon-Fri\nEmergencies / Outages / WorryFree Services: 24/7\nTDD/TTY for the hearing impaired: 711\n\n<br>\n\n↖ Visit pseg.com/myaccount to access your account anytime\n\n<br>\n\n📱 Text us. Register for MyAlerts by texting **REG** to 4PSEG(47734)\n> Text **OUT** to report an outage.\n\n<br>\n\n_f_ @PSEG _@_ @PSEG _X_ @PSEGDelivers\n\n<a id='e66dc725-4bad-4e23-99c7-eec0aeb8c65c'></a>\n\nBill date: June 11, 2025\nFor the period: May 09, 2025 to June 09, 2025\n\n<a id='34494d9c-7c74-41f6-9f0c-d8f4e2ab6733'></a>\n\nARISLEIDY BAEZ NUNEZ\n\nACCOUNT NUMBER\n74 913 817 07\n\nSERVICE ADDRESS\n1146 N 31ST ST\nCAMDEN CITY NJ 08105-4118\n\n<a id='32b5da15-95d2-4467-8970-428c62930bd3'></a>\n\n## Snapshot of what you owe\n\nSee page 2 for details\n\nBalance remaining from your last bill $1,290.66\nPlus This month's charges and credits $177.11\nTotal amount due by Jun 26, 2025 $1,467.77\n\n<a id='05bc726e-6753-4d1b-a308-27f8192e539b'></a>\n\nHow much energy you're using\n\nELECTRIC\n🔌 You used 18.9% ⬆️ more electric compared to this month last year.\n\nGAS\n⛽ You used 70.3% ⬆️ more gas compared to this month last year.\n\n<a id='75ad81ba-c00f-48a0-9411-dd7e7c538d01'></a>\n\nThis month was 3°F colder compared to this month last year.\n\n<a id='00a4785e-079d-4311-a3f1-f522e9742098'></a>\n\nPage 1 of 5\n\n<a id='962199b1-c78c-40cf-bc47-30e8c1ea5ec5'></a>\n\n<::logo: PSEG\nPSEG\nThe logo features an orange, sun-like symbol with radiating lines to the left of the black text \"PSEG\".::>\n\n<a id='5c407bce-53a0-48d5-995c-493e2ac67c2d'></a>\n\nAccount number 7491381707\nTotal amount due $1,467.77\n\nSee shut-off notice above for amount that must be paid to avoid shut-off.\n\n<a id='585f2096-832a-4298-913d-df881d8d0609'></a>\n\nPAY YOUR WAY, 24/7\nWe offer a variety of methods that make it easy to pay your bill. See reverse side for more information.\noption By checking this box, I authorize PSE&G to initiate recurring ACH/Electronic Debits using the bank account number on the enclosed check.: [ ]\n\n<a id='8f11e2a2-3fbf-4f19-9ac8-685d1e2756a5'></a>\n\nAmount enclosed\n\n<a id='f29d0ebb-6a83-4ea0-96bb-c1c321dcda76'></a>\n\n136028 00009640\n\n<::transcription of the content\n: barcode::>\n\nARISLEIDY BAEZ NUNEZ\n1146 N 31ST ST\nCAMDEN NJ 08105-4118\n\n<::transcription of the content\n: scan_code::>\n\n<a id='796beccf-4a51-4a5f-b310-881fb9c3c79e'></a>\n\n<::transcription of the content\n: The image shows a postal routing barcode.\n::>\nPSE&G CO\nPO BOX 14444\nNEW BRUNSWICK NJ 08906-4444\n\n<a id='4066dcef-a8bb-40c6-8117-35a0bede2ff6'></a>\n\n23 5 89\n\n<a id='ab9da7ef-b659-41ce-8a1a-024fb6de9a3e'></a>\n\n7491381707 0001467778 00011308627\n\n<a id='060b1e1a-1340-4c6e-b4d1-e1a2add97af1'></a>\n\n<::scan_code: Data Matrix\n\nA small, square Data Matrix code with good contrast and no visible damage or obstruction.::>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 6096,
+    "filename": "electric_C.jpg",
+    "job_id": "ff67097b68144bbd947457a5f74147b0",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "94d75a84-7b0b-4996-ba56-4661863a2fe9",
+        "d81276b6-2ab2-4870-aefa-0e0d1e92e2a6",
+        "f7a7b5b1-744f-4a08-8daf-15b04ba077b0",
+        "d0e7f6ca-5cca-4998-a6ba-6d4f631cbf3e",
+        "38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142",
+        "50a9bda7-8221-44ab-91d8-394e7be0fdc4",
+        "64d37001-0dc3-4752-98d7-10889909fc53",
+        "0741a995-d53a-45b4-8f1c-68db98c03b24",
+        "64d45b22-73fc-4f82-9627-d184edd41208",
+        "85335fae-2ef7-4c9f-911c-dc4293e43b88",
+        "e66dc725-4bad-4e23-99c7-eec0aeb8c65c",
+        "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733",
+        "32b5da15-95d2-4467-8970-428c62930bd3",
+        "05bc726e-6753-4d1b-a308-27f8192e539b",
+        "75ad81ba-c00f-48a0-9411-dd7e7c538d01",
+        "00a4785e-079d-4311-a3f1-f522e9742098",
+        "962199b1-c78c-40cf-bc47-30e8c1ea5ec5",
+        "5c407bce-53a0-48d5-995c-493e2ac67c2d",
+        "585f2096-832a-4298-913d-df881d8d0609",
+        "8f11e2a2-3fbf-4f19-9ac8-685d1e2756a5",
+        "f29d0ebb-6a83-4ea0-96bb-c1c321dcda76",
+        "796beccf-4a51-4a5f-b310-881fb9c3c79e",
+        "4066dcef-a8bb-40c6-8117-35a0bede2ff6",
+        "ab9da7ef-b659-41ce-8a1a-024fb6de9a3e",
+        "060b1e1a-1340-4c6e-b4d1-e1a2add97af1"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='94d75a84-7b0b-4996-ba56-4661863a2fe9'></a>\n\nia.pxpsg.j10b0s01.ipsgbill 202506 102152.csv-272055-000009640\n\n<a id='d81276b6-2ab2-4870-aefa-0e0d1e92e2a6'></a>\n\n<::logo: PSEG\nPSEG\nAn orange sun-like symbol with rays emanating from the center, next to the company name in dark gray text.::>\n\n<a id='f7a7b5b1-744f-4a08-8daf-15b04ba077b0'></a>\n\n✔Shut-off notice $1,467.77\nTotal amount due\nSee shut-off notice below for payment details\n\n<a id='d0e7f6ca-5cca-4998-a6ba-6d4f631cbf3e'></a>\n\nYour energy bill\n\n<a id='38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142'></a>\n\nBill date: June 11, 2025\nFor the period: May 09, 2025 to June 09, 2025\n\n<a id='50a9bda7-8221-44ab-91d8-394e7be0fdc4'></a>\n\n! Message Center\n\n**SHUT-OFF NOTICE**\n1-800-357-2262 (Mon-Fri, 7:30 AM - 8:00 PM)\n\nYour service is currently in danger of being shut off. $1,130.86 is due\nimmediately. Note further that an additional $159.80 is now past due\nand must be paid by 6/26/2025 or $1,290.66 will be required to avoid\nshut off. A statement of customer rights and fees is shown on the\nreverse side.\n\n<a id='64d37001-0dc3-4752-98d7-10889909fc53'></a>\n\nSi en el futuro usted desea recibir la notificación de desconexión de\nservicio en español, por favor llame al 1-800-357-2262\n\n<a id='0741a995-d53a-45b4-8f1c-68db98c03b24'></a>\n\nIf you or any member of your household rely on electricity to\noperate life sustaining equipment, please notify PSE&G. For more\ninformation, visit pseg.com/life or call 1-800-436-PSEG.\n\n<a id='64d45b22-73fc-4f82-9627-d184edd41208'></a>\n\nNEXT METER READING July 9, 2025\n\n<a id='85335fae-2ef7-4c9f-911c-dc4293e43b88'></a>\n\n## How to contact us\n\n📞 1-800-436-PSEG (7734)\nCustomer Service: 7am to 8pm Mon-Fri\nEmergencies / Outages / WorryFree Services: 24/7\nTDD/TTY for the hearing impaired: 711\n\n<br>\n\n↖ Visit pseg.com/myaccount to access your account anytime\n\n<br>\n\n📱 Text us. Register for MyAlerts by texting **REG** to 4PSEG(47734)\n> Text **OUT** to report an outage.\n\n<br>\n\n_f_ @PSEG _@_ @PSEG _X_ @PSEGDelivers\n\n<a id='e66dc725-4bad-4e23-99c7-eec0aeb8c65c'></a>\n\nBill date: June 11, 2025\nFor the period: May 09, 2025 to June 09, 2025\n\n<a id='34494d9c-7c74-41f6-9f0c-d8f4e2ab6733'></a>\n\nARISLEIDY BAEZ NUNEZ\n\nACCOUNT NUMBER\n74 913 817 07\n\nSERVICE ADDRESS\n1146 N 31ST ST\nCAMDEN CITY NJ 08105-4118\n\n<a id='32b5da15-95d2-4467-8970-428c62930bd3'></a>\n\n## Snapshot of what you owe\n\nSee page 2 for details\n\nBalance remaining from your last bill $1,290.66\nPlus This month's charges and credits $177.11\nTotal amount due by Jun 26, 2025 $1,467.77\n\n<a id='05bc726e-6753-4d1b-a308-27f8192e539b'></a>\n\nHow much energy you're using\n\nELECTRIC\n🔌 You used 18.9% ⬆️ more electric compared to this month last year.\n\nGAS\n⛽ You used 70.3% ⬆️ more gas compared to this month last year.\n\n<a id='75ad81ba-c00f-48a0-9411-dd7e7c538d01'></a>\n\nThis month was 3°F colder compared to this month last year.\n\n<a id='00a4785e-079d-4311-a3f1-f522e9742098'></a>\n\nPage 1 of 5\n\n<a id='962199b1-c78c-40cf-bc47-30e8c1ea5ec5'></a>\n\n<::logo: PSEG\nPSEG\nThe logo features an orange, sun-like symbol with radiating lines to the left of the black text \"PSEG\".::>\n\n<a id='5c407bce-53a0-48d5-995c-493e2ac67c2d'></a>\n\nAccount number 7491381707\nTotal amount due $1,467.77\n\nSee shut-off notice above for amount that must be paid to avoid shut-off.\n\n<a id='585f2096-832a-4298-913d-df881d8d0609'></a>\n\nPAY YOUR WAY, 24/7\nWe offer a variety of methods that make it easy to pay your bill. See reverse side for more information.\noption By checking this box, I authorize PSE&G to initiate recurring ACH/Electronic Debits using the bank account number on the enclosed check.: [ ]\n\n<a id='8f11e2a2-3fbf-4f19-9ac8-685d1e2756a5'></a>\n\nAmount enclosed\n\n<a id='f29d0ebb-6a83-4ea0-96bb-c1c321dcda76'></a>\n\n136028 00009640\n\n<::transcription of the content\n: barcode::>\n\nARISLEIDY BAEZ NUNEZ\n1146 N 31ST ST\nCAMDEN NJ 08105-4118\n\n<::transcription of the content\n: scan_code::>\n\n<a id='796beccf-4a51-4a5f-b310-881fb9c3c79e'></a>\n\n<::transcription of the content\n: The image shows a postal routing barcode.\n::>\nPSE&G CO\nPO BOX 14444\nNEW BRUNSWICK NJ 08906-4444\n\n<a id='4066dcef-a8bb-40c6-8117-35a0bede2ff6'></a>\n\n23 5 89\n\n<a id='ab9da7ef-b659-41ce-8a1a-024fb6de9a3e'></a>\n\n7491381707 0001467778 00011308627\n\n<a id='060b1e1a-1340-4c6e-b4d1-e1a2add97af1'></a>\n\n<::scan_code: Data Matrix\n\nA small, square Data Matrix code with good contrast and no visible damage or obstruction.::>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "94d75a84-7b0b-4996-ba56-4661863a2fe9": {
+      "box": {
+        "bottom": 0.039192840456962585,
+        "left": 0.6765761971473694,
+        "right": 0.9236930012702942,
+        "top": 0.014950261451303959
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "d81276b6-2ab2-4870-aefa-0e0d1e92e2a6": {
+      "box": {
+        "bottom": 0.12159416079521179,
+        "left": 0.08390103280544281,
+        "right": 0.3306434750556946,
+        "top": 0.06359539926052094
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "f7a7b5b1-744f-4a08-8daf-15b04ba077b0": {
+      "box": {
+        "bottom": 0.1371183842420578,
+        "left": 0.47135013341903687,
+        "right": 0.9220030903816223,
+        "top": 0.0429876446723938
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d0e7f6ca-5cca-4998-a6ba-6d4f631cbf3e": {
+      "box": {
+        "bottom": 0.18655483424663544,
+        "left": 0.077561154961586,
+        "right": 0.45045971870422363,
+        "top": 0.12955926358699799
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "38c2c2cb-c2ea-4ac2-a12a-cfb2fe663142": {
+      "box": {
+        "bottom": 0.17779578268527985,
+        "left": 0.4763250946998596,
+        "right": 0.8144863247871399,
+        "top": 0.14167101681232452
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "50a9bda7-8221-44ab-91d8-394e7be0fdc4": {
+      "box": {
+        "bottom": 0.33087360858917236,
+        "left": 0.08316846191883087,
+        "right": 0.45760130882263184,
+        "top": 0.19434142112731934
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "64d37001-0dc3-4752-98d7-10889909fc53": {
+      "box": {
+        "bottom": 0.36135134100914,
+        "left": 0.08547700941562653,
+        "right": 0.4596870541572571,
+        "top": 0.335122674703598
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0741a995-d53a-45b4-8f1c-68db98c03b24": {
+      "box": {
+        "bottom": 0.4005107879638672,
+        "left": 0.08097130060195923,
+        "right": 0.4605668783187866,
+        "top": 0.3630608320236206
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "64d45b22-73fc-4f82-9627-d184edd41208": {
+      "box": {
+        "bottom": 0.441291481256485,
+        "left": 0.07018981128931046,
+        "right": 0.308034747838974,
+        "top": 0.4178977310657501
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "85335fae-2ef7-4c9f-911c-dc4293e43b88": {
+      "box": {
+        "bottom": 0.6203818321228027,
+        "left": 0.05352377891540527,
+        "right": 0.4619123339653015,
+        "top": 0.4459122121334076
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e66dc725-4bad-4e23-99c7-eec0aeb8c65c": {
+      "box": {
+        "bottom": 0.17812132835388184,
+        "left": 0.4760188162326813,
+        "right": 0.8150986433029175,
+        "top": 0.1417558789253235
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "34494d9c-7c74-41f6-9f0c-d8f4e2ab6733": {
+      "box": {
+        "bottom": 0.2678360342979431,
+        "left": 0.4768083095550537,
+        "right": 0.866148829460144,
+        "top": 0.18580669164657593
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "32b5da15-95d2-4467-8970-428c62930bd3": {
+      "box": {
+        "bottom": 0.41654008626937866,
+        "left": 0.5022051334381104,
+        "right": 0.9137459993362427,
+        "top": 0.3160105347633362
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "05bc726e-6753-4d1b-a308-27f8192e539b": {
+      "box": {
+        "bottom": 0.5642014741897583,
+        "left": 0.5156453847885132,
+        "right": 0.9201442003250122,
+        "top": 0.4231199026107788
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "75ad81ba-c00f-48a0-9411-dd7e7c538d01": {
+      "box": {
+        "bottom": 0.5919811129570007,
+        "left": 0.5286940336227417,
+        "right": 0.862450122833252,
+        "top": 0.565545380115509
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "00a4785e-079d-4311-a3f1-f522e9742098": {
+      "box": {
+        "bottom": 0.625781238079071,
+        "left": 0.7852920889854431,
+        "right": 0.8708265423774719,
+        "top": 0.6043347716331482
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "962199b1-c78c-40cf-bc47-30e8c1ea5ec5": {
+      "box": {
+        "bottom": 0.6817501783370972,
+        "left": 0.059453219175338745,
+        "right": 0.1977120041847229,
+        "top": 0.6499001979827881
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "5c407bce-53a0-48d5-995c-493e2ac67c2d": {
+      "box": {
+        "bottom": 0.6989490985870361,
+        "left": 0.5791857838630676,
+        "right": 0.9155542254447937,
+        "top": 0.6376111507415771
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "585f2096-832a-4298-913d-df881d8d0609": {
+      "box": {
+        "bottom": 0.7431529760360718,
+        "left": 0.05773848295211792,
+        "right": 0.5561882853507996,
+        "top": 0.6862137317657471
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8f11e2a2-3fbf-4f19-9ac8-685d1e2756a5": {
+      "box": {
+        "bottom": 0.7417575716972351,
+        "left": 0.6074404716491699,
+        "right": 0.9072486162185669,
+        "top": 0.7017459273338318
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f29d0ebb-6a83-4ea0-96bb-c1c321dcda76": {
+      "box": {
+        "bottom": 0.8401265144348145,
+        "left": 0.11738362908363342,
+        "right": 0.4930630624294281,
+        "top": 0.7659165859222412
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "796beccf-4a51-4a5f-b310-881fb9c3c79e": {
+      "box": {
+        "bottom": 0.8322334885597229,
+        "left": 0.5643790364265442,
+        "right": 0.9021907448768616,
+        "top": 0.7666065096855164
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "4066dcef-a8bb-40c6-8117-35a0bede2ff6": {
+      "box": {
+        "bottom": 0.8650091290473938,
+        "left": 0.0554356649518013,
+        "right": 0.09656745940446854,
+        "top": 0.8531190752983093
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ab9da7ef-b659-41ce-8a1a-024fb6de9a3e": {
+      "box": {
+        "bottom": 0.8912657499313354,
+        "left": 0.3013896346092224,
+        "right": 0.6818837523460388,
+        "top": 0.866399884223938
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "060b1e1a-1340-4c6e-b4d1-e1a2add97af1": {
+      "box": {
+        "bottom": 0.8500173091888428,
+        "left": 0.04339568689465523,
+        "right": 0.0949784517288208,
+        "top": 0.8152152299880981
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    }
+  }
+}

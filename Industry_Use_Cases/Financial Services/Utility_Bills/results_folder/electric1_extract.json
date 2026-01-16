@@ -1,0 +1,185 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "MOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.",
+      "phone_number": "1-800-388-9881",
+      "website": "www.mvea.coop",
+      "usage_bar_chart": true
+    },
+    "account_info": {
+      "account_holder": "RON A BAUMERT",
+      "account_number": "61358805",
+      "service_address": "935 FLAMING TREE WAY MONUMENT CO 80132-9306",
+      "service_address_primary": "935 FLAMING TREE WAY",
+      "service_address_city": "MONUMENT",
+      "service_address_state": "CO",
+      "service_address_zip": "80132-9306"
+    },
+    "billing_summary": {
+      "due_date": "2020-05-28",
+      "bill_date": "2020-05-13",
+      "service_start_date": "04-06-2020",
+      "service_end_date": "05-04-2020",
+      "total_amount_due": "$170.00"
+    },
+    "electric_charges": {
+      "meter_number": "24071",
+      "usage_kwh": "1255",
+      "total_electric_charges": "$170.39"
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": null,
+      "total_gas_charges": null
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "MOUNTAIN VIEW ELECTRIC ASSOCIATION, INC.",
+        "references": [
+          "adafffa2-2cac-4cd6-b1cd-d5841c3b9819"
+        ]
+      },
+      "phone_number": {
+        "value": "1-800-388-9881",
+        "references": [
+          "c74cf314-497e-4f8f-8f4b-4836b0f0884c"
+        ]
+      },
+      "website": {
+        "value": "www.mvea.coop",
+        "references": [
+          "c74cf314-497e-4f8f-8f4b-4836b0f0884c"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": true,
+        "references": [
+          "e3293829-c88d-4a35-88cb-38430b472a15"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "RON A BAUMERT",
+        "references": [
+          "7ab49125-ed87-4cd7-963d-f4d919b034d1"
+        ]
+      },
+      "account_number": {
+        "value": "61358805",
+        "references": [
+          "7ab49125-ed87-4cd7-963d-f4d919b034d1"
+        ]
+      },
+      "service_address": {
+        "value": "935 FLAMING TREE WAY MONUMENT CO 80132-9306",
+        "references": [
+          "dca052f6-16be-4fba-90c9-a7124d429734"
+        ]
+      },
+      "service_address_primary": {
+        "value": "935 FLAMING TREE WAY",
+        "references": [
+          "e410898c-8583-4866-b989-899b5792de62"
+        ]
+      },
+      "service_address_city": {
+        "value": "MONUMENT",
+        "references": [
+          "e410898c-8583-4866-b989-899b5792de62"
+        ]
+      },
+      "service_address_state": {
+        "value": "CO",
+        "references": [
+          "e410898c-8583-4866-b989-899b5792de62"
+        ]
+      },
+      "service_address_zip": {
+        "value": "80132-9306",
+        "references": [
+          "dca052f6-16be-4fba-90c9-a7124d429734"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2020-05-28",
+        "references": [
+          "5b3e2318-ff07-486c-8077-45308b6165eb"
+        ]
+      },
+      "bill_date": {
+        "value": "2020-05-13",
+        "references": [
+          "7ab49125-ed87-4cd7-963d-f4d919b034d1"
+        ]
+      },
+      "service_start_date": {
+        "value": "04-06-2020",
+        "references": [
+          "e3293829-c88d-4a35-88cb-38430b472a15"
+        ]
+      },
+      "service_end_date": {
+        "value": "05-04-2020",
+        "references": [
+          "e3293829-c88d-4a35-88cb-38430b472a15"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$170.00",
+        "references": [
+          "5b3e2318-ff07-486c-8077-45308b6165eb"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": "24071",
+        "references": [
+          "7ab49125-ed87-4cd7-963d-f4d919b034d1"
+        ]
+      },
+      "usage_kwh": {
+        "value": "1255",
+        "references": [
+          "e6c716ea-8f2b-4b69-af45-518ffd649e65"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "$170.39",
+        "references": [
+          "1-d",
+          "1-f"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": null,
+        "references": []
+      },
+      "total_gas_charges": {
+        "value": null,
+        "references": []
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 2.6658,
+    "duration_ms": 18366,
+    "filename": "upload.md",
+    "job_id": "6bbee946f0be4b18a63600864c89979e",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'string'\n\nFailed validating 'type' in schema['properties']['gas_charges']['properties']['meter_number']:\n    {'type': 'string',\n     'title': 'Gas Meter Number',\n     'description': 'Identifier for the gas meter. Blank if this bill does '\n                    'not inlcude gas service.'}\n\nOn instance['gas_charges']['meter_number']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

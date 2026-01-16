@@ -1,0 +1,199 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "conEdison",
+      "phone_number": "800-752-6633",
+      "website": "conEd.com/MyAccount",
+      "usage_bar_chart": true
+    },
+    "account_info": {
+      "account_holder": "MITCHELL JOHNSON",
+      "account_number": "44-6011-0985-0021-7",
+      "service_address": "435 W 57 STRE 2H",
+      "service_address_primary": "435 W 57 STRE 2H",
+      "service_address_city": "NEW YORK",
+      "service_address_state": "NY",
+      "service_address_zip": "10019"
+    },
+    "billing_summary": {
+      "due_date": "2023-04-07",
+      "bill_date": "2023-03-28",
+      "service_start_date": "02-24-2023",
+      "service_end_date": "03-27-2023",
+      "total_amount_due": "$44.89"
+    },
+    "electric_charges": {
+      "meter_number": "013641924",
+      "usage_kwh": "89",
+      "total_electric_charges": "$44.89"
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": null,
+      "total_gas_charges": null
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "conEdison",
+        "references": [
+          "1448bc3f-e2e5-47d4-bbf8-f2de5d22ead1"
+        ]
+      },
+      "phone_number": {
+        "value": "800-752-6633",
+        "references": [
+          "758b3d0b-94f8-4c5c-b63b-3956f276e409",
+          "0ec5e95c-b4f2-4b4c-9322-643b90ff4ef0",
+          "c98a1ed5-684c-4935-ba49-2e274c45a041"
+        ]
+      },
+      "website": {
+        "value": "conEd.com/MyAccount",
+        "references": [
+          "5864d2bf-3ba2-497e-9aec-c3fb06d5b43c",
+          "4a5812d4-94d1-4bc3-832f-66322f597d95",
+          "c514e390-5e0b-44e6-a0f0-e754c31f147d"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": true,
+        "references": [
+          "2888268d-e66e-4627-9e78-f4c429777438"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "MITCHELL JOHNSON",
+        "references": [
+          "4eb5d041-4e39-46e8-b66b-84e3f1fab7d5",
+          "59103170-bc7b-46e9-b985-128c9864e178",
+          "73098002-fe45-4d55-973b-dd329be76321"
+        ]
+      },
+      "account_number": {
+        "value": "44-6011-0985-0021-7",
+        "references": [
+          "4eb5d041-4e39-46e8-b66b-84e3f1fab7d5",
+          "3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5",
+          "a525aa42-b3b6-4b9b-9bc1-8c82ac6dc85f"
+        ]
+      },
+      "service_address": {
+        "value": "435 W 57 STRE 2H",
+        "references": [
+          "2888268d-e66e-4627-9e78-f4c429777438"
+        ]
+      },
+      "service_address_primary": {
+        "value": "435 W 57 STRE 2H",
+        "references": [
+          "2888268d-e66e-4627-9e78-f4c429777438"
+        ]
+      },
+      "service_address_city": {
+        "value": "NEW YORK",
+        "references": [
+          "59103170-bc7b-46e9-b985-128c9864e178"
+        ]
+      },
+      "service_address_state": {
+        "value": "NY",
+        "references": [
+          "59103170-bc7b-46e9-b985-128c9864e178"
+        ]
+      },
+      "service_address_zip": {
+        "value": "10019",
+        "references": [
+          "59103170-bc7b-46e9-b985-128c9864e178"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2023-04-07",
+        "references": [
+          "9ed1ee03-796c-4116-bba4-381da6a256c2",
+          "0-q"
+        ]
+      },
+      "bill_date": {
+        "value": "2023-03-28",
+        "references": [
+          "0-6"
+        ]
+      },
+      "service_start_date": {
+        "value": "02-24-2023",
+        "references": [
+          "0-i",
+          "1-5"
+        ]
+      },
+      "service_end_date": {
+        "value": "03-27-2023",
+        "references": [
+          "0-i",
+          "1-5"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$44.89",
+        "references": [
+          "9ed1ee03-796c-4116-bba4-381da6a256c2",
+          "0-p",
+          "3a4b4f15-1d69-4ce3-ab6c-c2b6fe5d1ff5",
+          "09503432-2f71-43bb-819b-a33209d59a11"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": "013641924",
+        "references": [
+          "1-g"
+        ]
+      },
+      "usage_kwh": {
+        "value": "89",
+        "references": [
+          "1-o",
+          "88c7401c-4a93-42f3-af42-ca7f24b22b7a"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "$44.89",
+        "references": [
+          "1-H"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": null,
+        "references": []
+      },
+      "total_gas_charges": {
+        "value": null,
+        "references": []
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 2.8866,
+    "duration_ms": 17173,
+    "filename": "upload.md",
+    "job_id": "30ce534257cc4e4ca3ccb72ed3080d58",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'string'\n\nFailed validating 'type' in schema['properties']['gas_charges']['properties']['meter_number']:\n    {'type': 'string',\n     'title': 'Gas Meter Number',\n     'description': 'Identifier for the gas meter. Blank if this bill does '\n                    'not inlcude gas service.'}\n\nOn instance['gas_charges']['meter_number']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

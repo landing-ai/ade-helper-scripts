@@ -1,0 +1,2608 @@
+{
+  "chunks": [
+    {
+      "id": "748e4aee-8902-4ecf-ac32-e4d7f55e62f2",
+      "grounding": {
+        "box": {
+          "bottom": 0.06260429322719574,
+          "left": 0.55340176820755,
+          "right": 0.7466811537742615,
+          "top": 0.03308011591434479
+        },
+        "page": 0
+      },
+      "markdown": "<a id='748e4aee-8902-4ecf-ac32-e4d7f55e62f2'></a>\n\nYour Energy Bill",
+      "type": "text"
+    },
+    {
+      "id": "b4ee13af-0091-4359-b6f7-2cba7c498885",
+      "grounding": {
+        "box": {
+          "bottom": 0.05293191224336624,
+          "left": 0.8780751824378967,
+          "right": 0.9463502764701843,
+          "top": 0.03826285898685455
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b4ee13af-0091-4359-b6f7-2cba7c498885'></a>\n\nPage 1 of 3",
+      "type": "marginalia"
+    },
+    {
+      "id": "7c8cc88f-3cb4-46cc-8751-44806cf40af1",
+      "grounding": {
+        "box": {
+          "bottom": 0.08154530823230743,
+          "left": 0.056856051087379456,
+          "right": 0.32593393325805664,
+          "top": 0.03652053326368332
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7c8cc88f-3cb4-46cc-8751-44806cf40af1'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY.\nduke-energy.com\n800.700.8744\nThe logo features a stylized, swirling graphic in shades of blue and green to the left of the company name.::>",
+      "type": "logo"
+    },
+    {
+      "id": "2eb96aa1-51cc-44b6-878a-b8379f534a89",
+      "grounding": {
+        "box": {
+          "bottom": 0.1308712363243103,
+          "left": 0.5547719597816467,
+          "right": 0.9460563063621521,
+          "top": 0.06776735931634903
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2eb96aa1-51cc-44b6-878a-b8379f534a89'></a>\n\nService address\nKAREN G PEREZ\n13619 TORTONA LN APT 3121\nWINDERMERE FL 34786\n\nBill date Feb 23, 2022\nFor service Jan 25 - Feb 21\n28 days",
+      "type": "text"
+    },
+    {
+      "id": "4bd41128-7e47-4776-8ff7-7a50eed9c239",
+      "grounding": {
+        "box": {
+          "bottom": 0.14836320281028748,
+          "left": 0.7166761159896851,
+          "right": 0.9452224969863892,
+          "top": 0.1309625804424286
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4bd41128-7e47-4776-8ff7-7a50eed9c239'></a>\n\nAccount number 9100 7883 2561",
+      "type": "text"
+    },
+    {
+      "id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+      "grounding": {
+        "box": {
+          "bottom": 0.25208595395088196,
+          "left": 0.05338403582572937,
+          "right": 0.5568220615386963,
+          "top": 0.13493576645851135
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f2ec451c-22c4-440d-932c-67523ed185d4'></a>\n\nBilling summary\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Previous Amount Due</td><td id=\"0-3\">$91.39</td></tr>\n<tr><td id=\"0-4\">Payment Received Feb 17</td><td id=\"0-5\">-91.39</td></tr>\n<tr><td id=\"0-6\">Current Electric Charges</td><td id=\"0-7\">154.26</td></tr>\n<tr><td id=\"0-8\">Taxes</td><td id=\"0-9\">16.69</td></tr>\n<tr><td id=\"0-a\">Total Amount Due Mar 16</td><td id=\"0-b\">$170.95</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "e7b86602-1529-4917-94f0-e70fb26535d0",
+      "grounding": {
+        "box": {
+          "bottom": 0.4205772876739502,
+          "left": 0.043296992778778076,
+          "right": 0.5604128837585449,
+          "top": 0.25677770376205444
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e7b86602-1529-4917-94f0-e70fb26535d0'></a>\n\nYour usage snapshot\n<::Electric usage history line graph\n: The y-axis is labeled \"kWh\" and ranges from 0 to 1243, with major tick marks at 0, 138, 276, 414, 553, 691, 829, 967, 1105, and 1243. The x-axis represents months from February to February.\n: The graph shows electric usage over time, with a dark blue line representing 2021 data and a green line representing 2022 data.\n: 2021 usage (dark blue line):\n:   - Feb: ~691 kWh\n:   - Mar: ~829 kWh\n:   - Apr: ~829 kWh\n:   - May: ~750 kWh\n:   - Jun: ~829 kWh\n:   - Jul: ~1105 kWh\n:   - Aug: ~967 kWh\n:   - Sep: ~829 kWh\n:   - Oct: ~829 kWh\n:   - Nov: ~691 kWh\n:   - Dec: ~691 kWh\n: 2022 usage (green line):\n:   - Jan: ~967 kWh\n:   - Feb: ~1000 kWh\n: line graph::>",
+      "type": "figure"
+    },
+    {
+      "id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+      "grounding": {
+        "box": {
+          "bottom": 0.5259981751441956,
+          "left": 0.0548987090587616,
+          "right": 0.5600571632385254,
+          "top": 0.4215705394744873
+        },
+        "page": 0
+      },
+      "markdown": "<a id='716f5737-f833-4dac-a9ba-09b4d027cb24'></a>\n\nAverage temperature in degrees\n68° 70° 72° 78° 81° 82° 82° 80° 77° 66° 68° 60° 61°\n<table id=\"0-c\">\n<tr><td id=\"0-d\"></td><td id=\"0-e\">Current Month</td><td id=\"0-f\">Feb 2021</td><td id=\"0-g\">12-Month Usage</td><td id=\"0-h\">Avg Monthly Usage</td></tr>\n<tr><td id=\"0-i\">Electric (kWh)</td><td id=\"0-j\">1,059</td><td id=\"0-k\">644</td><td id=\"0-l\">10,870</td><td id=\"0-m\">906</td></tr>\n<tr><td id=\"0-n\">Avg. Daily (kWh)</td><td id=\"0-o\">38</td><td id=\"0-p\">22</td><td id=\"0-q\">29</td><td id=\"0-r\"></td></tr>\n<tr><td id=\"0-s\" colspan=\"3\">12-month usage based on most recent history</td><td id=\"0-t\"></td><td id=\"0-u\"></td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "4981cee9-6dc2-43be-a13c-b432817b2e83",
+      "grounding": {
+        "box": {
+          "bottom": 0.20326198637485504,
+          "left": 0.5597078204154968,
+          "right": 0.783292829990387,
+          "top": 0.15877790749073029
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4981cee9-6dc2-43be-a13c-b432817b2e83'></a>\n\n<::transcription of the content\n: figure::>\n\nThank you for your payment.",
+      "type": "text"
+    },
+    {
+      "id": "e0f6938e-e52d-45ab-bef3-3d669d9515d9",
+      "grounding": {
+        "box": {
+          "bottom": 0.26020994782447815,
+          "left": 0.561002254486084,
+          "right": 0.9409435987472534,
+          "top": 0.2071177214384079
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e0f6938e-e52d-45ab-bef3-3d669d9515d9'></a>\n\nDo you or someone you know need help with energy bills or other essentials as a result of the pandemic? Help is available through new and existing assistance programs for those who qualify. To get started, visit 211.org, dial 211 or text your zip code to 898211.",
+      "type": "text"
+    },
+    {
+      "id": "a47ee320-87f2-40fc-96d8-d58f9979e756",
+      "grounding": {
+        "box": {
+          "bottom": 0.31604138016700745,
+          "left": 0.5610109567642212,
+          "right": 0.9364355802536011,
+          "top": 0.26393887400627136
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a47ee320-87f2-40fc-96d8-d58f9979e756'></a>\n\nDuke Energy Florida utilized fuel in the following proportions to generate your power: Coal 11%, Purchased Power 10%, Gas 77%, Oil 0%, Nuclear 0%, Solar 2% (For prior 12 months ending December 31, 2021).",
+      "type": "text"
+    },
+    {
+      "id": "cb734e4b-72a3-4788-980e-6300272da642",
+      "grounding": {
+        "box": {
+          "bottom": 0.3609374761581421,
+          "left": 0.561320424079895,
+          "right": 0.9452383518218994,
+          "top": 0.3199160099029541
+        },
+        "page": 0
+      },
+      "markdown": "<a id='cb734e4b-72a3-4788-980e-6300272da642'></a>\n\nWinter's cold weather can bring higher energy bills. Get lots of ideas and resources to help control your energy use and save at duke-energy.com/BetterWinterBills.",
+      "type": "text"
+    },
+    {
+      "id": "6cfc5bc3-cb8e-44f0-8eff-cfe0d13905a5",
+      "grounding": {
+        "box": {
+          "bottom": 0.4068239629268646,
+          "left": 0.5616567730903625,
+          "right": 0.9483709931373596,
+          "top": 0.3642876446247101
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6cfc5bc3-cb8e-44f0-8eff-cfe0d13905a5'></a>\n\nGo solar with no rooftop panels to install or long-term contracts, and\nsave over time. Whether you rent or own your home, support clean\nenergy by enrolling at duke-energy.com/CECSolar.",
+      "type": "text"
+    },
+    {
+      "id": "9a903696-6ac0-4a4e-8103-c046b82f6697",
+      "grounding": {
+        "box": {
+          "bottom": 0.7014700770378113,
+          "left": 0.04352132976055145,
+          "right": 0.41212254762649536,
+          "top": 0.6858658194541931
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9a903696-6ac0-4a4e-8103-c046b82f6697'></a>\n\nPlease return this portion with your payment. Thank you for your business.",
+      "type": "text"
+    },
+    {
+      "id": "0bbde1cb-3e3b-45e7-a328-732af096c1c0",
+      "grounding": {
+        "box": {
+          "bottom": 0.7504366636276245,
+          "left": 0.055236123502254486,
+          "right": 0.18620911240577698,
+          "top": 0.7099592685699463
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0bbde1cb-3e3b-45e7-a328-732af096c1c0'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY\nA swirling, stylized green and blue symbol resembling an orbital or circular motion is to the left of the text.::>",
+      "type": "logo"
+    },
+    {
+      "id": "ecc5a84c-1a8b-47ca-a065-6e582547c34a",
+      "grounding": {
+        "box": {
+          "bottom": 0.7469090223312378,
+          "left": 0.4446750283241272,
+          "right": 0.5625141263008118,
+          "top": 0.7146551609039307
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ecc5a84c-1a8b-47ca-a065-6e582547c34a'></a>\n\nAccount number\n9100 7883 2561",
+      "type": "text"
+    },
+    {
+      "id": "2ca41a36-84d7-4551-b40b-15ca1fb95d54",
+      "grounding": {
+        "box": {
+          "bottom": 0.6821869015693665,
+          "left": 0.5638531446456909,
+          "right": 0.9482202529907227,
+          "top": 0.6192441582679749
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2ca41a36-84d7-4551-b40b-15ca1fb95d54'></a>\n\nMail your payment at least 7 days before the due date or pay instantly at duke-energy.com/billing. Late payments are subject to a $5.00 or 1.5%, late charge, whichever is greater.",
+      "type": "text"
+    },
+    {
+      "id": "4e97e034-03a3-4d7c-bdcf-9420c6bce63a",
+      "grounding": {
+        "box": {
+          "bottom": 0.7991517186164856,
+          "left": 0.09483395516872406,
+          "right": 0.25665736198425293,
+          "top": 0.7538031935691833
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4e97e034-03a3-4d7c-bdcf-9420c6bce63a'></a>\n\nDuke Energy Return Mail\nPO Box 1090\nCharlotte, NC 28201-1090",
+      "type": "text"
+    },
+    {
+      "id": "602dcb16-cb0c-41bc-b9c1-94900b4b9d4d",
+      "grounding": {
+        "box": {
+          "bottom": 0.7532614469528198,
+          "left": 0.45075690746307373,
+          "right": 0.7227334976196289,
+          "top": 0.707895040512085
+        },
+        "page": 0
+      },
+      "markdown": "<a id='602dcb16-cb0c-41bc-b9c1-94900b4b9d4d'></a>\n\nAccount number\n9100 7883 2561\n\n$170.95\nby Mar 16",
+      "type": "text"
+    },
+    {
+      "id": "e504192c-edc2-4ddb-841d-a9651611e567",
+      "grounding": {
+        "box": {
+          "bottom": 0.7534244060516357,
+          "left": 0.7298224568367004,
+          "right": 0.9440273642539978,
+          "top": 0.7080466747283936
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e504192c-edc2-4ddb-841d-a9651611e567'></a>\n\nAfter Mar 16, the amount due will increase to $175.95.",
+      "type": "text"
+    },
+    {
+      "id": "82ca69de-5ac6-413a-b5a1-4a1a194cc2b8",
+      "grounding": {
+        "box": {
+          "bottom": 0.8992401361465454,
+          "left": 0.12692667543888092,
+          "right": 0.3397395610809326,
+          "top": 0.8525515794754028
+        },
+        "page": 0
+      },
+      "markdown": "<a id='82ca69de-5ac6-413a-b5a1-4a1a194cc2b8'></a>\n\nKAREN G PEREZ\n13619 TORTONA LN APT 3121\nWINDERMERE FL 34786-7459",
+      "type": "text"
+    },
+    {
+      "id": "72f08110-6579-4ac8-a3e8-bec8150156cd",
+      "grounding": {
+        "box": {
+          "bottom": 0.8225404620170593,
+          "left": 0.5831946134567261,
+          "right": 0.9022132158279419,
+          "top": 0.7775744795799255
+        },
+        "page": 0
+      },
+      "markdown": "<a id='72f08110-6579-4ac8-a3e8-bec8150156cd'></a>\n\n$ ___ Add here, to help others with a contribution to Share the Light\n\n$ ___ Amount enclosed",
+      "type": "text"
+    },
+    {
+      "id": "a16f9186-39a7-422a-bf7a-a4429afed87a",
+      "grounding": {
+        "box": {
+          "bottom": 0.9141675233840942,
+          "left": 0.5841639041900635,
+          "right": 0.8116766214370728,
+          "top": 0.860461950302124
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a16f9186-39a7-422a-bf7a-a4429afed87a'></a>\n\nDuke Energy Payment Processing\nPO Box 1094\nCharlotte, NC 28201-1094",
+      "type": "text"
+    },
+    {
+      "id": "17b2ce05-bb34-498e-bf74-3d068de657bc",
+      "grounding": {
+        "box": {
+          "bottom": 0.9863606691360474,
+          "left": 0.20019733905792236,
+          "right": 0.8010807037353516,
+          "top": 0.9647331237792969
+        },
+        "page": 0
+      },
+      "markdown": "<a id='17b2ce05-bb34-498e-bf74-3d068de657bc'></a>\n\n889100788325610006600000000000001709500000170952",
+      "type": "text"
+    },
+    {
+      "id": "090e0c93-9d0a-404d-983a-4d842ef55568",
+      "grounding": {
+        "box": {
+          "bottom": 0.08687768876552582,
+          "left": 0.05594204366207123,
+          "right": 0.3274883031845093,
+          "top": 0.03962148725986481
+        },
+        "page": 1
+      },
+      "markdown": "<a id='090e0c93-9d0a-404d-983a-4d842ef55568'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY.\nduke-energy.com\n800.700.8744\nThe logo features a stylized, swirling graphic in green and blue to the left of the company name.::>",
+      "type": "logo"
+    },
+    {
+      "id": "8aa6884d-ec66-4cde-aa0a-b5013da3768c",
+      "grounding": {
+        "box": {
+          "bottom": 0.05224035680294037,
+          "left": 0.8776488900184631,
+          "right": 0.9465835690498352,
+          "top": 0.03785298764705658
+        },
+        "page": 1
+      },
+      "markdown": "<a id='8aa6884d-ec66-4cde-aa0a-b5013da3768c'></a>\n\nPage 2 of 3",
+      "type": "marginalia"
+    },
+    {
+      "id": "f7d0571e-79e4-4343-91ec-795918144af9",
+      "grounding": {
+        "box": {
+          "bottom": 0.08923686295747757,
+          "left": 0.7210431694984436,
+          "right": 0.9440523982048035,
+          "top": 0.05519043654203415
+        },
+        "page": 1
+      },
+      "markdown": "<a id='f7d0571e-79e4-4343-91ec-795918144af9'></a>\n\nAccount number 9100 7883 2561 200210436563",
+      "type": "marginalia"
+    },
+    {
+      "id": "3f92047b-c372-4f92-bbdb-442f399ec81f",
+      "grounding": {
+        "box": {
+          "bottom": 0.20565694570541382,
+          "left": 0.055054932832717896,
+          "right": 0.5908387899398804,
+          "top": 0.10408848524093628
+        },
+        "page": 1
+      },
+      "markdown": "<a id='3f92047b-c372-4f92-bbdb-442f399ec81f'></a>\n\nWe're here for you\n\n---\n\n**Report an emergency**\nElectric outage                                   duke-energy.com/outages\n                                                  800.228.8485\n\n---",
+      "type": "text"
+    },
+    {
+      "id": "4bba5487-d1bc-44d2-b6b6-54ab5368da73",
+      "grounding": {
+        "box": {
+          "bottom": 0.37129977345466614,
+          "left": 0.05595141649246216,
+          "right": 0.5875813364982605,
+          "top": 0.21736255288124084
+        },
+        "page": 1
+      },
+      "markdown": "<a id='4bba5487-d1bc-44d2-b6b6-54ab5368da73'></a>\n\n**Convenient ways to pay your bill**\n\nOnline\nduke-energy.com/billing\n\nAutomatically from your bank account\nduke-energy.com/automatic-draft\n\nSpeedpay (fee applies)\nduke-energy.com/pay-now\n800.700.8744\n\nBy mail payable to Duke Energy\nP.O. Box 1094\nCharlotte, NC 28201-1094\n\nIn person\nduke-energy.com/location",
+      "type": "text"
+    },
+    {
+      "id": "9a2c6824-6a2b-40a1-a5f2-d2035d702aee",
+      "grounding": {
+        "box": {
+          "bottom": 0.48241785168647766,
+          "left": 0.056446373462677,
+          "right": 0.5896029472351074,
+          "top": 0.39165279269218445
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9a2c6824-6a2b-40a1-a5f2-d2035d702aee'></a>\n\n**Help managing your account** (not applicable for all customers)\nRegister for free paperless billing                 duke-energy.com/paperless\nHome                                                 duke-energy.com/manage-home\nBusiness                                             duke-energy.com/manage-bus",
+      "type": "text"
+    },
+    {
+      "id": "980a951e-458d-4c14-b6bf-2d305eebfb89",
+      "grounding": {
+        "box": {
+          "bottom": 0.6073112487792969,
+          "left": 0.05770888924598694,
+          "right": 0.5881272554397583,
+          "top": 0.48466718196868896
+        },
+        "page": 1
+      },
+      "markdown": "<a id='980a951e-458d-4c14-b6bf-2d305eebfb89'></a>\n\n## General questions or concerns\n\nOnline duke-energy.com\nHome: Mon - Fri (7 a.m. to 7 p.m.) 800.700.8744\nBusiness: Mon - Fri (7 a.m. to 6 p.m.) 877.372.8477\nFor hearing impaired TDD/TTY 800.222.3448 or 711\nInternational 1.407.629.1010",
+      "type": "text"
+    },
+    {
+      "id": "fba9ecda-2df6-4f01-b84d-d8ce97792b7a",
+      "grounding": {
+        "box": {
+          "bottom": 0.6863986849784851,
+          "left": 0.0563226044178009,
+          "right": 0.5922436714172363,
+          "top": 0.6093141436576843
+        },
+        "page": 1
+      },
+      "markdown": "<a id='fba9ecda-2df6-4f01-b84d-d8ce97792b7a'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Call before you dig Call</td><td id=\"1-3\">800.432.4770 or 811</td></tr>\n<tr><td id=\"1-4\">Check utility rates Check rates and charges</td><td id=\"1-5\">duke-energy.com/rates</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "9d5d540d-af96-4c2e-bf31-19f4e6d132d9",
+      "grounding": {
+        "box": {
+          "bottom": 0.747657060623169,
+          "left": 0.058174267411231995,
+          "right": 0.4118574261665344,
+          "top": 0.6878921985626221
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9d5d540d-af96-4c2e-bf31-19f4e6d132d9'></a>\n\nCorrespond with Duke Energy (not for payment)\nP.O. Box 14042\nSt Petersburg, FL 33733",
+      "type": "text"
+    },
+    {
+      "id": "fcafd874-7772-4afe-ac70-82c82b0bbb55",
+      "grounding": {
+        "box": {
+          "bottom": 0.23003244400024414,
+          "left": 0.6091470718383789,
+          "right": 0.9308581352233887,
+          "top": 0.1289946734905243
+        },
+        "page": 1
+      },
+      "markdown": "<a id='fcafd874-7772-4afe-ac70-82c82b0bbb55'></a>\n\nImportant to know\n\nYour next meter reading: Mar 23\nPlease be sure we can safely access your meter.\nDon't worry if your digital meter flashes eights from\ntime to time. That's a normal part of the energy\nmeasuring process.",
+      "type": "text"
+    },
+    {
+      "id": "2fe4c002-4be7-477b-ae24-2c3aac271f88",
+      "grounding": {
+        "box": {
+          "bottom": 0.3765762448310852,
+          "left": 0.6094939708709717,
+          "right": 0.9317278861999512,
+          "top": 0.23357844352722168
+        },
+        "page": 1
+      },
+      "markdown": "<a id='2fe4c002-4be7-477b-ae24-2c3aac271f88'></a>\n\n**Your electric service may be disconnected if your payment is past due**\nIf payment for your electric service is past due, we may begin disconnection procedures. The due date on your bill applies to current charges only. Any unpaid, past due charges are not extended to the new due date and may result in disconnection. The reconnection fee is $13 between the hours of 7 a.m. and 7 p.m. Monday through Friday and $14 after 7 p.m. or on the weekends.",
+      "type": "text"
+    },
+    {
+      "id": "8c831153-ada7-4f9d-a96d-18f52a0a647f",
+      "grounding": {
+        "box": {
+          "bottom": 0.4815385341644287,
+          "left": 0.6091876029968262,
+          "right": 0.9213157892227173,
+          "top": 0.37972813844680786
+        },
+        "page": 1
+      },
+      "markdown": "<a id='8c831153-ada7-4f9d-a96d-18f52a0a647f'></a>\n\nElectric service does not depend on\npayment for other products or services\nNon-payment for non-regulated products or\nservices (such as surge protection or equipment\nservice contracts) may result in removal from the\nprogram but will not result in disconnection of\nelectric service.",
+      "type": "text"
+    },
+    {
+      "id": "cabbe225-82db-4ef0-91af-4f02054e75cf",
+      "grounding": {
+        "box": {
+          "bottom": 0.5448228120803833,
+          "left": 0.6084405779838562,
+          "right": 0.9197587370872498,
+          "top": 0.48499512672424316
+        },
+        "page": 1
+      },
+      "markdown": "<a id='cabbe225-82db-4ef0-91af-4f02054e75cf'></a>\n\n**When you pay by check**\nWe may process the payment as a regular check\nor convert it into a one-time electronic check\npayment.",
+      "type": "text"
+    },
+    {
+      "id": "b135bf6e-67fd-4007-88df-3f80734d4720",
+      "grounding": {
+        "box": {
+          "bottom": 0.6357802748680115,
+          "left": 0.6085935235023499,
+          "right": 0.928534209728241,
+          "top": 0.5488746762275696
+        },
+        "page": 1
+      },
+      "markdown": "<a id='b135bf6e-67fd-4007-88df-3f80734d4720'></a>\n\n**Asset Securitization Charge**\nA charge to recover cost associated with nuclear\nasset-recovery bonds. Duke Energy Florida is\nacting as the collection agent for Special Purpose\nEntity (SPE) until the bonds have been paid in full\nor legally discharged.",
+      "type": "text"
+    },
+    {
+      "id": "f09b0264-9bd5-465d-8aee-75a418d25247",
+      "grounding": {
+        "box": {
+          "bottom": 0.7664158344268799,
+          "left": 0.6092163920402527,
+          "right": 0.92836993932724,
+          "top": 0.6391518115997314
+        },
+        "page": 1
+      },
+      "markdown": "<a id='f09b0264-9bd5-465d-8aee-75a418d25247'></a>\n\n**Medical Essential Program**\nIdentifies customers who are dependent on\ncontinuously electric-powered medical equipment.\nThe program does not automatically extend\nelectric bill due dates, nor does it provide priority\nrestoration. To learn more or find out if you\nqualify, call 800.700.8744 or visit duke-\nenergy.com/home/billing/special-assistance/\nmedically-essential.",
+      "type": "text"
+    },
+    {
+      "id": "60556810-5be5-41bf-a603-403ef7be6330",
+      "grounding": {
+        "box": {
+          "bottom": 0.8704867959022522,
+          "left": 0.6092271208763123,
+          "right": 0.9307147860527039,
+          "top": 0.7704758048057556
+        },
+        "page": 1
+      },
+      "markdown": "<a id='60556810-5be5-41bf-a603-403ef7be6330'></a>\n\n**Special Needs Customers**\nFlorida Statutes offer a program for customers who\nneed special assistance during emergency\nevacuations and sheltering. Customers with\nspecial needs may contact their local emergency\nmanagement agency for registration and more\ninformation.",
+      "type": "text"
+    },
+    {
+      "id": "52d0854c-a702-4c72-bf78-6ce3e5d53be5",
+      "grounding": {
+        "box": {
+          "bottom": 0.9688452482223511,
+          "left": 0.6087916493415833,
+          "right": 0.931704580783844,
+          "top": 0.8744404315948486
+        },
+        "page": 1
+      },
+      "markdown": "<a id='52d0854c-a702-4c72-bf78-6ce3e5d53be5'></a>\n\nPara nuestros clientes que hablan Español\nRepresentantes bilingües están disponibles\npara asistirle de lunes a viernes de 7 a.m. - 7\np.m. Para obtener más información o\nreportar problemas con su servicio eléctrico,\nfavor de llamar al 800.700.8744.",
+      "type": "text"
+    },
+    {
+      "id": "f474122c-24fe-4aca-866a-0b0d88ad83f8",
+      "grounding": {
+        "box": {
+          "bottom": 0.0866813138127327,
+          "left": 0.055951885879039764,
+          "right": 0.20790764689445496,
+          "top": 0.03960735350847244
+        },
+        "page": 2
+      },
+      "markdown": "<a id='f474122c-24fe-4aca-866a-0b0d88ad83f8'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY®\nA stylized blue and green swirling symbol, resembling a globe or energy flow, is positioned to the left of the company name.::>",
+      "type": "logo"
+    },
+    {
+      "id": "09cfdee2-2118-42ba-a196-1a999acf2759",
+      "grounding": {
+        "box": {
+          "bottom": 0.08447813987731934,
+          "left": 0.2139182686805725,
+          "right": 0.3281298279762268,
+          "top": 0.05107996240258217
+        },
+        "page": 2
+      },
+      "markdown": "<a id='09cfdee2-2118-42ba-a196-1a999acf2759'></a>\n\nduke-energy.com\n800.700.8744",
+      "type": "text"
+    },
+    {
+      "id": "3781654f-6c1d-4141-b79c-c898d6a1bd08",
+      "grounding": {
+        "box": {
+          "bottom": 0.05252214893698692,
+          "left": 0.8771548271179199,
+          "right": 0.9472756385803223,
+          "top": 0.037723202258348465
+        },
+        "page": 2
+      },
+      "markdown": "<a id='3781654f-6c1d-4141-b79c-c898d6a1bd08'></a>\n\nPage 3 of 3",
+      "type": "marginalia"
+    },
+    {
+      "id": "27d470d7-1eb0-4e06-b1ed-e963879982cd",
+      "grounding": {
+        "box": {
+          "bottom": 0.07261388003826141,
+          "left": 0.7210751175880432,
+          "right": 0.9453461766242981,
+          "top": 0.054929330945014954
+        },
+        "page": 2
+      },
+      "markdown": "<a id='27d470d7-1eb0-4e06-b1ed-e963879982cd'></a>\n\nAccount number 9100 7883 2561",
+      "type": "marginalia"
+    },
+    {
+      "id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+      "grounding": {
+        "box": {
+          "bottom": 0.2549140751361847,
+          "left": 0.052284419536590576,
+          "right": 0.5566666126251221,
+          "top": 0.13026440143585205
+        },
+        "page": 2
+      },
+      "markdown": "<a id='91dff2cc-da26-4330-bc10-153deadaba0c'></a>\n\nYour usage snapshot - Continued\n<table id=\"2-1\">\n<tr><td id=\"2-2\" colspan=\"2\">Current electric usage for meter number 1262413</td></tr>\n<tr><td id=\"2-3\">Actual reading on Feb 21</td><td id=\"2-4\">28474</td></tr>\n<tr><td id=\"2-5\">Previous reading on Jan 25</td><td id=\"2-6\">-27415</td></tr>\n<tr><td id=\"2-7\">Energy Used</td><td id=\"2-8\">1,059 kWh</td></tr>\n<tr><td id=\"2-9\">Billed kWh 1,059.000 kWh</td><td id=\"2-a\"></td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "b1000ffa-fb6c-42a7-b452-b7ccb4625adb",
+      "grounding": {
+        "box": {
+          "bottom": 0.22382837533950806,
+          "left": 0.557493269443512,
+          "right": 0.9410386681556702,
+          "top": 0.1488407552242279
+        },
+        "page": 2
+      },
+      "markdown": "<a id='b1000ffa-fb6c-42a7-b452-b7ccb4625adb'></a>\n\nA kilowatt-hour (kWh) is a measure of the energy used by a 1,000-watt appliance in one hour. A 10-watt LED lightbulb would take 100 hours to use 1 kWh.",
+      "type": "text"
+    },
+    {
+      "id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+      "grounding": {
+        "box": {
+          "bottom": 0.5529592633247375,
+          "left": 0.05228543281555176,
+          "right": 0.5579698085784912,
+          "top": 0.25947272777557373
+        },
+        "page": 2
+      },
+      "markdown": "<a id='e1df32c6-5f1c-4a47-a88b-cc5834df5ee8'></a>\n\nBilling details - Electric\n<table id=\"2-b\">\n<tr><td id=\"2-c\">Billing Period - Jan 25 to Feb 21</td><td id=\"2-d\"></td></tr>\n<tr><td id=\"2-e\">Meter - 1262413</td><td id=\"2-f\"></td></tr>\n<tr><td id=\"2-g\">Customer Charge</td><td id=\"2-h\">$12.45</td></tr>\n<tr><td id=\"2-i\">Energy Charge 1,000.000 kWh @ 9.337c</td><td id=\"2-j\">93.37</td></tr>\n<tr><td id=\"2-k\">Energy Charge 59.000 kWh @ 10.487c</td><td id=\"2-l\">6.20</td></tr>\n<tr><td id=\"2-m\">Fuel Charge</td><td id=\"2-n\"></td></tr>\n<tr><td id=\"2-o\">1,000.000 kWh @ 3.681c</td><td id=\"2-p\">36.81</td></tr>\n<tr><td id=\"2-q\">Fuel Charge</td><td id=\"2-r\"></td></tr>\n<tr><td id=\"2-s\">59.000 kWh @ 4.751c</td><td id=\"2-t\">2.80</td></tr>\n<tr><td id=\"2-u\">Asset Securitization Charge</td><td id=\"2-v\"></td></tr>\n<tr><td id=\"2-w\">1,059.000 kWh @ 0.248c</td><td id=\"2-x\">2.63</td></tr>\n<tr><td id=\"2-y\">Total Current Charges</td><td id=\"2-z\">$154.26</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "8fbfc08e-3063-47eb-86fc-767adb037883",
+      "grounding": {
+        "box": {
+          "bottom": 0.2228783518075943,
+          "left": 0.5562340617179871,
+          "right": 0.9390802979469299,
+          "top": 0.14934749901294708
+        },
+        "page": 2
+      },
+      "markdown": "<a id='8fbfc08e-3063-47eb-86fc-767adb037883'></a>\n\nA kilowatt-hour (kWh) is a measure of the energy used by a 1,000-\nwatt appliance in one hour. A 10-watt LED lightbulb would take\n100 hours to use 1 kWh.",
+      "type": "text"
+    },
+    {
+      "id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+      "grounding": {
+        "box": {
+          "bottom": 0.6679301857948303,
+          "left": 0.05389240384101868,
+          "right": 0.5591413974761963,
+          "top": 0.5582341551780701
+        },
+        "page": 2
+      },
+      "markdown": "<a id='bbe465f2-9351-4c07-b685-050f5130ae1d'></a>\n\nBilling details - Taxes\n<table id=\"2-A\">\n<tr><td id=\"2-B\">Regulatory Assessment Fee</td><td id=\"2-C\">$0.11</td></tr>\n<tr><td id=\"2-D\">Gross Receipts Tax</td><td id=\"2-E\">3.96</td></tr>\n<tr><td id=\"2-F\">County Utility Tax</td><td id=\"2-G\">12.62</td></tr>\n<tr><td id=\"2-H\">Total Taxes</td><td id=\"2-I\">$16.69</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "c35ec1f9-d87f-45f0-9bb0-ab990ad66601",
+      "grounding": {
+        "box": {
+          "bottom": 0.305927038192749,
+          "left": 0.5592148303985596,
+          "right": 0.8248543739318848,
+          "top": 0.2864311933517456
+        },
+        "page": 2
+      },
+      "markdown": "<a id='c35ec1f9-d87f-45f0-9bb0-ab990ad66601'></a>\n\nYour current rate is Residential Service (RS-1).",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='748e4aee-8902-4ecf-ac32-e4d7f55e62f2'></a>\n\nYour Energy Bill\n\n<a id='b4ee13af-0091-4359-b6f7-2cba7c498885'></a>\n\nPage 1 of 3\n\n<a id='7c8cc88f-3cb4-46cc-8751-44806cf40af1'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY.\nduke-energy.com\n800.700.8744\nThe logo features a stylized, swirling graphic in shades of blue and green to the left of the company name.::>\n\n<a id='2eb96aa1-51cc-44b6-878a-b8379f534a89'></a>\n\nService address\nKAREN G PEREZ\n13619 TORTONA LN APT 3121\nWINDERMERE FL 34786\n\nBill date Feb 23, 2022\nFor service Jan 25 - Feb 21\n28 days\n\n<a id='4bd41128-7e47-4776-8ff7-7a50eed9c239'></a>\n\nAccount number 9100 7883 2561\n\n<a id='f2ec451c-22c4-440d-932c-67523ed185d4'></a>\n\nBilling summary\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Previous Amount Due</td><td id=\"0-3\">$91.39</td></tr>\n<tr><td id=\"0-4\">Payment Received Feb 17</td><td id=\"0-5\">-91.39</td></tr>\n<tr><td id=\"0-6\">Current Electric Charges</td><td id=\"0-7\">154.26</td></tr>\n<tr><td id=\"0-8\">Taxes</td><td id=\"0-9\">16.69</td></tr>\n<tr><td id=\"0-a\">Total Amount Due Mar 16</td><td id=\"0-b\">$170.95</td></tr>\n</table>\n\n<a id='e7b86602-1529-4917-94f0-e70fb26535d0'></a>\n\nYour usage snapshot\n<::Electric usage history line graph\n: The y-axis is labeled \"kWh\" and ranges from 0 to 1243, with major tick marks at 0, 138, 276, 414, 553, 691, 829, 967, 1105, and 1243. The x-axis represents months from February to February.\n: The graph shows electric usage over time, with a dark blue line representing 2021 data and a green line representing 2022 data.\n: 2021 usage (dark blue line):\n:   - Feb: ~691 kWh\n:   - Mar: ~829 kWh\n:   - Apr: ~829 kWh\n:   - May: ~750 kWh\n:   - Jun: ~829 kWh\n:   - Jul: ~1105 kWh\n:   - Aug: ~967 kWh\n:   - Sep: ~829 kWh\n:   - Oct: ~829 kWh\n:   - Nov: ~691 kWh\n:   - Dec: ~691 kWh\n: 2022 usage (green line):\n:   - Jan: ~967 kWh\n:   - Feb: ~1000 kWh\n: line graph::>\n\n<a id='716f5737-f833-4dac-a9ba-09b4d027cb24'></a>\n\nAverage temperature in degrees\n68° 70° 72° 78° 81° 82° 82° 80° 77° 66° 68° 60° 61°\n<table id=\"0-c\">\n<tr><td id=\"0-d\"></td><td id=\"0-e\">Current Month</td><td id=\"0-f\">Feb 2021</td><td id=\"0-g\">12-Month Usage</td><td id=\"0-h\">Avg Monthly Usage</td></tr>\n<tr><td id=\"0-i\">Electric (kWh)</td><td id=\"0-j\">1,059</td><td id=\"0-k\">644</td><td id=\"0-l\">10,870</td><td id=\"0-m\">906</td></tr>\n<tr><td id=\"0-n\">Avg. Daily (kWh)</td><td id=\"0-o\">38</td><td id=\"0-p\">22</td><td id=\"0-q\">29</td><td id=\"0-r\"></td></tr>\n<tr><td id=\"0-s\" colspan=\"3\">12-month usage based on most recent history</td><td id=\"0-t\"></td><td id=\"0-u\"></td></tr>\n</table>\n\n<a id='4981cee9-6dc2-43be-a13c-b432817b2e83'></a>\n\n<::transcription of the content\n: figure::>\n\nThank you for your payment.\n\n<a id='e0f6938e-e52d-45ab-bef3-3d669d9515d9'></a>\n\nDo you or someone you know need help with energy bills or other essentials as a result of the pandemic? Help is available through new and existing assistance programs for those who qualify. To get started, visit 211.org, dial 211 or text your zip code to 898211.\n\n<a id='a47ee320-87f2-40fc-96d8-d58f9979e756'></a>\n\nDuke Energy Florida utilized fuel in the following proportions to generate your power: Coal 11%, Purchased Power 10%, Gas 77%, Oil 0%, Nuclear 0%, Solar 2% (For prior 12 months ending December 31, 2021).\n\n<a id='cb734e4b-72a3-4788-980e-6300272da642'></a>\n\nWinter's cold weather can bring higher energy bills. Get lots of ideas and resources to help control your energy use and save at duke-energy.com/BetterWinterBills.\n\n<a id='6cfc5bc3-cb8e-44f0-8eff-cfe0d13905a5'></a>\n\nGo solar with no rooftop panels to install or long-term contracts, and\nsave over time. Whether you rent or own your home, support clean\nenergy by enrolling at duke-energy.com/CECSolar.\n\n<a id='9a903696-6ac0-4a4e-8103-c046b82f6697'></a>\n\nPlease return this portion with your payment. Thank you for your business.\n\n<a id='0bbde1cb-3e3b-45e7-a328-732af096c1c0'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY\nA swirling, stylized green and blue symbol resembling an orbital or circular motion is to the left of the text.::>\n\n<a id='ecc5a84c-1a8b-47ca-a065-6e582547c34a'></a>\n\nAccount number\n9100 7883 2561\n\n<a id='2ca41a36-84d7-4551-b40b-15ca1fb95d54'></a>\n\nMail your payment at least 7 days before the due date or pay instantly at duke-energy.com/billing. Late payments are subject to a $5.00 or 1.5%, late charge, whichever is greater.\n\n<a id='4e97e034-03a3-4d7c-bdcf-9420c6bce63a'></a>\n\nDuke Energy Return Mail\nPO Box 1090\nCharlotte, NC 28201-1090\n\n<a id='602dcb16-cb0c-41bc-b9c1-94900b4b9d4d'></a>\n\nAccount number\n9100 7883 2561\n\n$170.95\nby Mar 16\n\n<a id='e504192c-edc2-4ddb-841d-a9651611e567'></a>\n\nAfter Mar 16, the amount due will increase to $175.95.\n\n<a id='82ca69de-5ac6-413a-b5a1-4a1a194cc2b8'></a>\n\nKAREN G PEREZ\n13619 TORTONA LN APT 3121\nWINDERMERE FL 34786-7459\n\n<a id='72f08110-6579-4ac8-a3e8-bec8150156cd'></a>\n\n$ ___ Add here, to help others with a contribution to Share the Light\n\n$ ___ Amount enclosed\n\n<a id='a16f9186-39a7-422a-bf7a-a4429afed87a'></a>\n\nDuke Energy Payment Processing\nPO Box 1094\nCharlotte, NC 28201-1094\n\n<a id='17b2ce05-bb34-498e-bf74-3d068de657bc'></a>\n\n889100788325610006600000000000001709500000170952\n\n<!-- PAGE BREAK -->\n\n<a id='090e0c93-9d0a-404d-983a-4d842ef55568'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY.\nduke-energy.com\n800.700.8744\nThe logo features a stylized, swirling graphic in green and blue to the left of the company name.::>\n\n<a id='8aa6884d-ec66-4cde-aa0a-b5013da3768c'></a>\n\nPage 2 of 3\n\n<a id='f7d0571e-79e4-4343-91ec-795918144af9'></a>\n\nAccount number 9100 7883 2561 200210436563\n\n<a id='3f92047b-c372-4f92-bbdb-442f399ec81f'></a>\n\nWe're here for you\n\n---\n\n**Report an emergency**\nElectric outage                                   duke-energy.com/outages\n                                                  800.228.8485\n\n---\n\n<a id='4bba5487-d1bc-44d2-b6b6-54ab5368da73'></a>\n\n**Convenient ways to pay your bill**\n\nOnline\nduke-energy.com/billing\n\nAutomatically from your bank account\nduke-energy.com/automatic-draft\n\nSpeedpay (fee applies)\nduke-energy.com/pay-now\n800.700.8744\n\nBy mail payable to Duke Energy\nP.O. Box 1094\nCharlotte, NC 28201-1094\n\nIn person\nduke-energy.com/location\n\n<a id='9a2c6824-6a2b-40a1-a5f2-d2035d702aee'></a>\n\n**Help managing your account** (not applicable for all customers)\nRegister for free paperless billing                 duke-energy.com/paperless\nHome                                                 duke-energy.com/manage-home\nBusiness                                             duke-energy.com/manage-bus\n\n<a id='980a951e-458d-4c14-b6bf-2d305eebfb89'></a>\n\n## General questions or concerns\n\nOnline duke-energy.com\nHome: Mon - Fri (7 a.m. to 7 p.m.) 800.700.8744\nBusiness: Mon - Fri (7 a.m. to 6 p.m.) 877.372.8477\nFor hearing impaired TDD/TTY 800.222.3448 or 711\nInternational 1.407.629.1010\n\n<a id='fba9ecda-2df6-4f01-b84d-d8ce97792b7a'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Call before you dig Call</td><td id=\"1-3\">800.432.4770 or 811</td></tr>\n<tr><td id=\"1-4\">Check utility rates Check rates and charges</td><td id=\"1-5\">duke-energy.com/rates</td></tr>\n</table>\n\n<a id='9d5d540d-af96-4c2e-bf31-19f4e6d132d9'></a>\n\nCorrespond with Duke Energy (not for payment)\nP.O. Box 14042\nSt Petersburg, FL 33733\n\n<a id='fcafd874-7772-4afe-ac70-82c82b0bbb55'></a>\n\nImportant to know\n\nYour next meter reading: Mar 23\nPlease be sure we can safely access your meter.\nDon't worry if your digital meter flashes eights from\ntime to time. That's a normal part of the energy\nmeasuring process.\n\n<a id='2fe4c002-4be7-477b-ae24-2c3aac271f88'></a>\n\n**Your electric service may be disconnected if your payment is past due**\nIf payment for your electric service is past due, we may begin disconnection procedures. The due date on your bill applies to current charges only. Any unpaid, past due charges are not extended to the new due date and may result in disconnection. The reconnection fee is $13 between the hours of 7 a.m. and 7 p.m. Monday through Friday and $14 after 7 p.m. or on the weekends.\n\n<a id='8c831153-ada7-4f9d-a96d-18f52a0a647f'></a>\n\nElectric service does not depend on\npayment for other products or services\nNon-payment for non-regulated products or\nservices (such as surge protection or equipment\nservice contracts) may result in removal from the\nprogram but will not result in disconnection of\nelectric service.\n\n<a id='cabbe225-82db-4ef0-91af-4f02054e75cf'></a>\n\n**When you pay by check**\nWe may process the payment as a regular check\nor convert it into a one-time electronic check\npayment.\n\n<a id='b135bf6e-67fd-4007-88df-3f80734d4720'></a>\n\n**Asset Securitization Charge**\nA charge to recover cost associated with nuclear\nasset-recovery bonds. Duke Energy Florida is\nacting as the collection agent for Special Purpose\nEntity (SPE) until the bonds have been paid in full\nor legally discharged.\n\n<a id='f09b0264-9bd5-465d-8aee-75a418d25247'></a>\n\n**Medical Essential Program**\nIdentifies customers who are dependent on\ncontinuously electric-powered medical equipment.\nThe program does not automatically extend\nelectric bill due dates, nor does it provide priority\nrestoration. To learn more or find out if you\nqualify, call 800.700.8744 or visit duke-\nenergy.com/home/billing/special-assistance/\nmedically-essential.\n\n<a id='60556810-5be5-41bf-a603-403ef7be6330'></a>\n\n**Special Needs Customers**\nFlorida Statutes offer a program for customers who\nneed special assistance during emergency\nevacuations and sheltering. Customers with\nspecial needs may contact their local emergency\nmanagement agency for registration and more\ninformation.\n\n<a id='52d0854c-a702-4c72-bf78-6ce3e5d53be5'></a>\n\nPara nuestros clientes que hablan Español\nRepresentantes bilingües están disponibles\npara asistirle de lunes a viernes de 7 a.m. - 7\np.m. Para obtener más información o\nreportar problemas con su servicio eléctrico,\nfavor de llamar al 800.700.8744.\n\n<!-- PAGE BREAK -->\n\n<a id='f474122c-24fe-4aca-866a-0b0d88ad83f8'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY®\nA stylized blue and green swirling symbol, resembling a globe or energy flow, is positioned to the left of the company name.::>\n\n<a id='09cfdee2-2118-42ba-a196-1a999acf2759'></a>\n\nduke-energy.com\n800.700.8744\n\n<a id='3781654f-6c1d-4141-b79c-c898d6a1bd08'></a>\n\nPage 3 of 3\n\n<a id='27d470d7-1eb0-4e06-b1ed-e963879982cd'></a>\n\nAccount number 9100 7883 2561\n\n<a id='91dff2cc-da26-4330-bc10-153deadaba0c'></a>\n\nYour usage snapshot - Continued\n<table id=\"2-1\">\n<tr><td id=\"2-2\" colspan=\"2\">Current electric usage for meter number 1262413</td></tr>\n<tr><td id=\"2-3\">Actual reading on Feb 21</td><td id=\"2-4\">28474</td></tr>\n<tr><td id=\"2-5\">Previous reading on Jan 25</td><td id=\"2-6\">-27415</td></tr>\n<tr><td id=\"2-7\">Energy Used</td><td id=\"2-8\">1,059 kWh</td></tr>\n<tr><td id=\"2-9\">Billed kWh 1,059.000 kWh</td><td id=\"2-a\"></td></tr>\n</table>\n\n<a id='b1000ffa-fb6c-42a7-b452-b7ccb4625adb'></a>\n\nA kilowatt-hour (kWh) is a measure of the energy used by a 1,000-watt appliance in one hour. A 10-watt LED lightbulb would take 100 hours to use 1 kWh.\n\n<a id='e1df32c6-5f1c-4a47-a88b-cc5834df5ee8'></a>\n\nBilling details - Electric\n<table id=\"2-b\">\n<tr><td id=\"2-c\">Billing Period - Jan 25 to Feb 21</td><td id=\"2-d\"></td></tr>\n<tr><td id=\"2-e\">Meter - 1262413</td><td id=\"2-f\"></td></tr>\n<tr><td id=\"2-g\">Customer Charge</td><td id=\"2-h\">$12.45</td></tr>\n<tr><td id=\"2-i\">Energy Charge 1,000.000 kWh @ 9.337c</td><td id=\"2-j\">93.37</td></tr>\n<tr><td id=\"2-k\">Energy Charge 59.000 kWh @ 10.487c</td><td id=\"2-l\">6.20</td></tr>\n<tr><td id=\"2-m\">Fuel Charge</td><td id=\"2-n\"></td></tr>\n<tr><td id=\"2-o\">1,000.000 kWh @ 3.681c</td><td id=\"2-p\">36.81</td></tr>\n<tr><td id=\"2-q\">Fuel Charge</td><td id=\"2-r\"></td></tr>\n<tr><td id=\"2-s\">59.000 kWh @ 4.751c</td><td id=\"2-t\">2.80</td></tr>\n<tr><td id=\"2-u\">Asset Securitization Charge</td><td id=\"2-v\"></td></tr>\n<tr><td id=\"2-w\">1,059.000 kWh @ 0.248c</td><td id=\"2-x\">2.63</td></tr>\n<tr><td id=\"2-y\">Total Current Charges</td><td id=\"2-z\">$154.26</td></tr>\n</table>\n\n<a id='8fbfc08e-3063-47eb-86fc-767adb037883'></a>\n\nA kilowatt-hour (kWh) is a measure of the energy used by a 1,000-\nwatt appliance in one hour. A 10-watt LED lightbulb would take\n100 hours to use 1 kWh.\n\n<a id='bbe465f2-9351-4c07-b685-050f5130ae1d'></a>\n\nBilling details - Taxes\n<table id=\"2-A\">\n<tr><td id=\"2-B\">Regulatory Assessment Fee</td><td id=\"2-C\">$0.11</td></tr>\n<tr><td id=\"2-D\">Gross Receipts Tax</td><td id=\"2-E\">3.96</td></tr>\n<tr><td id=\"2-F\">County Utility Tax</td><td id=\"2-G\">12.62</td></tr>\n<tr><td id=\"2-H\">Total Taxes</td><td id=\"2-I\">$16.69</td></tr>\n</table>\n\n<a id='c35ec1f9-d87f-45f0-9bb0-ab990ad66601'></a>\n\nYour current rate is Residential Service (RS-1).",
+  "metadata": {
+    "credit_usage": 9.0,
+    "duration_ms": 11841,
+    "filename": "electric4.pdf",
+    "job_id": "3cdced12772b4efbbf8d7d2f30f4f671",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 3,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "748e4aee-8902-4ecf-ac32-e4d7f55e62f2",
+        "b4ee13af-0091-4359-b6f7-2cba7c498885",
+        "7c8cc88f-3cb4-46cc-8751-44806cf40af1",
+        "2eb96aa1-51cc-44b6-878a-b8379f534a89",
+        "4bd41128-7e47-4776-8ff7-7a50eed9c239",
+        "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "e7b86602-1529-4917-94f0-e70fb26535d0",
+        "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "4981cee9-6dc2-43be-a13c-b432817b2e83",
+        "e0f6938e-e52d-45ab-bef3-3d669d9515d9",
+        "a47ee320-87f2-40fc-96d8-d58f9979e756",
+        "cb734e4b-72a3-4788-980e-6300272da642",
+        "6cfc5bc3-cb8e-44f0-8eff-cfe0d13905a5",
+        "9a903696-6ac0-4a4e-8103-c046b82f6697",
+        "0bbde1cb-3e3b-45e7-a328-732af096c1c0",
+        "ecc5a84c-1a8b-47ca-a065-6e582547c34a",
+        "2ca41a36-84d7-4551-b40b-15ca1fb95d54",
+        "4e97e034-03a3-4d7c-bdcf-9420c6bce63a",
+        "602dcb16-cb0c-41bc-b9c1-94900b4b9d4d",
+        "e504192c-edc2-4ddb-841d-a9651611e567",
+        "82ca69de-5ac6-413a-b5a1-4a1a194cc2b8",
+        "72f08110-6579-4ac8-a3e8-bec8150156cd",
+        "a16f9186-39a7-422a-bf7a-a4429afed87a",
+        "17b2ce05-bb34-498e-bf74-3d068de657bc",
+        "090e0c93-9d0a-404d-983a-4d842ef55568",
+        "8aa6884d-ec66-4cde-aa0a-b5013da3768c",
+        "f7d0571e-79e4-4343-91ec-795918144af9",
+        "3f92047b-c372-4f92-bbdb-442f399ec81f",
+        "4bba5487-d1bc-44d2-b6b6-54ab5368da73",
+        "9a2c6824-6a2b-40a1-a5f2-d2035d702aee",
+        "980a951e-458d-4c14-b6bf-2d305eebfb89",
+        "fba9ecda-2df6-4f01-b84d-d8ce97792b7a",
+        "9d5d540d-af96-4c2e-bf31-19f4e6d132d9",
+        "fcafd874-7772-4afe-ac70-82c82b0bbb55",
+        "2fe4c002-4be7-477b-ae24-2c3aac271f88",
+        "8c831153-ada7-4f9d-a96d-18f52a0a647f",
+        "cabbe225-82db-4ef0-91af-4f02054e75cf",
+        "b135bf6e-67fd-4007-88df-3f80734d4720",
+        "f09b0264-9bd5-465d-8aee-75a418d25247",
+        "60556810-5be5-41bf-a603-403ef7be6330",
+        "52d0854c-a702-4c72-bf78-6ce3e5d53be5",
+        "f474122c-24fe-4aca-866a-0b0d88ad83f8",
+        "09cfdee2-2118-42ba-a196-1a999acf2759",
+        "3781654f-6c1d-4141-b79c-c898d6a1bd08",
+        "27d470d7-1eb0-4e06-b1ed-e963879982cd",
+        "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "b1000ffa-fb6c-42a7-b452-b7ccb4625adb",
+        "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "8fbfc08e-3063-47eb-86fc-767adb037883",
+        "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "c35ec1f9-d87f-45f0-9bb0-ab990ad66601"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='748e4aee-8902-4ecf-ac32-e4d7f55e62f2'></a>\n\nYour Energy Bill\n\n<a id='b4ee13af-0091-4359-b6f7-2cba7c498885'></a>\n\nPage 1 of 3\n\n<a id='7c8cc88f-3cb4-46cc-8751-44806cf40af1'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY.\nduke-energy.com\n800.700.8744\nThe logo features a stylized, swirling graphic in shades of blue and green to the left of the company name.::>\n\n<a id='2eb96aa1-51cc-44b6-878a-b8379f534a89'></a>\n\nService address\nKAREN G PEREZ\n13619 TORTONA LN APT 3121\nWINDERMERE FL 34786\n\nBill date Feb 23, 2022\nFor service Jan 25 - Feb 21\n28 days\n\n<a id='4bd41128-7e47-4776-8ff7-7a50eed9c239'></a>\n\nAccount number 9100 7883 2561\n\n<a id='f2ec451c-22c4-440d-932c-67523ed185d4'></a>\n\nBilling summary\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Previous Amount Due</td><td id=\"0-3\">$91.39</td></tr>\n<tr><td id=\"0-4\">Payment Received Feb 17</td><td id=\"0-5\">-91.39</td></tr>\n<tr><td id=\"0-6\">Current Electric Charges</td><td id=\"0-7\">154.26</td></tr>\n<tr><td id=\"0-8\">Taxes</td><td id=\"0-9\">16.69</td></tr>\n<tr><td id=\"0-a\">Total Amount Due Mar 16</td><td id=\"0-b\">$170.95</td></tr>\n</table>\n\n<a id='e7b86602-1529-4917-94f0-e70fb26535d0'></a>\n\nYour usage snapshot\n<::Electric usage history line graph\n: The y-axis is labeled \"kWh\" and ranges from 0 to 1243, with major tick marks at 0, 138, 276, 414, 553, 691, 829, 967, 1105, and 1243. The x-axis represents months from February to February.\n: The graph shows electric usage over time, with a dark blue line representing 2021 data and a green line representing 2022 data.\n: 2021 usage (dark blue line):\n:   - Feb: ~691 kWh\n:   - Mar: ~829 kWh\n:   - Apr: ~829 kWh\n:   - May: ~750 kWh\n:   - Jun: ~829 kWh\n:   - Jul: ~1105 kWh\n:   - Aug: ~967 kWh\n:   - Sep: ~829 kWh\n:   - Oct: ~829 kWh\n:   - Nov: ~691 kWh\n:   - Dec: ~691 kWh\n: 2022 usage (green line):\n:   - Jan: ~967 kWh\n:   - Feb: ~1000 kWh\n: line graph::>\n\n<a id='716f5737-f833-4dac-a9ba-09b4d027cb24'></a>\n\nAverage temperature in degrees\n68° 70° 72° 78° 81° 82° 82° 80° 77° 66° 68° 60° 61°\n<table id=\"0-c\">\n<tr><td id=\"0-d\"></td><td id=\"0-e\">Current Month</td><td id=\"0-f\">Feb 2021</td><td id=\"0-g\">12-Month Usage</td><td id=\"0-h\">Avg Monthly Usage</td></tr>\n<tr><td id=\"0-i\">Electric (kWh)</td><td id=\"0-j\">1,059</td><td id=\"0-k\">644</td><td id=\"0-l\">10,870</td><td id=\"0-m\">906</td></tr>\n<tr><td id=\"0-n\">Avg. Daily (kWh)</td><td id=\"0-o\">38</td><td id=\"0-p\">22</td><td id=\"0-q\">29</td><td id=\"0-r\"></td></tr>\n<tr><td id=\"0-s\" colspan=\"3\">12-month usage based on most recent history</td><td id=\"0-t\"></td><td id=\"0-u\"></td></tr>\n</table>\n\n<a id='4981cee9-6dc2-43be-a13c-b432817b2e83'></a>\n\n<::transcription of the content\n: figure::>\n\nThank you for your payment.\n\n<a id='e0f6938e-e52d-45ab-bef3-3d669d9515d9'></a>\n\nDo you or someone you know need help with energy bills or other essentials as a result of the pandemic? Help is available through new and existing assistance programs for those who qualify. To get started, visit 211.org, dial 211 or text your zip code to 898211.\n\n<a id='a47ee320-87f2-40fc-96d8-d58f9979e756'></a>\n\nDuke Energy Florida utilized fuel in the following proportions to generate your power: Coal 11%, Purchased Power 10%, Gas 77%, Oil 0%, Nuclear 0%, Solar 2% (For prior 12 months ending December 31, 2021).\n\n<a id='cb734e4b-72a3-4788-980e-6300272da642'></a>\n\nWinter's cold weather can bring higher energy bills. Get lots of ideas and resources to help control your energy use and save at duke-energy.com/BetterWinterBills.\n\n<a id='6cfc5bc3-cb8e-44f0-8eff-cfe0d13905a5'></a>\n\nGo solar with no rooftop panels to install or long-term contracts, and\nsave over time. Whether you rent or own your home, support clean\nenergy by enrolling at duke-energy.com/CECSolar.\n\n<a id='9a903696-6ac0-4a4e-8103-c046b82f6697'></a>\n\nPlease return this portion with your payment. Thank you for your business.\n\n<a id='0bbde1cb-3e3b-45e7-a328-732af096c1c0'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY\nA swirling, stylized green and blue symbol resembling an orbital or circular motion is to the left of the text.::>\n\n<a id='ecc5a84c-1a8b-47ca-a065-6e582547c34a'></a>\n\nAccount number\n9100 7883 2561\n\n<a id='2ca41a36-84d7-4551-b40b-15ca1fb95d54'></a>\n\nMail your payment at least 7 days before the due date or pay instantly at duke-energy.com/billing. Late payments are subject to a $5.00 or 1.5%, late charge, whichever is greater.\n\n<a id='4e97e034-03a3-4d7c-bdcf-9420c6bce63a'></a>\n\nDuke Energy Return Mail\nPO Box 1090\nCharlotte, NC 28201-1090\n\n<a id='602dcb16-cb0c-41bc-b9c1-94900b4b9d4d'></a>\n\nAccount number\n9100 7883 2561\n\n$170.95\nby Mar 16\n\n<a id='e504192c-edc2-4ddb-841d-a9651611e567'></a>\n\nAfter Mar 16, the amount due will increase to $175.95.\n\n<a id='82ca69de-5ac6-413a-b5a1-4a1a194cc2b8'></a>\n\nKAREN G PEREZ\n13619 TORTONA LN APT 3121\nWINDERMERE FL 34786-7459\n\n<a id='72f08110-6579-4ac8-a3e8-bec8150156cd'></a>\n\n$ ___ Add here, to help others with a contribution to Share the Light\n\n$ ___ Amount enclosed\n\n<a id='a16f9186-39a7-422a-bf7a-a4429afed87a'></a>\n\nDuke Energy Payment Processing\nPO Box 1094\nCharlotte, NC 28201-1094\n\n<a id='17b2ce05-bb34-498e-bf74-3d068de657bc'></a>\n\n889100788325610006600000000000001709500000170952\n\n<a id='090e0c93-9d0a-404d-983a-4d842ef55568'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY.\nduke-energy.com\n800.700.8744\nThe logo features a stylized, swirling graphic in green and blue to the left of the company name.::>\n\n<a id='8aa6884d-ec66-4cde-aa0a-b5013da3768c'></a>\n\nPage 2 of 3\n\n<a id='f7d0571e-79e4-4343-91ec-795918144af9'></a>\n\nAccount number 9100 7883 2561 200210436563\n\n<a id='3f92047b-c372-4f92-bbdb-442f399ec81f'></a>\n\nWe're here for you\n\n---\n\n**Report an emergency**\nElectric outage                                   duke-energy.com/outages\n                                                  800.228.8485\n\n---\n\n<a id='4bba5487-d1bc-44d2-b6b6-54ab5368da73'></a>\n\n**Convenient ways to pay your bill**\n\nOnline\nduke-energy.com/billing\n\nAutomatically from your bank account\nduke-energy.com/automatic-draft\n\nSpeedpay (fee applies)\nduke-energy.com/pay-now\n800.700.8744\n\nBy mail payable to Duke Energy\nP.O. Box 1094\nCharlotte, NC 28201-1094\n\nIn person\nduke-energy.com/location\n\n<a id='9a2c6824-6a2b-40a1-a5f2-d2035d702aee'></a>\n\n**Help managing your account** (not applicable for all customers)\nRegister for free paperless billing                 duke-energy.com/paperless\nHome                                                 duke-energy.com/manage-home\nBusiness                                             duke-energy.com/manage-bus\n\n<a id='980a951e-458d-4c14-b6bf-2d305eebfb89'></a>\n\n## General questions or concerns\n\nOnline duke-energy.com\nHome: Mon - Fri (7 a.m. to 7 p.m.) 800.700.8744\nBusiness: Mon - Fri (7 a.m. to 6 p.m.) 877.372.8477\nFor hearing impaired TDD/TTY 800.222.3448 or 711\nInternational 1.407.629.1010\n\n<a id='fba9ecda-2df6-4f01-b84d-d8ce97792b7a'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\">Call before you dig Call</td><td id=\"1-3\">800.432.4770 or 811</td></tr>\n<tr><td id=\"1-4\">Check utility rates Check rates and charges</td><td id=\"1-5\">duke-energy.com/rates</td></tr>\n</table>\n\n<a id='9d5d540d-af96-4c2e-bf31-19f4e6d132d9'></a>\n\nCorrespond with Duke Energy (not for payment)\nP.O. Box 14042\nSt Petersburg, FL 33733\n\n<a id='fcafd874-7772-4afe-ac70-82c82b0bbb55'></a>\n\nImportant to know\n\nYour next meter reading: Mar 23\nPlease be sure we can safely access your meter.\nDon't worry if your digital meter flashes eights from\ntime to time. That's a normal part of the energy\nmeasuring process.\n\n<a id='2fe4c002-4be7-477b-ae24-2c3aac271f88'></a>\n\n**Your electric service may be disconnected if your payment is past due**\nIf payment for your electric service is past due, we may begin disconnection procedures. The due date on your bill applies to current charges only. Any unpaid, past due charges are not extended to the new due date and may result in disconnection. The reconnection fee is $13 between the hours of 7 a.m. and 7 p.m. Monday through Friday and $14 after 7 p.m. or on the weekends.\n\n<a id='8c831153-ada7-4f9d-a96d-18f52a0a647f'></a>\n\nElectric service does not depend on\npayment for other products or services\nNon-payment for non-regulated products or\nservices (such as surge protection or equipment\nservice contracts) may result in removal from the\nprogram but will not result in disconnection of\nelectric service.\n\n<a id='cabbe225-82db-4ef0-91af-4f02054e75cf'></a>\n\n**When you pay by check**\nWe may process the payment as a regular check\nor convert it into a one-time electronic check\npayment.\n\n<a id='b135bf6e-67fd-4007-88df-3f80734d4720'></a>\n\n**Asset Securitization Charge**\nA charge to recover cost associated with nuclear\nasset-recovery bonds. Duke Energy Florida is\nacting as the collection agent for Special Purpose\nEntity (SPE) until the bonds have been paid in full\nor legally discharged.\n\n<a id='f09b0264-9bd5-465d-8aee-75a418d25247'></a>\n\n**Medical Essential Program**\nIdentifies customers who are dependent on\ncontinuously electric-powered medical equipment.\nThe program does not automatically extend\nelectric bill due dates, nor does it provide priority\nrestoration. To learn more or find out if you\nqualify, call 800.700.8744 or visit duke-\nenergy.com/home/billing/special-assistance/\nmedically-essential.\n\n<a id='60556810-5be5-41bf-a603-403ef7be6330'></a>\n\n**Special Needs Customers**\nFlorida Statutes offer a program for customers who\nneed special assistance during emergency\nevacuations and sheltering. Customers with\nspecial needs may contact their local emergency\nmanagement agency for registration and more\ninformation.\n\n<a id='52d0854c-a702-4c72-bf78-6ce3e5d53be5'></a>\n\nPara nuestros clientes que hablan Español\nRepresentantes bilingües están disponibles\npara asistirle de lunes a viernes de 7 a.m. - 7\np.m. Para obtener más información o\nreportar problemas con su servicio eléctrico,\nfavor de llamar al 800.700.8744.\n\n<a id='f474122c-24fe-4aca-866a-0b0d88ad83f8'></a>\n\n<::logo: Duke Energy\nDUKE ENERGY®\nA stylized blue and green swirling symbol, resembling a globe or energy flow, is positioned to the left of the company name.::>\n\n<a id='09cfdee2-2118-42ba-a196-1a999acf2759'></a>\n\nduke-energy.com\n800.700.8744\n\n<a id='3781654f-6c1d-4141-b79c-c898d6a1bd08'></a>\n\nPage 3 of 3\n\n<a id='27d470d7-1eb0-4e06-b1ed-e963879982cd'></a>\n\nAccount number 9100 7883 2561\n\n<a id='91dff2cc-da26-4330-bc10-153deadaba0c'></a>\n\nYour usage snapshot - Continued\n<table id=\"2-1\">\n<tr><td id=\"2-2\" colspan=\"2\">Current electric usage for meter number 1262413</td></tr>\n<tr><td id=\"2-3\">Actual reading on Feb 21</td><td id=\"2-4\">28474</td></tr>\n<tr><td id=\"2-5\">Previous reading on Jan 25</td><td id=\"2-6\">-27415</td></tr>\n<tr><td id=\"2-7\">Energy Used</td><td id=\"2-8\">1,059 kWh</td></tr>\n<tr><td id=\"2-9\">Billed kWh 1,059.000 kWh</td><td id=\"2-a\"></td></tr>\n</table>\n\n<a id='b1000ffa-fb6c-42a7-b452-b7ccb4625adb'></a>\n\nA kilowatt-hour (kWh) is a measure of the energy used by a 1,000-watt appliance in one hour. A 10-watt LED lightbulb would take 100 hours to use 1 kWh.\n\n<a id='e1df32c6-5f1c-4a47-a88b-cc5834df5ee8'></a>\n\nBilling details - Electric\n<table id=\"2-b\">\n<tr><td id=\"2-c\">Billing Period - Jan 25 to Feb 21</td><td id=\"2-d\"></td></tr>\n<tr><td id=\"2-e\">Meter - 1262413</td><td id=\"2-f\"></td></tr>\n<tr><td id=\"2-g\">Customer Charge</td><td id=\"2-h\">$12.45</td></tr>\n<tr><td id=\"2-i\">Energy Charge 1,000.000 kWh @ 9.337c</td><td id=\"2-j\">93.37</td></tr>\n<tr><td id=\"2-k\">Energy Charge 59.000 kWh @ 10.487c</td><td id=\"2-l\">6.20</td></tr>\n<tr><td id=\"2-m\">Fuel Charge</td><td id=\"2-n\"></td></tr>\n<tr><td id=\"2-o\">1,000.000 kWh @ 3.681c</td><td id=\"2-p\">36.81</td></tr>\n<tr><td id=\"2-q\">Fuel Charge</td><td id=\"2-r\"></td></tr>\n<tr><td id=\"2-s\">59.000 kWh @ 4.751c</td><td id=\"2-t\">2.80</td></tr>\n<tr><td id=\"2-u\">Asset Securitization Charge</td><td id=\"2-v\"></td></tr>\n<tr><td id=\"2-w\">1,059.000 kWh @ 0.248c</td><td id=\"2-x\">2.63</td></tr>\n<tr><td id=\"2-y\">Total Current Charges</td><td id=\"2-z\">$154.26</td></tr>\n</table>\n\n<a id='8fbfc08e-3063-47eb-86fc-767adb037883'></a>\n\nA kilowatt-hour (kWh) is a measure of the energy used by a 1,000-\nwatt appliance in one hour. A 10-watt LED lightbulb would take\n100 hours to use 1 kWh.\n\n<a id='bbe465f2-9351-4c07-b685-050f5130ae1d'></a>\n\nBilling details - Taxes\n<table id=\"2-A\">\n<tr><td id=\"2-B\">Regulatory Assessment Fee</td><td id=\"2-C\">$0.11</td></tr>\n<tr><td id=\"2-D\">Gross Receipts Tax</td><td id=\"2-E\">3.96</td></tr>\n<tr><td id=\"2-F\">County Utility Tax</td><td id=\"2-G\">12.62</td></tr>\n<tr><td id=\"2-H\">Total Taxes</td><td id=\"2-I\">$16.69</td></tr>\n</table>\n\n<a id='c35ec1f9-d87f-45f0-9bb0-ab990ad66601'></a>\n\nYour current rate is Residential Service (RS-1).",
+      "pages": [
+        0,
+        1,
+        2
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "748e4aee-8902-4ecf-ac32-e4d7f55e62f2": {
+      "box": {
+        "bottom": 0.06260429322719574,
+        "left": 0.55340176820755,
+        "right": 0.7466811537742615,
+        "top": 0.03308011591434479
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b4ee13af-0091-4359-b6f7-2cba7c498885": {
+      "box": {
+        "bottom": 0.05293191224336624,
+        "left": 0.8780751824378967,
+        "right": 0.9463502764701843,
+        "top": 0.03826285898685455
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "7c8cc88f-3cb4-46cc-8751-44806cf40af1": {
+      "box": {
+        "bottom": 0.08154530823230743,
+        "left": 0.056856051087379456,
+        "right": 0.32593393325805664,
+        "top": 0.03652053326368332
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "2eb96aa1-51cc-44b6-878a-b8379f534a89": {
+      "box": {
+        "bottom": 0.1308712363243103,
+        "left": 0.5547719597816467,
+        "right": 0.9460563063621521,
+        "top": 0.06776735931634903
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4bd41128-7e47-4776-8ff7-7a50eed9c239": {
+      "box": {
+        "bottom": 0.14836320281028748,
+        "left": 0.7166761159896851,
+        "right": 0.9452224969863892,
+        "top": 0.1309625804424286
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f2ec451c-22c4-440d-932c-67523ed185d4": {
+      "box": {
+        "bottom": 0.25208595395088196,
+        "left": 0.05338403582572937,
+        "right": 0.5568220615386963,
+        "top": 0.13493576645851135
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.24831376927274817,
+        "left": 0.05928386569826219,
+        "right": 0.5531465341512245,
+        "top": 0.1612956664489058
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.17803465803671592,
+        "left": 0.05928386569826219,
+        "right": 0.27407452721244896,
+        "top": 0.161306512348468
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.17808202234389964,
+        "left": 0.2737932345125551,
+        "right": 0.5531397787655643,
+        "top": 0.1612956664489058
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.1962224003063785,
+        "left": 0.05930052065937638,
+        "right": 0.27438036380804975,
+        "top": 0.1779982055512673
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.1962778719290749,
+        "left": 0.27407452721244896,
+        "right": 0.553141531144612,
+        "top": 0.17803465803671592
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.2126747604977097,
+        "left": 0.05931867110436433,
+        "right": 0.27465701902758777,
+        "top": 0.19617960445648272
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.21271163138018356,
+        "left": 0.27438036380804975,
+        "right": 0.5531431138228817,
+        "top": 0.1962224003063785
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.2306442193906213,
+        "left": 0.059335109717762125,
+        "right": 0.2749590057857415,
+        "top": 0.21264625239996054
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.23063355746692704,
+        "left": 0.27465701902758777,
+        "right": 0.5531448384964626,
+        "top": 0.2126747604977097
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.24831376927274817,
+        "left": 0.05935307704312922,
+        "right": 0.27525566751140845,
+        "top": 0.23063355746692704
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.2482756810234779,
+        "left": 0.2749590057857415,
+        "right": 0.5531465341512245,
+        "top": 0.23061980090587844
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "f2ec451c-22c4-440d-932c-67523ed185d4",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "e7b86602-1529-4917-94f0-e70fb26535d0": {
+      "box": {
+        "bottom": 0.4205772876739502,
+        "left": 0.043296992778778076,
+        "right": 0.5604128837585449,
+        "top": 0.25677770376205444
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "716f5737-f833-4dac-a9ba-09b4d027cb24": {
+      "box": {
+        "bottom": 0.5259981751441956,
+        "left": 0.0548987090587616,
+        "right": 0.5600571632385254,
+        "top": 0.4215705394744873
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.5228795717521173,
+        "left": 0.05926695697380038,
+        "right": 0.5533110045209,
+        "top": 0.45500835827594344
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.4745530361453645,
+        "left": 0.05929021109339083,
+        "right": 0.15985083156745522,
+        "top": 0.45500835827594344
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.4745467529967866,
+        "left": 0.15970432883491592,
+        "right": 0.25190968598425045,
+        "top": 0.45501291002733113
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.4745409927534971,
+        "left": 0.2517616374809631,
+        "right": 0.3258186524564787,
+        "top": 0.45501707734659147
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.4745363721871118,
+        "left": 0.3256052035367848,
+        "right": 0.43478432719361093,
+        "top": 0.45502042305691387
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4745295445462283,
+        "left": 0.4347211232200666,
+        "right": 0.5532819577665862,
+        "top": 0.45502535571393987
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 4,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.4912516851154502,
+        "left": 0.059282181195849985,
+        "right": 0.15970432883491592,
+        "top": 0.4745467529967866
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.4912617597871509,
+        "left": 0.15957904277594154,
+        "right": 0.2517616374809631,
+        "top": 0.4745409927534971
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.4912698351417537,
+        "left": 0.2516348450583595,
+        "right": 0.3256052035367848,
+        "top": 0.4745363721871118
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.49128179097675434,
+        "left": 0.325422187093845,
+        "right": 0.4347211232200666,
+        "top": 0.4745295445462283
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.49129477342862243,
+        "left": 0.4346668370075352,
+        "right": 0.5532920446386428,
+        "top": 0.47452212591470794
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 4,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.5079865454957915,
+        "left": 0.05927413087778974,
+        "right": 0.15957904277594154,
+        "top": 0.4912407085346375
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.5080009967808383,
+        "left": 0.1594535322566742,
+        "right": 0.2516348450583595,
+        "top": 0.4912516851154502
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.5080125715691081,
+        "left": 0.2515079125793235,
+        "right": 0.325422187093845,
+        "top": 0.4912617597871509
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.50802974171956,
+        "left": 0.32523906922551604,
+        "right": 0.4346668370075352,
+        "top": 0.4912698351417537
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5080483743646367,
+        "left": 0.4346125647153229,
+        "right": 0.5533021200563124,
+        "top": 0.49128179097675434
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 4,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5228795717521173,
+        "left": 0.05926695697380038,
+        "right": 0.32523906922551604,
+        "top": 0.5079708186930031
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 0,
+        "colspan": 3,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5228484002791971,
+        "left": 0.3250768074984637,
+        "right": 0.4346125647153229,
+        "top": 0.5080125715691081
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5228355606672908,
+        "left": 0.4345645859658798,
+        "right": 0.5533110045209,
+        "top": 0.50802974171956
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "716f5737-f833-4dac-a9ba-09b4d027cb24",
+        "col": 4,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "4981cee9-6dc2-43be-a13c-b432817b2e83": {
+      "box": {
+        "bottom": 0.20326198637485504,
+        "left": 0.5597078204154968,
+        "right": 0.783292829990387,
+        "top": 0.15877790749073029
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e0f6938e-e52d-45ab-bef3-3d669d9515d9": {
+      "box": {
+        "bottom": 0.26020994782447815,
+        "left": 0.561002254486084,
+        "right": 0.9409435987472534,
+        "top": 0.2071177214384079
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a47ee320-87f2-40fc-96d8-d58f9979e756": {
+      "box": {
+        "bottom": 0.31604138016700745,
+        "left": 0.5610109567642212,
+        "right": 0.9364355802536011,
+        "top": 0.26393887400627136
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "cb734e4b-72a3-4788-980e-6300272da642": {
+      "box": {
+        "bottom": 0.3609374761581421,
+        "left": 0.561320424079895,
+        "right": 0.9452383518218994,
+        "top": 0.3199160099029541
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "6cfc5bc3-cb8e-44f0-8eff-cfe0d13905a5": {
+      "box": {
+        "bottom": 0.4068239629268646,
+        "left": 0.5616567730903625,
+        "right": 0.9483709931373596,
+        "top": 0.3642876446247101
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9a903696-6ac0-4a4e-8103-c046b82f6697": {
+      "box": {
+        "bottom": 0.7014700770378113,
+        "left": 0.04352132976055145,
+        "right": 0.41212254762649536,
+        "top": 0.6858658194541931
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0bbde1cb-3e3b-45e7-a328-732af096c1c0": {
+      "box": {
+        "bottom": 0.7504366636276245,
+        "left": 0.055236123502254486,
+        "right": 0.18620911240577698,
+        "top": 0.7099592685699463
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "ecc5a84c-1a8b-47ca-a065-6e582547c34a": {
+      "box": {
+        "bottom": 0.7469090223312378,
+        "left": 0.4446750283241272,
+        "right": 0.5625141263008118,
+        "top": 0.7146551609039307
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2ca41a36-84d7-4551-b40b-15ca1fb95d54": {
+      "box": {
+        "bottom": 0.6821869015693665,
+        "left": 0.5638531446456909,
+        "right": 0.9482202529907227,
+        "top": 0.6192441582679749
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4e97e034-03a3-4d7c-bdcf-9420c6bce63a": {
+      "box": {
+        "bottom": 0.7991517186164856,
+        "left": 0.09483395516872406,
+        "right": 0.25665736198425293,
+        "top": 0.7538031935691833
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "602dcb16-cb0c-41bc-b9c1-94900b4b9d4d": {
+      "box": {
+        "bottom": 0.7532614469528198,
+        "left": 0.45075690746307373,
+        "right": 0.7227334976196289,
+        "top": 0.707895040512085
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e504192c-edc2-4ddb-841d-a9651611e567": {
+      "box": {
+        "bottom": 0.7534244060516357,
+        "left": 0.7298224568367004,
+        "right": 0.9440273642539978,
+        "top": 0.7080466747283936
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "82ca69de-5ac6-413a-b5a1-4a1a194cc2b8": {
+      "box": {
+        "bottom": 0.8992401361465454,
+        "left": 0.12692667543888092,
+        "right": 0.3397395610809326,
+        "top": 0.8525515794754028
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "72f08110-6579-4ac8-a3e8-bec8150156cd": {
+      "box": {
+        "bottom": 0.8225404620170593,
+        "left": 0.5831946134567261,
+        "right": 0.9022132158279419,
+        "top": 0.7775744795799255
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a16f9186-39a7-422a-bf7a-a4429afed87a": {
+      "box": {
+        "bottom": 0.9141675233840942,
+        "left": 0.5841639041900635,
+        "right": 0.8116766214370728,
+        "top": 0.860461950302124
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "17b2ce05-bb34-498e-bf74-3d068de657bc": {
+      "box": {
+        "bottom": 0.9863606691360474,
+        "left": 0.20019733905792236,
+        "right": 0.8010807037353516,
+        "top": 0.9647331237792969
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "090e0c93-9d0a-404d-983a-4d842ef55568": {
+      "box": {
+        "bottom": 0.08687768876552582,
+        "left": 0.05594204366207123,
+        "right": 0.3274883031845093,
+        "top": 0.03962148725986481
+      },
+      "page": 1,
+      "type": "chunkLogo"
+    },
+    "8aa6884d-ec66-4cde-aa0a-b5013da3768c": {
+      "box": {
+        "bottom": 0.05224035680294037,
+        "left": 0.8776488900184631,
+        "right": 0.9465835690498352,
+        "top": 0.03785298764705658
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "f7d0571e-79e4-4343-91ec-795918144af9": {
+      "box": {
+        "bottom": 0.08923686295747757,
+        "left": 0.7210431694984436,
+        "right": 0.9440523982048035,
+        "top": 0.05519043654203415
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "3f92047b-c372-4f92-bbdb-442f399ec81f": {
+      "box": {
+        "bottom": 0.20565694570541382,
+        "left": 0.055054932832717896,
+        "right": 0.5908387899398804,
+        "top": 0.10408848524093628
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "4bba5487-d1bc-44d2-b6b6-54ab5368da73": {
+      "box": {
+        "bottom": 0.37129977345466614,
+        "left": 0.05595141649246216,
+        "right": 0.5875813364982605,
+        "top": 0.21736255288124084
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "9a2c6824-6a2b-40a1-a5f2-d2035d702aee": {
+      "box": {
+        "bottom": 0.48241785168647766,
+        "left": 0.056446373462677,
+        "right": 0.5896029472351074,
+        "top": 0.39165279269218445
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "980a951e-458d-4c14-b6bf-2d305eebfb89": {
+      "box": {
+        "bottom": 0.6073112487792969,
+        "left": 0.05770888924598694,
+        "right": 0.5881272554397583,
+        "top": 0.48466718196868896
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "fba9ecda-2df6-4f01-b84d-d8ce97792b7a": {
+      "box": {
+        "bottom": 0.6863986849784851,
+        "left": 0.0563226044178009,
+        "right": 0.5922436714172363,
+        "top": 0.6093141436576843
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.6863979222754324,
+        "left": 0.05891663286583959,
+        "right": 0.5887497359283369,
+        "top": 0.6105683434984517
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.6484004752030503,
+        "left": 0.0589534360227415,
+        "right": 0.23909963374361579,
+        "top": 0.6105778584455971
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fba9ecda-2df6-4f01-b84d-d8ce97792b7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.6484081426800029,
+        "left": 0.23900208846186505,
+        "right": 0.5887073432337611,
+        "top": 0.6105683434984517
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fba9ecda-2df6-4f01-b84d-d8ce97792b7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.6863979131740778,
+        "left": 0.05891663286583959,
+        "right": 0.23900208846186505,
+        "top": 0.648396527538913
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fba9ecda-2df6-4f01-b84d-d8ce97792b7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.6863979222754324,
+        "left": 0.23890409231272347,
+        "right": 0.5887497359283368,
+        "top": 0.6484004752030503
+      },
+      "page": 1,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fba9ecda-2df6-4f01-b84d-d8ce97792b7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "9d5d540d-af96-4c2e-bf31-19f4e6d132d9": {
+      "box": {
+        "bottom": 0.747657060623169,
+        "left": 0.058174267411231995,
+        "right": 0.4118574261665344,
+        "top": 0.6878921985626221
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "fcafd874-7772-4afe-ac70-82c82b0bbb55": {
+      "box": {
+        "bottom": 0.23003244400024414,
+        "left": 0.6091470718383789,
+        "right": 0.9308581352233887,
+        "top": 0.1289946734905243
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "2fe4c002-4be7-477b-ae24-2c3aac271f88": {
+      "box": {
+        "bottom": 0.3765762448310852,
+        "left": 0.6094939708709717,
+        "right": 0.9317278861999512,
+        "top": 0.23357844352722168
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "8c831153-ada7-4f9d-a96d-18f52a0a647f": {
+      "box": {
+        "bottom": 0.4815385341644287,
+        "left": 0.6091876029968262,
+        "right": 0.9213157892227173,
+        "top": 0.37972813844680786
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "cabbe225-82db-4ef0-91af-4f02054e75cf": {
+      "box": {
+        "bottom": 0.5448228120803833,
+        "left": 0.6084405779838562,
+        "right": 0.9197587370872498,
+        "top": 0.48499512672424316
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "b135bf6e-67fd-4007-88df-3f80734d4720": {
+      "box": {
+        "bottom": 0.6357802748680115,
+        "left": 0.6085935235023499,
+        "right": 0.928534209728241,
+        "top": 0.5488746762275696
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "f09b0264-9bd5-465d-8aee-75a418d25247": {
+      "box": {
+        "bottom": 0.7664158344268799,
+        "left": 0.6092163920402527,
+        "right": 0.92836993932724,
+        "top": 0.6391518115997314
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "60556810-5be5-41bf-a603-403ef7be6330": {
+      "box": {
+        "bottom": 0.8704867959022522,
+        "left": 0.6092271208763123,
+        "right": 0.9307147860527039,
+        "top": 0.7704758048057556
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "52d0854c-a702-4c72-bf78-6ce3e5d53be5": {
+      "box": {
+        "bottom": 0.9688452482223511,
+        "left": 0.6087916493415833,
+        "right": 0.931704580783844,
+        "top": 0.8744404315948486
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "f474122c-24fe-4aca-866a-0b0d88ad83f8": {
+      "box": {
+        "bottom": 0.0866813138127327,
+        "left": 0.055951885879039764,
+        "right": 0.20790764689445496,
+        "top": 0.03960735350847244
+      },
+      "page": 2,
+      "type": "chunkLogo"
+    },
+    "09cfdee2-2118-42ba-a196-1a999acf2759": {
+      "box": {
+        "bottom": 0.08447813987731934,
+        "left": 0.2139182686805725,
+        "right": 0.3281298279762268,
+        "top": 0.05107996240258217
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "3781654f-6c1d-4141-b79c-c898d6a1bd08": {
+      "box": {
+        "bottom": 0.05252214893698692,
+        "left": 0.8771548271179199,
+        "right": 0.9472756385803223,
+        "top": 0.037723202258348465
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "27d470d7-1eb0-4e06-b1ed-e963879982cd": {
+      "box": {
+        "bottom": 0.07261388003826141,
+        "left": 0.7210751175880432,
+        "right": 0.9453461766242981,
+        "top": 0.054929330945014954
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "91dff2cc-da26-4330-bc10-153deadaba0c": {
+      "box": {
+        "bottom": 0.2549140751361847,
+        "left": 0.052284419536590576,
+        "right": 0.5566666126251221,
+        "top": 0.13026440143585205
+      },
+      "page": 2,
+      "type": "chunkTable"
+    },
+    "2-1": {
+      "box": {
+        "bottom": 0.25054949072212374,
+        "left": 0.05883238838503574,
+        "right": 0.5527855322600033,
+        "top": 0.15337358094882658
+      },
+      "page": 2,
+      "type": "table"
+    },
+    "2-2": {
+      "box": {
+        "bottom": 0.17102098774108937,
+        "left": 0.05883238838503574,
+        "right": 0.5527501761743475,
+        "top": 0.15337358094882658
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 0,
+        "colspan": 2,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "2-3": {
+      "box": {
+        "bottom": 0.18916754217896886,
+        "left": 0.05884220028656097,
+        "right": 0.32206107383441573,
+        "top": 0.17101788154076342
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "2-4": {
+      "box": {
+        "bottom": 0.18914569232995304,
+        "left": 0.32205757340255897,
+        "right": 0.5527582302904716,
+        "top": 0.17101515914111998
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "2-5": {
+      "box": {
+        "bottom": 0.2069485535448441,
+        "left": 0.05885230124771298,
+        "right": 0.3220645115193775,
+        "top": 0.18914569232995304
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "2-6": {
+      "box": {
+        "bottom": 0.20694868542000933,
+        "left": 0.32206107383441573,
+        "right": 0.552766155782617,
+        "top": 0.18912654137997748
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "2-7": {
+      "box": {
+        "bottom": 0.22909161178183052,
+        "left": 0.05886219865198005,
+        "right": 0.32206878728479466,
+        "top": 0.20694840309143658
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "2-8": {
+      "box": {
+        "bottom": 0.22910231827570735,
+        "left": 0.3220645115193775,
+        "right": 0.5527760074841179,
+        "top": 0.2069485535448441
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "2-9": {
+      "box": {
+        "bottom": 0.2505494907221238,
+        "left": 0.0588745174818208,
+        "right": 0.32207292779068725,
+        "top": 0.22907939765244342
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "2-a": {
+      "box": {
+        "bottom": 0.2505341967146959,
+        "left": 0.32206878728479466,
+        "right": 0.5527855322600033,
+        "top": 0.22909161178183052
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "91dff2cc-da26-4330-bc10-153deadaba0c",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "b1000ffa-fb6c-42a7-b452-b7ccb4625adb": {
+      "box": {
+        "bottom": 0.22382837533950806,
+        "left": 0.557493269443512,
+        "right": 0.9410386681556702,
+        "top": 0.1488407552242279
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8": {
+      "box": {
+        "bottom": 0.5529592633247375,
+        "left": 0.05228543281555176,
+        "right": 0.5579698085784912,
+        "top": 0.25947272777557373
+      },
+      "page": 2,
+      "type": "chunkTable"
+    },
+    "2-b": {
+      "box": {
+        "bottom": 0.5480696974986223,
+        "left": 0.05867193673227078,
+        "right": 0.5535980475596318,
+        "top": 0.28820466913399967
+      },
+      "page": 2,
+      "type": "table"
+    },
+    "2-c": {
+      "box": {
+        "bottom": 0.3064443482779231,
+        "left": 0.05867193673227078,
+        "right": 0.26731420796592176,
+        "top": 0.2882142053815965
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "2-d": {
+      "box": {
+        "bottom": 0.30642418639456287,
+        "left": 0.267284970337919,
+        "right": 0.5534919815339678,
+        "top": 0.28820466913399967
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "2-e": {
+      "box": {
+        "bottom": 0.3234877877518359,
+        "left": 0.05868130991403858,
+        "right": 0.26734160498673787,
+        "top": 0.30642418639456287
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "2-f": {
+      "box": {
+        "bottom": 0.3235364082976999,
+        "left": 0.26731420796592176,
+        "right": 0.5534995076471795,
+        "top": 0.3063965307230708
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "2-g": {
+      "box": {
+        "bottom": 0.34204032436365994,
+        "left": 0.05869005805011474,
+        "right": 0.2673713926160375,
+        "top": 0.3234523361636983
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "2-h": {
+      "box": {
+        "bottom": 0.34207456667458946,
+        "left": 0.26734160498673787,
+        "right": 0.5535076477449177,
+        "top": 0.3234877877518359
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "2-i": {
+      "box": {
+        "bottom": 0.3776129045819057,
+        "left": 0.0586996060220734,
+        "right": 0.2674285073305878,
+        "top": 0.3420153523299847
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "2-j": {
+      "box": {
+        "bottom": 0.37763384156644036,
+        "left": 0.2673713926160375,
+        "right": 0.5535232618079349,
+        "top": 0.34204032436365994
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "2-k": {
+      "box": {
+        "bottom": 0.41366248419598495,
+        "left": 0.058717907929117436,
+        "right": 0.2674863413982838,
+        "top": 0.3775976307241244
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "2-l": {
+      "box": {
+        "bottom": 0.4136335172849219,
+        "left": 0.2674285073305878,
+        "right": 0.5535390518212697,
+        "top": 0.3776129045819057
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "2-m": {
+      "box": {
+        "bottom": 0.4329452373830771,
+        "left": 0.05873645805085185,
+        "right": 0.2675173479593518,
+        "top": 0.4136335172849219
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "2-n": {
+      "box": {
+        "bottom": 0.43313882703741435,
+        "left": 0.2674863413982838,
+        "right": 0.5535476340242846,
+        "top": 0.413593823545748
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "2-o": {
+      "box": {
+        "bottom": 0.4516063275985409,
+        "left": 0.058746303544825046,
+        "right": 0.26754730988042463,
+        "top": 0.4328039379602787
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "2-p": {
+      "box": {
+        "bottom": 0.45173626097993125,
+        "left": 0.2675173479593518,
+        "right": 0.5535558001498995,
+        "top": 0.4329452373830771
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "2-q": {
+      "box": {
+        "bottom": 0.4691420494668218,
+        "left": 0.05875592585117442,
+        "right": 0.2675754649297012,
+        "top": 0.451511473874071
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "2-r": {
+      "box": {
+        "bottom": 0.46934671330535305,
+        "left": 0.26754730988042463,
+        "right": 0.5535635328922911,
+        "top": 0.4516063275985409
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "2-s": {
+      "box": {
+        "bottom": 0.4878903536117656,
+        "left": 0.058764917356686375,
+        "right": 0.26760556687993853,
+        "top": 0.4689926167702183
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "2-t": {
+      "box": {
+        "bottom": 0.4880299337502959,
+        "left": 0.2675754649297012,
+        "right": 0.5535717366867239,
+        "top": 0.4691420494668218
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "2-u": {
+      "box": {
+        "bottom": 0.5067336863946944,
+        "left": 0.05877458506536365,
+        "right": 0.26763582140650005,
+        "top": 0.4877884231722636
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "2-v": {
+      "box": {
+        "bottom": 0.5067805028341172,
+        "left": 0.26760556687993853,
+        "right": 0.5535799700539162,
+        "top": 0.4878903536117656
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "2-w": {
+      "box": {
+        "bottom": 0.5244353837178257,
+        "left": 0.05878431205980031,
+        "right": 0.267664242943073,
+        "top": 0.5066994920106445
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "2-x": {
+      "box": {
+        "bottom": 0.5244577440651073,
+        "left": 0.26763582140650005,
+        "right": 0.5535877321232889,
+        "top": 0.5067336863946944
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "2-y": {
+      "box": {
+        "bottom": 0.5480696974986223,
+        "left": 0.05879342619478745,
+        "right": 0.26770210864134053,
+        "top": 0.524419049194164
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 0,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "2-z": {
+      "box": {
+        "bottom": 0.5480191589278369,
+        "left": 0.267664242943073,
+        "right": 0.5535980475596319,
+        "top": 0.5244353837178257
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "e1df32c6-5f1c-4a47-a88b-cc5834df5ee8",
+        "col": 1,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "8fbfc08e-3063-47eb-86fc-767adb037883": {
+      "box": {
+        "bottom": 0.2228783518075943,
+        "left": 0.5562340617179871,
+        "right": 0.9390802979469299,
+        "top": 0.14934749901294708
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "bbe465f2-9351-4c07-b685-050f5130ae1d": {
+      "box": {
+        "bottom": 0.6679301857948303,
+        "left": 0.05389240384101868,
+        "right": 0.5591413974761963,
+        "top": 0.5582341551780701
+      },
+      "page": 2,
+      "type": "chunkTable"
+    },
+    "2-A": {
+      "box": {
+        "bottom": 0.6642617354377549,
+        "left": 0.059012255220137616,
+        "right": 0.5531839509952725,
+        "top": 0.5858325810022791
+      },
+      "page": 2,
+      "type": "table"
+    },
+    "2-B": {
+      "box": {
+        "bottom": 0.6038999212841905,
+        "left": 0.05901517060582063,
+        "right": 0.22581300137905416,
+        "top": 0.5858325810022791
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "2-C": {
+      "box": {
+        "bottom": 0.603917308375208,
+        "left": 0.22569898734152902,
+        "right": 0.5530937449355193,
+        "top": 0.5858410517527082
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "2-D": {
+      "box": {
+        "bottom": 0.6220979539704606,
+        "left": 0.05901429136904487,
+        "right": 0.22592778629534108,
+        "top": 0.6038910599957636
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "2-E": {
+      "box": {
+        "bottom": 0.6220808915612098,
+        "left": 0.22581300137905416,
+        "right": 0.5531208526171749,
+        "top": 0.6038999212841905
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "2-F": {
+      "box": {
+        "bottom": 0.6405223730712597,
+        "left": 0.05901340188307981,
+        "right": 0.2260442159401337,
+        "top": 0.6220808915612098
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "2-G": {
+      "box": {
+        "bottom": 0.6405327305548689,
+        "left": 0.22592778629534108,
+        "right": 0.5531484913080972,
+        "top": 0.6220474448827129
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "2-H": {
+      "box": {
+        "bottom": 0.6642617354377549,
+        "left": 0.059012255220137616,
+        "right": 0.22619406604376305,
+        "top": 0.6405170841800739
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "2-I": {
+      "box": {
+        "bottom": 0.6642573756153486,
+        "left": 0.2260442159401337,
+        "right": 0.5531839509952724,
+        "top": 0.6405223730712597
+      },
+      "page": 2,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "bbe465f2-9351-4c07-b685-050f5130ae1d",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "c35ec1f9-d87f-45f0-9bb0-ab990ad66601": {
+      "box": {
+        "bottom": 0.305927038192749,
+        "left": 0.5592148303985596,
+        "right": 0.8248543739318848,
+        "top": 0.2864311933517456
+      },
+      "page": 2,
+      "type": "chunkText"
+    }
+  }
+}

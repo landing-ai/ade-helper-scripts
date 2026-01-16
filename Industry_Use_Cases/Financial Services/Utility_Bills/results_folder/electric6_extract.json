@@ -1,0 +1,183 @@
+{
+  "extraction": {
+    "provider_info": {
+      "provider": "Mississippi Power",
+      "phone_number": "1-800-532-1502",
+      "website": "mississippipower.com",
+      "usage_bar_chart": true
+    },
+    "account_info": {
+      "account_holder": "WILLIAM A VALENCIA",
+      "account_number": "09931-83323",
+      "service_address": "2501 W 7TH ST APT 224 HATTIESBURG MS 39401",
+      "service_address_primary": "2501 W 7TH ST APT 224",
+      "service_address_city": "HATTIESBURG",
+      "service_address_state": "MS",
+      "service_address_zip": "39401"
+    },
+    "billing_summary": {
+      "due_date": "2018-11-05",
+      "bill_date": null,
+      "service_start_date": "09-24-2018",
+      "service_end_date": "10-22-2018",
+      "total_amount_due": "$ 86.72"
+    },
+    "electric_charges": {
+      "meter_number": "173691",
+      "usage_kwh": "539",
+      "total_electric_charges": "$86.72"
+    },
+    "gas_charges": {
+      "meter_number": null,
+      "usage_therms": null,
+      "total_gas_charges": null
+    }
+  },
+  "extraction_metadata": {
+    "provider_info": {
+      "provider": {
+        "value": "Mississippi Power",
+        "references": [
+          "b3a03410-109c-4762-864d-8a6ae717af29"
+        ]
+      },
+      "phone_number": {
+        "value": "1-800-532-1502",
+        "references": [
+          "3f57de1d-3e76-4e13-848c-a6277c7e480f"
+        ]
+      },
+      "website": {
+        "value": "mississippipower.com",
+        "references": [
+          "3f57de1d-3e76-4e13-848c-a6277c7e480f"
+        ]
+      },
+      "usage_bar_chart": {
+        "value": true,
+        "references": [
+          "882eed53-adac-4d5c-be0e-5fa3ee214ed2"
+        ]
+      }
+    },
+    "account_info": {
+      "account_holder": {
+        "value": "WILLIAM A VALENCIA",
+        "references": [
+          "69d1d3a4-b7b9-451d-817c-58eacbf0b274"
+        ]
+      },
+      "account_number": {
+        "value": "09931-83323",
+        "references": [
+          "241c9eee-4700-44ed-bd7f-9e7d4ee65524"
+        ]
+      },
+      "service_address": {
+        "value": "2501 W 7TH ST APT 224 HATTIESBURG MS 39401",
+        "references": [
+          "3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72",
+          "8d79fd3b-66a0-44af-a74c-6521817b6e92"
+        ]
+      },
+      "service_address_primary": {
+        "value": "2501 W 7TH ST APT 224",
+        "references": [
+          "3a5c6f00-1fc2-4d63-9de5-f6dcd779fb72"
+        ]
+      },
+      "service_address_city": {
+        "value": "HATTIESBURG",
+        "references": [
+          "8d79fd3b-66a0-44af-a74c-6521817b6e92"
+        ]
+      },
+      "service_address_state": {
+        "value": "MS",
+        "references": [
+          "8d79fd3b-66a0-44af-a74c-6521817b6e92"
+        ]
+      },
+      "service_address_zip": {
+        "value": "39401",
+        "references": [
+          "8d79fd3b-66a0-44af-a74c-6521817b6e92"
+        ]
+      }
+    },
+    "billing_summary": {
+      "due_date": {
+        "value": "2018-11-05",
+        "references": [
+          "0-3"
+        ]
+      },
+      "bill_date": {
+        "value": null,
+        "references": []
+      },
+      "service_start_date": {
+        "value": "09-24-2018",
+        "references": [
+          "c3c2b5c5-b595-41dd-b001-d077fe9741f6"
+        ]
+      },
+      "service_end_date": {
+        "value": "10-22-2018",
+        "references": [
+          "c3c2b5c5-b595-41dd-b001-d077fe9741f6"
+        ]
+      },
+      "total_amount_due": {
+        "value": "$ 86.72",
+        "references": [
+          "0-5"
+        ]
+      }
+    },
+    "electric_charges": {
+      "meter_number": {
+        "value": "173691",
+        "references": [
+          "1-j"
+        ]
+      },
+      "usage_kwh": {
+        "value": "539",
+        "references": [
+          "1-p"
+        ]
+      },
+      "total_electric_charges": {
+        "value": "$86.72",
+        "references": [
+          "55fb8094-af35-4a03-8805-6e73ff5d8916"
+        ]
+      }
+    },
+    "gas_charges": {
+      "meter_number": {
+        "value": null,
+        "references": []
+      },
+      "usage_therms": {
+        "value": null,
+        "references": []
+      },
+      "total_gas_charges": {
+        "value": null,
+        "references": []
+      }
+    }
+  },
+  "metadata": {
+    "credit_usage": 2.9086,
+    "duration_ms": 10787,
+    "filename": "upload.md",
+    "job_id": "4439f5edd22147cab6c24970b0a27161",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'string'\n\nFailed validating 'type' in schema['properties']['billing_summary']['properties']['bill_date']:\n    {'type': 'string',\n     'title': 'Bill Date',\n     'description': 'Date the bill was issued, in YYYY-MM-DD format.'}\n\nOn instance['billing_summary']['bill_date']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

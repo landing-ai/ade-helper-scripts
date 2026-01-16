@@ -1,0 +1,1386 @@
+{
+  "chunks": [
+    {
+      "id": "b96142e0-360c-47ee-9826-f25a6797943d",
+      "grounding": {
+        "box": {
+          "bottom": 0.0866183489561081,
+          "left": 0.008466199040412903,
+          "right": 0.19443316757678986,
+          "top": 0.00622066855430603
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b96142e0-360c-47ee-9826-f25a6797943d'></a>\n\n<::logo: Mid-Carolina Electric Cooperative\nMid-Carolina\nELECTRIC COOPERATIVE\nA square logo with a blue top half and green bottom half, featuring three vertical white lines resembling utility poles or towers.::>",
+      "type": "logo"
+    },
+    {
+      "id": "244bf43a-8fdc-4da5-85ef-77bf64c32489",
+      "grounding": {
+        "box": {
+          "bottom": 0.06928987801074982,
+          "left": 0.21957814693450928,
+          "right": 0.40932220220565796,
+          "top": 0.028687383979558945
+        },
+        "page": 0
+      },
+      "markdown": "<a id='244bf43a-8fdc-4da5-85ef-77bf64c32489'></a>\n\nPO Box 669\nLexington, SC 29071",
+      "type": "marginalia"
+    },
+    {
+      "id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+      "grounding": {
+        "box": {
+          "bottom": 0.12420663237571716,
+          "left": 0.5232272148132324,
+          "right": 0.9696310758590698,
+          "top": 0.000874008983373642
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8924a1cf-f149-41a5-bb6c-78d60e2ca867'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Account Number: 7700000024 Member: CARL P TERRY</td><td id=\"0-3\" rowspan=\"2\">Amount Due</td></tr>\n<tr><td id=\"0-4\">PREVIOUS BALANCE $168.00</td></tr>\n<tr><td id=\"0-5\">LATE PAYMENT CHARGE $4.00</td><td id=\"0-6\">$393.00</td></tr>\n<tr><td id=\"0-7\">TOTAL PAYMENTS $0.00</td><td id=\"0-8\">Due Date</td></tr>\n<tr><td id=\"0-9\">PAST DUE - DUE IMMEDIATELY $172.00</td><td id=\"0-a\">10/25/22</td></tr>\n<tr><td id=\"0-b\">CURRENT MONTH CHARGES $221.00</td><td id=\"0-c\">(gray rectangle)</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "a7980eac-d250-43b9-a8f0-9b3676e4748a",
+      "grounding": {
+        "box": {
+          "bottom": 0.18456898629665375,
+          "left": 0.05402754247188568,
+          "right": 0.4595688581466675,
+          "top": 0.11847545206546783
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a7980eac-d250-43b9-a8f0-9b3676e4748a'></a>\n\nOffice Hours: 8 a.m. to 5 p.m. Monday - Friday\nTelephone: (803) 749-6400 Toll-Free: (888) 813-8000\nEasy Pay: (803) 749-6500 or (888) 850-6770\nVisit us online at www.mcecoop.com",
+      "type": "text"
+    },
+    {
+      "id": "ed534d61-1366-4e12-9f20-9b1d56a4c29b",
+      "grounding": {
+        "box": {
+          "bottom": 0.22328472137451172,
+          "left": 0.5250804424285889,
+          "right": 0.9720995426177979,
+          "top": 0.12459484487771988
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ed534d61-1366-4e12-9f20-9b1d56a4c29b'></a>\n\n## Messages from MCEC\n\n*   **PAST DUE** Our records indicate a Past Due Balance of $172.00 has not been paid. Please remit payment ASAP to avoid interruption of service and additional charges for reconnection.\n*   The Summer On-Peak hours are 4-7 pm through October 31st.",
+      "type": "text"
+    },
+    {
+      "id": "706be5e6-eb94-40eb-aee8-04a94f28bdb3",
+      "grounding": {
+        "box": {
+          "bottom": 0.24646347761154175,
+          "left": 0.03668013960123062,
+          "right": 0.27047207951545715,
+          "top": 0.19562938809394836
+        },
+        "page": 0
+      },
+      "markdown": "<a id='706be5e6-eb94-40eb-aee8-04a94f28bdb3'></a>\n\n115 1 AV 0.455\nCARL P TERRY\n134 LAND OF LAKES CIR\nLEXINGTON SC 29073-7702",
+      "type": "text"
+    },
+    {
+      "id": "99b53440-5fc1-41cf-be84-1bf577e51c09",
+      "grounding": {
+        "box": {
+          "bottom": 0.22547703981399536,
+          "left": 0.3660748302936554,
+          "right": 0.4257791340351105,
+          "top": 0.19756931066513062
+        },
+        "page": 0
+      },
+      "markdown": "<a id='99b53440-5fc1-41cf-be84-1bf577e51c09'></a>\n\n5 115\nC-1",
+      "type": "text"
+    },
+    {
+      "id": "9a9d9709-d41d-49c7-83e5-582dea3d792a",
+      "grounding": {
+        "box": {
+          "bottom": 0.290543794631958,
+          "left": 0.04450850188732147,
+          "right": 0.4016433358192444,
+          "top": 0.2624337077140808
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9a9d9709-d41d-49c7-83e5-582dea3d792a'></a>\n\n<::scan_code: Barcode\n\nThis barcode is composed of black vertical lines of varying widths and heights on a gray background, with no apparent quality issues.:>",
+      "type": "scan_code"
+    },
+    {
+      "id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+      "grounding": {
+        "box": {
+          "bottom": 0.40932536125183105,
+          "left": 0.027462080121040344,
+          "right": 0.47893619537353516,
+          "top": 0.3135271668434143
+        },
+        "page": 0
+      },
+      "markdown": "<a id='310555fb-5ed7-4257-99cc-d8836c92a4aa'></a>\n\n<table id=\"0-d\">\n<tr><td id=\"0-e\">Meter Number</td><td id=\"0-f\">Previous Reading</td><td id=\"0-g\">Present Reading</td><td id=\"0-h\">Reading Dates</td><td id=\"0-i\">Energy</td><td id=\"0-j\">On-Peak/Demand</td></tr>\n<tr><td id=\"0-k\">71123288</td><td id=\"0-l\">10414</td><td id=\"0-m\">11439</td><td id=\"0-n\">09/01 to 10/01</td><td id=\"0-o\">1025</td><td id=\"0-p\">11.264</td></tr>\n<tr><td id=\"0-q\" colspan=\"6\">Number of Days: 30 Monthly Adjustment Factor: $0.00034 kWh $0.078 kW On-Peak Occurred: 09/30/2022 6:00 PM - 7:00 PM Average Cost Per Day: 7.37</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "4357c327-99ce-471b-b6f8-a541e35e9533",
+      "grounding": {
+        "box": {
+          "bottom": 0.49995261430740356,
+          "left": 0.034273430705070496,
+          "right": 0.4017757773399353,
+          "top": 0.41315001249313354
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4357c327-99ce-471b-b6f8-a541e35e9533'></a>\n\nService Address: 134 LAND OF LAKES CIR\nLot: 4-A\nService Description: HOUSE\nLocation: 194-62-016\nRate Schedule: Residential/Farm Service\nMultiplier: 1.0",
+      "type": "text"
+    },
+    {
+      "id": "1186ef25-2831-4fb9-b985-f5544866166b",
+      "grounding": {
+        "box": {
+          "bottom": 0.4558924734592438,
+          "left": 0.48916247487068176,
+          "right": 0.9867763519287109,
+          "top": 0.30165597796440125
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1186ef25-2831-4fb9-b985-f5544866166b'></a>\n\n<table id=\"0-r\">\n<tr><td id=\"0-s\" colspan=\"3\">Explanation of Current Charges Statement Date 10/05/22 Usage Period 09/01/22 to 10/01/22</td></tr>\n<tr><td id=\"0-t\">Account Charge</td><td id=\"0-u\"></td><td id=\"0-v\">$28.50</td></tr>\n<tr><td id=\"0-w\">Energy Charge</td><td id=\"0-x\">1,025 kWh@ 0.05184</td><td id=\"0-y\">$53.14</td></tr>\n<tr><td id=\"0-z\">On-Peak/Demand Charge</td><td id=\"0-A\">11.264 kW@ 12.078</td><td id=\"0-B\">$136.05</td></tr>\n<tr><td id=\"0-C\">Subdivision Lighting</td><td id=\"0-D\"></td><td id=\"0-E\">$3.25</td></tr>\n<tr><td id=\"0-F\">Operation Round Up</td><td id=\"0-G\"></td><td id=\"0-H\">$0.06</td></tr>\n<tr><td id=\"0-I\">CURRENT MONTH CHARGES</td><td id=\"0-J\"></td><td id=\"0-K\">$221.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "1fea47a9-b61e-4b65-a1bc-dcf8b2ea3218",
+      "grounding": {
+        "box": {
+          "bottom": 0.7302171587944031,
+          "left": 0.21726390719413757,
+          "right": 0.8087506294250488,
+          "top": 0.6864020228385925
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1fea47a9-b61e-4b65-a1bc-dcf8b2ea3218'></a>\n\nPLEASE READ BACK OF BILL FOR OTHER IMPORTANT INFORMATION\nPLEASE DETACH BOTTOM PORTION AND RETURN WITH YOUR PAYMENT",
+      "type": "text"
+    },
+    {
+      "id": "13df9502-08a0-4971-a943-2190e114993c",
+      "grounding": {
+        "box": {
+          "bottom": 0.8196544647216797,
+          "left": 0.021250396966934204,
+          "right": 0.18129295110702515,
+          "top": 0.7568082809448242
+        },
+        "page": 0
+      },
+      "markdown": "<a id='13df9502-08a0-4971-a943-2190e114993c'></a>\n\n<::logo: Mid-Carolina Electric Cooperative\nMid-Carolina\nELECTRIC COOPERATIVE\nThe logo features a blue and green abstract design that resembles electrical poles and wires.::>",
+      "type": "logo"
+    },
+    {
+      "id": "dfb4a2a7-7781-4284-a167-b64baaef3c16",
+      "grounding": {
+        "box": {
+          "bottom": 0.8429415225982666,
+          "left": 0.028046414256095886,
+          "right": 0.46287626028060913,
+          "top": 0.8173437118530273
+        },
+        "page": 0
+      },
+      "markdown": "<a id='dfb4a2a7-7781-4284-a167-b64baaef3c16'></a>\n\n7700000002400003930000002210000017200",
+      "type": "text"
+    },
+    {
+      "id": "9c7053ae-b333-4d76-8190-da65a5454e28",
+      "grounding": {
+        "box": {
+          "bottom": 0.9125525951385498,
+          "left": 0.003581300377845764,
+          "right": 0.3410997986793518,
+          "top": 0.8512752056121826
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9c7053ae-b333-4d76-8190-da65a5454e28'></a>\n\nStatement Date: 10/05/22\nAccount Name: CARL P TERRY\nService Address: 134 LAND OF LAKES CIR\nLEXINGTON, SC 29073",
+      "type": "text"
+    },
+    {
+      "id": "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec",
+      "grounding": {
+        "box": {
+          "bottom": 0.8060601949691772,
+          "left": 0.5226454138755798,
+          "right": 0.9796949028968811,
+          "top": 0.7231162786483765
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fda87ce1-ec99-4e21-83de-1a20e9a4a1ec'></a>\n\n<table id=\"0-L\">\n<tr><td id=\"0-M\" rowspan=\"4\">Account Number: 7700000024 Location: 194-62-016</td><td id=\"0-N\">Amount Due</td></tr>\n<tr><td id=\"0-O\">$393.00</td></tr>\n<tr><td id=\"0-P\">Due Date</td></tr>\n<tr><td id=\"0-Q\">10/25/22</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "12781490-7a7a-40c5-af85-f4671f998a8a",
+      "grounding": {
+        "box": {
+          "bottom": 0.863548219203949,
+          "left": 0.5424968004226685,
+          "right": 0.9564436674118042,
+          "top": 0.8273022770881653
+        },
+        "page": 0
+      },
+      "markdown": "<a id='12781490-7a7a-40c5-af85-f4671f998a8a'></a>\n\nAny remaining balance after 5:00 PM on the due date may be\nsubject to a $4.00 late payment charge.",
+      "type": "text"
+    },
+    {
+      "id": "d0c058af-3ec8-4262-882a-aa5baf3e278e",
+      "grounding": {
+        "box": {
+          "bottom": 0.9543269872665405,
+          "left": 0.5826624035835266,
+          "right": 0.9585272669792175,
+          "top": 0.8823317289352417
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d0c058af-3ec8-4262-882a-aa5baf3e278e'></a>\n\nMID-CAROLINA ELECTRIC COOPERATIVE INC\nPO BOX 669\nLEXINGTON, SC 29071-0669\n2\n\n<::scan_code: Postal barcode representing the address below the text::>",
+      "type": "scan_code"
+    },
+    {
+      "id": "21b571a0-0b48-4dbb-831b-734250bde57c",
+      "grounding": {
+        "box": {
+          "bottom": 0.98176509141922,
+          "left": 0.013185203075408936,
+          "right": 0.3490511476993561,
+          "top": 0.9271443486213684
+        },
+        "page": 0
+      },
+      "markdown": "<a id='21b571a0-0b48-4dbb-831b-734250bde57c'></a>\n\n<::scan_code: barcode\n\nA linear barcode with black vertical bars on a light gray background, appearing clear and well-defined.::>",
+      "type": "scan_code"
+    },
+    {
+      "id": "44c96607-ac42-4ebb-85ed-614abdcca334",
+      "grounding": {
+        "box": {
+          "bottom": 0.990017294883728,
+          "left": 0.5447163581848145,
+          "right": 0.9953594207763672,
+          "top": 0.9604257345199585
+        },
+        "page": 0
+      },
+      "markdown": "<a id='44c96607-ac42-4ebb-85ed-614abdcca334'></a>\n\nCHECK THIS BOX TO RECORD CHANGES ON BACK",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='b96142e0-360c-47ee-9826-f25a6797943d'></a>\n\n<::logo: Mid-Carolina Electric Cooperative\nMid-Carolina\nELECTRIC COOPERATIVE\nA square logo with a blue top half and green bottom half, featuring three vertical white lines resembling utility poles or towers.::>\n\n<a id='244bf43a-8fdc-4da5-85ef-77bf64c32489'></a>\n\nPO Box 669\nLexington, SC 29071\n\n<a id='8924a1cf-f149-41a5-bb6c-78d60e2ca867'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Account Number: 7700000024 Member: CARL P TERRY</td><td id=\"0-3\" rowspan=\"2\">Amount Due</td></tr>\n<tr><td id=\"0-4\">PREVIOUS BALANCE $168.00</td></tr>\n<tr><td id=\"0-5\">LATE PAYMENT CHARGE $4.00</td><td id=\"0-6\">$393.00</td></tr>\n<tr><td id=\"0-7\">TOTAL PAYMENTS $0.00</td><td id=\"0-8\">Due Date</td></tr>\n<tr><td id=\"0-9\">PAST DUE - DUE IMMEDIATELY $172.00</td><td id=\"0-a\">10/25/22</td></tr>\n<tr><td id=\"0-b\">CURRENT MONTH CHARGES $221.00</td><td id=\"0-c\">(gray rectangle)</td></tr>\n</table>\n\n<a id='a7980eac-d250-43b9-a8f0-9b3676e4748a'></a>\n\nOffice Hours: 8 a.m. to 5 p.m. Monday - Friday\nTelephone: (803) 749-6400 Toll-Free: (888) 813-8000\nEasy Pay: (803) 749-6500 or (888) 850-6770\nVisit us online at www.mcecoop.com\n\n<a id='ed534d61-1366-4e12-9f20-9b1d56a4c29b'></a>\n\n## Messages from MCEC\n\n*   **PAST DUE** Our records indicate a Past Due Balance of $172.00 has not been paid. Please remit payment ASAP to avoid interruption of service and additional charges for reconnection.\n*   The Summer On-Peak hours are 4-7 pm through October 31st.\n\n<a id='706be5e6-eb94-40eb-aee8-04a94f28bdb3'></a>\n\n115 1 AV 0.455\nCARL P TERRY\n134 LAND OF LAKES CIR\nLEXINGTON SC 29073-7702\n\n<a id='99b53440-5fc1-41cf-be84-1bf577e51c09'></a>\n\n5 115\nC-1\n\n<a id='9a9d9709-d41d-49c7-83e5-582dea3d792a'></a>\n\n<::scan_code: Barcode\n\nThis barcode is composed of black vertical lines of varying widths and heights on a gray background, with no apparent quality issues.:>\n\n<a id='310555fb-5ed7-4257-99cc-d8836c92a4aa'></a>\n\n<table id=\"0-d\">\n<tr><td id=\"0-e\">Meter Number</td><td id=\"0-f\">Previous Reading</td><td id=\"0-g\">Present Reading</td><td id=\"0-h\">Reading Dates</td><td id=\"0-i\">Energy</td><td id=\"0-j\">On-Peak/Demand</td></tr>\n<tr><td id=\"0-k\">71123288</td><td id=\"0-l\">10414</td><td id=\"0-m\">11439</td><td id=\"0-n\">09/01 to 10/01</td><td id=\"0-o\">1025</td><td id=\"0-p\">11.264</td></tr>\n<tr><td id=\"0-q\" colspan=\"6\">Number of Days: 30 Monthly Adjustment Factor: $0.00034 kWh $0.078 kW On-Peak Occurred: 09/30/2022 6:00 PM - 7:00 PM Average Cost Per Day: 7.37</td></tr>\n</table>\n\n<a id='4357c327-99ce-471b-b6f8-a541e35e9533'></a>\n\nService Address: 134 LAND OF LAKES CIR\nLot: 4-A\nService Description: HOUSE\nLocation: 194-62-016\nRate Schedule: Residential/Farm Service\nMultiplier: 1.0\n\n<a id='1186ef25-2831-4fb9-b985-f5544866166b'></a>\n\n<table id=\"0-r\">\n<tr><td id=\"0-s\" colspan=\"3\">Explanation of Current Charges Statement Date 10/05/22 Usage Period 09/01/22 to 10/01/22</td></tr>\n<tr><td id=\"0-t\">Account Charge</td><td id=\"0-u\"></td><td id=\"0-v\">$28.50</td></tr>\n<tr><td id=\"0-w\">Energy Charge</td><td id=\"0-x\">1,025 kWh@ 0.05184</td><td id=\"0-y\">$53.14</td></tr>\n<tr><td id=\"0-z\">On-Peak/Demand Charge</td><td id=\"0-A\">11.264 kW@ 12.078</td><td id=\"0-B\">$136.05</td></tr>\n<tr><td id=\"0-C\">Subdivision Lighting</td><td id=\"0-D\"></td><td id=\"0-E\">$3.25</td></tr>\n<tr><td id=\"0-F\">Operation Round Up</td><td id=\"0-G\"></td><td id=\"0-H\">$0.06</td></tr>\n<tr><td id=\"0-I\">CURRENT MONTH CHARGES</td><td id=\"0-J\"></td><td id=\"0-K\">$221.00</td></tr>\n</table>\n\n<a id='1fea47a9-b61e-4b65-a1bc-dcf8b2ea3218'></a>\n\nPLEASE READ BACK OF BILL FOR OTHER IMPORTANT INFORMATION\nPLEASE DETACH BOTTOM PORTION AND RETURN WITH YOUR PAYMENT\n\n<a id='13df9502-08a0-4971-a943-2190e114993c'></a>\n\n<::logo: Mid-Carolina Electric Cooperative\nMid-Carolina\nELECTRIC COOPERATIVE\nThe logo features a blue and green abstract design that resembles electrical poles and wires.::>\n\n<a id='dfb4a2a7-7781-4284-a167-b64baaef3c16'></a>\n\n7700000002400003930000002210000017200\n\n<a id='9c7053ae-b333-4d76-8190-da65a5454e28'></a>\n\nStatement Date: 10/05/22\nAccount Name: CARL P TERRY\nService Address: 134 LAND OF LAKES CIR\nLEXINGTON, SC 29073\n\n<a id='fda87ce1-ec99-4e21-83de-1a20e9a4a1ec'></a>\n\n<table id=\"0-L\">\n<tr><td id=\"0-M\" rowspan=\"4\">Account Number: 7700000024 Location: 194-62-016</td><td id=\"0-N\">Amount Due</td></tr>\n<tr><td id=\"0-O\">$393.00</td></tr>\n<tr><td id=\"0-P\">Due Date</td></tr>\n<tr><td id=\"0-Q\">10/25/22</td></tr>\n</table>\n\n<a id='12781490-7a7a-40c5-af85-f4671f998a8a'></a>\n\nAny remaining balance after 5:00 PM on the due date may be\nsubject to a $4.00 late payment charge.\n\n<a id='d0c058af-3ec8-4262-882a-aa5baf3e278e'></a>\n\nMID-CAROLINA ELECTRIC COOPERATIVE INC\nPO BOX 669\nLEXINGTON, SC 29071-0669\n2\n\n<::scan_code: Postal barcode representing the address below the text::>\n\n<a id='21b571a0-0b48-4dbb-831b-734250bde57c'></a>\n\n<::scan_code: barcode\n\nA linear barcode with black vertical bars on a light gray background, appearing clear and well-defined.::>\n\n<a id='44c96607-ac42-4ebb-85ed-614abdcca334'></a>\n\nCHECK THIS BOX TO RECORD CHANGES ON BACK",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 5714,
+    "filename": "electric_A.jpg",
+    "job_id": "4f3421be0c15442aad5d9f4869eb4d8c",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "b96142e0-360c-47ee-9826-f25a6797943d",
+        "244bf43a-8fdc-4da5-85ef-77bf64c32489",
+        "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "a7980eac-d250-43b9-a8f0-9b3676e4748a",
+        "ed534d61-1366-4e12-9f20-9b1d56a4c29b",
+        "706be5e6-eb94-40eb-aee8-04a94f28bdb3",
+        "99b53440-5fc1-41cf-be84-1bf577e51c09",
+        "9a9d9709-d41d-49c7-83e5-582dea3d792a",
+        "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "4357c327-99ce-471b-b6f8-a541e35e9533",
+        "1186ef25-2831-4fb9-b985-f5544866166b",
+        "1fea47a9-b61e-4b65-a1bc-dcf8b2ea3218",
+        "13df9502-08a0-4971-a943-2190e114993c",
+        "dfb4a2a7-7781-4284-a167-b64baaef3c16",
+        "9c7053ae-b333-4d76-8190-da65a5454e28",
+        "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec",
+        "12781490-7a7a-40c5-af85-f4671f998a8a",
+        "d0c058af-3ec8-4262-882a-aa5baf3e278e",
+        "21b571a0-0b48-4dbb-831b-734250bde57c",
+        "44c96607-ac42-4ebb-85ed-614abdcca334"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='b96142e0-360c-47ee-9826-f25a6797943d'></a>\n\n<::logo: Mid-Carolina Electric Cooperative\nMid-Carolina\nELECTRIC COOPERATIVE\nA square logo with a blue top half and green bottom half, featuring three vertical white lines resembling utility poles or towers.::>\n\n<a id='244bf43a-8fdc-4da5-85ef-77bf64c32489'></a>\n\nPO Box 669\nLexington, SC 29071\n\n<a id='8924a1cf-f149-41a5-bb6c-78d60e2ca867'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Account Number: 7700000024 Member: CARL P TERRY</td><td id=\"0-3\" rowspan=\"2\">Amount Due</td></tr>\n<tr><td id=\"0-4\">PREVIOUS BALANCE $168.00</td></tr>\n<tr><td id=\"0-5\">LATE PAYMENT CHARGE $4.00</td><td id=\"0-6\">$393.00</td></tr>\n<tr><td id=\"0-7\">TOTAL PAYMENTS $0.00</td><td id=\"0-8\">Due Date</td></tr>\n<tr><td id=\"0-9\">PAST DUE - DUE IMMEDIATELY $172.00</td><td id=\"0-a\">10/25/22</td></tr>\n<tr><td id=\"0-b\">CURRENT MONTH CHARGES $221.00</td><td id=\"0-c\">(gray rectangle)</td></tr>\n</table>\n\n<a id='a7980eac-d250-43b9-a8f0-9b3676e4748a'></a>\n\nOffice Hours: 8 a.m. to 5 p.m. Monday - Friday\nTelephone: (803) 749-6400 Toll-Free: (888) 813-8000\nEasy Pay: (803) 749-6500 or (888) 850-6770\nVisit us online at www.mcecoop.com\n\n<a id='ed534d61-1366-4e12-9f20-9b1d56a4c29b'></a>\n\n## Messages from MCEC\n\n*   **PAST DUE** Our records indicate a Past Due Balance of $172.00 has not been paid. Please remit payment ASAP to avoid interruption of service and additional charges for reconnection.\n*   The Summer On-Peak hours are 4-7 pm through October 31st.\n\n<a id='706be5e6-eb94-40eb-aee8-04a94f28bdb3'></a>\n\n115 1 AV 0.455\nCARL P TERRY\n134 LAND OF LAKES CIR\nLEXINGTON SC 29073-7702\n\n<a id='99b53440-5fc1-41cf-be84-1bf577e51c09'></a>\n\n5 115\nC-1\n\n<a id='9a9d9709-d41d-49c7-83e5-582dea3d792a'></a>\n\n<::scan_code: Barcode\n\nThis barcode is composed of black vertical lines of varying widths and heights on a gray background, with no apparent quality issues.:>\n\n<a id='310555fb-5ed7-4257-99cc-d8836c92a4aa'></a>\n\n<table id=\"0-d\">\n<tr><td id=\"0-e\">Meter Number</td><td id=\"0-f\">Previous Reading</td><td id=\"0-g\">Present Reading</td><td id=\"0-h\">Reading Dates</td><td id=\"0-i\">Energy</td><td id=\"0-j\">On-Peak/Demand</td></tr>\n<tr><td id=\"0-k\">71123288</td><td id=\"0-l\">10414</td><td id=\"0-m\">11439</td><td id=\"0-n\">09/01 to 10/01</td><td id=\"0-o\">1025</td><td id=\"0-p\">11.264</td></tr>\n<tr><td id=\"0-q\" colspan=\"6\">Number of Days: 30 Monthly Adjustment Factor: $0.00034 kWh $0.078 kW On-Peak Occurred: 09/30/2022 6:00 PM - 7:00 PM Average Cost Per Day: 7.37</td></tr>\n</table>\n\n<a id='4357c327-99ce-471b-b6f8-a541e35e9533'></a>\n\nService Address: 134 LAND OF LAKES CIR\nLot: 4-A\nService Description: HOUSE\nLocation: 194-62-016\nRate Schedule: Residential/Farm Service\nMultiplier: 1.0\n\n<a id='1186ef25-2831-4fb9-b985-f5544866166b'></a>\n\n<table id=\"0-r\">\n<tr><td id=\"0-s\" colspan=\"3\">Explanation of Current Charges Statement Date 10/05/22 Usage Period 09/01/22 to 10/01/22</td></tr>\n<tr><td id=\"0-t\">Account Charge</td><td id=\"0-u\"></td><td id=\"0-v\">$28.50</td></tr>\n<tr><td id=\"0-w\">Energy Charge</td><td id=\"0-x\">1,025 kWh@ 0.05184</td><td id=\"0-y\">$53.14</td></tr>\n<tr><td id=\"0-z\">On-Peak/Demand Charge</td><td id=\"0-A\">11.264 kW@ 12.078</td><td id=\"0-B\">$136.05</td></tr>\n<tr><td id=\"0-C\">Subdivision Lighting</td><td id=\"0-D\"></td><td id=\"0-E\">$3.25</td></tr>\n<tr><td id=\"0-F\">Operation Round Up</td><td id=\"0-G\"></td><td id=\"0-H\">$0.06</td></tr>\n<tr><td id=\"0-I\">CURRENT MONTH CHARGES</td><td id=\"0-J\"></td><td id=\"0-K\">$221.00</td></tr>\n</table>\n\n<a id='1fea47a9-b61e-4b65-a1bc-dcf8b2ea3218'></a>\n\nPLEASE READ BACK OF BILL FOR OTHER IMPORTANT INFORMATION\nPLEASE DETACH BOTTOM PORTION AND RETURN WITH YOUR PAYMENT\n\n<a id='13df9502-08a0-4971-a943-2190e114993c'></a>\n\n<::logo: Mid-Carolina Electric Cooperative\nMid-Carolina\nELECTRIC COOPERATIVE\nThe logo features a blue and green abstract design that resembles electrical poles and wires.::>\n\n<a id='dfb4a2a7-7781-4284-a167-b64baaef3c16'></a>\n\n7700000002400003930000002210000017200\n\n<a id='9c7053ae-b333-4d76-8190-da65a5454e28'></a>\n\nStatement Date: 10/05/22\nAccount Name: CARL P TERRY\nService Address: 134 LAND OF LAKES CIR\nLEXINGTON, SC 29073\n\n<a id='fda87ce1-ec99-4e21-83de-1a20e9a4a1ec'></a>\n\n<table id=\"0-L\">\n<tr><td id=\"0-M\" rowspan=\"4\">Account Number: 7700000024 Location: 194-62-016</td><td id=\"0-N\">Amount Due</td></tr>\n<tr><td id=\"0-O\">$393.00</td></tr>\n<tr><td id=\"0-P\">Due Date</td></tr>\n<tr><td id=\"0-Q\">10/25/22</td></tr>\n</table>\n\n<a id='12781490-7a7a-40c5-af85-f4671f998a8a'></a>\n\nAny remaining balance after 5:00 PM on the due date may be\nsubject to a $4.00 late payment charge.\n\n<a id='d0c058af-3ec8-4262-882a-aa5baf3e278e'></a>\n\nMID-CAROLINA ELECTRIC COOPERATIVE INC\nPO BOX 669\nLEXINGTON, SC 29071-0669\n2\n\n<::scan_code: Postal barcode representing the address below the text::>\n\n<a id='21b571a0-0b48-4dbb-831b-734250bde57c'></a>\n\n<::scan_code: barcode\n\nA linear barcode with black vertical bars on a light gray background, appearing clear and well-defined.::>\n\n<a id='44c96607-ac42-4ebb-85ed-614abdcca334'></a>\n\nCHECK THIS BOX TO RECORD CHANGES ON BACK",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "b96142e0-360c-47ee-9826-f25a6797943d": {
+      "box": {
+        "bottom": 0.0866183489561081,
+        "left": 0.008466199040412903,
+        "right": 0.19443316757678986,
+        "top": 0.00622066855430603
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "244bf43a-8fdc-4da5-85ef-77bf64c32489": {
+      "box": {
+        "bottom": 0.06928987801074982,
+        "left": 0.21957814693450928,
+        "right": 0.40932220220565796,
+        "top": 0.028687383979558945
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "8924a1cf-f149-41a5-bb6c-78d60e2ca867": {
+      "box": {
+        "bottom": 0.12420663237571716,
+        "left": 0.5232272148132324,
+        "right": 0.9696310758590698,
+        "top": 0.000874008983373642
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.12253522742285727,
+        "left": 0.5273687038627791,
+        "right": 0.9645915692280482,
+        "top": 0.0031729734663335715
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.03201215865210587,
+        "left": 0.5273687038627791,
+        "right": 0.8303295039027733,
+        "top": 0.003172973466333572
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.04550057799218344,
+        "left": 0.8301962023874243,
+        "right": 0.9631402011656294,
+        "top": 0.005238099674192813
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 2
+      }
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.04678439678971684,
+        "left": 0.5278233924519624,
+        "right": 0.8304037262330061,
+        "top": 0.03110042579120429
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.06327756489609433,
+        "left": 0.5280562966784377,
+        "right": 0.8304887150192988,
+        "top": 0.04550057799218343
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.061989570646450276,
+        "left": 0.8304037262330061,
+        "right": 0.9634753604899027,
+        "top": 0.04493695626109122
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.07932996992173995,
+        "left": 0.5283163336832678,
+        "right": 0.8305731489007515,
+        "top": 0.061989570646450276
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.0783709041349568,
+        "left": 0.8304887150192988,
+        "right": 0.9638113186989263,
+        "top": 0.06142272190306658
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.09503135527923666,
+        "left": 0.5285694214646005,
+        "right": 0.8306535128348909,
+        "top": 0.0783709041349568
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.09396261190602538,
+        "left": 0.8305731489007515,
+        "right": 0.9641272956240347,
+        "top": 0.07794778296611608
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.12253522742285729,
+        "left": 0.5288169749481831,
+        "right": 0.8307786193520468,
+        "top": 0.09396261190602538
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.11823499573884558,
+        "left": 0.8306535128348909,
+        "right": 0.9645915692280482,
+        "top": 0.09349000768835147
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "8924a1cf-f149-41a5-bb6c-78d60e2ca867",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "a7980eac-d250-43b9-a8f0-9b3676e4748a": {
+      "box": {
+        "bottom": 0.18456898629665375,
+        "left": 0.05402754247188568,
+        "right": 0.4595688581466675,
+        "top": 0.11847545206546783
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ed534d61-1366-4e12-9f20-9b1d56a4c29b": {
+      "box": {
+        "bottom": 0.22328472137451172,
+        "left": 0.5250804424285889,
+        "right": 0.9720995426177979,
+        "top": 0.12459484487771988
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "706be5e6-eb94-40eb-aee8-04a94f28bdb3": {
+      "box": {
+        "bottom": 0.24646347761154175,
+        "left": 0.03668013960123062,
+        "right": 0.27047207951545715,
+        "top": 0.19562938809394836
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "99b53440-5fc1-41cf-be84-1bf577e51c09": {
+      "box": {
+        "bottom": 0.22547703981399536,
+        "left": 0.3660748302936554,
+        "right": 0.4257791340351105,
+        "top": 0.19756931066513062
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9a9d9709-d41d-49c7-83e5-582dea3d792a": {
+      "box": {
+        "bottom": 0.290543794631958,
+        "left": 0.04450850188732147,
+        "right": 0.4016433358192444,
+        "top": 0.2624337077140808
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "310555fb-5ed7-4257-99cc-d8836c92a4aa": {
+      "box": {
+        "bottom": 0.40932536125183105,
+        "left": 0.027462080121040344,
+        "right": 0.47893619537353516,
+        "top": 0.3135271668434143
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.40610729254488476,
+        "left": 0.03491777980056629,
+        "right": 0.4734570326757028,
+        "top": 0.32116177480217933
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.3400387688248267,
+        "left": 0.03491777980056629,
+        "right": 0.10998991722795676,
+        "top": 0.32179882558776574
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3398869704525326,
+        "left": 0.10983153951788283,
+        "right": 0.18409061394039689,
+        "top": 0.32166839755170856
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.33973572077937314,
+        "left": 0.1837831615744873,
+        "right": 0.2571483262601424,
+        "top": 0.3215394160297526
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.33958659998023927,
+        "left": 0.2569146220512127,
+        "right": 0.34259580427810493,
+        "top": 0.321388734280718
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.3394121899720221,
+        "left": 0.342349932528089,
+        "right": 0.40083219037767814,
+        "top": 0.32128623030780623
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 4,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.33929332153010006,
+        "left": 0.4004688408028843,
+        "right": 0.4715695787095741,
+        "top": 0.32116177480217933
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 5,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.35788675562263234,
+        "left": 0.03562040017814963,
+        "right": 0.11014521255513676,
+        "top": 0.3398869704525326
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.3576230797417902,
+        "left": 0.10998991722795676,
+        "right": 0.18439049176467812,
+        "top": 0.33973572077937314
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.3573579289027959,
+        "left": 0.18409061394039689,
+        "right": 0.2573750829503655,
+        "top": 0.33958659998023927
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.35709728033641464,
+        "left": 0.2571483262601424,
+        "right": 0.342832896743412,
+        "top": 0.3394121899720221
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.35679208637301263,
+        "left": 0.34259580427810493,
+        "right": 0.40118107819615084,
+        "top": 0.33929332153010006
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 4,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.356583708555181,
+        "left": 0.40083219037767814,
+        "right": 0.4720810869662967,
+        "top": 0.3391489368300901
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 5,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.40610729254488476,
+        "left": 0.036312938562726216,
+        "right": 0.4734570326757028,
+        "top": 0.3563305046207322
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "310555fb-5ed7-4257-99cc-d8836c92a4aa",
+        "col": 0,
+        "colspan": 6,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "4357c327-99ce-471b-b6f8-a541e35e9533": {
+      "box": {
+        "bottom": 0.49995261430740356,
+        "left": 0.034273430705070496,
+        "right": 0.4017757773399353,
+        "top": 0.41315001249313354
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1186ef25-2831-4fb9-b985-f5544866166b": {
+      "box": {
+        "bottom": 0.4558924734592438,
+        "left": 0.48916247487068176,
+        "right": 0.9867763519287109,
+        "top": 0.30165597796440125
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.4558898809735936,
+        "left": 0.4935996923231545,
+        "right": 0.9825766006388719,
+        "top": 0.30507197656402996
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.3613744503068113,
+        "left": 0.4935996923231545,
+        "right": 0.978877994468178,
+        "top": 0.30507197656402996
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 0,
+        "colspan": 3,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.384534361099427,
+        "left": 0.49411952510192575,
+        "right": 0.6966307457823644,
+        "top": 0.3555973827152395
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.3790644146541181,
+        "left": 0.6965822393611566,
+        "right": 0.8575763869092945,
+        "top": 0.35101083810357775
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.3747087331696086,
+        "left": 0.8574089837534722,
+        "right": 0.9797599638416348,
+        "top": 0.3475456736409747
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.3965677601784171,
+        "left": 0.49440277141146205,
+        "right": 0.6965822393611566,
+        "top": 0.3790644146541181
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.39117020572853517,
+        "left": 0.6965572166568607,
+        "right": 0.8576622632400397,
+        "top": 0.3747087331696086
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.3868655426673294,
+        "left": 0.8575763869092945,
+        "right": 0.9802105357670953,
+        "top": 0.37140306801431955
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.4075208097883894,
+        "left": 0.4945499401942274,
+        "right": 0.6965572166568607,
+        "top": 0.39117020572853517
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.40241043257988773,
+        "left": 0.6965339830762552,
+        "right": 0.8577432416042544,
+        "top": 0.3868655426673294
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.398328987118871,
+        "left": 0.8576622632400397,
+        "right": 0.980640345585055,
+        "top": 0.38359110134379565
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.41875054750102597,
+        "left": 0.49468389627497283,
+        "right": 0.6965339830762552,
+        "top": 0.40241043257988773
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.4138949667756165,
+        "left": 0.6965102445116799,
+        "right": 0.857825766499311,
+        "top": 0.398328987118871
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.41001136128786064,
+        "left": 0.8577432416042544,
+        "right": 0.9810775561947567,
+        "top": 0.3952175167740866
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 2,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.4330717232217499,
+        "left": 0.4948212362583884,
+        "right": 0.6965102445116799,
+        "top": 0.4138949667756165
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.42963198467050623,
+        "left": 0.6964777160513039,
+        "right": 0.8579448947817524,
+        "top": 0.41001136128786064
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.4268753775175592,
+        "left": 0.857825766499311,
+        "right": 0.9817325590923957,
+        "top": 0.40704412465161394
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 2,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.4558898809735936,
+        "left": 0.4949963846088048,
+        "right": 0.6964777160513039,
+        "top": 0.42963198467050623
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 0,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.4524651774240702,
+        "left": 0.69643051977748,
+        "right": 0.8581062182270383,
+        "top": 0.4268753775175592
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 1,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.44971261770753135,
+        "left": 0.8579448947817524,
+        "right": 0.9825766006388719,
+        "top": 0.42476204424718
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "1186ef25-2831-4fb9-b985-f5544866166b",
+        "col": 2,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "1fea47a9-b61e-4b65-a1bc-dcf8b2ea3218": {
+      "box": {
+        "bottom": 0.7302171587944031,
+        "left": 0.21726390719413757,
+        "right": 0.8087506294250488,
+        "top": 0.6864020228385925
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "13df9502-08a0-4971-a943-2190e114993c": {
+      "box": {
+        "bottom": 0.8196544647216797,
+        "left": 0.021250396966934204,
+        "right": 0.18129295110702515,
+        "top": 0.7568082809448242
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "dfb4a2a7-7781-4284-a167-b64baaef3c16": {
+      "box": {
+        "bottom": 0.8429415225982666,
+        "left": 0.028046414256095886,
+        "right": 0.46287626028060913,
+        "top": 0.8173437118530273
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9c7053ae-b333-4d76-8190-da65a5454e28": {
+      "box": {
+        "bottom": 0.9125525951385498,
+        "left": 0.003581300377845764,
+        "right": 0.3410997986793518,
+        "top": 0.8512752056121826
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec": {
+      "box": {
+        "bottom": 0.8060601949691772,
+        "left": 0.5226454138755798,
+        "right": 0.9796949028968811,
+        "top": 0.7231162786483765
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.8021818542163714,
+        "left": 0.5461024168269164,
+        "right": 0.9791679011365702,
+        "top": 0.7272270915520558
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.8021818542163714,
+        "left": 0.5461024168269164,
+        "right": 0.8493358078018464,
+        "top": 0.7288540689651659
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 4
+      }
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.7438096631537269,
+        "left": 0.8452580206368374,
+        "right": 0.977183171285459,
+        "top": 0.7272270915520558
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.7627175374961972,
+        "left": 0.8461357550719945,
+        "right": 0.9778834452866081,
+        "top": 0.7424574711109065
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.781508341876127,
+        "left": 0.8472454463485004,
+        "right": 0.9785721010022654,
+        "top": 0.7615876506885939
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.798334913722363,
+        "left": 0.848348266862391,
+        "right": 0.9791679011365702,
+        "top": 0.7804004403767838
+      },
+      "page": 0,
+      "type": "tableCell",
+      "position": {
+        "chunk_id": "fda87ce1-ec99-4e21-83de-1a20e9a4a1ec",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "12781490-7a7a-40c5-af85-f4671f998a8a": {
+      "box": {
+        "bottom": 0.863548219203949,
+        "left": 0.5424968004226685,
+        "right": 0.9564436674118042,
+        "top": 0.8273022770881653
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d0c058af-3ec8-4262-882a-aa5baf3e278e": {
+      "box": {
+        "bottom": 0.9543269872665405,
+        "left": 0.5826624035835266,
+        "right": 0.9585272669792175,
+        "top": 0.8823317289352417
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "21b571a0-0b48-4dbb-831b-734250bde57c": {
+      "box": {
+        "bottom": 0.98176509141922,
+        "left": 0.013185203075408936,
+        "right": 0.3490511476993561,
+        "top": 0.9271443486213684
+      },
+      "page": 0,
+      "type": "chunkScanCode"
+    },
+    "44c96607-ac42-4ebb-85ed-614abdcca334": {
+      "box": {
+        "bottom": 0.990017294883728,
+        "left": 0.5447163581848145,
+        "right": 0.9953594207763672,
+        "top": 0.9604257345199585
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}
