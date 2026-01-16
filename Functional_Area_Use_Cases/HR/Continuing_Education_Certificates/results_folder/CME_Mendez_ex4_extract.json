@@ -1,0 +1,71 @@
+{
+  "extraction": {
+    "recipient_name": "Manoel Cortes Mendez",
+    "issuing_org": "The University of Texas MD Anderson Cancer Center",
+    "activity_title": "Cancer Survivorship Series: Module 1 - Overview of Survivorship",
+    "date_awarded": "2022-10-18",
+    "credit_awarded": "0.75 AMA PRA Category 1 Credit(s)™",
+    "credit_numeric": 0.75,
+    "ama_pra_cat1": true,
+    "ama_pra_cat2": null
+  },
+  "extraction_metadata": {
+    "recipient_name": {
+      "value": "Manoel Cortes Mendez",
+      "references": [
+        "0df7409d-2070-40d4-b216-cce320b3df17"
+      ]
+    },
+    "issuing_org": {
+      "value": "The University of Texas MD Anderson Cancer Center",
+      "references": [
+        "853255b3-7ffe-44f9-8fe1-0a21b2df0fb3"
+      ]
+    },
+    "activity_title": {
+      "value": "Cancer Survivorship Series: Module 1 - Overview of Survivorship",
+      "references": [
+        "6f049e31-2054-4816-8e8b-077ec3a46574"
+      ]
+    },
+    "date_awarded": {
+      "value": "2022-10-18",
+      "references": [
+        "6f049e31-2054-4816-8e8b-077ec3a46574"
+      ]
+    },
+    "credit_awarded": {
+      "value": "0.75 AMA PRA Category 1 Credit(s)™",
+      "references": [
+        "5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d"
+      ]
+    },
+    "credit_numeric": {
+      "value": 0.75,
+      "references": [
+        "5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d"
+      ]
+    },
+    "ama_pra_cat1": {
+      "value": true,
+      "references": [
+        "5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d",
+        "397e9eba-0805-4009-abbb-a0d72618d3e1"
+      ]
+    },
+    "ama_pra_cat2": {
+      "value": null,
+      "references": []
+    }
+  },
+  "metadata": {
+    "credit_usage": 0.6528,
+    "duration_ms": 4658,
+    "filename": "upload.md",
+    "job_id": "dcf8baa6ac2148c6a9637e6a6f68dbc0",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'boolean'\n\nFailed validating 'type' in schema['properties']['ama_pra_cat2']:\n    {'description': 'True if the CME credits awarded qualify for AMA PRA '\n                    'Category 2.',\n     'title': 'Ama Pra Cat2',\n     'type': 'boolean'}\n\nOn instance['ama_pra_cat2']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

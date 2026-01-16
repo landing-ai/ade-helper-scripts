@@ -1,0 +1,73 @@
+{
+  "extraction": {
+    "recipient_name": "Manoel Cortes Mendez",
+    "issuing_org": "Medscape, LLC",
+    "activity_title": "Patient Case: To Screen or Not to Screen for Chronic Kidney Disease",
+    "date_awarded": "2022-10-18",
+    "credit_awarded": "0.25 AMA PRA Category 1 Credit(s)™",
+    "credit_numeric": 0.25,
+    "ama_pra_cat1": true,
+    "ama_pra_cat2": null
+  },
+  "extraction_metadata": {
+    "recipient_name": {
+      "value": "Manoel Cortes Mendez",
+      "references": [
+        "891aab28-5f0c-4574-be29-34952a9e785d"
+      ]
+    },
+    "issuing_org": {
+      "value": "Medscape, LLC",
+      "references": [
+        "332c09ab-40b2-4266-a4f4-2880d3c6c95a",
+        "9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db"
+      ]
+    },
+    "activity_title": {
+      "value": "Patient Case: To Screen or Not to Screen for Chronic Kidney Disease",
+      "references": [
+        "5d546a77-822b-4c1a-a327-5fcd5630ee70"
+      ]
+    },
+    "date_awarded": {
+      "value": "2022-10-18",
+      "references": [
+        "6974c665-2168-489a-946d-075c6c2dccd8"
+      ]
+    },
+    "credit_awarded": {
+      "value": "0.25 AMA PRA Category 1 Credit(s)™",
+      "references": [
+        "6974c665-2168-489a-946d-075c6c2dccd8"
+      ]
+    },
+    "credit_numeric": {
+      "value": 0.25,
+      "references": [
+        "6974c665-2168-489a-946d-075c6c2dccd8",
+        "9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db"
+      ]
+    },
+    "ama_pra_cat1": {
+      "value": true,
+      "references": [
+        "6974c665-2168-489a-946d-075c6c2dccd8",
+        "9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db"
+      ]
+    },
+    "ama_pra_cat2": {
+      "value": null,
+      "references": []
+    }
+  },
+  "metadata": {
+    "credit_usage": 0.54,
+    "duration_ms": 6242,
+    "filename": "upload.md",
+    "job_id": "35685c6d1e704412ae44f79dfb7162ba",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'boolean'\n\nFailed validating 'type' in schema['properties']['ama_pra_cat2']:\n    {'description': 'True if the CME credits awarded qualify for AMA PRA '\n                    'Category 2.',\n     'title': 'Ama Pra Cat2',\n     'type': 'boolean'}\n\nOn instance['ama_pra_cat2']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

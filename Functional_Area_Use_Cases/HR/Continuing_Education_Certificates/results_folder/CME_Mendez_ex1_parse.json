@@ -1,0 +1,305 @@
+{
+  "chunks": [
+    {
+      "id": "4d4a7cf6-e3bf-4ce6-8c14-bb63ead659b7",
+      "grounding": {
+        "box": {
+          "bottom": 0.21501287817955017,
+          "left": 0.3817287087440491,
+          "right": 0.6136975288391113,
+          "top": 0.06890808790922165
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4d4a7cf6-e3bf-4ce6-8c14-bb63ead659b7'></a>\n\n<::logo: The Warren Alpert Medical School of Brown University\nTHE WARREN ALPERT\nMedical School\nBROWN UNIVERSITY\nA coat of arms with a griffin and a shield with books, accompanied by text in brown and black.::>",
+      "type": "logo"
+    },
+    {
+      "id": "553fcade-4964-4f4d-bec2-22300923abae",
+      "grounding": {
+        "box": {
+          "bottom": 0.2632497251033783,
+          "left": 0.37047290802001953,
+          "right": 0.632434606552124,
+          "top": 0.2250184416770935
+        },
+        "page": 0
+      },
+      "markdown": "<a id='553fcade-4964-4f4d-bec2-22300923abae'></a>\n\nWarren Alpert Medical School certifies that",
+      "type": "text"
+    },
+    {
+      "id": "768937c9-ed87-4c4c-9696-6086564077d4",
+      "grounding": {
+        "box": {
+          "bottom": 0.33767786622047424,
+          "left": 0.3942425847053528,
+          "right": 0.6059193015098572,
+          "top": 0.28994664549827576
+        },
+        "page": 0
+      },
+      "markdown": "<a id='768937c9-ed87-4c4c-9696-6086564077d4'></a>\n\nManoel Cortes Mendez",
+      "type": "text"
+    },
+    {
+      "id": "4d2ae783-408c-4a2c-aec9-5450e66c6846",
+      "grounding": {
+        "box": {
+          "bottom": 0.40556076169013977,
+          "left": 0.32773664593696594,
+          "right": 0.674296498298645,
+          "top": 0.3651076853275299
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4d2ae783-408c-4a2c-aec9-5450e66c6846'></a>\n\nhas participated in the enduring educational activity titled",
+      "type": "text"
+    },
+    {
+      "id": "58f86398-f8cd-4001-834b-7c6110d233fa",
+      "grounding": {
+        "box": {
+          "bottom": 0.5048971772193909,
+          "left": 0.0871066153049469,
+          "right": 0.9101028442382812,
+          "top": 0.4427395761013031
+        },
+        "page": 0
+      },
+      "markdown": "<a id='58f86398-f8cd-4001-834b-7c6110d233fa'></a>\n\nFears, Bias and Discrimination - Substance Use Disorder Patient Care",
+      "type": "text"
+    },
+    {
+      "id": "f56ec3a7-513b-4b3c-afbe-5e54f59c5733",
+      "grounding": {
+        "box": {
+          "bottom": 0.5863127112388611,
+          "left": 0.4380836486816406,
+          "right": 0.5635405778884888,
+          "top": 0.5485950112342834
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f56ec3a7-513b-4b3c-afbe-5e54f59c5733'></a>\n\nOn August 19, 2022",
+      "type": "text"
+    },
+    {
+      "id": "2b4e046e-7165-40c1-97f5-ffafd63627da",
+      "grounding": {
+        "box": {
+          "bottom": 0.6428968906402588,
+          "left": 0.34447264671325684,
+          "right": 0.6571701765060425,
+          "top": 0.6016234159469604
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2b4e046e-7165-40c1-97f5-ffafd63627da'></a>\n\nand is awarded 1.00 AMA PRA Category 1 Credits™",
+      "type": "text"
+    },
+    {
+      "id": "f60c8b35-e155-477a-944d-00520e273697",
+      "grounding": {
+        "box": {
+          "bottom": 0.7176735997200012,
+          "left": 0.05493450164794922,
+          "right": 0.9431998133659363,
+          "top": 0.6540207266807556
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f60c8b35-e155-477a-944d-00520e273697'></a>\n\nThis program qualifies for 1.0 hours CME Credit in Opioid Pain Management/Chronic Pain Management, one of the required areas of section 6.0; 6.2.1 RI CME re-licensure requirements.",
+      "type": "text"
+    },
+    {
+      "id": "12a9c395-a989-400f-a17d-0c85105c211a",
+      "grounding": {
+        "box": {
+          "bottom": 0.7685748338699341,
+          "left": 0.08363807201385498,
+          "right": 0.9081079363822937,
+          "top": 0.7304924726486206
+        },
+        "page": 0
+      },
+      "markdown": "<a id='12a9c395-a989-400f-a17d-0c85105c211a'></a>\n\nThe Warren Alpert Medical School of Brown University is accredited by the Accreditation Council for Continuing Medical Education to provide continuing medical education for physicians.",
+      "type": "text"
+    },
+    {
+      "id": "57200aa8-d3a6-4e4c-ab20-af89f806bf06",
+      "grounding": {
+        "box": {
+          "bottom": 0.8867032527923584,
+          "left": 0.37671706080436707,
+          "right": 0.6195620894432068,
+          "top": 0.7788004875183105
+        },
+        "page": 0
+      },
+      "markdown": "<a id='57200aa8-d3a6-4e4c-ab20-af89f806bf06'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nMaria Sullivan\nDirector, Continuing Medical Education\nA black handwritten signature \"Maria Sullivan\" is positioned above the printed text \"Director, Continuing Medical Education\" on a white background, centered in the image.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "f6fed348-0967-4f1b-a455-3941a00d5378",
+      "grounding": {
+        "box": {
+          "bottom": 0.9320231080055237,
+          "left": 0.20012962818145752,
+          "right": 0.7984533309936523,
+          "top": 0.8990845084190369
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f6fed348-0967-4f1b-a455-3941a00d5378'></a>\n\n233 Richmond St, Box G-R 156, Providence, RI 02912 | Telephone: 401-863-2871 | Fax: 401-863-2202 | CME@Brown.edu | http://www.brown.edu/cme",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='4d4a7cf6-e3bf-4ce6-8c14-bb63ead659b7'></a>\n\n<::logo: The Warren Alpert Medical School of Brown University\nTHE WARREN ALPERT\nMedical School\nBROWN UNIVERSITY\nA coat of arms with a griffin and a shield with books, accompanied by text in brown and black.::>\n\n<a id='553fcade-4964-4f4d-bec2-22300923abae'></a>\n\nWarren Alpert Medical School certifies that\n\n<a id='768937c9-ed87-4c4c-9696-6086564077d4'></a>\n\nManoel Cortes Mendez\n\n<a id='4d2ae783-408c-4a2c-aec9-5450e66c6846'></a>\n\nhas participated in the enduring educational activity titled\n\n<a id='58f86398-f8cd-4001-834b-7c6110d233fa'></a>\n\nFears, Bias and Discrimination - Substance Use Disorder Patient Care\n\n<a id='f56ec3a7-513b-4b3c-afbe-5e54f59c5733'></a>\n\nOn August 19, 2022\n\n<a id='2b4e046e-7165-40c1-97f5-ffafd63627da'></a>\n\nand is awarded 1.00 AMA PRA Category 1 Credits™\n\n<a id='f60c8b35-e155-477a-944d-00520e273697'></a>\n\nThis program qualifies for 1.0 hours CME Credit in Opioid Pain Management/Chronic Pain Management, one of the required areas of section 6.0; 6.2.1 RI CME re-licensure requirements.\n\n<a id='12a9c395-a989-400f-a17d-0c85105c211a'></a>\n\nThe Warren Alpert Medical School of Brown University is accredited by the Accreditation Council for Continuing Medical Education to provide continuing medical education for physicians.\n\n<a id='57200aa8-d3a6-4e4c-ab20-af89f806bf06'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nMaria Sullivan\nDirector, Continuing Medical Education\nA black handwritten signature \"Maria Sullivan\" is positioned above the printed text \"Director, Continuing Medical Education\" on a white background, centered in the image.::>\n\n<a id='f6fed348-0967-4f1b-a455-3941a00d5378'></a>\n\n233 Richmond St, Box G-R 156, Providence, RI 02912 | Telephone: 401-863-2871 | Fax: 401-863-2202 | CME@Brown.edu | http://www.brown.edu/cme",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 3206,
+    "filename": "CME_Mendez_ex1.png",
+    "job_id": "1ea7cd61812848a4a4cc05060a803dbd",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "4d4a7cf6-e3bf-4ce6-8c14-bb63ead659b7",
+        "553fcade-4964-4f4d-bec2-22300923abae",
+        "768937c9-ed87-4c4c-9696-6086564077d4",
+        "4d2ae783-408c-4a2c-aec9-5450e66c6846",
+        "58f86398-f8cd-4001-834b-7c6110d233fa",
+        "f56ec3a7-513b-4b3c-afbe-5e54f59c5733",
+        "2b4e046e-7165-40c1-97f5-ffafd63627da",
+        "f60c8b35-e155-477a-944d-00520e273697",
+        "12a9c395-a989-400f-a17d-0c85105c211a",
+        "57200aa8-d3a6-4e4c-ab20-af89f806bf06",
+        "f6fed348-0967-4f1b-a455-3941a00d5378"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='4d4a7cf6-e3bf-4ce6-8c14-bb63ead659b7'></a>\n\n<::logo: The Warren Alpert Medical School of Brown University\nTHE WARREN ALPERT\nMedical School\nBROWN UNIVERSITY\nA coat of arms with a griffin and a shield with books, accompanied by text in brown and black.::>\n\n<a id='553fcade-4964-4f4d-bec2-22300923abae'></a>\n\nWarren Alpert Medical School certifies that\n\n<a id='768937c9-ed87-4c4c-9696-6086564077d4'></a>\n\nManoel Cortes Mendez\n\n<a id='4d2ae783-408c-4a2c-aec9-5450e66c6846'></a>\n\nhas participated in the enduring educational activity titled\n\n<a id='58f86398-f8cd-4001-834b-7c6110d233fa'></a>\n\nFears, Bias and Discrimination - Substance Use Disorder Patient Care\n\n<a id='f56ec3a7-513b-4b3c-afbe-5e54f59c5733'></a>\n\nOn August 19, 2022\n\n<a id='2b4e046e-7165-40c1-97f5-ffafd63627da'></a>\n\nand is awarded 1.00 AMA PRA Category 1 Credits™\n\n<a id='f60c8b35-e155-477a-944d-00520e273697'></a>\n\nThis program qualifies for 1.0 hours CME Credit in Opioid Pain Management/Chronic Pain Management, one of the required areas of section 6.0; 6.2.1 RI CME re-licensure requirements.\n\n<a id='12a9c395-a989-400f-a17d-0c85105c211a'></a>\n\nThe Warren Alpert Medical School of Brown University is accredited by the Accreditation Council for Continuing Medical Education to provide continuing medical education for physicians.\n\n<a id='57200aa8-d3a6-4e4c-ab20-af89f806bf06'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nMaria Sullivan\nDirector, Continuing Medical Education\nA black handwritten signature \"Maria Sullivan\" is positioned above the printed text \"Director, Continuing Medical Education\" on a white background, centered in the image.::>\n\n<a id='f6fed348-0967-4f1b-a455-3941a00d5378'></a>\n\n233 Richmond St, Box G-R 156, Providence, RI 02912 | Telephone: 401-863-2871 | Fax: 401-863-2202 | CME@Brown.edu | http://www.brown.edu/cme",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "4d4a7cf6-e3bf-4ce6-8c14-bb63ead659b7": {
+      "box": {
+        "bottom": 0.21501287817955017,
+        "left": 0.3817287087440491,
+        "right": 0.6136975288391113,
+        "top": 0.06890808790922165
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "553fcade-4964-4f4d-bec2-22300923abae": {
+      "box": {
+        "bottom": 0.2632497251033783,
+        "left": 0.37047290802001953,
+        "right": 0.632434606552124,
+        "top": 0.2250184416770935
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "768937c9-ed87-4c4c-9696-6086564077d4": {
+      "box": {
+        "bottom": 0.33767786622047424,
+        "left": 0.3942425847053528,
+        "right": 0.6059193015098572,
+        "top": 0.28994664549827576
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4d2ae783-408c-4a2c-aec9-5450e66c6846": {
+      "box": {
+        "bottom": 0.40556076169013977,
+        "left": 0.32773664593696594,
+        "right": 0.674296498298645,
+        "top": 0.3651076853275299
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "58f86398-f8cd-4001-834b-7c6110d233fa": {
+      "box": {
+        "bottom": 0.5048971772193909,
+        "left": 0.0871066153049469,
+        "right": 0.9101028442382812,
+        "top": 0.4427395761013031
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f56ec3a7-513b-4b3c-afbe-5e54f59c5733": {
+      "box": {
+        "bottom": 0.5863127112388611,
+        "left": 0.4380836486816406,
+        "right": 0.5635405778884888,
+        "top": 0.5485950112342834
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2b4e046e-7165-40c1-97f5-ffafd63627da": {
+      "box": {
+        "bottom": 0.6428968906402588,
+        "left": 0.34447264671325684,
+        "right": 0.6571701765060425,
+        "top": 0.6016234159469604
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f60c8b35-e155-477a-944d-00520e273697": {
+      "box": {
+        "bottom": 0.7176735997200012,
+        "left": 0.05493450164794922,
+        "right": 0.9431998133659363,
+        "top": 0.6540207266807556
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "12a9c395-a989-400f-a17d-0c85105c211a": {
+      "box": {
+        "bottom": 0.7685748338699341,
+        "left": 0.08363807201385498,
+        "right": 0.9081079363822937,
+        "top": 0.7304924726486206
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "57200aa8-d3a6-4e4c-ab20-af89f806bf06": {
+      "box": {
+        "bottom": 0.8867032527923584,
+        "left": 0.37671706080436707,
+        "right": 0.6195620894432068,
+        "top": 0.7788004875183105
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "f6fed348-0967-4f1b-a455-3941a00d5378": {
+      "box": {
+        "bottom": 0.9320231080055237,
+        "left": 0.20012962818145752,
+        "right": 0.7984533309936523,
+        "top": 0.8990845084190369
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

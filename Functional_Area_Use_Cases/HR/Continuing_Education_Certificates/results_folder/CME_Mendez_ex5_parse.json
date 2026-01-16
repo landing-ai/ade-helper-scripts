@@ -1,0 +1,205 @@
+{
+  "chunks": [
+    {
+      "id": "23fd5471-0717-4ab5-b701-b7414298066a",
+      "grounding": {
+        "box": {
+          "bottom": 0.13180823624134064,
+          "left": 0.18170011043548584,
+          "right": 0.8152531385421753,
+          "top": 0.0686657726764679
+        },
+        "page": 0
+      },
+      "markdown": "<a id='23fd5471-0717-4ab5-b701-b7414298066a'></a>\n\n***CONTINUING MEDICAL EDUCATION CERTIFICATE***",
+      "type": "text"
+    },
+    {
+      "id": "332c09ab-40b2-4266-a4f4-2880d3c6c95a",
+      "grounding": {
+        "box": {
+          "bottom": 0.2988176643848419,
+          "left": 0.3912568986415863,
+          "right": 0.5997633934020996,
+          "top": 0.159275621175766
+        },
+        "page": 0
+      },
+      "markdown": "<a id='332c09ab-40b2-4266-a4f4-2880d3c6c95a'></a>\n\nMedscape\ncertifies that",
+      "type": "text"
+    },
+    {
+      "id": "891aab28-5f0c-4574-be29-34952a9e785d",
+      "grounding": {
+        "box": {
+          "bottom": 0.4080730974674225,
+          "left": 0.2980690598487854,
+          "right": 0.6993106603622437,
+          "top": 0.3120444715023041
+        },
+        "page": 0
+      },
+      "markdown": "<a id='891aab28-5f0c-4574-be29-34952a9e785d'></a>\n\nManoel Cortes Mendez\nhas participated in the enduring material titled",
+      "type": "text"
+    },
+    {
+      "id": "5d546a77-822b-4c1a-a327-5fcd5630ee70",
+      "grounding": {
+        "box": {
+          "bottom": 0.470710813999176,
+          "left": 0.11617323756217957,
+          "right": 0.8805303573608398,
+          "top": 0.41580647230148315
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5d546a77-822b-4c1a-a327-5fcd5630ee70'></a>\n\nPatient Case: To Screen or Not to Screen for Chronic Kidney Disease",
+      "type": "text"
+    },
+    {
+      "id": "6974c665-2168-489a-946d-075c6c2dccd8",
+      "grounding": {
+        "box": {
+          "bottom": 0.580985426902771,
+          "left": 0.25879448652267456,
+          "right": 0.7369762659072876,
+          "top": 0.48088768124580383
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6974c665-2168-489a-946d-075c6c2dccd8'></a>\n\nOctober 18, 2022\nand is awarded 0.25 AMA PRA Category 1 Credit(s)™.",
+      "type": "text"
+    },
+    {
+      "id": "9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db",
+      "grounding": {
+        "box": {
+          "bottom": 0.7114155888557434,
+          "left": 0.0856696367263794,
+          "right": 0.911274254322052,
+          "top": 0.5910574793815613
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db'></a>\n\nMedscape, LLC designates this enduring material for a maximum of **0.25** AMA PRA Category 1 Credit(s)™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.",
+      "type": "text"
+    },
+    {
+      "id": "cc3f2237-e3ad-4b04-8011-8cad30775ba2",
+      "grounding": {
+        "box": {
+          "bottom": 0.9686391949653625,
+          "left": 0.39319151639938354,
+          "right": 0.6027660369873047,
+          "top": 0.7362688183784485
+        },
+        "page": 0
+      },
+      "markdown": "<a id='cc3f2237-e3ad-4b04-8011-8cad30775ba2'></a>\n\n<::logo: Jointly Accredited Provider\nJOINTLY ACCREDITED PROVIDER\nWITH COMMENDATION\nINTERPROFESSIONAL CONTINUING EDUCATION\nThis logo features a circular emblem with a stylized 'A' shape, surrounded by a laurel wreath, with text below.::>",
+      "type": "logo"
+    }
+  ],
+  "markdown": "<a id='23fd5471-0717-4ab5-b701-b7414298066a'></a>\n\n***CONTINUING MEDICAL EDUCATION CERTIFICATE***\n\n<a id='332c09ab-40b2-4266-a4f4-2880d3c6c95a'></a>\n\nMedscape\ncertifies that\n\n<a id='891aab28-5f0c-4574-be29-34952a9e785d'></a>\n\nManoel Cortes Mendez\nhas participated in the enduring material titled\n\n<a id='5d546a77-822b-4c1a-a327-5fcd5630ee70'></a>\n\nPatient Case: To Screen or Not to Screen for Chronic Kidney Disease\n\n<a id='6974c665-2168-489a-946d-075c6c2dccd8'></a>\n\nOctober 18, 2022\nand is awarded 0.25 AMA PRA Category 1 Credit(s)™.\n\n<a id='9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db'></a>\n\nMedscape, LLC designates this enduring material for a maximum of **0.25** AMA PRA Category 1 Credit(s)™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.\n\n<a id='cc3f2237-e3ad-4b04-8011-8cad30775ba2'></a>\n\n<::logo: Jointly Accredited Provider\nJOINTLY ACCREDITED PROVIDER\nWITH COMMENDATION\nINTERPROFESSIONAL CONTINUING EDUCATION\nThis logo features a circular emblem with a stylized 'A' shape, surrounded by a laurel wreath, with text below.::>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 3272,
+    "filename": "CME_Mendez_ex5.png",
+    "job_id": "1909513314874c5f96a07e30b3386418",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "23fd5471-0717-4ab5-b701-b7414298066a",
+        "332c09ab-40b2-4266-a4f4-2880d3c6c95a",
+        "891aab28-5f0c-4574-be29-34952a9e785d",
+        "5d546a77-822b-4c1a-a327-5fcd5630ee70",
+        "6974c665-2168-489a-946d-075c6c2dccd8",
+        "9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db",
+        "cc3f2237-e3ad-4b04-8011-8cad30775ba2"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='23fd5471-0717-4ab5-b701-b7414298066a'></a>\n\n***CONTINUING MEDICAL EDUCATION CERTIFICATE***\n\n<a id='332c09ab-40b2-4266-a4f4-2880d3c6c95a'></a>\n\nMedscape\ncertifies that\n\n<a id='891aab28-5f0c-4574-be29-34952a9e785d'></a>\n\nManoel Cortes Mendez\nhas participated in the enduring material titled\n\n<a id='5d546a77-822b-4c1a-a327-5fcd5630ee70'></a>\n\nPatient Case: To Screen or Not to Screen for Chronic Kidney Disease\n\n<a id='6974c665-2168-489a-946d-075c6c2dccd8'></a>\n\nOctober 18, 2022\nand is awarded 0.25 AMA PRA Category 1 Credit(s)™.\n\n<a id='9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db'></a>\n\nMedscape, LLC designates this enduring material for a maximum of **0.25** AMA PRA Category 1 Credit(s)™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.\n\n<a id='cc3f2237-e3ad-4b04-8011-8cad30775ba2'></a>\n\n<::logo: Jointly Accredited Provider\nJOINTLY ACCREDITED PROVIDER\nWITH COMMENDATION\nINTERPROFESSIONAL CONTINUING EDUCATION\nThis logo features a circular emblem with a stylized 'A' shape, surrounded by a laurel wreath, with text below.::>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "23fd5471-0717-4ab5-b701-b7414298066a": {
+      "box": {
+        "bottom": 0.13180823624134064,
+        "left": 0.18170011043548584,
+        "right": 0.8152531385421753,
+        "top": 0.0686657726764679
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "332c09ab-40b2-4266-a4f4-2880d3c6c95a": {
+      "box": {
+        "bottom": 0.2988176643848419,
+        "left": 0.3912568986415863,
+        "right": 0.5997633934020996,
+        "top": 0.159275621175766
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "891aab28-5f0c-4574-be29-34952a9e785d": {
+      "box": {
+        "bottom": 0.4080730974674225,
+        "left": 0.2980690598487854,
+        "right": 0.6993106603622437,
+        "top": 0.3120444715023041
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5d546a77-822b-4c1a-a327-5fcd5630ee70": {
+      "box": {
+        "bottom": 0.470710813999176,
+        "left": 0.11617323756217957,
+        "right": 0.8805303573608398,
+        "top": 0.41580647230148315
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "6974c665-2168-489a-946d-075c6c2dccd8": {
+      "box": {
+        "bottom": 0.580985426902771,
+        "left": 0.25879448652267456,
+        "right": 0.7369762659072876,
+        "top": 0.48088768124580383
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9d67a4f3-d933-4c64-a9bd-37cb5f1ce8db": {
+      "box": {
+        "bottom": 0.7114155888557434,
+        "left": 0.0856696367263794,
+        "right": 0.911274254322052,
+        "top": 0.5910574793815613
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "cc3f2237-e3ad-4b04-8011-8cad30775ba2": {
+      "box": {
+        "bottom": 0.9686391949653625,
+        "left": 0.39319151639938354,
+        "right": 0.6027660369873047,
+        "top": 0.7362688183784485
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    }
+  }
+}

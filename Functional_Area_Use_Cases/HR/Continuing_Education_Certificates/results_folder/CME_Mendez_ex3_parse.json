@@ -1,0 +1,130 @@
+{
+  "chunks": [
+    {
+      "id": "70d1b725-d83d-48d4-8954-20e51667c8b2",
+      "grounding": {
+        "box": {
+          "bottom": 0.3272070288658142,
+          "left": 0.04761023074388504,
+          "right": 0.22455552220344543,
+          "top": 0.08180047571659088
+        },
+        "page": 0
+      },
+      "markdown": "<a id='70d1b725-d83d-48d4-8954-20e51667c8b2'></a>\n\n<::logo: Johns Hopkins Medicine\nJOHNS HOPKINS\nMEDICINE\nTurner 20 / 720 Rutland Avenue\nBaltimore, Maryland 21205-2195\n(410)502-9634 T / (866)510-7088 F\nThe logo features a yellow dome structure on a blue shield-like shape, with the words \"JOHNS HOPKINS MEDICINE\" in dark blue text below.::>",
+      "type": "logo"
+    },
+    {
+      "id": "1d8245ab-9f31-406c-ac1b-2467584b38b8",
+      "grounding": {
+        "box": {
+          "bottom": 0.3243864178657532,
+          "left": 0.3056454658508301,
+          "right": 0.6662086248397827,
+          "top": 0.1693696826696396
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1d8245ab-9f31-406c-ac1b-2467584b38b8'></a>\n\nCERTIFICATE OF ATTENDANCE\n\nJohns Hopkins University School of Medicine\n\nCertifies that",
+      "type": "text"
+    },
+    {
+      "id": "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b",
+      "grounding": {
+        "box": {
+          "bottom": 0.623545229434967,
+          "left": 0.07257243990898132,
+          "right": 0.8272275924682617,
+          "top": 0.48901185393333435
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b'></a>\n\nManoel Cortes Mendez, BS\n\nhas participated in the Enduring Material titled Pain Medicine Management - Pain Management of Low Back Pain on 08/18/2022. This activity was designated for 1.00 AMA PRA Category 1 Credit(s)™.",
+      "type": "text"
+    },
+    {
+      "id": "96f834e2-4fb6-42e9-9957-18efa7fcea94",
+      "grounding": {
+        "box": {
+          "bottom": 0.9993059039115906,
+          "left": 0.6581355929374695,
+          "right": 0.852717936038971,
+          "top": 0.9171302914619446
+        },
+        "page": 0
+      },
+      "markdown": "<a id='96f834e2-4fb6-42e9-9957-18efa7fcea94'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nA blue handwritten signature is centered in the image.::>",
+      "type": "attestation"
+    }
+  ],
+  "markdown": "<a id='70d1b725-d83d-48d4-8954-20e51667c8b2'></a>\n\n<::logo: Johns Hopkins Medicine\nJOHNS HOPKINS\nMEDICINE\nTurner 20 / 720 Rutland Avenue\nBaltimore, Maryland 21205-2195\n(410)502-9634 T / (866)510-7088 F\nThe logo features a yellow dome structure on a blue shield-like shape, with the words \"JOHNS HOPKINS MEDICINE\" in dark blue text below.::>\n\n<a id='1d8245ab-9f31-406c-ac1b-2467584b38b8'></a>\n\nCERTIFICATE OF ATTENDANCE\n\nJohns Hopkins University School of Medicine\n\nCertifies that\n\n<a id='ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b'></a>\n\nManoel Cortes Mendez, BS\n\nhas participated in the Enduring Material titled Pain Medicine Management - Pain Management of Low Back Pain on 08/18/2022. This activity was designated for 1.00 AMA PRA Category 1 Credit(s)™.\n\n<a id='96f834e2-4fb6-42e9-9957-18efa7fcea94'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nA blue handwritten signature is centered in the image.::>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 3398,
+    "filename": "CME_Mendez_ex3.png",
+    "job_id": "9d6e6d99b2944a5d99894aa7e064f34b",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "70d1b725-d83d-48d4-8954-20e51667c8b2",
+        "1d8245ab-9f31-406c-ac1b-2467584b38b8",
+        "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b",
+        "96f834e2-4fb6-42e9-9957-18efa7fcea94"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='70d1b725-d83d-48d4-8954-20e51667c8b2'></a>\n\n<::logo: Johns Hopkins Medicine\nJOHNS HOPKINS\nMEDICINE\nTurner 20 / 720 Rutland Avenue\nBaltimore, Maryland 21205-2195\n(410)502-9634 T / (866)510-7088 F\nThe logo features a yellow dome structure on a blue shield-like shape, with the words \"JOHNS HOPKINS MEDICINE\" in dark blue text below.::>\n\n<a id='1d8245ab-9f31-406c-ac1b-2467584b38b8'></a>\n\nCERTIFICATE OF ATTENDANCE\n\nJohns Hopkins University School of Medicine\n\nCertifies that\n\n<a id='ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b'></a>\n\nManoel Cortes Mendez, BS\n\nhas participated in the Enduring Material titled Pain Medicine Management - Pain Management of Low Back Pain on 08/18/2022. This activity was designated for 1.00 AMA PRA Category 1 Credit(s)™.\n\n<a id='96f834e2-4fb6-42e9-9957-18efa7fcea94'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nA blue handwritten signature is centered in the image.::>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "70d1b725-d83d-48d4-8954-20e51667c8b2": {
+      "box": {
+        "bottom": 0.3272070288658142,
+        "left": 0.04761023074388504,
+        "right": 0.22455552220344543,
+        "top": 0.08180047571659088
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "1d8245ab-9f31-406c-ac1b-2467584b38b8": {
+      "box": {
+        "bottom": 0.3243864178657532,
+        "left": 0.3056454658508301,
+        "right": 0.6662086248397827,
+        "top": 0.1693696826696396
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b": {
+      "box": {
+        "bottom": 0.623545229434967,
+        "left": 0.07257243990898132,
+        "right": 0.8272275924682617,
+        "top": 0.48901185393333435
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "96f834e2-4fb6-42e9-9957-18efa7fcea94": {
+      "box": {
+        "bottom": 0.9993059039115906,
+        "left": 0.6581355929374695,
+        "right": 0.852717936038971,
+        "top": 0.9171302914619446
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    }
+  }
+}

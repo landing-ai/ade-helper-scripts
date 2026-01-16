@@ -1,0 +1,71 @@
+{
+  "extraction": {
+    "recipient_name": "Manoel Cortes Mendez",
+    "issuing_org": "The Warren Alpert Medical School of Brown University",
+    "activity_title": "Fears, Bias and Discrimination - Substance Use Disorder Patient Care",
+    "date_awarded": "2022-08-19",
+    "credit_awarded": "1.00 AMA PRA Category 1 Credits™",
+    "credit_numeric": 1.0,
+    "ama_pra_cat1": true,
+    "ama_pra_cat2": null
+  },
+  "extraction_metadata": {
+    "recipient_name": {
+      "value": "Manoel Cortes Mendez",
+      "references": [
+        "768937c9-ed87-4c4c-9696-6086564077d4"
+      ]
+    },
+    "issuing_org": {
+      "value": "The Warren Alpert Medical School of Brown University",
+      "references": [
+        "4d4a7cf6-e3bf-4ce6-8c14-bb63ead659b7",
+        "553fcade-4964-4f4d-bec2-22300923abae"
+      ]
+    },
+    "activity_title": {
+      "value": "Fears, Bias and Discrimination - Substance Use Disorder Patient Care",
+      "references": [
+        "58f86398-f8cd-4001-834b-7c6110d233fa"
+      ]
+    },
+    "date_awarded": {
+      "value": "2022-08-19",
+      "references": [
+        "f56ec3a7-513b-4b3c-afbe-5e54f59c5733"
+      ]
+    },
+    "credit_awarded": {
+      "value": "1.00 AMA PRA Category 1 Credits™",
+      "references": [
+        "2b4e046e-7165-40c1-97f5-ffafd63627da"
+      ]
+    },
+    "credit_numeric": {
+      "value": 1.0,
+      "references": [
+        "2b4e046e-7165-40c1-97f5-ffafd63627da"
+      ]
+    },
+    "ama_pra_cat1": {
+      "value": true,
+      "references": [
+        "2b4e046e-7165-40c1-97f5-ffafd63627da"
+      ]
+    },
+    "ama_pra_cat2": {
+      "value": null,
+      "references": []
+    }
+  },
+  "metadata": {
+    "credit_usage": 0.7245999999999999,
+    "duration_ms": 6602,
+    "filename": "upload.md",
+    "job_id": "a3e5198b440546f9a74fe2eabe8c4db9",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'boolean'\n\nFailed validating 'type' in schema['properties']['ama_pra_cat2']:\n    {'description': 'True if the CME credits awarded qualify for AMA PRA '\n                    'Category 2.',\n     'title': 'Ama Pra Cat2',\n     'type': 'boolean'}\n\nOn instance['ama_pra_cat2']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

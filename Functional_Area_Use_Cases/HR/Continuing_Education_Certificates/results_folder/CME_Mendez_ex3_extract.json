@@ -1,0 +1,70 @@
+{
+  "extraction": {
+    "recipient_name": "Manoel Cortes Mendez",
+    "issuing_org": "Johns Hopkins University School of Medicine",
+    "activity_title": "Pain Medicine Management - Pain Management of Low Back Pain",
+    "date_awarded": "2022-08-18",
+    "credit_awarded": "1.00 AMA PRA Category 1 Credit(s)™",
+    "credit_numeric": 1.0,
+    "ama_pra_cat1": true,
+    "ama_pra_cat2": null
+  },
+  "extraction_metadata": {
+    "recipient_name": {
+      "value": "Manoel Cortes Mendez",
+      "references": [
+        "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b"
+      ]
+    },
+    "issuing_org": {
+      "value": "Johns Hopkins University School of Medicine",
+      "references": [
+        "1d8245ab-9f31-406c-ac1b-2467584b38b8"
+      ]
+    },
+    "activity_title": {
+      "value": "Pain Medicine Management - Pain Management of Low Back Pain",
+      "references": [
+        "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b"
+      ]
+    },
+    "date_awarded": {
+      "value": "2022-08-18",
+      "references": [
+        "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b"
+      ]
+    },
+    "credit_awarded": {
+      "value": "1.00 AMA PRA Category 1 Credit(s)™",
+      "references": [
+        "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b"
+      ]
+    },
+    "credit_numeric": {
+      "value": 1.0,
+      "references": [
+        "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b"
+      ]
+    },
+    "ama_pra_cat1": {
+      "value": true,
+      "references": [
+        "ee93e7ed-4eb5-40ea-89b6-98e8ef2cd09b"
+      ]
+    },
+    "ama_pra_cat2": {
+      "value": null,
+      "references": []
+    }
+  },
+  "metadata": {
+    "credit_usage": 0.5258,
+    "duration_ms": 5213,
+    "filename": "upload.md",
+    "job_id": "a886acede873468294075bd10d831a84",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'boolean'\n\nFailed validating 'type' in schema['properties']['ama_pra_cat2']:\n    {'description': 'True if the CME credits awarded qualify for AMA PRA '\n                    'Category 2.',\n     'title': 'Ama Pra Cat2',\n     'type': 'boolean'}\n\nOn instance['ama_pra_cat2']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

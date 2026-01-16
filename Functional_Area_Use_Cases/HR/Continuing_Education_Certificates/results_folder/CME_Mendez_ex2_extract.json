@@ -1,0 +1,70 @@
+{
+  "extraction": {
+    "recipient_name": "Manoel Cortes Mendez",
+    "issuing_org": "Stanford University School of Medicine",
+    "activity_title": "Introduction to Food and Health",
+    "date_awarded": "2022-06-27",
+    "credit_awarded": "2.50 AMA PRA Category 1 Credit(s)",
+    "credit_numeric": 2.5,
+    "ama_pra_cat1": true,
+    "ama_pra_cat2": null
+  },
+  "extraction_metadata": {
+    "recipient_name": {
+      "value": "Manoel Cortes Mendez",
+      "references": [
+        "3ae64901-9273-431f-8ac2-7cd97251e3e9"
+      ]
+    },
+    "issuing_org": {
+      "value": "Stanford University School of Medicine",
+      "references": [
+        "3ae64901-9273-431f-8ac2-7cd97251e3e9"
+      ]
+    },
+    "activity_title": {
+      "value": "Introduction to Food and Health",
+      "references": [
+        "3e8a3adf-3437-40cb-8ee1-afbcd68fdffa"
+      ]
+    },
+    "date_awarded": {
+      "value": "2022-06-27",
+      "references": [
+        "e7290719-0e1f-44b7-81b8-1a68a33b9deb"
+      ]
+    },
+    "credit_awarded": {
+      "value": "2.50 AMA PRA Category 1 Credit(s)",
+      "references": [
+        "f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a"
+      ]
+    },
+    "credit_numeric": {
+      "value": 2.5,
+      "references": [
+        "f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a"
+      ]
+    },
+    "ama_pra_cat1": {
+      "value": true,
+      "references": [
+        "f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a"
+      ]
+    },
+    "ama_pra_cat2": {
+      "value": null,
+      "references": []
+    }
+  },
+  "metadata": {
+    "credit_usage": 0.6068,
+    "duration_ms": 5209,
+    "filename": "upload.md",
+    "job_id": "647683023a734e718cabc0340c004d00",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20251024",
+    "fallback_model_version": null,
+    "schema_violation_error": "Extracted data does not completely conform to the requested schema. See below error for details.\nNone is not of type 'boolean'\n\nFailed validating 'type' in schema['properties']['ama_pra_cat2']:\n    {'description': 'True if the CME credits awarded qualify for AMA PRA '\n                    'Category 2.',\n     'title': 'Ama Pra Cat2',\n     'type': 'boolean'}\n\nOn instance['ama_pra_cat2']:\n    None\nPlease read our documentation for more information: https://docs.landing.ai/ade/ade-extract-troubleshoot"
+  }
+}

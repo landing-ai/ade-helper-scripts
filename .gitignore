@@ -9,7 +9,3 @@ venv/
 
 # IDE settings
 .vscode/
-
-# Results and output folders
-results_folder/
-**/results_folder/

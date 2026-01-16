@@ -1,0 +1,230 @@
+{
+  "chunks": [
+    {
+      "id": "580b3443-0448-4dd0-8782-256eb3254a66",
+      "grounding": {
+        "box": {
+          "bottom": 0.29143989086151123,
+          "left": 0.2804635167121887,
+          "right": 0.7190355658531189,
+          "top": 0.08393116295337677
+        },
+        "page": 0
+      },
+      "markdown": "<a id='580b3443-0448-4dd0-8782-256eb3254a66'></a>\n\n<::logo: Stanford Medicine\nStanford Medicine\nA maroon shield with three internal sections: a fern, a medical caduceus, and an abstract shape, all in white, accompanies the red text \"Stanford\" and the black text \"MEDICINE\"::>",
+      "type": "logo"
+    },
+    {
+      "id": "3ae64901-9273-431f-8ac2-7cd97251e3e9",
+      "grounding": {
+        "box": {
+          "bottom": 0.41620951890945435,
+          "left": 0.2726283669471741,
+          "right": 0.7245925068855286,
+          "top": 0.31513482332229614
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3ae64901-9273-431f-8ac2-7cd97251e3e9'></a>\n\nStanford University School of Medicine certifies that\nManoel Cortes Mendez, BS",
+      "type": "text"
+    },
+    {
+      "id": "30e9f752-ddfb-4692-a822-1ede7ee92eb1",
+      "grounding": {
+        "box": {
+          "bottom": 0.4822801649570465,
+          "left": 0.23967155814170837,
+          "right": 0.7585526704788208,
+          "top": 0.4308590590953827
+        },
+        "page": 0
+      },
+      "markdown": "<a id='30e9f752-ddfb-4692-a822-1ede7ee92eb1'></a>\n\nhas participated for _2.50_ hours in the Enduring Material titled",
+      "type": "text"
+    },
+    {
+      "id": "3e8a3adf-3437-40cb-8ee1-afbcd68fdffa",
+      "grounding": {
+        "box": {
+          "bottom": 0.5507793426513672,
+          "left": 0.29683440923690796,
+          "right": 0.7017825245857239,
+          "top": 0.4958336353302002
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3e8a3adf-3437-40cb-8ee1-afbcd68fdffa'></a>\n\nIntroduction to Food and Health",
+      "type": "text"
+    },
+    {
+      "id": "e7290719-0e1f-44b7-81b8-1a68a33b9deb",
+      "grounding": {
+        "box": {
+          "bottom": 0.611706554889679,
+          "left": 0.4345460534095764,
+          "right": 0.5687195658683777,
+          "top": 0.5666806101799011
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e7290719-0e1f-44b7-81b8-1a68a33b9deb'></a>\n\non 06/27/2022",
+      "type": "text"
+    },
+    {
+      "id": "f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a",
+      "grounding": {
+        "box": {
+          "bottom": 0.667594313621521,
+          "left": 0.2731092572212219,
+          "right": 0.7263872027397156,
+          "top": 0.6241222620010376
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a'></a>\n\nThis Activity was designated for **2.50** *AMA PRA Category 1 Credit(s)*™",
+      "type": "text"
+    },
+    {
+      "id": "9ec6e791-b4f9-4abb-8912-a18be74839ad",
+      "grounding": {
+        "box": {
+          "bottom": 0.8346899151802063,
+          "left": 0.05367165803909302,
+          "right": 0.8952194452285767,
+          "top": 0.6814711689949036
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9ec6e791-b4f9-4abb-8912-a18be74839ad'></a>\n\nJOINTLY ACCREDITED PROVIDER\nINTERPROFESSIONAL CONTINUING EDUCATION\n\nAccreditation\nIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for\nContinuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the\nAmerican Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.",
+      "type": "text"
+    },
+    {
+      "id": "56b3c9d6-da5e-432a-8632-25332a8aef76",
+      "grounding": {
+        "box": {
+          "bottom": 0.9931328892707825,
+          "left": 0.6252646446228027,
+          "right": 0.9524755477905273,
+          "top": 0.8421760201454163
+        },
+        "page": 0
+      },
+      "markdown": "<a id='56b3c9d6-da5e-432a-8632-25332a8aef76'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nDaryl Oakes, MD\nAssociate Dean for Continuing Medical Education\nA black, stylized signature is placed above the typed name and title, centered in the image.::>",
+      "type": "attestation"
+    }
+  ],
+  "markdown": "<a id='580b3443-0448-4dd0-8782-256eb3254a66'></a>\n\n<::logo: Stanford Medicine\nStanford Medicine\nA maroon shield with three internal sections: a fern, a medical caduceus, and an abstract shape, all in white, accompanies the red text \"Stanford\" and the black text \"MEDICINE\"::>\n\n<a id='3ae64901-9273-431f-8ac2-7cd97251e3e9'></a>\n\nStanford University School of Medicine certifies that\nManoel Cortes Mendez, BS\n\n<a id='30e9f752-ddfb-4692-a822-1ede7ee92eb1'></a>\n\nhas participated for _2.50_ hours in the Enduring Material titled\n\n<a id='3e8a3adf-3437-40cb-8ee1-afbcd68fdffa'></a>\n\nIntroduction to Food and Health\n\n<a id='e7290719-0e1f-44b7-81b8-1a68a33b9deb'></a>\n\non 06/27/2022\n\n<a id='f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a'></a>\n\nThis Activity was designated for **2.50** *AMA PRA Category 1 Credit(s)*™\n\n<a id='9ec6e791-b4f9-4abb-8912-a18be74839ad'></a>\n\nJOINTLY ACCREDITED PROVIDER\nINTERPROFESSIONAL CONTINUING EDUCATION\n\nAccreditation\nIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for\nContinuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the\nAmerican Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.\n\n<a id='56b3c9d6-da5e-432a-8632-25332a8aef76'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nDaryl Oakes, MD\nAssociate Dean for Continuing Medical Education\nA black, stylized signature is placed above the typed name and title, centered in the image.::>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 12710,
+    "filename": "CME_Mendez_ex2.png",
+    "job_id": "14b5c49aff104bdfafedbdcee8b63752",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "580b3443-0448-4dd0-8782-256eb3254a66",
+        "3ae64901-9273-431f-8ac2-7cd97251e3e9",
+        "30e9f752-ddfb-4692-a822-1ede7ee92eb1",
+        "3e8a3adf-3437-40cb-8ee1-afbcd68fdffa",
+        "e7290719-0e1f-44b7-81b8-1a68a33b9deb",
+        "f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a",
+        "9ec6e791-b4f9-4abb-8912-a18be74839ad",
+        "56b3c9d6-da5e-432a-8632-25332a8aef76"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='580b3443-0448-4dd0-8782-256eb3254a66'></a>\n\n<::logo: Stanford Medicine\nStanford Medicine\nA maroon shield with three internal sections: a fern, a medical caduceus, and an abstract shape, all in white, accompanies the red text \"Stanford\" and the black text \"MEDICINE\"::>\n\n<a id='3ae64901-9273-431f-8ac2-7cd97251e3e9'></a>\n\nStanford University School of Medicine certifies that\nManoel Cortes Mendez, BS\n\n<a id='30e9f752-ddfb-4692-a822-1ede7ee92eb1'></a>\n\nhas participated for _2.50_ hours in the Enduring Material titled\n\n<a id='3e8a3adf-3437-40cb-8ee1-afbcd68fdffa'></a>\n\nIntroduction to Food and Health\n\n<a id='e7290719-0e1f-44b7-81b8-1a68a33b9deb'></a>\n\non 06/27/2022\n\n<a id='f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a'></a>\n\nThis Activity was designated for **2.50** *AMA PRA Category 1 Credit(s)*™\n\n<a id='9ec6e791-b4f9-4abb-8912-a18be74839ad'></a>\n\nJOINTLY ACCREDITED PROVIDER\nINTERPROFESSIONAL CONTINUING EDUCATION\n\nAccreditation\nIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for\nContinuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the\nAmerican Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.\n\n<a id='56b3c9d6-da5e-432a-8632-25332a8aef76'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nDaryl Oakes, MD\nAssociate Dean for Continuing Medical Education\nA black, stylized signature is placed above the typed name and title, centered in the image.::>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "580b3443-0448-4dd0-8782-256eb3254a66": {
+      "box": {
+        "bottom": 0.29143989086151123,
+        "left": 0.2804635167121887,
+        "right": 0.7190355658531189,
+        "top": 0.08393116295337677
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "3ae64901-9273-431f-8ac2-7cd97251e3e9": {
+      "box": {
+        "bottom": 0.41620951890945435,
+        "left": 0.2726283669471741,
+        "right": 0.7245925068855286,
+        "top": 0.31513482332229614
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "30e9f752-ddfb-4692-a822-1ede7ee92eb1": {
+      "box": {
+        "bottom": 0.4822801649570465,
+        "left": 0.23967155814170837,
+        "right": 0.7585526704788208,
+        "top": 0.4308590590953827
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3e8a3adf-3437-40cb-8ee1-afbcd68fdffa": {
+      "box": {
+        "bottom": 0.5507793426513672,
+        "left": 0.29683440923690796,
+        "right": 0.7017825245857239,
+        "top": 0.4958336353302002
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e7290719-0e1f-44b7-81b8-1a68a33b9deb": {
+      "box": {
+        "bottom": 0.611706554889679,
+        "left": 0.4345460534095764,
+        "right": 0.5687195658683777,
+        "top": 0.5666806101799011
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f0b5a2b3-4949-42e4-bb3c-d8ef3e466e5a": {
+      "box": {
+        "bottom": 0.667594313621521,
+        "left": 0.2731092572212219,
+        "right": 0.7263872027397156,
+        "top": 0.6241222620010376
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9ec6e791-b4f9-4abb-8912-a18be74839ad": {
+      "box": {
+        "bottom": 0.8346899151802063,
+        "left": 0.05367165803909302,
+        "right": 0.8952194452285767,
+        "top": 0.6814711689949036
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "56b3c9d6-da5e-432a-8632-25332a8aef76": {
+      "box": {
+        "bottom": 0.9931328892707825,
+        "left": 0.6252646446228027,
+        "right": 0.9524755477905273,
+        "top": 0.8421760201454163
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    }
+  }
+}

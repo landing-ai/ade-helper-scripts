@@ -1,0 +1,255 @@
+{
+  "chunks": [
+    {
+      "id": "853255b3-7ffe-44f9-8fe1-0a21b2df0fb3",
+      "grounding": {
+        "box": {
+          "bottom": 0.1577368527650833,
+          "left": 0.25559332966804504,
+          "right": 0.7508285045623779,
+          "top": 0.07179759442806244
+        },
+        "page": 0
+      },
+      "markdown": "<a id='853255b3-7ffe-44f9-8fe1-0a21b2df0fb3'></a>\n\n**CERTIFICATE OF ATTENDANCE** from The University of Texas MD Anderson Cancer Center",
+      "type": "text"
+    },
+    {
+      "id": "0df7409d-2070-40d4-b216-cce320b3df17",
+      "grounding": {
+        "box": {
+          "bottom": 0.22899194061756134,
+          "left": 0.36421719193458557,
+          "right": 0.6440703868865967,
+          "top": 0.19447140395641327
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0df7409d-2070-40d4-b216-cce320b3df17'></a>\n\n***Manoel Cortes Mendez, BS***",
+      "type": "text"
+    },
+    {
+      "id": "46b2a353-bb84-4a24-a6e9-9a810644b759",
+      "grounding": {
+        "box": {
+          "bottom": 0.299086332321167,
+          "left": 0.30389147996902466,
+          "right": 0.7031760811805725,
+          "top": 0.2664341330528259
+        },
+        "page": 0
+      },
+      "markdown": "<a id='46b2a353-bb84-4a24-a6e9-9a810644b759'></a>\n\nhas participated in the enduring material titled",
+      "type": "text"
+    },
+    {
+      "id": "6f049e31-2054-4816-8e8b-077ec3a46574",
+      "grounding": {
+        "box": {
+          "bottom": 0.3680264949798584,
+          "left": 0.20013782382011414,
+          "right": 0.8046188354492188,
+          "top": 0.3138744831085205
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6f049e31-2054-4816-8e8b-077ec3a46574'></a>\n\nCancer Survivorship Series: Module 1 - Overview of Survivorship\non October 18, 2022.",
+      "type": "text"
+    },
+    {
+      "id": "5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d",
+      "grounding": {
+        "box": {
+          "bottom": 0.42003554105758667,
+          "left": 0.12031584978103638,
+          "right": 0.8831924796104431,
+          "top": 0.3836681842803955
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d'></a>\n\nManoel Cortes Mendez, BS is awarded a total of 0.75 AMA PRA Category 1 Credit(s)™.",
+      "type": "text"
+    },
+    {
+      "id": "4de421c5-9105-4c1f-a78e-51889690d18d",
+      "grounding": {
+        "box": {
+          "bottom": 0.5120536684989929,
+          "left": 0.17448946833610535,
+          "right": 0.831977128982544,
+          "top": 0.4320273995399475
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4de421c5-9105-4c1f-a78e-51889690d18d'></a>\n\nThe University of Texas MD Anderson Cancer Center is accredited by the\nAccreditation Council for Continuing Medical Education (ACCME) to provide\ncontinuing medical education for physicians.",
+      "type": "text"
+    },
+    {
+      "id": "397e9eba-0805-4009-abbb-a0d72618d3e1",
+      "grounding": {
+        "box": {
+          "bottom": 0.6551883816719055,
+          "left": 0.10279756784439087,
+          "right": 0.9053316712379456,
+          "top": 0.572975218296051
+        },
+        "page": 0
+      },
+      "markdown": "<a id='397e9eba-0805-4009-abbb-a0d72618d3e1'></a>\n\nThe University of Texas MD Anderson Cancer Center designates this enduring material for a maxiumum of 0.75 AMA PRA Category 1 Credit(s)™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.",
+      "type": "text"
+    },
+    {
+      "id": "f21e01a9-998d-4968-81d5-acbf80f82291",
+      "grounding": {
+        "box": {
+          "bottom": 0.7396552562713623,
+          "left": 0.34248048067092896,
+          "right": 0.6634277701377869,
+          "top": 0.7119081020355225
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f21e01a9-998d-4968-81d5-acbf80f82291'></a>\n\nPlease retain this document for your records.",
+      "type": "text"
+    },
+    {
+      "id": "08df4a50-2886-442e-9fa6-badaa63490d8",
+      "grounding": {
+        "box": {
+          "bottom": 0.9807330369949341,
+          "left": 0.33835405111312866,
+          "right": 0.6704689860343933,
+          "top": 0.7986842393875122
+        },
+        "page": 0
+      },
+      "markdown": "<a id='08df4a50-2886-442e-9fa6-badaa63490d8'></a>\n\n<::logo: The University of Texas MD Anderson Cancer Center\nTHE UNIVERSITY OF TEXAS\nMD Anderson\nCancer Center\nMaking Cancer History\nIt features a red line striking through the word \"Cancer\" in \"Cancer Center.\"::>",
+      "type": "logo"
+    }
+  ],
+  "markdown": "<a id='853255b3-7ffe-44f9-8fe1-0a21b2df0fb3'></a>\n\n**CERTIFICATE OF ATTENDANCE** from The University of Texas MD Anderson Cancer Center\n\n<a id='0df7409d-2070-40d4-b216-cce320b3df17'></a>\n\n***Manoel Cortes Mendez, BS***\n\n<a id='46b2a353-bb84-4a24-a6e9-9a810644b759'></a>\n\nhas participated in the enduring material titled\n\n<a id='6f049e31-2054-4816-8e8b-077ec3a46574'></a>\n\nCancer Survivorship Series: Module 1 - Overview of Survivorship\non October 18, 2022.\n\n<a id='5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d'></a>\n\nManoel Cortes Mendez, BS is awarded a total of 0.75 AMA PRA Category 1 Credit(s)™.\n\n<a id='4de421c5-9105-4c1f-a78e-51889690d18d'></a>\n\nThe University of Texas MD Anderson Cancer Center is accredited by the\nAccreditation Council for Continuing Medical Education (ACCME) to provide\ncontinuing medical education for physicians.\n\n<a id='397e9eba-0805-4009-abbb-a0d72618d3e1'></a>\n\nThe University of Texas MD Anderson Cancer Center designates this enduring material for a maxiumum of 0.75 AMA PRA Category 1 Credit(s)™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.\n\n<a id='f21e01a9-998d-4968-81d5-acbf80f82291'></a>\n\nPlease retain this document for your records.\n\n<a id='08df4a50-2886-442e-9fa6-badaa63490d8'></a>\n\n<::logo: The University of Texas MD Anderson Cancer Center\nTHE UNIVERSITY OF TEXAS\nMD Anderson\nCancer Center\nMaking Cancer History\nIt features a red line striking through the word \"Cancer\" in \"Cancer Center.\"::>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 2841,
+    "filename": "CME_Mendez_ex4.png",
+    "job_id": "56a7531e5f754acab1fc9a8c81f06b4e",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20251103",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "853255b3-7ffe-44f9-8fe1-0a21b2df0fb3",
+        "0df7409d-2070-40d4-b216-cce320b3df17",
+        "46b2a353-bb84-4a24-a6e9-9a810644b759",
+        "6f049e31-2054-4816-8e8b-077ec3a46574",
+        "5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d",
+        "4de421c5-9105-4c1f-a78e-51889690d18d",
+        "397e9eba-0805-4009-abbb-a0d72618d3e1",
+        "f21e01a9-998d-4968-81d5-acbf80f82291",
+        "08df4a50-2886-442e-9fa6-badaa63490d8"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='853255b3-7ffe-44f9-8fe1-0a21b2df0fb3'></a>\n\n**CERTIFICATE OF ATTENDANCE** from The University of Texas MD Anderson Cancer Center\n\n<a id='0df7409d-2070-40d4-b216-cce320b3df17'></a>\n\n***Manoel Cortes Mendez, BS***\n\n<a id='46b2a353-bb84-4a24-a6e9-9a810644b759'></a>\n\nhas participated in the enduring material titled\n\n<a id='6f049e31-2054-4816-8e8b-077ec3a46574'></a>\n\nCancer Survivorship Series: Module 1 - Overview of Survivorship\non October 18, 2022.\n\n<a id='5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d'></a>\n\nManoel Cortes Mendez, BS is awarded a total of 0.75 AMA PRA Category 1 Credit(s)™.\n\n<a id='4de421c5-9105-4c1f-a78e-51889690d18d'></a>\n\nThe University of Texas MD Anderson Cancer Center is accredited by the\nAccreditation Council for Continuing Medical Education (ACCME) to provide\ncontinuing medical education for physicians.\n\n<a id='397e9eba-0805-4009-abbb-a0d72618d3e1'></a>\n\nThe University of Texas MD Anderson Cancer Center designates this enduring material for a maxiumum of 0.75 AMA PRA Category 1 Credit(s)™. Physicians should claim only the credit commensurate with the extent of their participation in the activity.\n\n<a id='f21e01a9-998d-4968-81d5-acbf80f82291'></a>\n\nPlease retain this document for your records.\n\n<a id='08df4a50-2886-442e-9fa6-badaa63490d8'></a>\n\n<::logo: The University of Texas MD Anderson Cancer Center\nTHE UNIVERSITY OF TEXAS\nMD Anderson\nCancer Center\nMaking Cancer History\nIt features a red line striking through the word \"Cancer\" in \"Cancer Center.\"::>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "853255b3-7ffe-44f9-8fe1-0a21b2df0fb3": {
+      "box": {
+        "bottom": 0.1577368527650833,
+        "left": 0.25559332966804504,
+        "right": 0.7508285045623779,
+        "top": 0.07179759442806244
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0df7409d-2070-40d4-b216-cce320b3df17": {
+      "box": {
+        "bottom": 0.22899194061756134,
+        "left": 0.36421719193458557,
+        "right": 0.6440703868865967,
+        "top": 0.19447140395641327
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "46b2a353-bb84-4a24-a6e9-9a810644b759": {
+      "box": {
+        "bottom": 0.299086332321167,
+        "left": 0.30389147996902466,
+        "right": 0.7031760811805725,
+        "top": 0.2664341330528259
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "6f049e31-2054-4816-8e8b-077ec3a46574": {
+      "box": {
+        "bottom": 0.3680264949798584,
+        "left": 0.20013782382011414,
+        "right": 0.8046188354492188,
+        "top": 0.3138744831085205
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "5be2a9fc-2bf6-43a2-9c9e-bacf8cef989d": {
+      "box": {
+        "bottom": 0.42003554105758667,
+        "left": 0.12031584978103638,
+        "right": 0.8831924796104431,
+        "top": 0.3836681842803955
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4de421c5-9105-4c1f-a78e-51889690d18d": {
+      "box": {
+        "bottom": 0.5120536684989929,
+        "left": 0.17448946833610535,
+        "right": 0.831977128982544,
+        "top": 0.4320273995399475
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "397e9eba-0805-4009-abbb-a0d72618d3e1": {
+      "box": {
+        "bottom": 0.6551883816719055,
+        "left": 0.10279756784439087,
+        "right": 0.9053316712379456,
+        "top": 0.572975218296051
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "f21e01a9-998d-4968-81d5-acbf80f82291": {
+      "box": {
+        "bottom": 0.7396552562713623,
+        "left": 0.34248048067092896,
+        "right": 0.6634277701377869,
+        "top": 0.7119081020355225
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "08df4a50-2886-442e-9fa6-badaa63490d8": {
+      "box": {
+        "bottom": 0.9807330369949341,
+        "left": 0.33835405111312866,
+        "right": 0.6704689860343933,
+        "top": 0.7986842393875122
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    }
+  }
+}
