@@ -19,3 +19,7 @@ venv/
 # Secrets
 .env
 
+# Generated outputs
+ade_outputs/
+chroma_db/
+
