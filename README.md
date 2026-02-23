@@ -29,7 +29,7 @@ Sometimes it is hard to decide where to 'file' a particular resource in the fold
 |Intermediate|[Classify Extract Visualize Workflow](https://github.com/landing-ai/ade-helper-scripts/tree/main/Workflows/Field_Extraction/Classify_Extract_Visualize_Workflow)|11/2025 |Day Fernandes|ADE Parse, ADE Extract,mixed document types, document classification, visualizations|
 |**WORKFLOWS - RAG**|||||
 |Beginner|[Document Parser for RAG Applications](https://github.com/landing-ai/ade-helper-scripts/tree/main/Workflows/Retrieval_Augmented_Generation/Chunking_for_RAG_Applications)|10/2025|Andrea Kropp|ADE Parse, RAG, chunking, DPT-2|
-|Intermediate|[ADE Local RAG with OpenAI and ChromaDB](https://github.com/landing-ai/ade-helper-scripts/tree/main/Workflows/Retrieval_Augmented_Generation/ADE_Local_RAG_OpenAI_ChromaDB)|9/2025|David Park|ADE Parse, RAG, ChromaDB, OpenAI embeddings, 10-K filings, DPT-1|
+|Intermediate|[ADE Local RAG with OpenAI and ChromaDB](https://github.com/landing-ai/ade-helper-scripts/tree/main/Workflows/Retrieval_Augmented_Generation/ADE_Local_RAG_OpenAI_ChromaDB)|2/2026|David Park|ADE Parse, RAG, ChromaDB, OpenAI embeddings, 10-K filings, DPT-1|
 |Intermediate|[ADE LLM Retrieval Workflow](https://github.com/landing-ai/ade-helper-scripts/tree/main/Workflows/ADE_LLM_Retrieval)|9/2025|David Park|ADE Parse, RAG, LLM integration,  FAISS, evaluation, DPT-1|
 |**WORKFLOWS - Special Cases**|||||
 |Beginner|[Parse Jobs API for Large Files](https://github.com/landing-ai/ade-helper-scripts/tree/main/Workflows/Parse_Jobs_API_for_Large_Files)|10/2025|Ava Xia|ADE Parse Jobs, async processing, large files|
