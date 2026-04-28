@@ -1,0 +1,30 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Cache — keep demo data, ignore large intermediate artifacts
+cache/parse_result.json
+cache/parse_result_viz.pkl
+cache/page_classifications.json
+cache/slide_grounding_*.json
+
+# Generated output directories
+results/
+results_extracted/
+
+# IDE
+.vscode/
+.idea/

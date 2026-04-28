@@ -1,0 +1,176 @@
+{
+  "pay_stub_1": {
+    "doc_type": "pay_stub",
+    "pages": [
+      0
+    ],
+    "extraction": {
+      "employee_name": "MICHAEL D BRYAN",
+      "pay_period": "03/19/2021",
+      "gross_pay": 452.43,
+      "net_pay": 291.9
+    },
+    "extraction_metadata": {
+      "employee_name": {
+        "references": [
+          "573df66f-cdf1-4af3-b34a-8677436c5ff8"
+        ],
+        "value": "MICHAEL D BRYAN",
+        "confidence": 1.0
+      },
+      "pay_period": {
+        "references": [
+          "bac7f04a-3c58-4c91-a4bd-aa37b4d65f7f"
+        ],
+        "value": "03/19/2021",
+        "confidence": 0.999
+      },
+      "gross_pay": {
+        "references": [
+          "0-u"
+        ],
+        "value": 452.43,
+        "confidence": 0.965
+      },
+      "net_pay": {
+        "references": [
+          "0-1t",
+          "0-1X",
+          "0-2i"
+        ],
+        "value": 291.9,
+        "confidence": 0.983
+      }
+    }
+  },
+  "bank_statement_2": {
+    "doc_type": "bank_statement",
+    "pages": [
+      1
+    ],
+    "extraction": {
+      "bank_name": "RBC Royal Bank of Canada",
+      "account_number": "02782-5094431",
+      "balance": 3664.79
+    },
+    "extraction_metadata": {
+      "bank_name": {
+        "references": [
+          "6d28379e-1f93-44fe-ab2f-58b09ec3ea18",
+          "1-5"
+        ],
+        "value": "RBC Royal Bank of Canada",
+        "confidence": 0.994
+      },
+      "account_number": {
+        "references": [
+          "28a860d3-6892-4c44-b1e9-eec7e90f2da2",
+          "1-3"
+        ],
+        "value": "02782-5094431",
+        "confidence": 0.952
+      },
+      "balance": {
+        "references": [
+          "1-e"
+        ],
+        "value": 3664.79,
+        "confidence": 0.966
+      }
+    }
+  },
+  "investment_statement_3": {
+    "doc_type": "investment_statement",
+    "pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "extraction": {
+      "investment_year": 2015,
+      "total_investment": 274222.2,
+      "changes_in_value": 21000.37
+    },
+    "extraction_metadata": {
+      "investment_year": {
+        "references": [
+          "c21d9fca-35fd-4cb7-b940-3a63babf2f57",
+          "6f35a4e2-62fa-4d2a-8c9b-6eb712b3f3a5",
+          "004bc460-31b4-4ac9-ad14-0339b30b7f5d",
+          "cd668d3c-19d8-4e28-87c3-52f677462e20",
+          "2cfcf021-5567-429a-8570-4adb84995aa4",
+          "61982e87-0764-40d0-b0c2-ec770fc96ba4",
+          "65436bb8-a69d-4c0f-bdc1-92a7e6d4a58d",
+          "8a2c7f5c-bb06-4c62-8d0a-2e21e4c6734a",
+          "57bd48ed-8be1-4009-baf9-8ff3312bbe69",
+          "b5bafe22-8638-471b-8612-00e8bc7d5e3a",
+          "de179104-0e51-4a18-9dc4-3d701143776b",
+          "9fc4a83a-1ada-4c14-a4d6-f15e3c503ce3",
+          "2a81134d-96bc-4213-ba41-282a9315c186",
+          "972459af-35fa-4789-be05-16b3691e5a30",
+          "5a456087-94e2-4629-b473-37356cee9821",
+          "d9d85bb3-549b-4511-a041-6bfa2947c2bd",
+          "150fbc8e-a085-4090-a9f0-3224e87a4579",
+          "77aa7eea-1594-4bbf-ba29-33fbad38abc3",
+          "8750cded-da1e-4fbd-84f5-8eb78f0de827",
+          "54f28cb3-bfb6-4cf9-bdd7-0e5e76858129",
+          "2a866369-a690-45dc-b321-4d87da148136",
+          "e439cdb8-500d-4333-baa3-3fae255ff827",
+          "48612865-ba52-4f46-b05e-7ce4e2b0c71b",
+          "37b4a7e8-03c3-4496-a48d-206aa8680f6e",
+          "8009eba2-b396-41a5-94b5-2767329dfa43",
+          "d3be8750-c9a4-45f7-a930-2e1aed4e0dcd",
+          "3029ae67-3c3c-4756-834b-cbfeff46f32a"
+        ],
+        "value": 2015,
+        "confidence": 0.9837
+      },
+      "total_investment": {
+        "references": [
+          "ea675f3f-8906-4f83-9793-0521f2674603",
+          "2-l",
+          "2-m",
+          "3-t"
+        ],
+        "value": 274222.2,
+        "confidence": 0.9968
+      },
+      "changes_in_value": {
+        "references": [
+          "ea675f3f-8906-4f83-9793-0521f2674603",
+          "2-l",
+          "2-6",
+          "3-t",
+          "3-s"
+        ],
+        "value": 21000.37,
+        "confidence": 0.9974
+      }
+    }
+  }
+}

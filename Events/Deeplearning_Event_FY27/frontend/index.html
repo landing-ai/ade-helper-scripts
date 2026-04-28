@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loan Origination — AI Document Analysis</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <img src="Logo.png" alt="LandingAI" class="site-logo" />
+      <span class="header-title">Loan Origination</span>
+    </div>
+  </header>
+
+  <main class="main-content">
+
+    <!-- ================================================================
+         PHASE 1 — Upload card (always visible until a doc is ready)
+    ================================================================ -->
+    <section id="upload-card" class="card">
+      <h2 class="card-title">Upload Loan Packet</h2>
+      <p class="card-subtitle">
+        Drop a PDF containing pay stubs, bank statements, and investment
+        statements. Fields are extracted once — then run as many scenarios as you like.
+      </p>
+
+      <form id="upload-form" novalidate>
+        <div id="drop-zone" class="drop-zone" role="button" tabindex="0"
+             aria-label="PDF drop zone">
+          <svg class="drop-icon" viewBox="0 0 24 24" fill="none"
+               stroke="currentColor" stroke-width="1.5">
+            <path stroke-linecap="round" stroke-linejoin="round"
+                  d="M9 13.5l3-3m0 0l3 3m-3-3v7.5M6.75 19.5
+                     A4.5 4.5 0 013.75 12a4.5 4.5 0 014.5-4.5
+                     c.956 0 1.845.292 2.578.791A6 6 0 0118.75
+                     12.75c0 3.314-2.686 6-6 6H6.75z" />
+          </svg>
+          <p class="drop-text">Drag &amp; drop your PDF here</p>
+          <p class="drop-subtext">or</p>
+          <label class="btn btn-outline" for="pdf-file-input">Browse file</label>
+          <input id="pdf-file-input" type="file" accept=".pdf"
+                 style="display:none" aria-label="PDF file input" />
+          <p id="file-name" class="file-name"></p>
+        </div>
+
+        <span class="field-error" id="upload-error"></span>
+
+        <button type="submit" class="btn btn-primary btn-block" id="upload-btn">
+          Extract Fields
+        </button>
+      </form>
+
+      <div class="demo-divider">
+        <span>or</span>
+      </div>
+      <button class="btn btn-demo btn-block" id="demo-btn">
+        ⚡ Demo — load loan_packet.pdf instantly
+      </button>
+
+      <!-- Upload progress (hidden until uploading) -->
+      <div id="upload-progress" style="display:none; margin-top:20px;">
+        <p class="card-subtitle" id="upload-agent-name">Starting...</p>
+        <div class="progress-bar-track">
+          <div class="progress-bar-fill" id="upload-progress-bar"></div>
+        </div>
+        <p class="progress-pct" id="upload-pct-label">0%</p>
+        <div class="pipeline-stages">
+          <div class="stage" id="stage-parsing">
+            <div class="stage-dot"></div><span>Parse &amp; Split</span>
+          </div>
+          <div class="stage-connector"></div>
+          <div class="stage" id="stage-extracting">
+            <div class="stage-dot"></div><span>Field Extraction</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Pipeline explainer (hidden once a doc is ready) -->
+      <div id="pipeline-info" class="pipeline-info">
+        <h3 class="pipeline-title">How it works</h3>
+        <ol class="pipeline-steps">
+          <li>
+            <span class="step-icon">1</span>
+            <div><strong>Extract once</strong> — Upload your PDF and LandingAI ADE parses and extracts all financial fields. Results are cached for the session.</div>
+          </li>
+          <li>
+            <span class="step-icon">2</span>
+            <div><strong>Analyze many times</strong> — Change loan amount or debt obligations and re-run the decision instantly — no re-uploading required.</div>
+          </li>
+          <li>
+            <span class="step-icon">3</span>
+            <div><strong>Compare scenarios</strong> — Each run's decision and reasoning appears in the history below.</div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ================================================================
+         PHASE 2 — Scenario panel (visible once doc is ready)
+    ================================================================ -->
+    <section id="scenario-card" class="card" style="display:none">
+
+      <!-- Extracted fields summary -->
+      <div class="doc-ready-banner">
+        <span class="doc-ready-icon">&#10003;</span>
+        <div>
+          <strong id="doc-ready-label">Document ready</strong>
+          <p class="doc-ready-sub" id="doc-ready-sub"></p>
+        </div>
+        <button class="btn btn-outline btn-sm" id="new-upload-btn">
+          Upload new document
+        </button>
+      </div>
+
+      <div id="extracted-fields-section" class="fields-section" style="margin-top:20px;">
+        <h3 class="section-title">Extracted Fields</h3>
+        <div id="extracted-fields-grid" class="fields-grid"></div>
+      </div>
+
+      <hr class="divider" />
+
+      <!-- Scenario inputs -->
+      <h3 class="section-title" style="margin-top:0">Run Scenario</h3>
+      <form id="analyze-form" novalidate>
+        <div class="form-grid">
+          <div class="form-group">
+            <label class="form-label" for="loan-amount">Requested Loan Amount ($)</label>
+            <input class="form-input" id="loan-amount" type="number" min="1"
+                   placeholder="e.g. 300000" required />
+            <span class="field-error" id="loan-amount-error"></span>
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="monthly-debt">Existing Monthly Debt ($)</label>
+            <input class="form-input" id="monthly-debt" type="number" min="0"
+                   placeholder="e.g. 1500" required />
+            <span class="field-error" id="monthly-debt-error"></span>
+          </div>
+        </div>
+        <span class="field-error" id="analyze-error"></span>
+        <button type="submit" class="btn btn-primary btn-block" id="analyze-btn">
+          Run Analysis
+        </button>
+      </form>
+
+      <!-- ── Chat Agent (demo mode only) ───────────────────────────────── -->
+      <div id="chat-panel" style="display:none; margin-top:24px;">
+        <hr class="divider" style="margin-bottom:20px;" />
+        <div class="chat-header">
+          <span class="chat-title">
+            <span class="chat-icon">◆</span> Loan Advisor Agent
+          </span>
+          <span class="chat-subtitle">Ask about scenarios, risk levels, or what-if questions</span>
+        </div>
+
+        <!-- Scenario chips -->
+        <div class="scenario-chips" id="scenario-chips">
+          <span class="chip-label">Try a scenario:</span>
+          <button class="scenario-chip chip-low"    data-loan="44000"  data-debt="0" data-label="LOW risk ceiling">LOW risk  · $44,000</button>
+          <button class="scenario-chip chip-medium" data-loan="53000"  data-debt="0" data-label="MEDIUM risk ceiling">MEDIUM risk  · $53,000</button>
+          <button class="scenario-chip chip-high"   data-loan="63500"  data-debt="0" data-label="QM approval limit">QM limit  · $63,500</button>
+          <button class="scenario-chip chip-denied" data-loan="73500"  data-debt="0" data-label="HIGH risk (denied)">HIGH risk  · $73,500</button>
+          <button class="scenario-chip chip-critical" data-loan="85500" data-debt="0" data-label="CRITICAL risk">CRITICAL  · $85,500</button>
+        </div>
+
+        <!-- Message thread -->
+        <div class="chat-messages" id="chat-messages">
+          <div class="chat-bubble assistant">
+            Hi! I'm your loan advisor. The borrower's monthly income is <strong>$980/mo</strong> (bi-weekly gross $452.43). I've pre-computed the approval range scenarios above — click any chip to run one, or ask me anything about the decision logic, DTI limits, or risk scoring.
+          </div>
+        </div>
+
+        <!-- Input row -->
+        <div class="chat-input-row">
+          <input id="chat-input" class="chat-input" type="text"
+                 placeholder="Ask about risk levels, DTI, what-if scenarios…" />
+          <button id="chat-send" class="btn btn-primary chat-send-btn">Send</button>
+        </div>
+      </div>
+
+      <!-- Decision progress (inline, shown while analyzing) -->
+      <div id="decision-progress" style="display:none; margin-top:20px;">
+        <p class="card-subtitle" id="decision-agent-name">Running decision agent...</p>
+        <div class="progress-bar-track">
+          <div class="progress-bar-fill" id="decision-progress-bar"></div>
+        </div>
+        <p class="progress-pct" id="decision-pct-label">0%</p>
+        <div class="pipeline-stages" style="justify-content:center; gap:0;">
+          <div class="stage" id="stage-deciding">
+            <div class="stage-dot"></div><span>Loan Decision</span>
+          </div>
+          <div class="stage-connector"></div>
+          <div class="stage" id="stage-reviewing">
+            <div class="stage-dot"></div><span>Manager Review</span>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ================================================================
+         PHASE 3 — Results history (appended below, never cleared)
+    ================================================================ -->
+    <div id="results-history"></div>
+
+  </main>
+
+  <footer class="site-footer">
+    Powered by LandingAI Agentic Document Extraction &amp; Google ADK
+  </footer>
+
+  <!-- Grounding popup — shown on field value hover -->
+  <div id="grounding-popup" class="grounding-popup" style="display:none">
+    <div class="grounding-popup-header">
+      <span id="grounding-popup-label">Visual Grounding</span>
+      <button class="grounding-popup-close" id="grounding-popup-close">&times;</button>
+    </div>
+    <div class="grounding-popup-body">
+      <img id="grounding-popup-img" src="" alt="Grounding region" />
+      <p id="grounding-popup-meta" class="grounding-popup-meta"></p>
+    </div>
+  </div>
+
+  <script src="app.js?v=4"></script>
+</body>
+</html>
