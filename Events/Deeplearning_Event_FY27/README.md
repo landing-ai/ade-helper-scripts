@@ -102,28 +102,31 @@ Reviews Agent 3's output independently. Has no access to the LandingAI API — r
 
 - Python 3.10+
 - [LandingAI API key](https://va.landing.ai/settings/api-key)
+- [Anthropic API key](https://console.anthropic.com/settings/keys) — required for the chat agent (`/chat` endpoint)
 
 ### Install dependencies
 
 ```bash
-pip install landingai-ade fastapi uvicorn python-multipart python-dotenv pillow pymupdf aiofiles
+pip install landingai-ade fastapi uvicorn python-multipart python-dotenv pillow pymupdf aiofiles anthropic
 ```
 
-### Configure your API key
+### Configure your API keys
 
 Create a `.env` file at the project root:
 
 ```
-VISION_AGENT_API_KEY=your_api_key_here
+VISION_AGENT_API_KEY=your_landingai_key_here
+ANTHROPIC_API_KEY=your_anthropic_key_here
 ```
+
+`ANTHROPIC_API_KEY` is only required if you want to use the chat agent feature. The rest of the pipeline runs on `VISION_AGENT_API_KEY` alone.
 
 ---
 
 ## Running the App
 
 ```bash
-cd backend
-uvicorn main:app --reload --port 8000
+cd backend && uvicorn main:app --reload --port 8000
 ```
 
 Open [http://localhost:8000](http://localhost:8000).
