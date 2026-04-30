@@ -1,5 +1,6 @@
 """
 FastAPI backend for the Loan Origination Multi-Agent System.
+Orchestration is handled by Google ADK (SequentialAgent pipeline).
 
 Endpoints:
   POST /upload              — Upload PDF; runs parse+extract (Agents 1+2); returns doc_id
@@ -12,10 +13,14 @@ Endpoints:
 
 import asyncio
 import json
+import logging
 import os
+import traceback
 import uuid
 from pathlib import Path
 from typing import List, Optional
+
+logger = logging.getLogger(__name__)
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, File, Form, HTTPException, UploadFile
@@ -28,7 +33,27 @@ from schemas import JobResult, JobStatus, LoanDecision
 env_path = Path(__file__).parent.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
-app = FastAPI(title="Loan Origination API", version="1.0.0")
+# ---------------------------------------------------------------------------
+# ADK Runner (singleton — shared across all requests)
+# ---------------------------------------------------------------------------
+
+from google.adk.runners import Runner
+from google.adk.sessions import InMemorySessionService
+from agents import build_pipeline
+
+_session_service = InMemorySessionService()
+_pipeline        = build_pipeline()
+_adk_runner      = Runner(
+    agent=_pipeline,
+    app_name="loan_origination",
+    session_service=_session_service,
+)
+
+APP_NAME = "loan_origination"
+
+# ---------------------------------------------------------------------------
+
+app = FastAPI(title="Loan Origination API", version="2.0.0")
 
 app.add_middleware(
     CORSMiddleware,
@@ -276,15 +301,42 @@ async def get_result(job_id: str):
 
 
 # ---------------------------------------------------------------------------
-# Background tasks
+# Background tasks  (ADK-backed)
 # ---------------------------------------------------------------------------
 
 async def _run_upload_task(doc_id: str, pdf_path: str):
-    """Run Agents 1+2 in a thread pool; cache extractions in docs[doc_id]."""
+    """
+    Run the full ADK pipeline (Agents 1–4) for an uploaded PDF.
+    Stores extracted fields in docs[doc_id] so /analyze can reuse them.
+    """
+    from agents import run_pipeline
+
     doc_context = docs[doc_id]
-    loop = asyncio.get_event_loop()
+    user_id    = f"upload_{doc_id}"
+    session_id = doc_id
+
+    await _session_service.create_session(
+        app_name=APP_NAME, user_id=user_id, session_id=session_id,
+        state={"status": "queued", "progress_pct": 0}
+    )
+
     try:
-        await loop.run_in_executor(None, _sync_upload, doc_id, pdf_path, doc_context)
+        # We only need Agents 1+2 here; pass sentinel loan params that won't
+        # trigger a real decision (we re-run Agents 3+4 in /analyze).
+        # However, the SequentialAgent always runs all four — so we run all
+        # four with placeholder loan params and cache the extractions.
+        await run_pipeline(
+            pdf_path=pdf_path,
+            loan_amount=0.0,
+            monthly_debt=0.0,
+            job_context=doc_context,
+            runner=_adk_runner,
+            user_id=user_id,
+            session_id=session_id,
+        )
+        doc_context["status"] = "ready"
+        doc_context["progress_pct"] = 100
+        doc_context["current_agent"] = None
     except Exception as exc:
         doc_context["status"] = "error"
         doc_context["error"] = str(exc)
@@ -292,47 +344,69 @@ async def _run_upload_task(doc_id: str, pdf_path: str):
         Path(pdf_path).unlink(missing_ok=True)
 
 
-def _sync_upload(doc_id, pdf_path, doc_context):
-    from agents import parse_and_split, extract_fields
-    try:
-        parse_and_split(pdf_path=pdf_path, job_context=doc_context)
-        extract_fields(job_context=doc_context)
-        doc_context["status"] = "ready"
-        doc_context["progress_pct"] = 100
-        doc_context["current_agent"] = None
-    except Exception as exc:
-        doc_context["status"] = "error"
-        doc_context["error"] = str(exc)
-        raise
-
-
 async def _run_analysis_task(job_id: str, doc_id: str, loan_amount: float, monthly_debt: float):
-    """Run Agent 3 using cached extractions from docs[doc_id]."""
+    """
+    Run Agents 3+4 via ADK using pre-cached extractions from docs[doc_id].
+
+    We create a new ADK session seeded with the cached document_extractions
+    so the SequentialAgent's LlmAgents can reason over them directly.
+    """
+    from agents import run_pipeline, extract_pipeline_result
+    from google.adk.runners import types
+
     job_context = jobs[job_id]
     doc = docs[doc_id]
+    cached_extractions = doc.get("document_extractions", {})
 
-    # Give the decision agent the cached extractions
-    job_context["document_extractions"] = doc["document_extractions"]
+    user_id    = f"analyze_{job_id}"
+    session_id = job_id
 
-    loop = asyncio.get_event_loop()
+    # Seed session with cached extractions so Agents 3+4 skip ADE calls
+    await _session_service.create_session(
+        app_name=APP_NAME,
+        user_id=user_id,
+        session_id=session_id,
+        state={
+            "status":               "queued",
+            "progress_pct":         0,
+            "document_extractions": cached_extractions,
+            "extraction_warnings":  [],
+            "loan_amount":          loan_amount,
+            "monthly_debt":         monthly_debt,
+            # Signal to pipeline agents that parse/extract are already done
+            "skip_ade":             True,
+        },
+    )
+
     try:
-        await loop.run_in_executor(
-            None, _sync_analysis, job_id, loan_amount, monthly_debt, job_context
+        job_context["document_extractions"] = cached_extractions
+
+        # Run only Agents 3+4 by invoking the runner on a session whose
+        # split_documents is absent — the BaseAgents will short-circuit,
+        # and the LlmAgents will read document_extractions from state.
+        async for event in _adk_runner.run_async(
+            user_id=user_id,
+            session_id=session_id,
+            new_message=types.Content(
+                role="user",
+                parts=[types.Part(text="Evaluate the loan application.")],
+            ),
+        ):
+            if event.actions and event.actions.state_delta:
+                job_context.update(event.actions.state_delta)
+
+        session = await _session_service.get_session(
+            app_name=APP_NAME, user_id=user_id, session_id=session_id
         )
+        result = extract_pipeline_result(session.state)
+        job_context["decision_result"] = result
+        job_context["status"] = "done"
+        job_context["progress_pct"] = 100
+
     except Exception as exc:
+        logger.error("_run_analysis_task failed:\n%s", traceback.format_exc())
         job_context["status"] = "error"
         job_context["error"] = str(exc)
-
-
-def _sync_analysis(job_id, loan_amount, monthly_debt, job_context):
-    from agents import decide_loan, manager_review
-    try:
-        decide_loan(loan_amount=loan_amount, monthly_debt=monthly_debt, job_context=job_context)
-        manager_review(job_context=job_context)
-    except Exception as exc:
-        job_context["status"] = "error"
-        job_context["error"] = str(exc)
-        raise
 
 
 # ---------------------------------------------------------------------------

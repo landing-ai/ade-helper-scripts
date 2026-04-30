@@ -1,6 +1,6 @@
 # Agentic Loan Origination — Multi-Agent Document Analysis
 
-A production-ready multi-agent loan origination system powered by [LandingAI Agentic Document Extraction (ADE)](https://docs.landing.ai/ade/ade-overview). Upload a mixed financial document packet, extract structured fields in one pass, then run unlimited loan scenarios — each reviewed by a hierarchical Manager Agent that can override the decision, score risk, and escalate to a human underwriter.
+A production-ready multi-agent loan origination system powered by [LandingAI Agentic Document Extraction (ADE)](https://docs.landing.ai/ade/ade-overview) and **Google ADK (Agent Development Kit)**. Upload a mixed financial document packet, extract structured fields in one pass, then run unlimited loan scenarios — each decided by a Claude LlmAgent and reviewed by a hierarchical Manager LlmAgent that can override the decision, score risk, and escalate to a human underwriter.
 
 ---
 
@@ -11,8 +11,8 @@ Traditional loan origination requires staff to manually review and transcribe da
 1. A PDF containing multiple financial documents is parsed page-by-page
 2. Each page is classified and grouped into logical documents
 3. Document-specific schemas extract structured financial fields with visual grounding
-4. A loan decision agent applies underwriting rules and flags anomalies
-5. A manager agent reviews the decision, scores risk, and can override
+4. A Claude LlmAgent applies underwriting rules and flags anomalies
+5. A Claude Manager LlmAgent reviews the decision, scores risk, and can override
 
 Extracted fields are cached per session — change the loan amount or debt obligations and re-run the decision instantly, without re-uploading the PDF.
 
@@ -20,22 +20,24 @@ Extracted fields are cached per session — change the loan amount or debt oblig
 
 ## Agent Architecture
 
+The four agents are chained in an ADK `SequentialAgent`. Inter-agent data flows through the ADK session `state` dict via `EventActions(state_delta={...})`.
+
 ```
-                    Manager Agent  (hierarchical reviewer)
-                          │
-         ┌────────────────┼────────────────┐
-         ▼                ▼                ▼
-  Parse & Split      Field Extraction   Loan Decision
-   Agent (1)          Agent (2)          Agent (3)
+                    ManagerReviewAgent  (LlmAgent — Claude)
+                           │
+         ┌─────────────────┼─────────────────┐
+         ▼                 ▼                 ▼
+  ParseSplitAgent   FieldExtractionAgent  LoanDecisionAgent
+  (BaseAgent—ADE)   (BaseAgent—ADE)       (LlmAgent—Claude)
 ```
 
-### Agent 1 — Parse & Split
-Calls `client.parse()` with `split="page"` to process the PDF page-by-page. Each page's markdown is classified using the `DocType` schema (`pay_stub`, `bank_statement`, or `investment_statement`). Consecutive pages of the same type are grouped into named logical documents (e.g. `pay_stub_1`, `bank_statement_2`).
+### Agent 1 — ParseSplitAgent (`BaseAgent`)
+Calls `client.parse()` with `split="page"` to process the PDF page-by-page. Each page's markdown is classified using the `DocType` schema (`pay_stub`, `bank_statement`, or `investment_statement`). Consecutive pages of the same type are grouped into named logical documents (e.g. `pay_stub_1`, `bank_statement_2`). Writes `split_documents` to ADK session state.
 
 **Progress:** 10% → 38%
 
-### Agent 2 — Field Extraction
-Iterates over logical documents from Agent 1 and calls `client.extract()` with a document-specific Pydantic schema. Returns structured fields with `extraction_metadata` containing bounding-box references for every extracted value.
+### Agent 2 — FieldExtractionAgent (`BaseAgent`)
+Reads `split_documents` from session state, calls `client.extract()` with a document-specific Pydantic schema per document. Writes `document_extractions` to session state.
 
 | Document Type | Extracted Fields |
 |---|---|
@@ -45,8 +47,8 @@ Iterates over logical documents from Agent 1 and calls `client.extract()` with a
 
 **Progress:** 45% → 73%
 
-### Agent 3 — Loan Decision
-Applies underwriting rules in order:
+### Agent 3 — LoanDecisionAgent (`LlmAgent` — `AnthropicLlm`)
+A Claude `LlmAgent` backed by `AnthropicLlm` (direct Anthropic API, not Vertex). Its instruction is a callable that reads `document_extractions`, `loan_amount`, and `monthly_debt` from ADK session state and builds a structured prompt. Claude applies exactly the 6 rules below and returns a single JSON object — the prompt explicitly forbids inventing additional rules or flags. Result stored in `session.state["loan_decision_json"]`.
 
 | Check | Condition | Outcome |
 |---|---|---|
@@ -60,10 +62,10 @@ Applies underwriting rules in order:
 
 Monthly loan payment is estimated using a 30-year fixed mortgage at 7% APR. Monthly income is `gross_pay × 26 / 12` (bi-weekly payroll).
 
-**Progress:** 60% → 80%
+**Progress:** 75% → 88%
 
-### Manager Agent — Hierarchical Reviewer
-Reviews Agent 3's output independently. Has no access to the LandingAI API — reasons purely over structured data.
+### Agent 4 — ManagerReviewAgent (`LlmAgent` — `AnthropicLlm`)
+A Claude `LlmAgent` backed by `AnthropicLlm`. Its instruction reads `loan_decision_json` and `document_extractions` from session state. Claude scores risk using only the DTI and flags already present in the decision (no new flags invented), checks 4 override conditions, and returns JSON stored in `session.state["manager_review_json"]`.
 
 **Risk scoring (0–10):**
 - DTI > 50%: +4 pts
@@ -80,7 +82,7 @@ Reviews Agent 3's output independently. Has no access to the LandingAI API — r
 3. Borderline DTI (38–43%) with no flags and positive reserves → recommend human review
 4. APPROVED with zero extracted fields (extraction failure) → force DENIED + escalate
 
-**Progress:** 83% → 100%
+**Progress:** 88% → 100%
 
 ---
 
@@ -107,7 +109,7 @@ Reviews Agent 3's output independently. Has no access to the LandingAI API — r
 ### Install dependencies
 
 ```bash
-pip install landingai-ade fastapi uvicorn python-multipart python-dotenv pillow pymupdf aiofiles anthropic
+pip install landingai-ade fastapi uvicorn python-multipart python-dotenv pillow pymupdf aiofiles "anthropic>=0.40.0" google-adk
 ```
 
 ### Configure your API keys
@@ -119,7 +121,7 @@ VISION_AGENT_API_KEY=your_landingai_key_here
 ANTHROPIC_API_KEY=your_anthropic_key_here
 ```
 
-`ANTHROPIC_API_KEY` is only required if you want to use the chat agent feature. The rest of the pipeline runs on `VISION_AGENT_API_KEY` alone.
+`ANTHROPIC_API_KEY` is required for Agents 3 & 4 (Claude LlmAgents) and the chat feature. `VISION_AGENT_API_KEY` is required for Agents 1 & 2 (LandingAI ADE).
 
 ---
 
@@ -148,8 +150,8 @@ Click **⚡ Demo — load loan_packet.pdf instantly** to skip extraction entirel
 
 ```
 ├── backend/
-│   ├── main.py          # FastAPI app and all endpoints
-│   ├── agents.py        # 4-agent pipeline with best practices
+│   ├── main.py          # FastAPI app — ADK Runner + all endpoints
+│   ├── agents.py        # ADK SequentialAgent pipeline (4 agents)
 │   ├── schemas.py       # Pydantic models — extraction schemas and typed handoff contracts
 │   └── requirements.txt
 ├── frontend/
@@ -164,7 +166,7 @@ Click **⚡ Demo — load loan_packet.pdf instantly** to skip extraction entirel
 │   └── loan_packet.pdf             # Sample 30-page mixed financial document
 ├── ade_utils.py                    # Page-grouping utility (shared with notebook)
 ├── Deeplearning_AI_Dev_Day_2026_Demo.ipynb
-└── LandingAI_Loan_Origination_Tech_Deck.pptx
+└── LandingAI_Deeplearning.AI_Event_SF_FY27.pdf
 ```
 
 ---
@@ -321,22 +323,20 @@ The pipeline implements hardening at all four levels:
 - **Dynamic year bound** — `datetime.now().year` replaces any hardcoded year for anomaly detection
 
 ### Level 2 — Agent-to-Agent Communication
-- **Typed handoff models** — `ParseHandoff` and `ExtractionHandoff` are Pydantic models that validate inter-agent messages on construction; `ExtractionRecord` is a typed wrapper for each document's extraction result
-- **Validation on receipt** — each agent asserts its expected inputs are present and raises a `ValueError` with a clear message if not, halting the pipeline cleanly
-- **Empty-extraction guard** — `ExtractionHandoff` raises if all documents returned empty extractions, catching silent API failures before they reach the decision agent
-- **Confidence passthrough** — `ExtractionRecord.confidence` carries an averaged score from `extraction_metadata` through to the final API response
+- **ADK session state** — all inter-agent data flows through the ADK session `state` dict via `EventActions(state_delta={...})`; no mutable shared dicts
+- **Typed handoff models** — `ParseHandoff` and `ExtractionHandoff` validate inter-agent messages on construction; `ExtractionRecord` is a typed wrapper per document
+- **Validation on receipt** — each `BaseAgent` asserts its expected inputs are present in session state before proceeding
+- **Empty-extraction guard** — `ExtractionHandoff` raises if all documents returned empty extractions, catching silent API failures before they reach the LlmAgents
 
 ### Level 3 — Orchestration
+- **ADK SequentialAgent** — ordered execution of all four agents is guaranteed by the ADK framework, not manual function call order
 - **Retry with exponential backoff** — `_api_call_with_retry()` wraps every `client.parse()` and `client.extract()` call with up to 3 attempts and doubling delays (1.5 s → 3 s → 6 s)
-- **Structured final error** — all retries exhausted raises a `RuntimeError` with attempt count and last exception chained
-- **Explicit termination** — unrecoverable input errors raise immediately; the FastAPI background task catches them and sets `status: error` with the message
-- **Structured logging** — `logging.warning()` on every retry attempt, redacted injection, and truncated markdown
+- **`skip_ade` short-circuit** — analysis-only sessions seed `skip_ade=True`; Agents 1+2 yield empty events so Agents 3+4 run over cached extractions without ADE calls
 
 ### Level 4 — Context / Data Layer
-- **Markdown length guard** — `MAX_MARKDOWN_CHARS = 12,000` enforced before each extraction call
-- **Post-extraction range validation** — `FIELD_RANGES` dict maps each field to `(lo, hi)` bounds; out-of-range values are stored in `extraction_warnings` and surfaced as flags in Agent 3's output
-- **Extraction confidence** — `_extract_confidence()` averages per-field confidence from `extraction_metadata` into a single score per document
-- **Warning propagation** — Agent 2 range warnings flow through `job_context["extraction_warnings"]` → Agent 3 flags → Manager Agent risk score
+- **Markdown length guard** — `MAX_MARKDOWN_CHARS = 12,000` enforced before each ADE extraction call
+- **Post-extraction range validation** — `FIELD_RANGES` maps each field to `(lo, hi)` bounds; out-of-range values flow through `extraction_warnings` in session state → injected into the LoanDecisionAgent prompt as anomaly context
+- **Structured LLM output** — both LlmAgents output strict JSON; `extract_pipeline_result()` strips markdown fences and parses with fallback error handling
 
 ---
 
@@ -347,10 +347,13 @@ The pipeline implements hardening at all four levels:
 2. Add it to `SCHEMA_PER_DOC_TYPE`
 3. Add the string literal to `DocType`
 4. Add expected field ranges to `FIELD_RANGES` in `backend/agents.py`
-5. Add underwriting rules for the new type in `decide_loan()`
+5. Update the `UNDERWRITING RULES` block in `_build_decision_instruction()` in `agents.py`
 
 ### Add a new underwriting rule
-Add a check in `decide_loan()` in `backend/agents.py`. The function appends to `reasons` (informational) or `flags` (fraud/anomaly) and sets `deny = True` to reject the loan.
+Edit the `UNDERWRITING RULES` section of `_build_decision_instruction()` in `backend/agents.py`. The `LoanDecisionAgent` (Claude) reads these rules from its system prompt.
+
+### Swap the LLM
+Change `Claude(model="claude-haiku-4-5-20251001")` in the `LlmAgent` constructors in `agents.py` to any model supported by ADK (`Claude`, `Gemini`, etc.).
 
 ### Re-generate demo cache
 Run the notebook `Deeplearning_AI_Dev_Day_2026_Demo.ipynb` with your own PDF. The cache files in `cache/` are the only files needed at runtime for demo mode.
@@ -362,4 +365,6 @@ Run the notebook `Deeplearning_AI_Dev_Day_2026_Demo.ipynb` with your own PDF. Th
 - [LandingAI ADE Documentation](https://docs.landing.ai/ade/ade-overview)
 - [landingai-ade PyPI package](https://pypi.org/project/landingai-ade/)
 - [ADE Playground](https://va.landing.ai/demo/doc-extraction)
-- [Get an API key](https://va.landing.ai/settings/api-key)
+- [Get a LandingAI API key](https://va.landing.ai/settings/api-key)
+- [Google ADK Documentation](https://google.github.io/adk-docs/)
+- [google-adk PyPI package](https://pypi.org/project/google-adk/)

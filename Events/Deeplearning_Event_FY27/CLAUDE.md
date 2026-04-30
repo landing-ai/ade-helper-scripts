@@ -4,19 +4,21 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-A full-stack loan origination demo: a FastAPI backend running a 4-agent LandingAI ADE pipeline, served alongside a vanilla JS/HTML/CSS frontend. The app parses mixed financial PDF packets page-by-page, classifies and extracts structured fields, then applies underwriting rules with a hierarchical manager agent review.
+A full-stack loan origination demo: a FastAPI backend running a 4-agent pipeline orchestrated by **Google ADK (Agent Development Kit)**, served alongside a vanilla JS/HTML/CSS frontend. The app parses mixed financial PDF packets page-by-page using LandingAI ADE, classifies and extracts structured fields, then applies underwriting rules via a Claude LlmAgent with a hierarchical Manager LlmAgent review.
 
 ## Setup
 
 ```bash
-pip install landingai-ade fastapi uvicorn python-multipart python-dotenv pillow pymupdf aiofiles anthropic
+pip install landingai-ade fastapi uvicorn python-multipart python-dotenv pillow pymupdf aiofiles "anthropic>=0.40.0" google-adk
 ```
 
 Create `.env` at the project root (alongside `backend/`):
 ```
 VISION_AGENT_API_KEY=your_landingai_key
-ANTHROPIC_API_KEY=your_anthropic_key   # required only for /chat endpoint
+ANTHROPIC_API_KEY=your_anthropic_key
 ```
+
+Both keys are required. `VISION_AGENT_API_KEY` drives Agents 1+2 (ADE parse/extract). `ANTHROPIC_API_KEY` drives Agents 3+4 (Claude LlmAgents) and the `/chat` endpoint.
 
 ## Running
 
@@ -29,49 +31,61 @@ Frontend is served as static files from `http://localhost:8000`.
 
 ## Architecture
 
-### Agent Pipeline (`backend/agents.py`)
+### ADK Pipeline (`backend/agents.py`)
 
-Four agents share state through a mutable `job_context` dict — FastAPI polls it for live progress:
+Four agents are chained in an ADK `SequentialAgent` (`LoanOriginationPipeline`). Inter-agent state flows through the ADK session `state` dict via `EventActions(state_delta={...})` — not a mutable shared dict.
 
-1. **`parse_and_split()`** — Calls `client.parse(split="page")`, classifies each page with `DocType` schema, groups consecutive same-type pages into named logical documents (`pay_stub_1`, `bank_statement_2`, etc.) via `group_pages_by_document_type()` from `ade_utils.py`.
-2. **`extract_fields()`** — Iterates logical documents, looks up the Pydantic schema from `SCHEMA_PER_DOC_TYPE` in `schemas.py`, calls `client.extract()`, runs field-range validation.
-3. **`decide_loan()`** — Applies underwriting rules (DTI ≤ 43%, reserve check ≥ 10% of loan, income sanity, fraud detection) using only the extracted dict — no ADE API calls.
-4. **`manager_review()`** — Reviews Agent 3's output, scores risk (0–10), and can override the decision. No ADE API calls.
+1. **`ParseSplitAgent`** (`BaseAgent`) — Calls `client.parse(split="page")`, classifies each page with the `DocType` schema, groups consecutive same-type pages into named logical documents via `group_pages_by_document_type()`. Yields `state_delta` events updating `split_documents` and `parse_result_grounding`.
+
+2. **`FieldExtractionAgent`** (`BaseAgent`) — Reads `split_documents` from session state, looks up Pydantic schemas from `SCHEMA_PER_DOC_TYPE`, calls `client.extract()` per document, runs field-range validation. Yields `state_delta` updating `document_extractions` and `extraction_warnings`.
+
+3. **`LoanDecisionAgent`** (`LlmAgent` — `AnthropicLlm("claude-haiku-4-5-20251001")`) — Instruction is a callable that reads `document_extractions`, `loan_amount`, and `monthly_debt` from session state and injects them into a structured prompt. Claude applies exactly the 6 defined underwriting rules and outputs a single JSON object. Result stored in `session.state["loan_decision_json"]` via `output_key=`. The prompt explicitly forbids inventing rules beyond the 6 listed; `flags` is restricted to Rule 2 and Rule 6 violations only.
+
+4. **`ManagerReviewAgent`** (`LlmAgent` — `AnthropicLlm("claude-haiku-4-5-20251001")`) — Instruction reads `loan_decision_json` and `document_extractions` from state. Claude scores risk (0–10) based solely on DTI and flags already present in the decision, checks 4 override conditions, and outputs a single JSON object. Result stored in `session.state["manager_review_json"]`. The prompt forbids adding new flags or overriding based on criteria not in the underwriting rules.
+
+Both `LlmAgent`s are wrapped in `_ProgressAgent` (a thin `BaseAgent`) that writes `status` / `current_agent` / `progress_pct` to session state before and after delegation.
+
+`build_pipeline()` constructs and returns the `SequentialAgent`. `extract_pipeline_result()` parses the two JSON outputs from session state into the result dict expected by the frontend.
+
+**`skip_ade` flag**: when `/analyze` reuses cached extractions, the session is seeded with `skip_ade=True`. `ParseSplitAgent` and `FieldExtractionAgent` detect this and yield an empty event immediately, letting the LlmAgents run against the pre-cached data.
 
 All ADE API calls are wrapped in `_api_call_with_retry()` (3 attempts, exponential backoff starting at 1.5s). All markdown is sanitised for prompt injection and capped at 12,000 chars before extraction.
 
 ### Typed Handoffs (`backend/schemas.py`)
 
-Agent-to-agent data flows through Pydantic models: `ParseHandoff` → `ExtractionHandoff` (containing `ExtractionRecord` per document) → `LoanDecision` + `ManagerReview`. Each model validates on construction and raises `ValueError` to halt the pipeline cleanly on bad inputs.
+`ParseHandoff` and `ExtractionHandoff` (containing `ExtractionRecord` per document) validate inter-agent data on construction and raise `ValueError` to halt the pipeline on bad inputs. These are validated inside the `BaseAgent` implementations before writing to session state.
 
 ### API Layer (`backend/main.py`)
 
-Two independent async flows using `asyncio.create_task` + `run_in_executor` (agents are sync):
+A singleton `Runner` (`_adk_runner`) wraps the `SequentialAgent` with an `InMemorySessionService`. Both are created at module import time.
 
-- **Upload flow**: `POST /upload` → `GET /upload-status/{doc_id}` (polls until `status == "ready"`)
-- **Analysis flow**: `POST /analyze` (requires a `doc_id`) → `GET /status/{job_id}` → `GET /result/{job_id}`
+Two async flows:
+- **Upload flow**: `POST /upload` → creates an ADK session, calls `run_pipeline()` (runs all 4 agents) → `GET /upload-status/{doc_id}` polls `docs[doc_id]`
+- **Analysis flow**: `POST /analyze` → creates an ADK session seeded with cached `document_extractions` + `skip_ade=True`, calls `_adk_runner.run_async()` (Agents 1+2 no-op, Agents 3+4 run) → `GET /status/{job_id}` → `GET /result/{job_id}`
 
-Session state lives in two in-memory dicts: `docs` (keyed by `doc_id`) and `jobs` (keyed by `job_id`). Both are lost on server restart.
+ADK `state_delta` events are mirrored into `job_context` as they stream, so the existing polling endpoints keep working unchanged.
 
-**Demo mode**: `GET /demo` skips Agents 1+2 entirely, loading `cache/document_extractions.json` and `cache/grounding_images.json` (pre-generated by the notebook). The `/grounding/{doc_name}/{field}` endpoint serves base64-encoded highlighted PNG crops from the grounding cache.
+**Demo mode**: `GET /demo` skips the ADK pipeline entirely, loading `cache/document_extractions.json` and `cache/grounding_images.json`. Returns a `doc_id` that feeds directly into `/analyze`.
 
-**Chat agent**: `POST /chat` calls `claude-haiku-4-5-20251001` with a dynamically built system prompt grounded in the borrower's extracted financials. Requires `ANTHROPIC_API_KEY`.
+**Chat agent**: `POST /chat` calls `claude-haiku-4-5-20251001` directly via the `anthropic` SDK (not ADK) with a dynamically built system prompt grounded in the borrower's extracted financials.
 
 ### Frontend (`frontend/`)
 
-Single-page app — no build step. `app.js` polls the status endpoints and drives the UI state machine. The demo mode and upload mode share the same extraction display + scenario panel. Scenario suggestions from the chat agent are parsed from ` ```scenario ``` ` code blocks and auto-fill the loan form.
+Single-page app — no build step. `app.js` polls the status endpoints and drives the UI state machine. Scenario suggestions from the chat agent are parsed from ` ```scenario ``` ` code blocks and auto-fill the loan form.
 
 ### Utilities (`ade_utils.py`)
 
-- `group_pages_by_document_type()` — the core page-grouping logic consumed by Agent 1; handles both live API objects and cached dicts.
-- Visualization helpers (`draw_bounding_boxes_for_split`, `visualize_extractions_side_by_side`) and cache helpers (`save_to_cache`, `load_from_cache`) are used by the companion notebook.
+- `group_pages_by_document_type()` — core page-grouping logic used by `ParseSplitAgent`; handles both live ADE objects and cached dicts.
+- Visualization and cache helpers used by the companion notebook.
 
 ## Demo Cache Regeneration
 
-To regenerate `cache/document_extractions.json` and `cache/grounding_images.json`, run the notebook `Deeplearning_AI_Dev_Day_2026_Demo.ipynb` against `input_folder/loan_packet.pdf`. The cache files are the only files required at runtime for demo mode.
+To regenerate `cache/document_extractions.json` and `cache/grounding_images.json`, run `Deeplearning_AI_Dev_Day_2026_Demo.ipynb` against `input_folder/loan_packet.pdf`. These are the only files required at runtime for demo mode.
 
 ## Extending
 
-**Add a document type**: add schema to `schemas.py`, register in `SCHEMA_PER_DOC_TYPE`, add the literal to `DocType`, add field ranges to `FIELD_RANGES` in `agents.py`, and add underwriting rules to `decide_loan()`.
+**Add a document type**: add schema to `schemas.py`, register in `SCHEMA_PER_DOC_TYPE`, add the literal to `DocType`, add field ranges to `FIELD_RANGES` in `agents.py`, update the underwriting rules in `_build_decision_instruction()`.
 
-**Add an underwriting rule**: append to `reasons` (informational) or `flags` (fraud/anomaly) and set `deny = True` in `decide_loan()`.
+**Add an underwriting rule**: edit the `UNDERWRITING RULES` section of `_build_decision_instruction()` in `agents.py`. The LoanDecisionAgent (Claude) reads these rules from its system prompt.
+
+**Swap the LLM**: change `AnthropicLlm(model="claude-haiku-4-5-20251001")` in the `LlmAgent` constructors in `agents.py`. Use `AnthropicLlm` for direct Anthropic API access (reads `ANTHROPIC_API_KEY`). Use `Claude` instead only if routing through Vertex AI (requires `GOOGLE_CLOUD_PROJECT` and `GOOGLE_CLOUD_LOCATION`).

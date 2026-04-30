@@ -1,52 +1,52 @@
 """
-Hierarchical agent pipeline for loan origination.
+Hierarchical agent pipeline for loan origination — built on Google ADK.
 
 Architecture:
-                    ManagerAgent  (orchestrator / reviewer)
+                    ManagerAgent  (LlmAgent — Claude)
                          │
           ┌──────────────┼──────────────┐
           ▼              ▼              ▼
    ParseSplitAgent  ExtractionAgent  LoanDecisionAgent
-   (Agent 1)        (Agent 2)        (Agent 3)
+  (BaseAgent—ADE)  (BaseAgent—ADE)  (LlmAgent—Claude)
 
-The Manager Agent runs last: it receives the full output of Agent 3,
-reviews it for consistency, edge cases, and risk, then either upholds
-or overrides the decision. The manager's output is the final word.
+Agents 1 & 2 are custom BaseAgent subclasses that drive the LandingAI ADE
+API.  Agents 3 & 4 are ADK LlmAgents backed by Claude.  All four are chained
+in an ADK SequentialAgent.
 
-All agents share state through a mutable job_context dict so FastAPI
-can poll live progress at any point.
+Inter-agent state flows through the ADK session state dict (EventActions
+state_delta), which replaces the old mutable job_context approach.
 
 Best practices implemented:
   Level 1 — Agent Level:
-    • Markdown sanitisation (strip prompt-injection patterns before each extract call)
+    • Markdown sanitisation (strip prompt-injection patterns before extract)
     • Markdown length cap (prevent context window overflow)
     • Per-field range validation after extraction
-    • Extracted field verification assertions
   Level 2 — Agent-to-Agent Communication:
-    • Typed Pydantic handoff models (ParseHandoff, ExtractionHandoff, ExtractionRecord)
-    • Validation on each handoff — pipeline halts with a clear error on bad data
-    • Structured error objects (AgentError) propagated through job_context
+    • Typed Pydantic handoff models (ParseHandoff, ExtractionHandoff)
+    • Structured progress updates written into session state
   Level 3 — Orchestration:
-    • Retry with exponential back-off on all ADE API calls (parse + extract)
-    • Max retries configurable via MAX_API_RETRIES
-    • Explicit termination: pipeline raises immediately on unrecoverable errors
+    • Retry with exponential back-off on ADE API calls
+    • ADK SequentialAgent guarantees ordered execution
   Level 4 — Context / Data Layer:
-    • Markdown truncated at MAX_MARKDOWN_CHARS before sending to extract
-    • Extraction confidence surfaced from extraction_metadata when available
-    • Field-range validation applied after extraction (plausible financial values)
-    • Current year used as the "future year" upper bound for investment statements
+    • Markdown truncated at MAX_MARKDOWN_CHARS before extract
+    • Field-range validation applied after extraction
 """
 
 import sys
 import os
 import re
 import time
+import json
 import logging
 from datetime import datetime
 from pathlib import Path
+from typing import AsyncGenerator
 
-# Allow imports from the project root (ade_utils lives there)
 sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from google.adk.agents import BaseAgent, LlmAgent, SequentialAgent, InvocationContext
+from google.adk.events import Event, EventActions
+from google.adk.models.anthropic_llm import AnthropicLlm
 
 from schemas import (
     SCHEMA_PER_DOC_TYPE,
@@ -59,26 +59,23 @@ from schemas import (
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
-# Configuration constants
+# Configuration
 # ---------------------------------------------------------------------------
 
-MAX_API_RETRIES     = 3          # Level 3: retry budget for ADE API calls
-RETRY_BASE_DELAY    = 1.5        # seconds; doubles each attempt
-MAX_MARKDOWN_CHARS  = 12_000     # Level 4: guard against oversized context
-CURRENT_YEAR        = datetime.now().year
+MAX_API_RETRIES    = 3
+RETRY_BASE_DELAY   = 1.5
+MAX_MARKDOWN_CHARS = 12_000
+CURRENT_YEAR       = datetime.now().year
 
-# Plausible financial ranges for extracted fields (Level 4 + Level 1 validation)
 FIELD_RANGES = {
-    "gross_pay":         (0,        500_000),   # per pay period
-    "net_pay":           (0,        500_000),
-    "balance":           (-1_000_000, 50_000_000),
-    "total_investment":  (0,        100_000_000),
-    "changes_in_value":  (-50_000_000, 50_000_000),
-    "investment_year":   (1900,     CURRENT_YEAR),   # future year = anomaly
+    "gross_pay":        (0,           500_000),
+    "net_pay":          (0,           500_000),
+    "balance":          (-1_000_000,  50_000_000),
+    "total_investment": (0,           100_000_000),
+    "changes_in_value": (-50_000_000, 50_000_000),
+    "investment_year":  (1900,        CURRENT_YEAR),
 }
 
-# Patterns that could be prompt-injection attempts embedded in document text
-# (Level 1: sanitise before passing markdown to client.extract)
 _INJECTION_PATTERNS = [
     r"ignore\s+(all\s+)?previous\s+instructions",
     r"you\s+are\s+now\s+a",
@@ -89,54 +86,28 @@ _INJECTION_PATTERNS = [
     r"```\s*(?:system|prompt)",
 ]
 _INJECTION_RE = re.compile(
-    "|".join(_INJECTION_PATTERNS),
-    flags=re.IGNORECASE | re.DOTALL,
+    "|".join(_INJECTION_PATTERNS), flags=re.IGNORECASE | re.DOTALL
 )
 
 
 # ---------------------------------------------------------------------------
-# Level 1 + Level 4 helpers
+# Shared helpers
 # ---------------------------------------------------------------------------
 
 def _sanitise_markdown(markdown: str, source_label: str = "") -> str:
-    """
-    Level 1 — Strip potential prompt-injection sequences from PDF-extracted
-    markdown before it reaches client.extract().
-
-    Level 4 — Truncate at MAX_MARKDOWN_CHARS to prevent context overflow.
-    """
     if not markdown:
         return ""
-
-    # Strip injection patterns
     cleaned, n_subs = _INJECTION_RE.subn("[REDACTED]", markdown)
     if n_subs:
-        logger.warning(
-            "sanitise_markdown: %d injection pattern(s) redacted from '%s'",
-            n_subs,
-            source_label,
-        )
-
-    # Truncate to guard against oversized context
+        logger.warning("sanitise_markdown: %d pattern(s) redacted from '%s'", n_subs, source_label)
     if len(cleaned) > MAX_MARKDOWN_CHARS:
-        logger.warning(
-            "sanitise_markdown: markdown for '%s' truncated from %d to %d chars",
-            source_label,
-            len(cleaned),
-            MAX_MARKDOWN_CHARS,
-        )
+        logger.warning("sanitise_markdown: truncated '%s' from %d to %d chars",
+                       source_label, len(cleaned), MAX_MARKDOWN_CHARS)
         cleaned = cleaned[:MAX_MARKDOWN_CHARS]
-
     return cleaned
 
 
-def _validate_field_ranges(
-    extraction: dict, doc_type: str
-) -> list[str]:
-    """
-    Level 4 + Level 1 — Validate extracted numeric fields against plausible ranges.
-    Returns a list of warning strings (empty if all values are in range).
-    """
+def _validate_field_ranges(extraction: dict, doc_type: str) -> list[str]:
     warnings: list[str] = []
     for field, value in extraction.items():
         if field not in FIELD_RANGES or not isinstance(value, (int, float)):
@@ -144,46 +115,12 @@ def _validate_field_ranges(
         lo, hi = FIELD_RANGES[field]
         if not (lo <= value <= hi):
             warnings.append(
-                f"[{doc_type}] Field '{field}' value {value} is outside the "
-                f"expected range [{lo:,}, {hi:,}]."
+                f"[{doc_type}] Field '{field}' value {value} outside range [{lo:,}, {hi:,}]."
             )
     return warnings
 
 
-def _extract_confidence(extraction_metadata: dict, grounding: dict | None = None) -> float | None:
-    """
-    Level 4 — Derive a confidence score for a document's extraction.
-
-    Looks up each field's chunk references in parse_result.grounding and
-    averages the confidence values reported by the ADE parse API.
-    Falls back to None if grounding is unavailable.
-    """
-    if not extraction_metadata:
-        return None
-    scores = []
-    for field_meta in extraction_metadata.values():
-        if not isinstance(field_meta, dict):
-            continue
-        refs = field_meta.get("references", [])
-        for chunk_id in refs:
-            if grounding is not None:
-                chunk = grounding.get(chunk_id)
-                if chunk is not None:
-                    score = getattr(chunk, "confidence", None)
-                    if isinstance(score, (int, float)):
-                        scores.append(float(score))
-    return round(sum(scores) / len(scores), 4) if scores else None
-
-
-# ---------------------------------------------------------------------------
-# Level 3 — Retry decorator for ADE API calls
-# ---------------------------------------------------------------------------
-
 def _api_call_with_retry(fn, *args, label: str = "API call", **kwargs):
-    """
-    Level 3 — Call `fn(*args, **kwargs)` with exponential back-off.
-    Raises the last exception if all retries are exhausted.
-    """
     delay = RETRY_BASE_DELAY
     last_exc: Exception | None = None
     for attempt in range(1, MAX_API_RETRIES + 1):
@@ -191,23 +128,15 @@ def _api_call_with_retry(fn, *args, label: str = "API call", **kwargs):
             return fn(*args, **kwargs)
         except Exception as exc:
             last_exc = exc
-            logger.warning(
-                "%s failed (attempt %d/%d): %s — retrying in %.1fs",
-                label, attempt, MAX_API_RETRIES, exc, delay,
-            )
+            logger.warning("%s failed (attempt %d/%d): %s — retrying in %.1fs",
+                           label, attempt, MAX_API_RETRIES, exc, delay)
             if attempt < MAX_API_RETRIES:
                 time.sleep(delay)
                 delay *= 2
-    raise RuntimeError(
-        f"{label} failed after {MAX_API_RETRIES} attempts: {last_exc}"
-    ) from last_exc
+    raise RuntimeError(f"{label} failed after {MAX_API_RETRIES} attempts: {last_exc}") from last_exc
 
 
-# ---------------------------------------------------------------------------
-# Helper: build ADE client
-# ---------------------------------------------------------------------------
-
-def _get_client():
+def _get_ade_client():
     from landingai_ade import LandingAIADE
     api_key = os.getenv("VISION_AGENT_API_KEY")
     if not api_key:
@@ -216,538 +145,540 @@ def _get_client():
 
 
 # ---------------------------------------------------------------------------
-# Agent 1 — Parse & Split
+# Agent 1 — Parse & Split  (custom BaseAgent — drives LandingAI ADE)
 # ---------------------------------------------------------------------------
 
-def parse_and_split(pdf_path: str, job_context: dict) -> dict:
+class ParseSplitAgent(BaseAgent):
     """
-    Parse a PDF page-by-page, classify each page's document type,
-    and group consecutive same-type pages into logical documents.
+    Parses a PDF page-by-page with LandingAI ADE, classifies each page's
+    document type, and groups consecutive same-type pages into logical documents.
 
-    Best practices applied:
-      • Level 3: parse + per-page extract wrapped in _api_call_with_retry
-      • Level 1: page markdown sanitised before classification extract
-      • Level 2: output validated as ParseHandoff before storing in context
+    Reads  from session state: pdf_path, progress_callback (optional)
+    Writes to session state: split_documents, parse_result_grounding,
+                              current_agent, progress_pct, status
     """
-    from landingai_ade.lib import pydantic_to_json_schema
-    from ade_utils import group_pages_by_document_type
 
-    client = _get_client()
+    model_config = {"arbitrary_types_allowed": True}
 
-    job_context["status"] = "parsing"
-    job_context["current_agent"] = "Parse & Split Agent"
-    job_context["progress_pct"] = 10
+    async def _run_async_impl(self, ctx: InvocationContext) -> AsyncGenerator[Event, None]:
+        from landingai_ade.lib import pydantic_to_json_schema
+        from ade_utils import group_pages_by_document_type
+        import asyncio
 
-    # Level 3: retry the parse call
-    with open(pdf_path, "rb") as f:
-        file_bytes = f.read()
+        # Skip if analysis-only run has pre-loaded extractions
+        if ctx.session.state.get("skip_ade"):
+            yield Event(author=self.name, actions=EventActions(state_delta={}))
+            return
 
-    def _do_parse():
-        import io
-        return client.parse(
-            document=io.BytesIO(file_bytes),
-            model="dpt-2-latest",
-            split="page",
+        pdf_path = ctx.session.state.get("pdf_path")
+        if not pdf_path:
+            raise ValueError("ParseSplitAgent: 'pdf_path' not found in session state.")
+
+        yield Event(
+            author=self.name,
+            actions=EventActions(state_delta={
+                "status": "parsing",
+                "current_agent": "Parse & Split Agent",
+                "progress_pct": 10,
+            }),
         )
 
-    parse_result = _api_call_with_retry(_do_parse, label="parse()")
+        loop = asyncio.get_event_loop()
+        client = _get_ade_client()
+        doc_type_schema = pydantic_to_json_schema(DocType)
 
-    job_context["progress_pct"] = 25
+        with open(pdf_path, "rb") as f:
+            file_bytes = f.read()
 
-    doc_type_json_schema = pydantic_to_json_schema(DocType)
+        def _do_parse():
+            import io
+            return client.parse(document=io.BytesIO(file_bytes), model="dpt-2-latest", split="page")
 
-    # Classify each page
-    page_classifications = []
-    total_pages = len(parse_result.splits)
-    for i, page_split in enumerate(parse_result.splits):
-        # Level 1 + Level 4: sanitise markdown before sending to extract
-        safe_markdown = _sanitise_markdown(
-            page_split.markdown or "", source_label=f"page_{i}"
+        parse_result = await loop.run_in_executor(
+            None, lambda: _api_call_with_retry(_do_parse, label="parse()")
         )
 
-        # Level 3: retry the per-page classification extract
-        def _do_classify(md=safe_markdown):
-            return client.extract(schema=doc_type_json_schema, markdown=md)
-
-        classification = _api_call_with_retry(
-            _do_classify, label=f"extract(classify page {i})"
+        yield Event(
+            author=self.name,
+            actions=EventActions(state_delta={"progress_pct": 25}),
         )
 
-        doc_type = (
-            classification.extraction.get("type")
-            or classification.extraction.get("doc_type")
-        )
-        page_classifications.append({
-            "page": i,
-            "doc_type": doc_type,
-            "split": page_split,
-        })
-        job_context["progress_pct"] = 25 + int((i + 1) / total_pages * 13)
+        page_classifications = []
+        total_pages = len(parse_result.splits)
 
-    job_context["progress_pct"] = 38
+        for i, page_split in enumerate(parse_result.splits):
+            safe_md = _sanitise_markdown(page_split.markdown or "", source_label=f"page_{i}")
 
-    split_documents = group_pages_by_document_type(page_classifications)
+            def _do_classify(md=safe_md):
+                return client.extract(schema=doc_type_schema, markdown=md)
 
-    # Level 2: validate handoff before passing to Agent 2
-    handoff = ParseHandoff(split_documents=split_documents)
+            classification = await loop.run_in_executor(
+                None, lambda fn=_do_classify: _api_call_with_retry(fn, label=f"classify page {i}")
+            )
+            doc_type = (
+                classification.extraction.get("type")
+                or classification.extraction.get("doc_type")
+            )
+            page_classifications.append({"page": i, "doc_type": doc_type, "split": page_split})
 
-    job_context["parse_result"] = parse_result
-    job_context["split_documents"] = handoff.split_documents
-
-    return {"split_documents": handoff.split_documents}
-
-
-# ---------------------------------------------------------------------------
-# Agent 2 — Field Extraction
-# ---------------------------------------------------------------------------
-
-def extract_fields(job_context: dict) -> dict:
-    """
-    For each logical document from Agent 1, apply the appropriate Pydantic
-    schema and extract structured financial fields.
-
-    Best practices applied:
-      • Level 2: consumes ParseHandoff; validates input has split_documents
-      • Level 1 + Level 4: markdown sanitised + truncated per document
-      • Level 3: extract call wrapped in _api_call_with_retry
-      • Level 4: field-range validation + confidence score surfaced
-      • Level 2: output validated as ExtractionHandoff before storing
-    """
-    from landingai_ade.lib import pydantic_to_json_schema
-
-    client = _get_client()
-
-    job_context["status"] = "extracting"
-    job_context["current_agent"] = "Field Extraction Agent"
-    job_context["progress_pct"] = 45
-
-    # Level 2: verify Agent 1 handoff is present
-    split_documents = job_context.get("split_documents")
-    if not split_documents:
-        raise ValueError(
-            "Agent 2 received no split_documents from Agent 1 — pipeline halted."
-        )
-
-    raw_extractions: dict[str, dict] = {}
-    all_warnings: list[str] = []
-    total = len(split_documents)
-
-    for idx, (doc_name, doc_info) in enumerate(split_documents.items()):
-        doc_type = doc_info["doc_type"]
-        schema_cls = SCHEMA_PER_DOC_TYPE.get(doc_type)
-        if schema_cls is None:
-            continue
-
-        # Level 1 + Level 4: sanitise + truncate markdown
-        raw_markdown = doc_info.get("markdown", "")
-        safe_markdown = _sanitise_markdown(raw_markdown, source_label=doc_name)
-
-        # Level 3: retry the extraction call
-        def _do_extract(md=safe_markdown, sc=schema_cls):
-            return client.extract(
-                schema=pydantic_to_json_schema(sc),
-                markdown=md,
+            yield Event(
+                author=self.name,
+                actions=EventActions(state_delta={
+                    "progress_pct": 25 + int((i + 1) / total_pages * 13),
+                }),
             )
 
-        result = _api_call_with_retry(_do_extract, label=f"extract({doc_name})")
+        split_documents = group_pages_by_document_type(page_classifications)
 
-        # Level 4: field-range validation
-        range_warnings = _validate_field_ranges(
-            result.extraction or {}, doc_type=doc_type
+        # Validate handoff
+        ParseHandoff(split_documents=split_documents)
+
+        # Serialise grounding to plain dict so it survives JSON round-trips
+        grounding_plain = {}
+        if hasattr(parse_result, "grounding") and parse_result.grounding:
+            for chunk_id, chunk in parse_result.grounding.items():
+                grounding_plain[chunk_id] = {
+                    "page":       getattr(chunk, "page", None),
+                    "box":        list(getattr(chunk, "box", [])),
+                    "type":       getattr(chunk, "type", None),
+                    "confidence": getattr(chunk, "confidence", None),
+                }
+
+        yield Event(
+            author=self.name,
+            actions=EventActions(state_delta={
+                "split_documents":     split_documents,
+                "parse_result_grounding": grounding_plain,
+                "progress_pct":        38,
+                "status":              "parsing_done",
+            }),
         )
-        if range_warnings:
-            all_warnings.extend(range_warnings)
-            logger.warning(
-                "Field range warnings for '%s': %s", doc_name, range_warnings
-            )
-
-        # Level 4: surface confidence from grounding chunks
-        parse_result = job_context.get("parse_result")
-        grounding = parse_result.grounding if parse_result else None
-        confidence = _extract_confidence(result.extraction_metadata or {}, grounding=grounding)
-
-        raw_extractions[doc_name] = {
-            "doc_type": doc_type,
-            "pages": doc_info["pages"],
-            "extraction": result.extraction or {},
-            "extraction_metadata": result.extraction_metadata or {},
-            "confidence": confidence,
-        }
-
-        job_context["progress_pct"] = 45 + int((idx + 1) / total * 28)
-
-    # Level 2: validate handoff before passing to Agent 3
-    extraction_records = {
-        name: ExtractionRecord(**data)
-        for name, data in raw_extractions.items()
-    }
-    handoff = ExtractionHandoff(document_extractions=extraction_records)
-
-    # Store as plain dicts in context for compatibility with downstream agents
-    document_extractions = {
-        name: rec.model_dump()
-        for name, rec in handoff.document_extractions.items()
-    }
-
-    # Attach any range warnings so the decision agent can surface them as flags
-    job_context["extraction_warnings"] = all_warnings
-    job_context["document_extractions"] = document_extractions
-    return {"document_extractions": document_extractions}
 
 
 # ---------------------------------------------------------------------------
-# Agent 3 — Loan Decision
+# Agent 2 — Field Extraction  (custom BaseAgent — drives LandingAI ADE)
 # ---------------------------------------------------------------------------
 
-def decide_loan(loan_amount: float, monthly_debt: float, job_context: dict) -> dict:
+class FieldExtractionAgent(BaseAgent):
     """
-    Reason about loan approval/denial based on extracted financial fields.
+    For each logical document from Agent 1, applies the appropriate Pydantic
+    schema and extracts structured financial fields via LandingAI ADE.
 
-    Checks:
-    1. Required documents present
-    2. Income sanity (gross_pay > 0, net_pay <= gross_pay)
-    3. DTI ratio <= 43%
-    4. Bank balance >= 0
-    5. Investment reserves >= 10% of loan amount
-    6. Investment year not in the future
-
-    Best practices applied:
-      • Level 2: validates ExtractionHandoff is present before reasoning
-      • Level 1: extraction_warnings from Agent 2 surfaced as flags
-      • Level 4: confidence scores included in extracted_fields output
+    Reads  from session state: split_documents, parse_result_grounding
+    Writes to session state: document_extractions, extraction_warnings,
+                              current_agent, progress_pct, status
     """
-    job_context["status"] = "deciding"
-    job_context["current_agent"] = "Loan Decision Agent"
-    job_context["progress_pct"] = 60
 
-    # Level 2: validate input from Agent 2
-    document_extractions = job_context.get("document_extractions")
-    if document_extractions is None:
-        raise ValueError(
-            "Agent 3 received no document_extractions — pipeline halted."
+    model_config = {"arbitrary_types_allowed": True}
+
+    async def _run_async_impl(self, ctx: InvocationContext) -> AsyncGenerator[Event, None]:
+        from landingai_ade.lib import pydantic_to_json_schema
+        import asyncio
+
+        # Skip if analysis-only run has pre-loaded extractions
+        if ctx.session.state.get("skip_ade"):
+            yield Event(author=self.name, actions=EventActions(state_delta={}))
+            return
+
+        split_documents = ctx.session.state.get("split_documents")
+        if not split_documents:
+            raise ValueError("FieldExtractionAgent: no split_documents in session state.")
+
+        yield Event(
+            author=self.name,
+            actions=EventActions(state_delta={
+                "status": "extracting",
+                "current_agent": "Field Extraction Agent",
+                "progress_pct": 45,
+            }),
         )
 
-    pay_stub_data = None
-    bank_data = None
-    investment_data = None
+        loop = asyncio.get_event_loop()
+        client = _get_ade_client()
+        grounding = ctx.session.state.get("parse_result_grounding", {})
 
-    for doc_name, doc in document_extractions.items():
-        ext = doc.get("extraction", {})
-        if doc["doc_type"] == "pay_stub" and pay_stub_data is None:
-            pay_stub_data = ext
-        elif doc["doc_type"] == "bank_statement" and bank_data is None:
-            bank_data = ext
-        elif doc["doc_type"] == "investment_statement" and investment_data is None:
-            investment_data = ext
+        raw_extractions: dict[str, dict] = {}
+        all_warnings: list[str] = []
+        total = len(split_documents)
 
-    reasons: list = []
-    flags: list = []
-    deny = False
-    dti_ratio = None
+        for idx, (doc_name, doc_info) in enumerate(split_documents.items()):
+            doc_type = doc_info["doc_type"]
+            schema_cls = SCHEMA_PER_DOC_TYPE.get(doc_type)
+            if schema_cls is None:
+                continue
 
-    # Level 1: surface any range-validation warnings from Agent 2 as flags
-    for warning in job_context.get("extraction_warnings", []):
-        flags.append(f"Extraction anomaly: {warning}")
+            safe_md = _sanitise_markdown(doc_info.get("markdown", ""), source_label=doc_name)
 
-    # 1. Required documents
-    if pay_stub_data is None:
-        reasons.append("Missing pay stub — income cannot be verified.")
-        deny = True
-    if bank_data is None:
-        reasons.append("Missing bank statement — assets cannot be verified.")
-        deny = True
+            def _do_extract(md=safe_md, sc=schema_cls):
+                return client.extract(schema=pydantic_to_json_schema(sc), markdown=md)
 
-    # 2. Income sanity
-    gross_pay = None
-    net_pay = None
-    if pay_stub_data:
-        gross_pay = pay_stub_data.get("gross_pay")
-        net_pay = pay_stub_data.get("net_pay")
-
-        if gross_pay is None or gross_pay <= 0:
-            flags.append("Suspicious gross pay: value is zero or missing.")
-            deny = True
-        else:
-            reasons.append(f"Gross pay: ${gross_pay:,.2f} per pay period.")
-
-        if net_pay is not None and gross_pay is not None and net_pay > gross_pay:
-            flags.append(
-                f"Fraud indicator: net pay (${net_pay:,.2f}) exceeds gross pay "
-                f"(${gross_pay:,.2f}). This is not possible."
+            result = await loop.run_in_executor(
+                None, lambda fn=_do_extract: _api_call_with_retry(fn, label=f"extract({doc_name})")
             )
-            deny = True
 
-    # 3. DTI check (bi-weekly pay, 30-year mortgage at 7%)
-    if gross_pay and gross_pay > 0:
-        monthly_income = gross_pay * 26 / 12
-        monthly_rate = 0.07 / 12
-        n = 360
-        monthly_loan_payment = (
-            loan_amount * monthly_rate * (1 + monthly_rate) ** n
-            / ((1 + monthly_rate) ** n - 1)
+            warnings = _validate_field_ranges(result.extraction or {}, doc_type=doc_type)
+            all_warnings.extend(warnings)
+
+            # Confidence: ratio of fields with grounding references
+            conf = None
+            meta = result.extraction_metadata or {}
+            if meta:
+                with_refs = sum(1 for fm in meta.values() if isinstance(fm, dict) and fm.get("references"))
+                conf = round(with_refs / len(meta), 4) if meta else None
+
+            raw_extractions[doc_name] = {
+                "doc_type":            doc_type,
+                "pages":               doc_info["pages"],
+                "extraction":          result.extraction or {},
+                "extraction_metadata": meta,
+                "confidence":          conf,
+            }
+
+            yield Event(
+                author=self.name,
+                actions=EventActions(state_delta={
+                    "progress_pct": 45 + int((idx + 1) / total * 28),
+                }),
+            )
+
+        # Validate handoff
+        extraction_records = {name: ExtractionRecord(**data) for name, data in raw_extractions.items()}
+        ExtractionHandoff(document_extractions=extraction_records)
+
+        document_extractions = {name: rec.model_dump() for name, rec in extraction_records.items()}
+
+        yield Event(
+            author=self.name,
+            actions=EventActions(state_delta={
+                "document_extractions": document_extractions,
+                "extraction_warnings":  all_warnings,
+                "progress_pct":         73,
+                "status":               "extraction_done",
+            }),
         )
-        total_monthly_debt = monthly_debt + monthly_loan_payment
-        dti_ratio = round(total_monthly_debt / monthly_income, 4)
-
-        if dti_ratio > 0.43:
-            reasons.append(
-                f"DTI ratio {dti_ratio:.1%} exceeds the 43% qualified-mortgage limit "
-                f"(total monthly obligations ${total_monthly_debt:,.2f} vs "
-                f"income ${monthly_income:,.2f}/mo)."
-            )
-            deny = True
-        else:
-            reasons.append(
-                f"DTI ratio {dti_ratio:.1%} is within the 43% limit — income sufficient."
-            )
-
-    # 4. Bank balance
-    if bank_data:
-        balance = bank_data.get("balance")
-        if balance is not None and balance < 0:
-            flags.append(f"Negative bank balance: ${balance:,.2f}.")
-            deny = True
-        elif balance is not None:
-            reasons.append(f"Bank balance: ${balance:,.2f}.")
-
-    # 5. Investment reserves
-    if investment_data:
-        total_investment = investment_data.get("total_investment")
-        investment_year = investment_data.get("investment_year")
-
-        if total_investment is not None:
-            reserve_threshold = loan_amount * 0.10
-            if total_investment < reserve_threshold:
-                reasons.append(
-                    f"Insufficient reserves: investment value ${total_investment:,.2f} "
-                    f"is below the 10% reserve requirement of ${reserve_threshold:,.2f}."
-                )
-                deny = True
-            else:
-                reasons.append(
-                    f"Adequate reserves: ${total_investment:,.2f} in investment accounts."
-                )
-
-        # Level 4: dynamic current year check (not hardcoded)
-        if investment_year is not None and investment_year > CURRENT_YEAR:
-            flags.append(
-                f"Suspicious investment year: {investment_year} is in the future "
-                f"(current year: {CURRENT_YEAR})."
-            )
-
-    # 6. Final decision
-    decision = "DENIED" if deny else "APPROVED"
-    if not deny:
-        reasons.append("All underwriting criteria met — loan approved.")
-
-    # Level 4: include confidence scores in extracted_fields output
-    extracted_fields: dict = {}
-    for doc_name, doc in document_extractions.items():
-        extracted_fields[doc_name] = {
-            "doc_type": doc["doc_type"],
-            "pages": doc["pages"],
-            "fields": doc.get("extraction", {}),
-            "confidence": doc.get("confidence"),
-        }
-
-    result = {
-        "decision": decision,
-        "reasons": reasons,
-        "flags": flags,
-        "dti_ratio": dti_ratio,
-        "extracted_fields": extracted_fields,
-    }
-
-    job_context["decision_result"] = result
-    job_context["progress_pct"] = 80
-
-    return result
 
 
 # ---------------------------------------------------------------------------
-# Agent 4 — Manager Agent  (hierarchical orchestrator / reviewer)
+# Agent 3 — Loan Decision  (LlmAgent — Claude reasons over extracted fields)
 # ---------------------------------------------------------------------------
 
-def manager_review(job_context: dict) -> dict:
+def _build_decision_instruction(ctx: InvocationContext) -> str:
+    """Dynamic instruction injecting borrower data from session state."""
+    state = ctx.session.state
+    extractions = state.get("document_extractions", {})
+    loan_amount  = state.get("loan_amount", 0)
+    monthly_debt = state.get("monthly_debt", 0)
+    warnings     = state.get("extraction_warnings", [])
+
+    docs_summary = json.dumps(extractions, indent=2, default=str)
+    warnings_txt = "\n".join(f"  - {w}" for w in warnings) if warnings else "  (none)"
+
+    return f"""You are a loan underwriting decision agent. Evaluate the mortgage application below.
+
+CRITICAL INSTRUCTIONS:
+- Apply ONLY the 6 rules listed below. Do NOT invent additional rules.
+- Do NOT flag issues related to document age, employment history, income sustainability, number of pay stubs, or any other concern not explicitly listed.
+- The "flags" array is ONLY for Rule 2 violations (net_pay > gross_pay) and Rule 6 violations (future investment year). It must be empty [] for all other situations.
+- "reasons" explains each rule outcome. "flags" is strictly for fraud/anomaly indicators from the rules below.
+
+LOAN REQUEST:
+  Loan amount:    ${loan_amount:,.2f}
+  Existing monthly debt: ${monthly_debt:,.2f}/mo
+
+EXTRACTED DOCUMENT DATA:
+{docs_summary}
+
+EXTRACTION ANOMALIES (from field-range validation — include these in flags only if they indicate Rule 2 or Rule 6 violations):
+{warnings_txt}
+
+UNDERWRITING RULES — apply exactly these 6 checks and nothing else:
+1. Required documents: deny if no pay_stub OR no bank_statement present.
+2. Income sanity: deny and flag if gross_pay ≤ 0 OR net_pay > gross_pay.
+3. DTI check: monthly income = gross_pay × 26 ÷ 12 (bi-weekly payroll assumption).
+   Monthly mortgage payment = loan_amount × [0.07/12 × (1+0.07/12)^360] / [(1+0.07/12)^360 - 1].
+   Total DTI = (monthly_debt + monthly_mortgage) ÷ monthly_income. Deny if DTI > 0.43.
+4. Bank balance: deny and flag if balance < $0.
+5. Investment reserves: deny if total_investment < loan_amount × 0.10 (only if investment statement is present).
+6. Investment year: flag (but do not deny) if investment_year > {CURRENT_YEAR}.
+
+OUTPUT — respond with ONLY a single JSON object, no extra text before or after:
+{{
+  "decision": "APPROVED" or "DENIED",
+  "reasons": ["one string per rule checked, showing arithmetic"],
+  "flags": [],
+  "dti_ratio": <calculated float, or null if gross_pay is missing>,
+  "extracted_fields": {{
+    "<doc_name>": {{
+      "doc_type": "pay_stub" | "bank_statement" | "investment_statement",
+      "pages": [<page numbers>],
+      "fields": {{<all extracted key-value pairs>}},
+      "confidence": <float or null>
+    }}
+  }}
+}}
+"""
+
+
+_loan_decision_agent = LlmAgent(
+    name="LoanDecisionAgent",
+    model=AnthropicLlm(model="claude-haiku-4-5-20251001"),
+    instruction=_build_decision_instruction,
+    output_key="loan_decision_json",
+)
+
+
+# ---------------------------------------------------------------------------
+# Agent 4 — Manager Review  (LlmAgent — Claude reviews Agent 3's output)
+# ---------------------------------------------------------------------------
+
+def _build_manager_instruction(ctx: InvocationContext) -> str:
+    """Dynamic instruction injecting Agent 3's decision from session state."""
+    state = ctx.session.state
+    decision_json = state.get("loan_decision_json", "")
+    extractions   = state.get("document_extractions", {})
+
+    return f"""You are a senior loan manager agent reviewing the underwriting agent's decision.
+
+CRITICAL INSTRUCTIONS:
+- Base your review ONLY on the decision data provided below.
+- Do NOT invent new flags, concerns, or denial reasons beyond what the underwriting agent reported.
+- Your only job is to check arithmetic consistency and apply the 4 override conditions listed below.
+- Do NOT add risk points for flags the underwriting agent didn't raise.
+
+UNDERWRITING AGENT DECISION:
+{decision_json}
+
+FULL EXTRACTED DOCUMENT DATA:
+{json.dumps(extractions, indent=2, default=str)}
+
+RISK SCORING (0–10, based solely on dti_ratio and flags from the decision above):
+- DTI 36–43%: +1 point
+- DTI 43–50%: +2 points
+- DTI > 50%:  +4 points
+- 1 flag in the decision: +2 points
+- 2+ flags in the decision: +4 points
+Score ≥ 7 → CRITICAL · ≥ 4 → HIGH · ≥ 2 → MEDIUM · else LOW
+
+OVERRIDE CONDITIONS (apply only these, in order):
+1. flags list is non-empty AND decision is APPROVED → override to DENIED, escalate=true
+2. No pay_stub AND no bank_statement in extracted_fields → override to DENIED, escalate=true
+3. DTI between 0.38–0.43, flags is empty, investment data present, decision is DENIED → set escalate=true (do not change decision)
+4. Decision is APPROVED but extracted_fields is empty → override to DENIED, escalate=true
+
+OUTPUT — respond with ONLY a single JSON object, no extra text:
+{{
+  "upheld": true or false,
+  "override_decision": "APPROVED" or "DENIED" or null,
+  "review_notes": ["note 1", "note 2", ...],
+  "risk_level": "LOW" or "MEDIUM" or "HIGH" or "CRITICAL",
+  "escalate": true or false
+}}
+"""
+
+
+_manager_review_agent = LlmAgent(
+    name="ManagerReviewAgent",
+    model=AnthropicLlm(model="claude-haiku-4-5-20251001"),
+    instruction=_build_manager_instruction,
+    output_key="manager_review_json",
+)
+
+
+# ---------------------------------------------------------------------------
+# Progress-update wrapper — BaseAgent that flanks each sub-agent with
+# status updates written into session state.
+# ---------------------------------------------------------------------------
+
+class _ProgressAgent(BaseAgent):
     """
-    The Manager Agent reviews Agent 3's loan decision from a higher-order
-    perspective. It has no direct access to the LandingAI API — it reasons
-    purely over the structured output of the pipeline.
-
-    Responsibilities:
-    - Cross-check Agent 3's reasoning for internal consistency
-    - Identify risk level based on combination of flags, DTI, and reserves
-    - Detect borderline cases that warrant human escalation
-    - Override the decision if the evidence clearly contradicts it
-    - Catch scenarios Agent 3's rules may miss (e.g. moderate DTI + fraud flags)
-
-    Best practices applied:
-      • Level 2: validates decision_result is present before reviewing
-      • Level 3: explicit termination — if no decision_result, raise immediately
+    Thin wrapper that updates progress_pct / current_agent in session state,
+    delegates to a wrapped sub-agent, then writes done status.
     """
-    job_context["status"] = "reviewing"
-    job_context["current_agent"] = "Manager Agent"
-    job_context["progress_pct"] = 83
 
-    # Level 2: validate input from Agent 3
-    result = job_context.get("decision_result")
-    if not result:
-        raise ValueError(
-            "Manager Agent received no decision_result from Agent 3 — pipeline halted."
+    model_config = {"arbitrary_types_allowed": True}
+
+    wrapped: BaseAgent
+    status_before: str
+    agent_label: str
+    progress_before: int
+    progress_after: int
+
+    async def _run_async_impl(self, ctx: InvocationContext) -> AsyncGenerator[Event, None]:
+        yield Event(
+            author=self.name,
+            actions=EventActions(state_delta={
+                "status":        self.status_before,
+                "current_agent": self.agent_label,
+                "progress_pct":  self.progress_before,
+            }),
+        )
+        async for event in self.wrapped.run_async(ctx):
+            yield event
+        yield Event(
+            author=self.name,
+            actions=EventActions(state_delta={"progress_pct": self.progress_after}),
         )
 
-    document_extractions = job_context.get("document_extractions", {})
 
-    initial_decision = result.get("decision", "DENIED")
-    flags            = result.get("flags", [])
-    reasons          = result.get("reasons", [])
-    dti_ratio        = result.get("dti_ratio")
+# ---------------------------------------------------------------------------
+# ADK pipeline: SequentialAgent wrapping all four stages
+# ---------------------------------------------------------------------------
 
-    # Gather raw financials for manager's independent assessment
-    pay_stub_data    = None
-    bank_data        = None
-    investment_data  = None
-    for doc in document_extractions.values():
-        ext = doc.get("extraction", {})
-        if doc["doc_type"] == "pay_stub"               and pay_stub_data   is None: pay_stub_data   = ext
-        elif doc["doc_type"] == "bank_statement"        and bank_data       is None: bank_data       = ext
-        elif doc["doc_type"] == "investment_statement"  and investment_data is None: investment_data = ext
-
-    review_notes: list = []
-    override_decision = None
-    upheld = True
-    escalate = False
-
-    # ── Risk scoring ────────────────────────────────────────────────────────
-    risk_score = 0   # 0-10; maps to LOW / MEDIUM / HIGH / CRITICAL
-
-    # DTI contribution
-    if dti_ratio is not None:
-        if dti_ratio > 0.50:
-            risk_score += 4
-            review_notes.append(f"DTI {dti_ratio:.1%} is severely above the 43% QM limit — high default risk.")
-        elif dti_ratio > 0.43:
-            risk_score += 2
-            review_notes.append(f"DTI {dti_ratio:.1%} exceeds QM limit — denial is correct.")
-        elif dti_ratio > 0.36:
-            risk_score += 1
-            review_notes.append(f"DTI {dti_ratio:.1%} is within limits but elevated — monitor closely.")
-        else:
-            review_notes.append(f"DTI {dti_ratio:.1%} is comfortably within underwriting guidelines.")
-
-    # Fraud flags contribution
-    fraud_flag_count = len(flags)
-    if fraud_flag_count >= 2:
-        risk_score += 4
-        review_notes.append(f"{fraud_flag_count} fraud/anomaly flags detected — escalation required.")
-        escalate = True
-    elif fraud_flag_count == 1:
-        risk_score += 2
-        review_notes.append(f"1 fraud flag detected — requires verification before approval.")
-
-    # ── Override checks ──────────────────────────────────────────────────────
-
-    # Override 1: Any fraud flag + APPROVED → force denial and escalate
-    if fraud_flag_count > 0 and initial_decision == "APPROVED":
-        override_decision = "DENIED"
-        upheld = False
-        escalate = True
-        review_notes.append(
-            "OVERRIDE: Fraud flag present on an approved loan — "
-            "Manager overrides to DENIED pending manual review."
-        )
-
-    # Override 2: Missing both pay stub and bank statement → critical gap
-    if pay_stub_data is None and bank_data is None:
-        risk_score += 4
-        override_decision = "DENIED"
-        upheld = False
-        escalate = True
-        review_notes.append(
-            "OVERRIDE: Neither income nor asset documentation present — "
-            "cannot underwrite without both."
-        )
-
-    # Override 3: Borderline DTI (38–43%) + zero flags + solid reserves → reconsider denial
-    if (
-        dti_ratio is not None
-        and 0.38 <= dti_ratio <= 0.43
-        and fraud_flag_count == 0
-        and initial_decision == "DENIED"
-        and investment_data is not None
-        and investment_data.get("total_investment", 0) > 0
-    ):
-        risk_score = max(0, risk_score - 1)
-        review_notes.append(
-            "Manager note: DTI is borderline but no fraud flags and reserves are present. "
-            "Recommend human underwriter review for possible manual approval."
-        )
-        escalate = True
-
-    # Override 4: APPROVED with zero extracted fields (extraction failure)
-    extracted_field_count = sum(
-        len(doc.get("extraction", {})) for doc in document_extractions.values()
+def build_pipeline() -> SequentialAgent:
+    """
+    Construct and return the ADK SequentialAgent that chains:
+      1. ParseSplitAgent      (BaseAgent — LandingAI ADE)
+      2. FieldExtractionAgent (BaseAgent — LandingAI ADE)
+      3. LoanDecisionAgent    (LlmAgent  — Claude)
+      4. ManagerReviewAgent   (LlmAgent  — Claude)
+    """
+    return SequentialAgent(
+        name="LoanOriginationPipeline",
+        sub_agents=[
+            ParseSplitAgent(name="ParseSplitAgent"),
+            FieldExtractionAgent(name="FieldExtractionAgent"),
+            _ProgressAgent(
+                name="DecisionProgress",
+                wrapped=_loan_decision_agent,
+                status_before="deciding",
+                agent_label="Loan Decision Agent",
+                progress_before=75,
+                progress_after=88,
+            ),
+            _ProgressAgent(
+                name="ManagerProgress",
+                wrapped=_manager_review_agent,
+                status_before="reviewing",
+                agent_label="Manager Agent",
+                progress_before=88,
+                progress_after=100,
+            ),
+        ],
     )
-    if extracted_field_count == 0 and initial_decision == "APPROVED":
-        override_decision = "DENIED"
-        upheld = False
-        escalate = True
-        review_notes.append(
-            "OVERRIDE: No fields were extracted from any document — "
-            "approval without evidence is not permissible."
-        )
 
-    # ── Risk level ───────────────────────────────────────────────────────────
-    if risk_score >= 7:
-        risk_level = "CRITICAL"
-        escalate = True
-    elif risk_score >= 4:
-        risk_level = "HIGH"
-    elif risk_score >= 2:
-        risk_level = "MEDIUM"
-    else:
-        risk_level = "LOW"
 
-    if not review_notes:
-        review_notes.append("No anomalies detected. Decision is consistent with underwriting guidelines.")
+# ---------------------------------------------------------------------------
+# Result extraction helpers — parse Claude JSON responses from session state
+# ---------------------------------------------------------------------------
 
-    if upheld:
-        review_notes.insert(0, f"Manager upholds the {initial_decision} decision.")
-    else:
-        review_notes.insert(0, f"Manager OVERRIDES: {initial_decision} → {override_decision}.")
+def _extract_json(raw: str) -> dict:
+    """Extract the first complete JSON object from an LLM response."""
+    text = raw.strip()
+    # Strip ```json ... ``` or ``` ... ``` fences
+    text = re.sub(r"^```(?:json)?\s*", "", text)
+    text = re.sub(r"\s*```.*$", "", text, flags=re.DOTALL)
+    text = text.strip()
+    # Find the first complete {...} block to ignore any trailing text
+    start = text.find("{")
+    if start == -1:
+        raise ValueError("No JSON object found in response")
+    depth = 0
+    for i, ch in enumerate(text[start:], start):
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return json.loads(text[start:i + 1])
+    raise ValueError("Unterminated JSON object in response")
 
-    manager_review_result = {
-        "upheld": upheld,
-        "override_decision": override_decision,
-        "review_notes": review_notes,
-        "risk_level": risk_level,
-        "escalate": escalate,
+
+def extract_pipeline_result(session_state: dict) -> dict:
+    """
+    Combine the ADK session state from all four agents into the result dict
+    expected by main.py / the frontend.
+    """
+    loan_raw     = session_state.get("loan_decision_json", "{}")
+    manager_raw  = session_state.get("manager_review_json", "{}")
+
+    try:
+        loan_result = _extract_json(loan_raw) if isinstance(loan_raw, str) else loan_raw
+    except Exception as e:
+        logger.error("Failed to parse loan_decision_json: %s\nraw: %s", e, loan_raw)
+        loan_result = {"decision": "DENIED", "reasons": ["Parsing error"], "flags": [], "dti_ratio": None, "extracted_fields": {}}
+
+    try:
+        manager_result = _extract_json(manager_raw) if isinstance(manager_raw, str) else manager_raw
+    except Exception as e:
+        logger.error("Failed to parse manager_review_json: %s\nraw: %s", e, manager_raw)
+        manager_result = {"upheld": True, "override_decision": None, "review_notes": ["Parsing error"], "risk_level": "HIGH", "escalate": True}
+
+    final_decision = manager_result.get("override_decision") or loan_result.get("decision", "DENIED")
+
+    return {
+        "decision":        loan_result.get("decision", "DENIED"),
+        "reasons":         loan_result.get("reasons", []),
+        "flags":           loan_result.get("flags", []),
+        "dti_ratio":       loan_result.get("dti_ratio"),
+        "extracted_fields": loan_result.get("extracted_fields", {}),
+        "manager_review":  manager_result,
+        "final_decision":  final_decision,
     }
 
-    # Write manager review into the main result
-    final_decision = override_decision if override_decision else initial_decision
-    result["manager_review"] = manager_review_result
-    result["final_decision"] = final_decision
-
-    job_context["decision_result"] = result
-    job_context["manager_review"]  = manager_review_result
-    job_context["status"] = "done"
-    job_context["progress_pct"] = 100
-
-    return manager_review_result
-
 
 # ---------------------------------------------------------------------------
-# Pipeline runner — called by main.py background task
+# Pipeline runner — called by main.py
 # ---------------------------------------------------------------------------
 
-async def run_pipeline(pdf_path: str, loan_amount: float, monthly_debt: float, job_context: dict):
-    """Execute the hierarchical agent pipeline."""
+async def run_pipeline(
+    pdf_path: str,
+    loan_amount: float,
+    monthly_debt: float,
+    job_context: dict,
+    *,
+    runner,
+    user_id: str,
+    session_id: str,
+):
+    """
+    Execute the ADK SequentialAgent pipeline.
+
+    job_context is the legacy FastAPI polling dict — we mirror ADK session
+    state into it so the polling endpoints keep working unchanged.
+    """
+    from google.adk.runners import types
+
     try:
-        parse_and_split(pdf_path=pdf_path, job_context=job_context)
-        extract_fields(job_context=job_context)
-        decide_loan(loan_amount=loan_amount, monthly_debt=monthly_debt, job_context=job_context)
-        manager_review(job_context=job_context)
+        initial_state = {
+            "pdf_path":     pdf_path,
+            "loan_amount":  loan_amount,
+            "monthly_debt": monthly_debt,
+            "status":       "queued",
+            "progress_pct": 0,
+            "current_agent": None,
+        }
+
+        # Seed the session with initial state
+        session_service = runner.session_service
+        session = await session_service.get_session(
+            app_name=runner.app_name, user_id=user_id, session_id=session_id
+        )
+        session.state.update(initial_state)
+        await session_service.update_session(session=session)
+
+        async for event in runner.run_async(
+            user_id=user_id,
+            session_id=session_id,
+            new_message=types.Content(
+                role="user",
+                parts=[types.Part(text="Run the loan origination pipeline.")],
+            ),
+        ):
+            # Mirror state deltas into job_context for FastAPI polling
+            if event.actions and event.actions.state_delta:
+                delta = event.actions.state_delta
+                job_context.update(delta)
+
+        # Final state sync
+        session = await session_service.get_session(
+            app_name=runner.app_name, user_id=user_id, session_id=session_id
+        )
+        result = extract_pipeline_result(session.state)
+        job_context["decision_result"] = result
+        job_context["document_extractions"] = session.state.get("document_extractions", {})
+        job_context["status"] = "done"
+        job_context["progress_pct"] = 100
+
     except Exception as exc:
         job_context["status"] = "error"
         job_context["error"] = str(exc)
